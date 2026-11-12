@@ -12,6 +12,8 @@ doi	wikidata	main_subjects	pmid	pmcid	status	file
 10.1021/acs.est.3c01040	Q142116704	6PPD-Q	37467138	PMC10399305	exists	PMC10399305.xml
 10.1021/acs.est.3c05026	Q142110050	6PPD;6PPD-Q	37642336	PMC11648498	not open access	
 10.1021/acs.est.3c06891	Q142116757	6PPD-Q	38048442		no full text	
+10.1021/acs.est.5c02072			40627503	PMC12288073	downloaded	PMC12288073.xml
+10.1021/acs.est.6c07136			42899653	PMC13689822	downloaded	PMC13689822.xml
 10.1021/acs.estlett.2c00050	Q114653436	6PPD;6PPD-Q			not in Europe PMC	
 10.1021/acs.estlett.2c00431	Q114653432	6PPD;6PPD-Q			not in Europe PMC	
 10.1021/acs.estlett.3c00196	Q142116725	6PPD-Q			not in Europe PMC	
@@ -23,3 +25,4 @@ doi	wikidata	main_subjects	pmid	pmcid	status	file
 10.1093/toxsci/kfaf008	Q133847092	6PPD;6PPD-Q	39842856	PMC12290522	not open access	
 10.1126/science.abd6951	Q142116684	6PPD;6PPD-Q	33273063		no full text	
 10.2324/gomu.92.3	Q128028376	6PPD			not in Europe PMC	
+10.3390/toxics13121076			41441297	PMC12737381	downloaded	PMC12737381.xml

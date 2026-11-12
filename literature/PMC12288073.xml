@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>Environmental Science &amp; Technology</journal-title><abbrev-journal-title>Environ Sci Technol</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12288073</article-id><article-id pub-id-type="pmcaid">12288073</article-id><article-id pub-id-type="pmcaiid">12288073</article-id><article-id pub-id-type="pmid">40627503</article-id><article-id pub-id-type="doi">10.1021/acs.est.5c02072</article-id><title-group><article-title>Biotransformation
+of Tire-Derived 6PPD and 6PPD‑Q
+in Soil Nematode <italic>Caenorhabditis elegans</italic>: Unraveling
+Novel Phosphorylation Products and Distinct Kinetic Profiles</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Wang</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Huang</surname><given-names initials="G">Gefei</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Miao</surname><given-names initials="F">Fangfang</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Zhao</surname><given-names initials="Z">Zhongying</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Cai</surname><given-names initials="Z">Zongwei</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff3">⊥</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1">
+<label>†</label>
+State
+Key Laboratory of Environmental and Biological Analysis, Department
+of Chemistry, Hong Kong Baptist University, Hong Kong
+SAR
+999077, China
+</aff><aff id="aff2">
+<label>‡</label>
+Department
+of Biology, Hong Kong Baptist University, Hong Kong
+SAR
+999077, China
+</aff><aff id="aff3">
+<label>⊥</label>
+Eastern
+Institute of Technology, Ningbo
+315200, China
+</aff><author-notes><fn id="cor1"><label>*</label><p>Email: <email>zwcai@hkbu.edu.hk</email></p></fn></author-notes><pub-date><day>8</day><month>7</month><year>2025</year></pub-date><volume>59</volume><issue>28</issue><fpage>14625</fpage><page-range>14625–14636</page-range><pub-history><event event-type="pmc-release"><date><day>25</day><month>7</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 The Authors. Published by American Chemical Society</copyright-statement><license><license-p>This article is licensed under CC-BY 4.0</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es5c02072.pdf" content-type="pmc-pdf"><?cloudpmc-path 28c3/12288073/49a7d0ed6eb4/es5c02072.pdf?><?cloudpmc-bucket app?><?size 5461226?></self-uri><abstract id="abstract1"><title>Abstract</title><p>The extensive use
+of tire antioxidant <italic>N</italic>-(1,3-dimethylbutyl)-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine (6PPD)
+has raised significant environmental concerns, given the ubiquity
+and severe toxicity of 6PPD and its quinone derivative (6PPD-Q). While
+their hazards could be mediated through biotransformation pathways
+of detoxification and/or bioactivation and associated metabolites,
+the biotransformation of these tire-derived contaminants in soil organisms,
+key environmental compartments directly exposed to tire wear, remains
+unexplored. In this work, we investigated the biotransformation of
+6PPD and 6PPD-Q in soil nematode <italic>Caenorhabditis elegans</italic> (<italic>C. elegans</italic>). We identified 9 transformation products
+(TPs) of 6PPD and 26 of 6PPD-Q using suspect and nontargeted screening
+methods, providing the first comprehensive metabolic profile of these
+contaminants in soil nematodes. Novel <italic>in vivo</italic> metabolites
+including phosphorylated and monohydroxy phosphorylated 6PPD-Q were
+first discovered, revealing unique metabolic pathways of these contaminants
+in <italic>C. elegans</italic> compared to other eukaryotes. Kinetic
+profiling delineates heterogeneous temporal patterns among TPs, with
+specific derivatives showing progressive accumulation over the exposure
+duration. Notably, isomers such as dihydroxy 6PPD-Q exhibit distinct
+substitution-site-dependent dynamics. Furthermore, <italic>in silico</italic> toxicity prediction indicated that certain TPs exhibited earthworm
+toxicity comparable to 6PPD-Q, implying potential contributions to
+the discernible adverse effects observed in <italic>C. elegans</italic>. Our findings elucidate the biotransformation of tire-derived contaminants
+in soil nematodes, suggest potential ecological concerns posed by
+6PPD and 6PPD-Q to soil organisms, and underscore the necessity for
+further evaluation of their bioactivities and environmental impacts.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> Suspect and nontargeted
+screening, phosphorylation, transformation products, tire-derived contaminants, soil ecosystem, <italic>Caenorhabditis elegans</italic></p></sec></abstract><abstract id="abstract2" abstract-type="graphical"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="agr1" xlink:href="es5c02072_0006.jpg"><?cloudpmc-path blobs/28c3/12288073/d04798340204/es5c02072_0006.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 539?><?original-width 1000?><?scaled-height 359?><?scaled-width 666?></graphic></abstract><abstract id="abstract3" abstract-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="es5c02072_0005.jpg"><?cloudpmc-path blobs/28c3/12288073/d04798340204/es5c02072_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 539?><?original-width 1000?><?scaled-height 359?><?scaled-width 666?></graphic></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2025 Feb 13; Accepted 2025 Jun 30; Revised 2025 Jun 27; Collection date 2025 Jul 22.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><title>Introduction</title><p>Biological transformation of commercial
+products can lead to highly
+toxic metabolites. For instance, oxybenzone is metabolized by sea
+anemones (<italic>Aiptasia</italic>) and mushroom corals (<italic>Discosoma</italic>) into phototoxic glucoside conjugates, leading
+to increased mortality of both organisms under UV exposure. Another example involves the cyanobacterium (<italic>Aetokthonos hydrillicola</italic>), which utilizes environmental
+bromide to synthesize neurotoxic metabolite of aetokthonotoxin, the
+causative agent of vacuolar myelinopathy, and is highly toxic to multiple
+species including nematode (<italic>Caenorhabditis elegans</italic>, LC<sub>50</sub> 40 nM) and zebrafish (<italic>Danio rerio</italic>, LC<sub>50</sub> 275 nM). These cases
+highlight the critical need to comprehensively elucidate the biotransformation
+of chemicals from commercial products, particularly the identity and
+toxicity of their transformation products (TPs) and associated metabolic
+pathways. <italic>N</italic>-(1,3-Dimethylbutyl)-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine (6PPD) has been
+extensively employed as an antioxidant in rubber products, such as
+tires, footwear, synthetic turf infill, and playgrounds. Both 6PPD and its quinone derivative (6PPD-Q)
+have raised global environmental concerns due to their widespread
+occurrence across various environmental matrices, including water, soil, dust,<italic>
+,
+</italic> and particulate matter, as well as
+their potent toxicity. 6PPD is classified
+as highly toxic to zebrafish, with a 96 h-LC<sub>50</sub> of 2.2 mg/L. It induces severe eye damage and impairs embryonic
+growth and development, as evidenced by reduced hatchability, suppressed
+spontaneous movement, decreased body length, and increased deformity
+rates. As the culprit of urban runoff
+mortality syndrome, 6PPD-Q induces acute mortality in coho salmon
+(<italic>Oncorhynchus kisutch</italic>) at ultratrace levels (24 h-LC<sub>50</sub> 95 ng/L) and causes similar
+acute fatalities in other salmonids, including brook trout (<italic>Salvelinus fontinalis</italic>, 24 h-LC<sub>50</sub> 0.59 μg/L),
+rainbow trout (<italic>Oncorhynchus mykiss</italic>, 72 h-LC<sub>50</sub> 1 μg/L), and white-spotted char
+(<italic>Salvelinus leucomaenis pluvius</italic>, 24 h-LC<sub>50</sub> 0.51 μg/L). Additionally, 6PPD-Q
+has been found hazardous to other fish species, such as zebrafish
+larvae (24 h-LC<sub>50</sub> 309 μg/L) and Chinese rare minnow (<italic>Gobiocypris rarus</italic>, 96
+h-LC<sub>50</sub> 162–201 ng/L). The species-specific toxicity of 6PPD-Q was mechanistically linked
+to tissue-specific impairment of mitochondrial respiration, and differential basal expression of biotransformation
+enzymes caused metabolic variations. Besides
+aquatic species, 6PPD and 6PPD-Q also exhibit significant toxicity
+to terrestrial organisms. Both contaminants bioaccumulate in the liver
+dose-dependently and induce hepatotoxicity in murine models. Our previous study demonstrated the rapid penetration
+of 6PPD-Q across the blood–brain barrier in mice within 0.5
+h and revealed its metabolism and accumulation patterns by elucidating
+its TPs and toxicokinetics. Beyond mammals,
+6PPD-Q is also toxic to other terrestrial species, particularly soil-dwelling
+organisms. Recent studies have revealed that 6PPD-Q disrupts multiple
+physiological processes in the nematode <italic>Caenorhabditis elegans</italic> (<italic>C. elegans</italic>), including lipid accumulation, neurotoxicity,
+mitochondrial dysfunction, intestinal damage, and impaired reproductive
+capacity, accompanied by reduced lifespan.<italic>
+−
+
+
+</italic> These effects are mediated through
+perturbations in lipid metabolism, reproductive health, neuronal function,
+mitochondrial integrity, and gut physiology. The marked toxicity of
+6PPD and 6PPD-Q to <italic>C. elegans</italic> suggestes a significant
+hazard to the soil ecosystem. However, their biotransformation characteristics
+in <italic>C. elegans</italic> remain uncharacterized, leaving critical
+knowledge gaps regarding their modes of action.</p><p>Soil, as the
+primary nutrient reservoir, is also the environmental
+compartment most directly exposed to rubber products, such as tires,
+cables, and artificial turf, due to their widespread use, placement,
+and disposal directly onto or into soil. Substantial amounts of 6PPD
+and 6PPD-Q can be released into the soil environment, posing potential
+ecological risks, as their presence in various soil samples, including
+roadside soil (6PPD: 31.4–831 ng·g<sup>–1</sup>; 6PPD-Q: 9.50–936 ng·g<sup>–1</sup>), industrial
+area soil (6PPD: 0.008–14.6 ng·g<sup>–1</sup>;
+6PPD-Q: 0.002–4.4 ng·g<sup>–1</sup>), and green-belt
+soil (6PPD: 3–233 ng·g<sup>–1</sup>), has been
+well documented.<italic>
+−
+
+</italic> Given the severe hazards of 6PPD and 6PPD-Q to <italic>C. elegans</italic> and their pervasive presence in soil environments,
+elucidating their biotransformation products and pathways, thus estimating
+their ecotoxicities, is imperative. In this study, we aim to (1) characterize
+the biotransformation of 6PPD and 6PPD-Q in <italic>C. elegans</italic>, thereby assessing their metabolic activities in soil organisms;
+(2) evaluate their transformation kinetics toe elucidate their bioavailability
+and bioaccumulation; and (3) assess the ecological toxicity of the
+identified TPs to estimate their broader ecological impacts. Our findings
+uncover novel biotransformation products of 6PPD and 6PPD-Q in a soil
+invertebrate model and demonstrate an integrated workflow that combines
+nontargeted metabolite screening with <italic>in silico</italic> toxicity
+prediction to prioritize bioactive derivatives for further toxicological
+characterization.</p></sec><sec id="sec2" disp-level="1"><title>Materials and Methods</title><sec id="sec2.1" disp-level="2"><title>Chemicals and Cultures</title><p>The standard of 6PPD was purchased
+from TCI Chemical Co. (Shanghai, China) with purities higher than
+98%. Potassium dihydrogen phosphate (KH<sub>2</sub>PO<sub>4</sub>),
+sodium phosphate dibasic (Na<sub>2</sub>HPO<sub>4</sub>), sodium chloride
+(NaCl), sodium hydroxide (NaOH), and magnesium sulfate (MgSO<sub>4</sub>) are GR grade that were purchased from Fisher Scientific (Hong Kong).
+The 6PPD-Q standard and the internal standard of deuterated 6PPD-Q
+(6PPD-Q-<italic>d</italic>
+<sub>5</sub>) were synthesized in the laboratory
+as reported previously. Surrogate standard
+diphenylamine-d<sub>10</sub> was obtained from TRC (Burlington, Canada),
+while formic acid (FA, 99%) and other solvents such as dichloromethane
+(DCM) and methanol (MeOH) are HPLC grade and purchased from VMR chemicals
+(Hong Kong). Nematode growth medium (NGM) was made according to a
+previous protocol. M9 buffer, a liquid
+medium for <italic>C. elegans</italic> routine maintenance, was prepared
+by mixing 6.0 g of Na<sub>2</sub>HPO<sub>4</sub>, 3.0 g of KH<sub>2</sub>PO<sub>4</sub>, 5.0 g of NaCl, and 1 mL of 1 M MgSO<sub>4</sub> in 1 L of distilled ultrapure water. Both NGM and M9 buffers were
+autoclaved for 120 min to remove any bacterial contamination before
+use. To obtain pure <italic>Escherichia coli</italic> (<italic>E.
+coli</italic>) OP50 lawns, we inoculated the fresh powder of OP50
+with an empty NGM plate and picked up a single colony from the surface
+of the agar. The OP50 colony was then incubated in autoclaved Luria–Bertani
+broth (Sigma-Aldrich, St. Louis, US) at 37 °C for 12 h with continuous
+shaking, after which the overnight culture was spread onto the NGM
+agar.</p></sec><sec id="sec2.2" disp-level="2"><title>Preparation of <italic>C. elegans</italic> Strains</title><p>The wild-type Bristol N2 strain was collected from the Caenorhabditis
+Genetics Center (CGC), University of Minnesota, USA. A new stock of
+N2 worms was thawed and raised for five generations before use. To
+generate offspring and synchronize their stages, adult hermaphrodites
+were lysed by bleaching solution (0.5 M sodium hydroxide and 0.2 M
+hypochlorite), and the eggs were released into the autoclaved M9 buffer
+for a 16 h incubation. Hatched L1 larvae were raised on the surface
+of 90 mm NGM plates seeded with OP50 bacterial lawns for larval development.
+We collected L4 stage worms (i.e., about 38 h after feeding on NGM
+plates) for the exposure experiments.</p></sec><sec id="sec2.3" disp-level="2"><title>Exposure Experiments</title><p>Both 6PPD and 6PPD-Q powders were
+weighed and dissolved in organic carriers (i.e., methanol for 6PPD
+and DMSO for 6PPD-Q) to make 100 mg L<sup>–1</sup> stock solutions.
+The exposure medium was prepared by diluting stock solutions 1000
+times with autoclaved M9 buffer. About 10,000 worms were required
+to generate cellular pellets sufficient for the biotransformation
+analysis. To count the number of worms, the worm pellet was resuspended
+in 1 mL of M9 buffer and vortexed briefly. We transferred 5 μL
+of the solution to a 3% agarose pad and anesthetized nematodes with
+1% levamisole. The number of worms was counted under a 30× magnification
+dissection microscope. Worms were transferred to clean 1.5 mL centrifuge
+tubes and rinsed with M9 buffer for five rounds to eliminate bacteria.
+Due to the rapid lifecycle and growth speed of <italic>C. elegans</italic>, acute exposure mode of 6PPD (24 h) and 6PPD-Q (48 h) was performed
+using L4 stage worms. A single-dose exposure was applied in M9 liquid
+medium (without <italic>E. coli</italic> OP50), with 6PPD and 6PPD-Q
+introduced at a concentration of 100 μg·L<sup>–1</sup> in 10 mL of liquid medium. This exposure concentration was selected
+based on lethality assays (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S1</ext-link>) and
+detection limits of the TPs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Text S1</ext-link>). <italic>E. coli</italic> OP50 was excluded to avoid bacterial metabolism
+of 6PPD and 6PPD-Q or interactions with the test compounds. For 6PPD (half-life ≈ 8 h), the medium
+was replenished once at 12 h to compensate for degradation observed
+in external concentrations (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S2</ext-link>),
+while 6PPD-Q (half-life &gt; 33 h) did not require replenishment. This exposure method mimics episodic tire-derived
+chemicals in natural environments and
+has been widely adopted for biotransformation of 6PPD-Q in other species.<italic>
+−
+
+</italic> All nematodes were maintained in 12-well plates on a shaker at 100
+rpm to prevent sedimentation. For 6PPD exposure, samples were collected
+at eight time points: 0, 0.5, 1, 3, 6, 12, 18, and 24 h, for kinetic
+analysis. For 6PPD-Q, seven time points were used: 0, 1, 3, 6, 12,
+24, and 48 h. Three biological replicates were performed for each
+time interval.</p></sec><sec id="sec2.4" disp-level="2"><title>Collection of Supernatant and Worm Extracts</title><p>Worms were
+centrifuged at 3000<italic>g</italic> for 1 min to separate worm pellets
+from the liquid medium (denoted as the supernatant) at the end of
+the exposure period. The resulting supernatant was filtered through
+a 0.22 μm nylon filter, spiked with 20 ng of surrogate standard,
+and further extracted using Waters HLB by a solid phase extraction
+(SPE) cartridge. Generally, the cartridge was activated by using DCM,
+MeOH, and water (3 mL each). After the sample was loaded, the cartridge
+was drenched with 5 mL of water, vacuum-dried for 15 min, and eluted
+with 3 mL of MeOH and 3 mL of DCM. The elutes were merged, blown to
+dryness, redissolved in 50 μL of MeOH, and added with 20 ng
+of internal standards before instrumental analysis. The worm pellet
+was washed extensively by an autoclaved M9 buffer for 5 times and
+resuspended in 1 mL of 80% MeOH. After spiking with 20 ng of the surrogate
+standard, nematodes were lysed by bead beating with 0.5 and 0.2 mm
+zirconium oxide beads at 0 °C for 3 min (20 s pulse and 10 s
+pause). Insoluble particles and beads were pelleted by ultracentrifugation
+at 16000<italic>g</italic> and 4 °C for 30 min. The resulting
+supernatant was transferred to a sterile 1.5 mL centrifuge tube, evaporated
+to dryness using a freeze-dry vacuum concentrator, resuspended in
+50 μL of MeOH, and added with 20 ng of internal standards for
+further analysis.</p></sec><sec id="sec2.5" disp-level="2"><title>Suspect and Nontargeted Screening Analysis</title><p>The screening
+and identification of biotransformation TPs were conducted using ultraperformance
+liquid chromatography (UPLC, Vanquish MD) integrated with a high-resolution
+hybrid quadrupole-Orbitrap mass spectrometer (Q Exactive, Thermo Scientific,
+USA) operated in both positive and negative electron spray ionization
+(ESI) modes. Data-dependent MS<sup>2</sup> (ddMS<sup>2</sup>) acquisition
+was utilized to obtain the full-scan molecular-ion data and the MS<sup>2</sup> fragments for nontargeted screening, while parallel reaction
+monitoring (PRM) with time-specific isolation windows and varied collision
+energies was employed to obtain the detailed structural information
+on the suspects. All instrumental parameters are detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Table S1</ext-link>. Newly formed products were defined
+as signals that met the criteria (i) abundance ≥ 10-fold above
+background levels and (ii) absence in blank controls. Metabolite identification and structural elucidation utilized
+HRMS data at a resolution of 140 000, with mass error thresholds
+&lt;10 ppm between predicted and observed mass-to-charge ratio (<italic>m</italic>/<italic>z</italic>). An in-house candidate list of biotransformation
+products, which integrates known xenobiotic pathways in other organisms
+and predictive libraries based on functional-group alteration patterns,
+was compiled for suspect screening (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Table S3</ext-link>). Nontargeted analysis combined background subtraction, isotopic
+pattern matching, and MS<sup>2</sup> fragment verification. Details
+about the predictive library construction and nontargeted screening
+can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Text S2</ext-link>.</p></sec><sec id="sec2.6" disp-level="2"><title>Quantitative
+Analysis of Transformation Kinetics</title><p>To
+monitor the kinetics of biotransformation, the levels of 6PPD, 6PPD-Q,
+and their TPs were (semi-) quantified leveraging UPLC-tandem mass
+spectrometer (MS/MS) as our earlier study described. Specifically, a Vanquish MD UPLC system was coupled with
+an ESI triple quadrupole mass spectrometer (TSQ Altis, Thermo Scientific,
+USA) for targeted quantification of 6PPD, 6PPD-Q, and the identified
+TPs.</p><p>In the absence of commercial standards, TPs were semiquantified
+by multiple reaction monitoring (MRM) with optimized precursor–product
+ion transitions. Detailed method parameters, including collision energies
+and retention windows for each analyte, are listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Table S2</ext-link>. The measured levels/abundances of 6PPD,
+6PPD-Q, and their TPs were corrected using the ratio of the number
+of nematodes at a given time (<italic>N</italic>
+<sub>
+<italic>t</italic>
+</sub>) to the initial number (<italic>N</italic>
+<sub>0</sub>), to
+eliminate bias due to population size variation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S1</ext-link>). An internal calibration
+method, with an internal standard of 6PPD-Q-<italic>d</italic>
+<sub>5</sub>, was adopted using eight-level calibration curves ranging
+from 0.01 to 100 μg·L<sup>–1</sup>, with all regression
+coefficients exceeding 0.99 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>).
+Samples were diluted if their levels were beyond the calibration ranges.
+Matrix effects (MEs) were evaluated by spiking 6PPD and 6PPD-Q into
+the extracts and cultures, respectively, and calculated as the ratio
+of the measured abundances in the matrix to the abundances of the
+analytes in pure solvent (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Text S3</ext-link>). Three
+concentration levels (10, 50, and 100 μg·L<sup>–1</sup>) were tested in triplicate. The resulting ME for 6PPD was 101 ±
+9% in cultures and 106 ± 13% in extracts, while for 6PPD-Q it
+was 102 ± 4% in cultures and 90 ± 5% in extracts.</p></sec><sec id="sec2.7" disp-level="2"><title>QA/QC,
+Data Processing, and Visualization</title><p>All glassware
+and quartz dishes were prerinsed with Milli-Q water and methanol to
+remove hydrophilic impurities and organic residues and then sterilized
+before use. Experiments were performed in triplicate, and the results
+were reported as the mean ± standard deviation (SD). Prior to
+MS analysis of each batch, blank quality-control samples (pure water
+and methanol) were processed and analyzed using the same method to
+identify potential system contamination and minimize cosolvent effects. The MS system was calibrated using manufacturer-supplied
+solutions to ensure a mass accuracy within 10 ppm. Surrogate standard
+recoveries in both the supernatant and worm pellet ranged from 70
+to 130%.</p><p>Data analysis included MS data processing and <italic>in silico</italic> ecotoxicity estimation. MS data were processed
+by using Xcalibur software (v4.3.7, Thermo Scientific, USA), and statistical
+analyses were performed in SPSS (v11.0, IBM, USA). Structure elucidation
+of unknown TPs was supported by Mass Frontier software (version 8.0,
+Thermo Scientific, USA). The individual ecotoxicity of 6PPD, 6PPD-Q,
+and their TPs on representative aquatic and terrestrial species (fish,
+daphnia, green algae, and earthworms) was computationally predicted
+using the Ecological Structure–Activity Relationship (ECOSAR)
+model (v2.2) released by US EPA (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Table S4</ext-link>). This validated algorithm estimates
+toxicity end points through structural analogies to reference compounds
+and has been endorsed by internationally recognized regulatory agencies
+of the US EPA, OECD, and EU. The model-derived
+acute toxicity parameters including 96 h median lethal concentration
+for fish (96 h fish LC<sub>50</sub>), 48 h LC<sub>50</sub> for <italic>Daphnia magna</italic> (48 h daphnid LC<sub>50</sub>), 96 h median
+effective concentration for green algae (96 h green algae EC<sub>50</sub>), and 14 day LC<sub>50</sub> for earthworms (14 d earthworm LC<sub>50</sub>), served exclusively for comparative toxicity ranking via
+QSAR-based prioritization but did not represent their absolute toxicological
+benchmarks. The visualization of the time-dependent kinetic curve
+of each analyte was subsequently calculated by fitting the dose–response
+curve with a best-fit model implemented
+on GraphPad Prism (GraphPad Software Inc., California, USA).</p></sec></sec><sec id="sec3" disp-level="1"><title>Results
+and Discussion</title><sec id="sec3.1" disp-level="2"><title>Identification of Biotransformation Products
+of 6PPD and 6PPD-Q</title><p>First, we combined suspect and nontargeted
+screening strategies
+to identify the biotransformation products of 6PPD and 6PPD-Q in <italic>C. elegans</italic>. <xref rid="tbl1" ref-type="table">Table 
+</xref> summarizes molecular information on the identified TPs: nine
+6PPD metabolites and 26 6PPD-Q metabolites. These molecules were assigned
+varying Schymanski confidence levels based
+on their MS<sup>2</sup> fragmentation annotations and structure elucidation.
+A variety of isomers sharing the same <italic>m</italic>/<italic>z</italic> but differing in retention times (RTs) were identified, likely due
+to position or functional group isomerism. <xref rid="fig1" ref-type="fig">Figure 
+</xref>A depicts the RTs of all identified TPs,
+revealing a large range of more hydrophilic metabolites with shorter
+RTs for both 6PPD and 6PPD-Q. This pattern aligns with the established
+paradigm of xenobiotic metabolism, in which biotransformation pathways
+predominantly increase aqueous solubility via Phase II conjugation
+reactions (e.g., glucuronidation, sulfation), thereby facilitating
+renal or biliary elimination of hydrophobic compounds. Structural elucidation of representative TPs
+for 6PPD and 6PPD-Q, with typical conjugation reaction features, is
+shown in <xref rid="fig1" ref-type="fig">Figure 
+</xref>B–E,
+while detailed interpretations of other TPs are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figures S4–S11</ext-link>. The elucidation of 6DTP511
+provides a representative example: its mass difference (Δ<italic>m</italic>/<italic>z</italic> 242.0174) relative to the parent compound
+6PPD corresponds to the elemental composition C<sub>9</sub>H<sub>11</sub>O<sub>8</sub>P (mass error −7.4 ppm), consistent with a phosphoglucosidation
+transformation. To confirm this assignment, MS/MS fragmentation spectra
+of 6DTP511 were acquired in both positive (<xref rid="fig1" ref-type="fig">Figure 
+</xref>B) and negative (<xref rid="fig1" ref-type="fig">Figure 
+</xref>C) modes. In positive mode, characteristic
+fragments arising from the neutral loss of phosphoric acid (H<sub>3</sub>PO<sub>4</sub>) yielded the ion C<sub>24</sub>H<sub>33</sub>N<sub>2</sub>O<sub>4</sub>
+<sup>+</sup> (mass error −2.4 ppm).
+Additional fragments at <italic>m</italic>/<italic>z</italic> 395.2321
+and <italic>m</italic>/<italic>z</italic> 268.1939 imply the cleavage
+of a hexose unit, with sequential losses of H<sub>2</sub>O (indicative
+of a hydroxyl group) and C<sub>6</sub>H<sub>11</sub>O<sub>3</sub> (may
+correspond to 1,3-dihydroxy-4-methyl-tetrahydrofuran). While in negative
+mode, diagnostic ions corresponding to dihydrogen phosphate (H<sub>2</sub>PO<sub>4</sub>
+<sup>–</sup>) and phosphite (PO<sub>3</sub>
+<sup>–</sup>) further support the identification of 6DTP511
+as a phosphoglucoside conjugate of 6PPD. Previous studies in <italic>C. elegans</italic> indicate that glucoside phosphate conjugation
+preferentially occurs on amino groups when no free hydroxyl groups
+are present.<italic>
+,
+</italic> This preference may explain the
+isomerization of 6DTP511, which arises from conjugation at different
+secondary amino sites on 6PPD. Similarly, we identified a phosphorylated
+monohydroxy 6PPD-Q metabolite, designated 6QTP411, which exhibited
+sequential losses of hydroxyl, dihydrogen phosphate, isobutyl, and
+ethyl groups in +ESI MS/MS (<xref rid="fig1" ref-type="fig">Figure 
+</xref>D). Detection of diagnostic H<sub>2</sub>PO<sub>4</sub>
+<sup>–</sup> (<italic>m</italic>/<italic>z</italic> 96.9696)
+and PO<sub>3</sub>
+<sup>–</sup> (<italic>m</italic>/<italic>z</italic> 78.9591) ions in −ESI (<xref rid="fig1" ref-type="fig">Figure 
+</xref>E) further confirms the phosphorylation of
+monohydroxy 6PPD-Q at the quinone moiety.</p><table-wrap id="tbl1" position="float"><?disp-level 3?><label>1</label><caption><title>Molecular
+Characteristics of the Identified
+Biological Transformation Products of 6PPD (Prefix 6DTP) and 6PPD-Q
+(Prefix 6QTP)</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1">
+<bold>TP
+name</bold>
+</th><th align="center" colspan="1" rowspan="1">
+<bold>Proposed
+transformation</bold>
+</th><th align="center" colspan="1" rowspan="1">
+<bold>Formula</bold>
+</th><th align="center" colspan="1" rowspan="1">
+<bold>Exact
+mass</bold>
+</th><th align="center" colspan="1" rowspan="1"><italic>m</italic>/<italic>z</italic><bold>(+)</bold></th><th align="center" colspan="1" rowspan="1"><italic>m</italic>/<italic>z</italic><bold>(−)</bold></th><th align="center" colspan="1" rowspan="1">
+<bold>RT
+(min)</bold>
+</th><th align="center" colspan="1" rowspan="1">
+<bold>Confidence
+level</bold>
+</th><th align="center" colspan="1" rowspan="1">
+<bold>MS</bold>
+<sup>
+<bold>2</bold>
+</sup>
+<bold>fragments</bold>
+</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">6DTP388</td><td align="left" colspan="1" rowspan="1">6PPD-cysteinyl</td><td align="left" colspan="1" rowspan="1">C<sub>21</sub>H<sub>29</sub>N<sub>3</sub>O<sub>2</sub>S</td><td align="center" colspan="1" rowspan="1">387.1980</td><td align="center" colspan="1" rowspan="1">388.2046</td><td align="center" colspan="1" rowspan="1">386.1908</td><td align="center" colspan="1" rowspan="1">9.07</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP431</td><td align="left" colspan="1" rowspan="1">6PPD-N-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>34</sub>N<sub>2</sub>O<sub>5</sub>
+</td><td align="center" colspan="1" rowspan="1">430.2468</td><td align="center" colspan="1" rowspan="1">431.2540</td><td align="center" colspan="1" rowspan="1">429.2395</td><td align="center" colspan="1" rowspan="1">8.56</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP511L</td><td align="left" colspan="1" rowspan="1">6PPD-N-glucoside-6-phosphate</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>35</sub>N<sub>2</sub>O<sub>8</sub>P</td><td align="center" colspan="1" rowspan="1">510.2131</td><td align="center" colspan="1" rowspan="1">511.2204</td><td align="center" colspan="1" rowspan="1">509.2058</td><td align="center" colspan="1" rowspan="1">8.44</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<xref rid="fig1" ref-type="fig">Figure 
+</xref>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP511R</td><td align="left" colspan="1" rowspan="1">6PPD-N-glucoside-6-phosphate</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>35</sub>N<sub>2</sub>O<sub>8</sub>P</td><td align="center" colspan="1" rowspan="1">510.2131</td><td align="center" colspan="1" rowspan="1">511.2204</td><td align="center" colspan="1" rowspan="1">509.2058</td><td align="center" colspan="1" rowspan="1">10.64</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP186</td><td align="left" colspan="1" rowspan="1">4-HDPA</td><td align="left" colspan="1" rowspan="1">C<sub>12</sub>H<sub>11</sub>NO</td><td align="center" colspan="1" rowspan="1">185.0841</td><td align="center" colspan="1" rowspan="1">186.0913</td><td align="center" colspan="1" rowspan="1">184.0768</td><td align="center" colspan="1" rowspan="1">11.04</td><td align="left" colspan="1" rowspan="1">Level 2</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP348L</td><td align="left" colspan="1" rowspan="1">4-HDPA-N-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>21</sub>NO<sub>6</sub>
+</td><td align="center" colspan="1" rowspan="1">347.1369</td><td align="center" colspan="1" rowspan="1">348.1441</td><td align="center" colspan="1" rowspan="1">346.1296</td><td align="center" colspan="1" rowspan="1">7.89</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S5</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP348R</td><td align="left" colspan="1" rowspan="1">4-HDPA-N-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>21</sub>NO<sub>6</sub>
+</td><td align="center" colspan="1" rowspan="1">347.1369</td><td align="center" colspan="1" rowspan="1">348.1441</td><td align="center" colspan="1" rowspan="1">346.1296</td><td align="center" colspan="1" rowspan="1">10.04</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S5</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP428L</td><td align="left" colspan="1" rowspan="1">4-HDPA-N-glucoside-6-phosphate</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>NO<sub>9</sub>P</td><td align="center" colspan="1" rowspan="1">427.1032</td><td align="center" colspan="1" rowspan="1">428.1105</td><td align="center" colspan="1" rowspan="1">426.0959</td><td align="center" colspan="1" rowspan="1">7.73</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S5</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6DTP428R</td><td align="left" colspan="1" rowspan="1">4-HDPA-N-glucoside-6-phosphate</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>NO<sub>9</sub>P</td><td align="center" colspan="1" rowspan="1">427.1032</td><td align="center" colspan="1" rowspan="1">428.1105</td><td align="center" colspan="1" rowspan="1">426.0959</td><td align="center" colspan="1" rowspan="1">9.90</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S6</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP297</td><td align="left" colspan="1" rowspan="1">Dehydrogenated 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>20</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">296.1525</td><td align="center" colspan="1" rowspan="1">297.1598</td><td align="center" colspan="1" rowspan="1">295.1452</td><td align="center" colspan="1" rowspan="1">9.66</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP313</td><td align="left" colspan="1" rowspan="1">Dehydrogenated
+monohydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>20</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">312.1474</td><td align="center" colspan="1" rowspan="1">313.1547</td><td align="center" colspan="1" rowspan="1">311.1401</td><td align="center" colspan="1" rowspan="1">8.41</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP315L</td><td align="left" colspan="1" rowspan="1">Monohydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">314.1630</td><td align="center" colspan="1" rowspan="1">315.1703</td><td align="center" colspan="1" rowspan="1">313.1558</td><td align="center" colspan="1" rowspan="1">11.57</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP315M</td><td align="left" colspan="1" rowspan="1">Monohydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">314.1630</td><td align="center" colspan="1" rowspan="1">315.1703</td><td align="center" colspan="1" rowspan="1">313.1558</td><td align="center" colspan="1" rowspan="1">13.12</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP315R</td><td align="left" colspan="1" rowspan="1">Monohydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">314.1630</td><td align="center" colspan="1" rowspan="1">315.1703</td><td align="center" colspan="1" rowspan="1">313.1558</td><td align="center" colspan="1" rowspan="1">14.09</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP329AL</td><td align="left" colspan="1" rowspan="1">Monohydroxy 6PPD-Q aldehyde</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>20</sub>N<sub>2</sub>O<sub>4</sub>
+</td><td align="center" colspan="1" rowspan="1">328.1423</td><td align="center" colspan="1" rowspan="1">329.1496</td><td align="center" colspan="1" rowspan="1">327.1350</td><td align="center" colspan="1" rowspan="1">11.42</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP329AR</td><td align="left" colspan="1" rowspan="1">Monohydroxy
+6PPD-Q aldehyde</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>20</sub>N<sub>2</sub>O<sub>4</sub>
+</td><td align="center" colspan="1" rowspan="1">328.1423</td><td align="center" colspan="1" rowspan="1">329.1496</td><td align="center" colspan="1" rowspan="1">327.1350</td><td align="center" colspan="1" rowspan="1">11.56</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP331L</td><td align="left" colspan="1" rowspan="1">Dihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>4</sub>
+</td><td align="center" colspan="1" rowspan="1">330.1580</td><td align="center" colspan="1" rowspan="1">331.1652</td><td align="center" colspan="1" rowspan="1">329.1507</td><td align="center" colspan="1" rowspan="1">9.51</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP331R</td><td align="left" colspan="1" rowspan="1">Dihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>4</sub>
+</td><td align="center" colspan="1" rowspan="1">330.1580</td><td align="center" colspan="1" rowspan="1">331.1652</td><td align="center" colspan="1" rowspan="1">329.1507</td><td align="center" colspan="1" rowspan="1">9.88</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP349</td><td align="left" colspan="1" rowspan="1">Trihydroxy
+6PPD hydroquinone</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>24</sub>N<sub>2</sub>O<sub>5</sub>
+</td><td align="center" colspan="1" rowspan="1">348.1685</td><td align="center" colspan="1" rowspan="1">349.1758</td><td align="center" colspan="1" rowspan="1">347.1612</td><td align="center" colspan="1" rowspan="1">8.74</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S9</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP477L</td><td align="left" colspan="1" rowspan="1">6PPD-Q
+O-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>32</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">476.2159</td><td align="center" colspan="1" rowspan="1">477.2231</td><td align="center" colspan="1" rowspan="1">475.2086</td><td align="center" colspan="1" rowspan="1">9.78</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S9</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP477R</td><td align="left" colspan="1" rowspan="1">6PPD-Q
+O-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>32</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">476.2159</td><td align="center" colspan="1" rowspan="1">477.2231</td><td align="center" colspan="1" rowspan="1">475.2086</td><td align="center" colspan="1" rowspan="1">10.71</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S9</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP493</td><td align="left" colspan="1" rowspan="1">Monohydroxy
+6PPD-Q O-glucoside</td><td align="left" colspan="1" rowspan="1">C<sub>24</sub>H<sub>32</sub>N<sub>2</sub>O<sub>9</sub>
+</td><td align="center" colspan="1" rowspan="1">492.2108</td><td align="center" colspan="1" rowspan="1">493.2181</td><td align="center" colspan="1" rowspan="1">491.2035</td><td align="center" colspan="1" rowspan="1">7.83</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S9</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP395L</td><td align="left" colspan="1" rowspan="1">6PPD-Q
+phosphoryl</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>23</sub>N<sub>2</sub>O<sub>6</sub>P</td><td align="center" colspan="1" rowspan="1">394.1294</td><td align="center" colspan="1" rowspan="1">395.1366</td><td align="center" colspan="1" rowspan="1">393.1221</td><td align="center" colspan="1" rowspan="1">9.53</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP395R</td><td align="left" colspan="1" rowspan="1">6PPD-Q
+phosphoryl</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>23</sub>N<sub>2</sub>O<sub>6</sub>P</td><td align="center" colspan="1" rowspan="1">394.1294</td><td align="center" colspan="1" rowspan="1">395.1366</td><td align="center" colspan="1" rowspan="1">393.1221</td><td align="center" colspan="1" rowspan="1">9.67</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP411</td><td align="left" colspan="1" rowspan="1">Monohydroxy 6PPD-Q phosphoryl</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>23</sub>N<sub>2</sub>O<sub>7</sub>P</td><td align="center" colspan="1" rowspan="1">410.1243</td><td align="center" colspan="1" rowspan="1">411.1316</td><td align="center" colspan="1" rowspan="1">409.1170</td><td align="center" colspan="1" rowspan="1">8.58</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<xref rid="fig1" ref-type="fig">Figure 
+</xref>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP317</td><td align="left" colspan="1" rowspan="1">Monohydroxy
+6PPD hydroquinone</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>24</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">316.1787</td><td align="center" colspan="1" rowspan="1">317.1860</td><td align="center" colspan="1" rowspan="1">315.1714</td><td align="center" colspan="1" rowspan="1">11.85</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP361L</td><td align="left" colspan="1" rowspan="1">Methoxy
+dihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">360.1685</td><td align="center" colspan="1" rowspan="1">361.1779</td><td align="center" colspan="1" rowspan="1">359.1612</td><td align="center" colspan="1" rowspan="1">9.27</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP361M</td><td align="left" colspan="1" rowspan="1">Methoxy dihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">360.1685</td><td align="center" colspan="1" rowspan="1">361.1779</td><td align="center" colspan="1" rowspan="1">359.1612</td><td align="center" colspan="1" rowspan="1">10.53</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP361R</td><td align="left" colspan="1" rowspan="1">Methoxy dihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">360.1685</td><td align="center" colspan="1" rowspan="1">361.1779</td><td align="center" colspan="1" rowspan="1">359.1612</td><td align="center" colspan="1" rowspan="1">10.65</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP218</td><td align="left" colspan="1" rowspan="1">2-hydroxyl-5-phenylamino-1,4-quinone</td><td align="left" colspan="1" rowspan="1">C<sub>12</sub>H<sub>11</sub>NO</td><td align="center" colspan="1" rowspan="1">217.0739</td><td align="center" colspan="1" rowspan="1">218.0812</td><td align="center" colspan="1" rowspan="1">216.0666</td><td align="center" colspan="1" rowspan="1">4.85</td><td align="left" colspan="1" rowspan="1">Level 4</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP329L</td><td align="left" colspan="1" rowspan="1">Methoxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">328.1787</td><td align="center" colspan="1" rowspan="1">329.1860</td><td align="center" colspan="1" rowspan="1">327.1717</td><td align="center" colspan="1" rowspan="1">15.89</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP329R</td><td align="left" colspan="1" rowspan="1">Methoxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O<sub>3</sub>
+</td><td align="center" colspan="1" rowspan="1">328.1787</td><td align="center" colspan="1" rowspan="1">329.1860</td><td align="center" colspan="1" rowspan="1">327.1714</td><td align="center" colspan="1" rowspan="1">16.80</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP347</td><td align="left" colspan="1" rowspan="1">Trihydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>5</sub>
+</td><td align="center" colspan="1" rowspan="1">346.1529</td><td align="center" colspan="1" rowspan="1">347.1601</td><td align="center" colspan="1" rowspan="1">345.1456</td><td align="center" colspan="1" rowspan="1">8.08</td><td align="left" colspan="1" rowspan="1">Level 4</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP345L</td><td align="left" colspan="1" rowspan="1">Methoxy monohydroxy 6PPD-Q</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">344.1736</td><td align="center" colspan="1" rowspan="1">345.1809</td><td align="center" colspan="1" rowspan="1">343.1663</td><td align="center" colspan="1" rowspan="1">9.64</td><td align="left" colspan="1" rowspan="1">Level 4</td><td align="left" colspan="1" rowspan="1">N.A.</td></tr><tr><td align="left" colspan="1" rowspan="1">6QTP345R</td><td align="left" colspan="1" rowspan="1">Methoxy 6PPD hydroquinone
+aldehyde</td><td align="left" colspan="1" rowspan="1">C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O</td><td align="center" colspan="1" rowspan="1">344.1736</td><td align="center" colspan="1" rowspan="1">345.1809</td><td align="center" colspan="1" rowspan="1">343.1663</td><td align="center" colspan="1" rowspan="1">12.01</td><td align="left" colspan="1" rowspan="1">Level 3</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S11</ext-link>
+</td></tr></tbody></table></table-wrap><fig id="fig1" position="float"><?disp-level 3?><label>1</label><caption><p>(A) Extracted
+ion chromatographs for biotransformation products
+of 6PPD and 6PPD-Q from exposure to <italic>C. elegans</italic>. Chromatographic
+peak intensities were normalized by their respective base peaks. Isomers
+are labeled with the same color. MS<sup>2</sup> fragments of typical
+metabolites of 6PPD in positive (B) and negative (C) ESI modes, and
+MS<sup>2</sup> fragments of typical metabolites of 6PPD-Q in positive
+(D) and negative (E) ESI modes.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="es5c02072_0001.jpg"><?cloudpmc-path blobs/28c3/12288073/26ce7f90de8e/es5c02072_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1257?><?original-width 2100?><?scaled-height 419?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es5c02072_0001.gif"><?cloudpmc-path blobs/28c3/12288073/5ef0a9c19752/es5c02072_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Biotransformation pathways in <italic>C. elegans</italic> are crucial
+for understanding contaminant toxicity mechanisms and assessing the
+nematode’s biodegradation potential, as xenobiotic metabolism
+can significantly alter a compound’s toxicity. The identified
+TPs with tentative biological transformation pathways of 6PPD and
+6PPD-Q in <italic>C. elegans</italic> are illustrated in <xref rid="fig2" ref-type="fig">Figure 
+</xref>. Analysis of the
+pathways of 6PPD implied that it may undergo sequential enzymatic
+transformations catalyzed by glutathione S-transferases (GSTs), γ-glutamyl
+transferases (GGTs), UDP-glycosyltransferases (UGTs), and hexokinases
+(HKs). These enzymatic reactions could convert 6PPD into multiple
+conjugates, including cysteinyl-6PPD (6DTP388, <italic>m</italic>/<italic>z</italic> 388.2046), 6PPD glucoside (6DTP431, <italic>m</italic>/<italic>z</italic> 431.2540), and 6PPD glucoside-6-phosphate (6DTP511, <italic>m</italic>/<italic>z</italic> 511.2204). Among them, 6DTP431 likely
+arises from UGT-mediated glycosylation at a secondary amine, while
+the two 6DTP511 isomers reflect phosphorylation of the glucoside conjugates
+at distinct amine sites by HKs, consistent with phosphoglucoside formation
+observed for genistein and albendazole in <italic>C. elegans</italic>.<italic>
+,
+</italic> Besides that, we also observed the formation
+of cysteine-conjugated 6PPD (6DTP388), where 6PPD presumably undergoes
+glutathione conjugation by GSTs at an electrophilic site, followed
+by sequential degradation via GGT and cysteinyl-glycine dipeptidase,
+akin to Cyprocide-B metabolism in <italic>C. elegans</italic>. Similar pathways were noted for the hydrolysis
+product of 6PPD, 4-hydroxydiphenylamine (4-HDPA, 6DTP185, <italic>m</italic>/<italic>z</italic> 186.0913), yielding Phase II TPs including
+4-HDPA glucoside (6DTP348, <italic>m</italic>/<italic>z</italic> 348.1441)
+and 4-HDPA glucoside-6-phosphate (6DTP428, <italic>m</italic>/<italic>z</italic> 428.1105). The formation of 4-HDPA may result from either <italic>in vivo</italic> biotransformation in <italic>C. elegans</italic> or in medium abiotic transformation, supported by its substantial
+presence in the exposure medium (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S2</ext-link>). Analysis of medium-only controls confirmed the transformation
+of 6PPD to 4-HDPA in the culture solutions, which aligns with prior
+studies reporting significant abiotic conversion of 6PPD to 4-HDPA
+in aqueous environments and consistent
+detection of 4-HDPA in zebrafish embryo exposure media. These findings suggest that 4-HDPA detected
+in <italic>C. elegans</italic> likely results from the uptake of abiotically
+formed 4-HDPA and/or internal metabolism of 6PPD, with downstream
+TPs indicating its further <italic>in vivo</italic> processing.</p><fig id="fig2" position="float"><?disp-level 3?><label>2</label><caption><p>Hypothetical
+transformation pathways with identified TPs detected
+in <italic>C. elegans</italic> exposed to 6PPD (A) and 6PPD-Q (B).
+Reaction pathways are based on the changes in functional groups and
+putative enzymatic reactions. Molecules with different confidence
+levels are marked with different colors. GSTs: glutathione S-transferases;
+GGTs: gamma-glutamyl transferase; UGTs: UDP-glycosyltransferases;
+HKs: hexokinases; ADHs: alcohol dehydrogenases; CYPs: cytochrome P450;
+OMTs: O-methyltransferases. The arrows indicate the involved enzymes
+but not the sequence of the reactions. Dashed arrow represents possible
+involvement of abiotic transformations in culture medium. The number
+of isomer quantities is indicated in parentheses, while detailed molecular
+information on the identified TPs is listed in <xref rid="tbl1" ref-type="table">Table 
+</xref>.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="es5c02072_0002.jpg"><?cloudpmc-path blobs/28c3/12288073/022cffb1364b/es5c02072_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2525?><?original-width 2100?><?scaled-height 842?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es5c02072_0002.gif"><?cloudpmc-path blobs/28c3/12288073/8c17047761d2/es5c02072_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Regarding 6PPD-Q, 26 TPs were identified in <italic>C. elegans</italic> extracts, including hydroxylated, methoxylated, glycosylated, and
+phosphorylated metabolites, which could be mediated by alcohol dehydrogenases
+(ADHs), cytochrome P450 enzymes (CYPs), O-methyltransferases (OMTs),
+UGTs, and other phosphorylases. Among them, monohydroxy (6QTP315, <italic>m</italic>/<italic>z</italic> 315.1703) and dihydroxy 6PPD-Q (6QTP331, <italic>m</italic>/<italic>z</italic> 331.1652), which were frequently reported
+in other organisms exposed to 6PPD-Q,<italic>
+,,−
+
+</italic> were also detectable in <italic>C. elegans</italic>. The isomeric pattern of the monohydroxy 6PPD-Q
+(6QTP315), with RTs of 11.57, 13.12, and 14.09 min, reflects diverse
+hydroxylation sites, consistent with metabolites identified in mice and in rainbow trout liver cells (RTL-W1). Moreover, the 6QTP315 isomers could undergo
+O-methylation to form methoxy 6PPD-Q (6QTP329, <italic>m</italic>/<italic>z</italic> 329.1860), as demonstrated in rice and human <italic>in
+vitro</italic> models.<italic>
+,
+</italic> Other Phase I TPs, including
+the hydrolysis (6QTP218, <italic>m</italic>/<italic>z</italic> 218.0812)
+and dehydrogenation product (6QTP297, <italic>m</italic>/<italic>z</italic> 297.1598), which were recently reported in the biotransformation
+pathways of 6PPD-Q in liver microsome incubations from humans, rats,
+rainbow trout, and common carp, were
+also identified in this study. Mechanistically, dehydrogenation produces
+6QTP297 (<italic>m</italic>/<italic>z</italic> 297.1598) which could
+be formed by removing two hydrogen atoms from 6PPD-Q, while subsequent
+hydroxylation yields 6QTP313 (<italic>m</italic>/<italic>z</italic> 313.1547). Hydrolysis and reduction of the quinone carbonyl, potentially
+mediated by quinone reductase, produce 6QTP218 (<italic>m</italic>/<italic>z</italic> 218.0812), followed by hydroxylation on the benzene
+ring to form 6QTP317 (<italic>m</italic>/<italic>z</italic> 317.1860).
+This metabolite may then undergo further dihydroxylation to form 6QTP349
+(<italic>m</italic>/<italic>z</italic> 349.1758) or methylation and
+aldehyde formation to generate 6QTP345 (<italic>m</italic>/<italic>z</italic> 345.1809). A variety of Phase II TPs originating from
+monohydroxy and dihydroxy 6PPD-Q were also observed, including conjugates
+with pyrophosphate (6QTP395, <italic>m</italic>/<italic>z</italic> 395.1366; 6QTP411, <italic>m</italic>/<italic>z</italic> 411.1316),
+and glucoside (6QTP477, <italic>m</italic>/<italic>z</italic> 477.2231;
+6QTP493, <italic>m</italic>/<italic>z</italic> 493.2181). These biotransformation
+products were not only recognized in zebrafish embryos but also recently detected in human urine. Such observations suggest commonalities in the
+biotransformation processes of 6PPD-Q in <italic>C. elegans</italic>, humans, other terrestrial mammals, and aquatic organisms. Remarkably,
+the phosphorylation transformation pathways of both 6PPD-Q (yielding
+phosphorylated 6PPD-Q of 6QTP395, <italic>m</italic>/<italic>z</italic> 395.1366) and monohydroxy 6PPD-Q (yielding monohydroxy phosphorylated
+6PPD-Q of 6QTP411, <italic>m</italic>/<italic>z</italic> 411.1316)
+were first identified in this study, differing from the sulfation
+and methylation pathways reported in other organisms.<italic>
+−
+
+</italic> These findings illustrate the novel metabolic pathways of 6PPD-Q
+in soil organism <italic>C. elegans,</italic> which may inform further
+efforts to identify contaminant transformations in the soil ecosystem
+and enhance our understanding of the metabolic mechanism of 6PPD-Q.</p><p>The tiny nematode <italic>C. elegans</italic> offers numerous advantages
+as a model system for discovering and characterizing novel bioactive
+and biohazard compounds. Compared to xenobiotic metabolism in mammals, <italic>C. elegans</italic> employs distinct enzymatic pathways, such as
+producing glycosylated derivatives instead of glucuronide conjugates
+for exogenous toxicants.<italic>
+,,
+</italic> Elucidation of the molecular structures of 6PPD and 6PPD-Q TPs suggests
+that both UGTs and HKs may play significant roles in the biotransformation
+of tire-related PPD derivatives. Indeed, previous studies have highlighted
+the involvement of UGTs and HKs in the metabolic conversion of environmental
+toxicants, therapeutic drugs, and natural phytoestrogens in <italic>C. elegans</italic>.<italic>
+,
+</italic> For example, phase II transformations
+such as glycosylation are essential for detoxifying benzimidazole
+anthelmintics such as albendazole in <italic>C. elegans</italic>,
+where UGT enzymes add a glucose moiety to albendazole to enhance its
+hydrophilicity. Soukup et al. also reported
+that exogenous genistein would undergo stepwise biotransformation
+by UGTs and HKs to form genistein-7-O-phosphoglucoside in <italic>C. elegans</italic>. These glycosylated
+intermediates could potentially undergo further phosphorylation by
+HKs, which would suggest the importance of UGTs and HKs in the xenobiotic
+metabolism in <italic>C. elegans</italic>. Given the unique enzymatic
+transformation pathways and novel TPs of 6PPD and 6PPD-Q identified
+in <italic>C. elegans</italic>, future research will be essential
+to evaluate their potential toxicological or detoxification effects
+on the physiology of <italic>C. elegans</italic>. Notably, while the
+involvement of specific enzymes in these pathways is reasonably inferred
+from their known functions, these assignments have not been validated
+by enzyme activity inhibition experiments. Considering the extensive
+diversity and redundancy of <italic>C. elegans</italic> enzymes, each transformation pathway may involve a variable
+number of enzymatic steps. Further studies are necessary to validate
+these pathways and clarify the specific roles of the involved enzymes.
+Such knowledge is critical to explain why specific TPs are formed,
+to assess the biological consequences of each transformation (e.g.,
+detoxification versus toxification), and to predict how the contaminant’s
+fate and effects might be influenced by genetic and environmental
+factors.</p></sec><sec id="sec3.2" disp-level="2"><title>Metabolic Kinetics of TPs in <italic>C. elegans</italic>
+</title><p>Monitoring the reaction kinetics of environmental toxicants in <italic>C. elegans</italic> is crucial for understanding their bioaccumulation,
+toxicity, and potential impacts on the soil ecosystem. Kinetic analysis
+revealed that the substrate depletion of 6PPD and 6PPD-Q followed
+first-order kinetics (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A). This finding is consistent with 6PPD-Q concentrations
+observed in zebrafish embryos and the RTL-W1 cell line, where similar
+elimination patterns were recordedwith most of 6PPD-Q being
+transformed within 96 h in embryos and within 12 h in the RTL-W1 cell
+line, respectively.<italic>
+,
+</italic> Comparatively, our data suggest
+that the metabolism of 6PPD and 6PPD-Q in the soil organism <italic>C. elegans</italic> requires a longer duration, exceeding 48 h. A
+possible interpretation is that the extent of xenobiotic transformation
+in an organism depends on both compound uptake and the enzymatic capacity. Kinetic experiments exposing <italic>C. elegans</italic> to either 6PPD or 6PPD-Q showed similar overall temporal trends
+in the formation of their respective TPs. Excluding TPs present at
+trace levels below the quantification limit, a total of four 6PPD
+TPs and 15 6PPD-Q TPs were detected. Based on their time to reach
+peak concentration (<italic>t</italic>
+<sub>max</sub>), we classified
+them into different categories. For 6PPD, TPs showing an accumulative
+trend over the 24 h monitoring period were classified as 6DTPs-Class
+I, while the TPs with <italic>t</italic>
+<sub>max</sub> &lt; 1 h were
+classified as 6DTPs-Class II. Similarly, 6PPD-Q TPs exhibiting a continuous
+accumulation trend were categorized as 6QTPs-Class I, whereas those
+with <italic>t</italic>
+<sub>max</sub> ≤ 3 h and &gt;3 h were
+classified
+as 6QTPs-Class II and 6QTPs-Class III, respectively.</p><fig id="fig3" position="float"><?disp-level 3?><label>3</label><caption><p>(A) Concentration changes
+of 6PPD and 6PPD-Q in <italic>C. elegans</italic> extracts over a
+48 h period. (B) Abundance changes of 6PPD TPs belonging
+to Class I (accumulative). (C) Abundance changes of 6PPD TPs belonging
+to Class II (<italic>t</italic>
+<sub>max</sub> &lt; 1 h). (D) Abundance
+changes of 6PPD-Q TPs belonging to Class I (<italic>t</italic>
+<sub>max</sub> &gt; 3 h). (E) Abundance changes of 6PPD TPs belonging
+to
+Class II (accumulative). (F) Abundance changes of 6PPD TPs belonging
+to Class III (<italic>t</italic>
+<sub>max</sub> ≤ 3 h). Plotted
+values are the averages of the measured concentrations with curve
+fitting using log-normal nonlinear regressions. The colored shadow
+surrounding the regression plot represents the 95% confidence interval.
+Three biological replicates were performed at each time interval.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="es5c02072_0003.jpg"><?cloudpmc-path blobs/28c3/12288073/0c739f5124d9/es5c02072_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 984?><?original-width 2100?><?scaled-height 328?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es5c02072_0003.gif"><?cloudpmc-path blobs/28c3/12288073/c931da2ab868/es5c02072_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Almost all of the detected 6PPD TPs demonstrated
+steadily increasing
+trends during exposure, including 6DTP427, 6DTP431, and 6DTP511 (<xref rid="fig3" ref-type="fig">Figure 
+</xref>B). A notable exception
+is cysteinyl 6PPD (6DTP387, <xref rid="fig3" ref-type="fig">Figure 
+</xref>C), which exhibits a remarkably short <italic>t</italic>
+<sub>max</sub> of 0.5 h, followed by a continuous decline over 24
+h. Similarly, many 6PPD-Q metabolites, including monohydroxy 6PPD-Q
+aldehyde (6QTP329A), methoxy 6PPD-Q (6QTP329), methoxy dihydroxy 6PPD-Q
+(6QTP361R), and 2-hydroxyl-5-phenylamino-1,4-quinone (6QTP218), display
+a short <italic>t</italic>
+<sub>max</sub> (&lt;3 h) as shown in <xref rid="fig3" ref-type="fig">Figure 
+</xref>E. These TPs, akin
+to cysteinyl 6PPD that demonstrated a sharp decreasing trend after
+reaching their <italic>t</italic>
+<sub>max</sub>, are likely intermediates
+that undergo further transformation rather than final products. Comparatively,
+Class III TPs maintain relatively consistent levels after reaching
+their <italic>t</italic>
+<sub>max</sub> (&gt;3 h). Similar transitions,
+from peak intensities to plateau, were observed for the monohydroxy
+and dihydroxy 6PPD-Q TPs in RTL-W1 cells. In contrast, 6QTPs of Class I display continuous accumulation during
+the exposure period, which includes dihydroxy 6PPD-Q (6QTP331R), phosphorylated
+6PPD-Q (6QTP395L), monohydroxy phosphorylated 6PPD-Q (6QTP411), and
+6PPD-Q O-glucoside (6QTP477L). Intriguingly, some of these metabolites
+appear as isomeric forms of Class III 6QTPs, e.g., 6Q331L and 6QTP477R,
+suggesting that subtle differences in molecular structure can lead
+to distinct metabolic behaviors. For instance, 6QTP331L and 6QTP331R
+are identified as dihydroxy 6PPD-Q that differ only in the substitution
+sites of hydroxyl groups. To explain their divergent transformation
+kinetics, it was crucial to first confirm their precise structures.
+In 6QTP331L, one hydroxyl resides at the alkyl-chain terminus and
+the other on the benzene ring of 6PPD-Q (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>), as evidenced by the characteristic fragments of propanol
+(C<sub>3</sub>H<sub>7</sub>O<sup>+</sup>, <italic>m</italic>/<italic>z</italic> 59.0491, mass error = 5.1 ppm) and 4-aminophenol (C<sub>6</sub>H<sub>6</sub>NO<sup>+</sup>, <italic>m</italic>/<italic>z</italic> 108.0444, mass error = 5.6 ppm). In contrast, the 1,3-propanediol
+fragment (C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>
+<sup>+</sup>, <italic>m</italic>/<italic>z</italic> 75.0447) in 6QTP331R indicates that
+both hydroxyls are located at the alkyl chain ends. Additional evidence
+comes from MS<sup>2</sup> fragment ions of 6QTP331L and 6QTP331R at <italic>m</italic>/<italic>z</italic> 231.0760 (C<sub>12</sub>H<sub>11</sub>N<sub>2</sub>O<sub>3</sub>
+<sup>+</sup>) and <italic>m</italic>/<italic>z</italic> 241.0968 (C<sub>14</sub>H<sub>13</sub>N<sub>2</sub>O<sub>2</sub>
+<sup>+</sup>), whose comparative presence confirms a single
+aromatic-ring hydroxyl in 6QTP331L. Minute differences in substitution
+sites yield distinct metabolic behaviors: 6QTP331L shows an initial
+increase followed by stabilization, whereas 6QTP331R exhibits a continuous
+upward trend. Exposure of 6PPD-Q to RTL-W1 cells revealed similar
+discrepancies in the dynamic patterns of three dihydroxy 6PPD-Q isomers
+with different hydroxylation sites: one isomer reached its peak level
+between 6 and 12 h of exposure, while the others showed continuous
+accumulative trends throughout the 24 h experiment. The divergent metabolic behaviors of the isomers indicate
+that detailed structural characterization is not merely a technical
+exercise but also a prerequisite for accurately predicting metabolite
+behavior and stability. Compared to metabolites attributed to Classes
+II and III that are demonstrated as “intermediate”,
+those TPs belonging to Class I, from both 6PPD and 6PPD-Q, warrant
+special attention, as their prolonged stability and accumulation may
+confer toxicological effects. A recent study reported that 6PPD-Q
+exhibits a lower bioaccumulation factor (log BAF 1.3–1.9) when
+compared to 6PPD (log BAF 3.4–4.2). Given the extensive biotransformation of 6PPD-Q and the accumulative
+tendencies of its metabolites, further investigation into their occurrence
+and levels across multiple organisms is justified.</p></sec><sec id="sec3.3" disp-level="2"><title>Toxicity Evaluation
+of Identified TPs</title><p>To evaluate the
+potential toxicological contributions of the identified TPs, thus
+explaining the observable toxicity of 6PPD and 6PPD-Q, we further
+predicted their toxicities using the ECOSAR model developed by USEPA.
+Multiple organisms were included in the analysis because the <italic>C. elegans</italic> model could serve as a crucial starting point
+for understanding biotransformation pathways that are likely relevant
+across different phyla, given the consistent detection of these TPs
+across various species.<italic>
+,,−
+
+</italic> Comparative toxicity profiles of the parent compounds
+(6PPD/6PPD-Q) and their TPs toward diverse aquatic and terrestrial
+organisms are presented in <xref rid="fig4" ref-type="fig">Figure 
+</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">Table S4</ext-link>. Toxicity
+profiles of TPs diverged significantly from their parent compounds,
+with distinct patterns observed between the TPs of 6PPD and 6PPD-Q.
+Except for 6DTP186 (4-HDPA), which exhibited earthworm toxicity comparable
+to that of 6PPD, all 6PPD metabolites showed a toxicity reduction
+by at least an order of magnitude, indicating detoxification through
+biotransformation. In contrast, several biotransformation products
+of 6PPD-Q illustrate equivalent toxicity scales across all of the
+evaluated species. These TPs include 6QTP297, 6QTP313, 6QTP315, and
+6QTP329A, which involve proposed biological transformations of dehydrogenation,
+hydroxylation, and carbonylation/carboxylation of 6PPD-Q. Notably,
+6QTP315 has been widely detected among multiple species exposed to
+6PPD-Q,<italic>
+,,,
+</italic> while 6QTP313 was also identified to be the metabolite
+in human liver microsomes and S9 fractions and multiple <italic>in
+vitro</italic> and <italic>in vivo</italic> models very recently.<italic>
+,
+</italic> Given these facts, systematic screening for these biotransformation
+products in humans and diverse environmental organisms is urgently
+required. Besides that, the comparable toxicities of particular TPs
+with 6PPD-Q to earthworms may partially explain the adverse effects
+of 6PPD-Q to <italic>C. elegans</italic>, necessitating future isolation
+of these TPs and mechanistic validation through <italic>in vivo</italic> and <italic>in vitro</italic> assays. A recent study examined the <italic>in vitro</italic> CYP-mediated metabolism of 6PPD-Q in human and
+rat liver microsomes, predicting that multiple Phase I metabolites
+may exhibit mutagenic and/or immunotoxic effects. While these predictions establish toxicity benchmarks that
+can be referenced for novel TPs, rigorous species-specific hazard
+assessments remain imperative for comprehensive risk characterization.</p><fig id="fig4" position="float"><?disp-level 3?><label>4</label><caption><p>Estimated
+aquatic toxicity of 6PPD, 6PPD-Q, and their respective
+biotransformation products. The baseline toxicity of the parent compounds
+(6PPD and 6PPD-Q) to each species are marked by dotted lines correspondingly.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="es5c02072_0004.jpg"><?cloudpmc-path blobs/28c3/12288073/6589fc52f7fb/es5c02072_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 531?><?original-width 1361?><?scaled-height 265?><?scaled-width 680?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es5c02072_0004.gif"><?cloudpmc-path blobs/28c3/12288073/325f564840c4/es5c02072_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec></sec><sec id="sec4" disp-level="1"><title>Environmental Implications</title><p>Biotransformation
+modulates the toxicity and environmental persistence
+of commercial product additives, yielding metabolites with altered
+toxicity. Here, we present comprehensive screening and identify 9
+metabolites of 6PPD and 26 TPs of 6PPD-Q in soil model organism <italic>C. elegans</italic>, establishing the first time-resolved metabolic
+atlas that maps diverse biotransformation pathways and associated
+metabolites. Notably, novel <italic>in vivo</italic> metabolitesphosphorylated
+and monohydroxy phosphorylated 6PPD-Q derivativeswere discovered,
+revealing previously unrecognized detoxification or bioactivation
+pathways in this terrestrial organism. Semiquantitative kinetic profiling
+further detailed specific abundance variations of identified TPs over
+time, highlighting buildup patterns of certain derivatives that warrant
+prioritized assessment for persistence and environmental/biological
+occurrence.</p><p>Interspecies variability in biotransformation products
+and kinetics
+may underlie the pronounced differences in sensitivity and toxicological
+responses to environmental pollutants, as minor discrepancies in metabolic
+pathways, TPs, and even minute isomeric structures of the pollutants
+may lead to significant divergence in their biological properties
+and even toxicities. Therefore, the establishment of a comprehensive
+biotransformation data set for tire-derived chemicals, especially
+6PPD-Q, which demonstrated species-specific toxicity to particular
+salmonids, is of great significance. A very recent study revealed
+that the unique alkyl-OH-6PPD-Q metabolite might play a key role in
+the toxicity of 6PPD-Q by comparing the different TPs of multiple
+PPD-Qs in rainbow trout. Similarly, our
+study also disclosed the significantly distinct kinetic profiles of
+isomeric TPs with minor differences in the substitution sites.</p><p>Collectively, this study delineates 6PPD and 6PPD-Q biotransformation
+pathways, identifies novel metabolites, and provides insights into
+their kinetics and potential toxicity in a soil organism. However,
+as synthesized standards for the novel TPs identified via HRMS are
+currently unavailable, further confirmation of their specific structures
+is necessary, as constitutional and stereoisomerism can significantly
+affect bioactivity. While this study
+provides a hypothesis-generating data set mapping TPs and kinetics,
+future research employing synthesized standards for <italic>in vivo</italic> and <italic>in vitro</italic> toxicological validation, alongside
+genetic tools (e.g., RNAi, mutant strains) to confirm enzyme roles,
+is essential. Given the increasing environmental presence of structurally
+analogous p-phenylenediamines (PPDs) and their quinones (PPD-Qs) in
+soils, large-scale screening of their
+TPs represents a promising avenue for discovering novel biomarkers
+to monitor contamination in environmental matrices and ecological
+communities.</p></sec><sec id="sec15" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es5c02072_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 28c3/12288073/22a285926366/es5c02072_si_001.pdf?><?cloudpmc-bucket app?><?size 702485?></media></supplementary-material></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>The authors would like to acknowledge
+the financial
+support of the National Key Research and Development Program of China
+(2018YFA0901104) and Hong Kong General Research Fund (12302722 and
+12303321).</p></sec><sec id="notes2" disp-level="1"><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acs.est.5c02072?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acs.est.5c02072</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Additional description
+about the exposure concentration
+estimation and selection of single-dose exposure (Text S1); suspect
+and nontargeted screening analysis (Text S2); calculation of matrix
+effects (Text S3); instrument parameters used in the quantification
+and qualification of the analytes (Table S1); optimized MRM parameters
+(Table S2); in-house screening list of biotransformation products
+of 6PPD and 6PPD-Q (Table S3); predicted ecotoxicities of 6PPD, 6PPD-Q,
+and their biological TPs (Table S4); statistics of lethality of <italic>C. elegans</italic> during exposure to 6PPD and 6PPD-Q (Figure S1);
+external concentration of 6PPD, 6PPD-Q, and 4-HDPA in the culture
+(Figure S2); Calibration curves used for the determination of 6PPD
+and 6PPD-Q (Figure S3); MS/MS fragments of the identified biological
+transformation products and their structure elucidations (Figures
+S4–S11) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c02072/suppl_file/es5c02072_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes1" disp-level="1"><label>§.</label><p>W.W. and
+G.H. contributed equally to this work.</p></sec><sec id="NOTES-d14e2472-autogenerated" disp-level="1"><p>The
+authors declare no
+competing financial interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Vuckovic D., Tinoco A. I., Ling L., Renicke C., Pringle J. R., Mitch W. A.. Conversion of oxybenzone
+sunscreen to phototoxic glucoside
+conjugates by sea anemones and corals. Science. 2022;376(6593):644–648. doi: 10.1126/science.abn2600.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.abn2600"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35511969"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=Conversion of oxybenzone sunscreen to phototoxic glucoside conjugates by sea anemones and corals&amp;author=D. Vuckovic&amp;author=A. I. Tinoco&amp;author=L. Ling&amp;author=C. Renicke&amp;author=J. R. Pringle&amp;volume=376&amp;issue=6593&amp;publication_year=2022&amp;pages=644-648&amp;pmid=35511969&amp;doi=10.1126/science.abn2600&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Breinlinger S., Phillips T. J., Haram B. N., Mareš J., Martínez Yerena J. A., Hrouzek P., Sobotka R., Henderson W. M., Schmieder P., Williams S. M., Lauderdale J. D., Wilde H. D., Gerrin W., Kust A., Washington J. W., Wagner C., Geier B., Liebeke M., Enke H., Niedermeyer T. H. J., Wilde S. B.. Hunting the eagle killer: A cyanobacterial
+neurotoxin causes vacuolar myelinopathy. Science. 2021;371:eaax9050.  doi: 10.1126/science.aax9050.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.aax9050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8318203"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33766860"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=Hunting the eagle killer: A cyanobacterial neurotoxin causes vacuolar myelinopathy&amp;author=S. Breinlinger&amp;author=T. J. Phillips&amp;author=B. N. Haram&amp;author=J. Mareš&amp;author=J. A. Martínez Yerena&amp;volume=371&amp;publication_year=2021&amp;pages=eaax9050&amp;pmid=33766860&amp;doi=10.1126/science.aax9050&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Zhao H. N., Hu X., Gonzalez M., Rideout C. A., Hobby G. C., Fisher M. F., McCormick C. J., Dodd M. C., Kim K. E., Tian Z., Kolodziej E. P.. Screening
+p-Phenylenediamine Antioxidants, Their Transformation
+Products, and Industrial Chemical Additives in Crumb Rubber and Elastomeric
+Consumer Products. Environ. Sci. Technol. 2023;57(7):2779–2791. doi: 10.1021/acs.est.2c07014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.2c07014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36758188"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Screening p-Phenylenediamine Antioxidants, Their Transformation Products, and Industrial Chemical Additives in Crumb Rubber and Elastomeric Consumer Products&amp;author=H. N. Zhao&amp;author=X. Hu&amp;author=M. Gonzalez&amp;author=C. A. Rideout&amp;author=G. C. Hobby&amp;volume=57&amp;issue=7&amp;publication_year=2023&amp;pages=2779-2791&amp;pmid=36758188&amp;doi=10.1021/acs.est.2c07014&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Tian Z., Zhao H., Peter K. T., Gonzalez M., Wetzel J., Wu C., Hu X., Prat J., Mudrock E., Hettinger R., Cortina A. E., Biswas R. G., Kock F. V. C., Soong R., Jenne A., Du B., Hou F., He H., Lundeen R., Gilbreath A., Sutton R., Scholz N. L., Davis J. W., Dodd M. C., Simpson A., McIntyre J. K., Kolodziej E. P.. A ubiquitous tire rubber-derived chemical induces acute
+mortality in coho salmon. Science. 2021;371(6525):185–189. doi: 10.1126/science.abd6951.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.abd6951"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33273063"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=A ubiquitous tire rubber-derived chemical induces acute mortality in coho salmon&amp;author=Z. Tian&amp;author=H. Zhao&amp;author=K. T. Peter&amp;author=M. Gonzalez&amp;author=J. Wetzel&amp;volume=371&amp;issue=6525&amp;publication_year=2021&amp;pages=185-189&amp;pmid=33273063&amp;doi=10.1126/science.abd6951&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Wang W., Cao G., Zhang J., Chang W., Sang Y., Cai Z.. Fragmentation
+Pattern-Based Screening Strategy Combining Diagnostic Ion and Neutral
+Loss Uncovered Novel para-Phenylenediamine Quinone Contaminants in
+the Environment. Environ. Sci. Technol. 2024;58(13):5921–5931. doi: 10.1021/acs.est.4c00027.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c00027"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10993393"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38512777"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Fragmentation Pattern-Based Screening Strategy Combining Diagnostic Ion and Neutral Loss Uncovered Novel para-Phenylenediamine Quinone Contaminants in the Environment&amp;author=W. Wang&amp;author=G. Cao&amp;author=J. Zhang&amp;author=W. Chang&amp;author=Y. Sang&amp;volume=58&amp;issue=13&amp;publication_year=2024&amp;pages=5921-5931&amp;pmid=38512777&amp;doi=10.1021/acs.est.4c00027&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Huang W., Shi Y., Huang J., Deng C., Tang S., Liu X., Chen D.. Occurrence of Substituted p-Phenylenediamine Antioxidants in Dusts. Environ. Sci. Technol. Lett. 2021;8(5):381–385. doi: 10.1021/acs.estlett.1c00148.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.1c00148"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Occurrence of Substituted p-Phenylenediamine Antioxidants in Dusts&amp;author=W. Huang&amp;author=Y. Shi&amp;author=J. Huang&amp;author=C. Deng&amp;author=S. Tang&amp;volume=8&amp;issue=5&amp;publication_year=2021&amp;pages=381-385&amp;doi=10.1021/acs.estlett.1c00148&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Wang W., Zhang J., Huang G., Pryjomska-Ray I., Volmer D. A., Cai Z.. Tire-additive chemicals
+and their
+derivatives in urban road dust: Spatial distributions, exposures,
+and associations with tire and road wear particles. J. Hazard Mater. 2025;490:137749. doi: 10.1016/j.jhazmat.2025.137749.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2025.137749"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40024120"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard Mater.&amp;title=Tire-additive chemicals and their derivatives in urban road dust: Spatial distributions, exposures, and associations with tire and road wear particles&amp;author=W. Wang&amp;author=J. Zhang&amp;author=G. Huang&amp;author=I. Pryjomska-Ray&amp;author=D. A. Volmer&amp;volume=490&amp;publication_year=2025&amp;pages=137749&amp;pmid=40024120&amp;doi=10.1016/j.jhazmat.2025.137749&amp;"/></mixed-citation></ref><ref id="ref58"><mixed-citation id="cit58"><named-content content-type="citation-string">Wang W., Cao G., Zhang J., Wu P., Chen Y., Chen Z., Qi Z., Li R., Dong C., Cai Z.. Beyond Substituted
+p-Phenylenediamine Antioxidants: Prevalence of Their Quinone Derivatives
+in PM2.5. Environ. Sci. Technol. 2022;56(15):10629–10637. doi: 10.1021/acs.est.2c02463.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.2c02463"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9393868"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35834306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Beyond Substituted p-Phenylenediamine Antioxidants: Prevalence of Their Quinone Derivatives in PM2.5&amp;author=W. Wang&amp;author=G. Cao&amp;author=J. Zhang&amp;author=P. Wu&amp;author=Y. Chen&amp;volume=56&amp;issue=15&amp;publication_year=2022&amp;pages=10629-10637&amp;pmid=35834306&amp;doi=10.1021/acs.est.2c02463&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Peng W., Liu C., Chen D., Duan X., Zhong L.. Exposure to N-(1,3-dimethylbutyl)-N’-phenyl-p-phenylenediamine
+(6PPD) affects the growth and development of zebrafish embryos/larvae. Ecotoxicol Environ. Saf. 2022;232:113221. doi: 10.1016/j.ecoenv.2022.113221.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ecoenv.2022.113221"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35085887"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ecotoxicol Environ. Saf&amp;title=Exposure to N-(1,3-dimethylbutyl)-N’-phenyl-p-phenylenediamine (6PPD) affects the growth and development of zebrafish embryos/larvae&amp;author=W. Peng&amp;author=C. Liu&amp;author=D. Chen&amp;author=X. Duan&amp;author=L. Zhong&amp;volume=232&amp;publication_year=2022&amp;pages=113221&amp;pmid=35085887&amp;doi=10.1016/j.ecoenv.2022.113221&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Chang J., Zhang L., Zhao J., Zhang Z., Wang Z., Wang H., Wan B.. 6PPD, Not 6PPD-Quinone, Induced Serious
+Zebrafish Eye Damage by Disrupting the Thyroid Signaling Pathway. Environ. Sci. Technol. 2024;58(50):22076–22088. doi: 10.1021/acs.est.4c11264.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c11264"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39632073"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=6PPD, Not 6PPD-Quinone, Induced Serious Zebrafish Eye Damage by Disrupting the Thyroid Signaling Pathway&amp;author=J. Chang&amp;author=L. Zhang&amp;author=J. Zhao&amp;author=Z. Zhang&amp;author=Z. Wang&amp;volume=58&amp;issue=50&amp;publication_year=2024&amp;pages=22076-22088&amp;pmid=39632073&amp;doi=10.1021/acs.est.4c11264&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Tian Z., Gonzalez M., Rideout C. A., Zhao H. N., Hu X., Wetzel J., Mudrock E., James C. A., McIntyre J. K., Kolodziej E. P.. 6PPD-Quinone:
+Revised Toxicity Assessment and Quantification
+with a Commercial Standard. Environ. Sci. Technol.
+Lett. 2022;9(2):140–146. doi: 10.1021/acs.estlett.1c00910.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.1c00910"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=6PPD-Quinone: Revised Toxicity Assessment and Quantification with a Commercial Standard&amp;author=Z. Tian&amp;author=M. Gonzalez&amp;author=C. A. Rideout&amp;author=H. N. Zhao&amp;author=X. Hu&amp;volume=9&amp;issue=2&amp;publication_year=2022&amp;pages=140-146&amp;doi=10.1021/acs.estlett.1c00910&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Brinkmann M., Montgomery D., Selinger S., Miller J. G. P., Stock E., Alcaraz A. J., Challis J. K., Weber L., Janz D., Hecker M., Wiseman S.. Acute Toxicity of the
+Tire Rubber-Derived
+Chemical 6PPD-quinone to Four Fishes of Commercial, Cultural, and
+Ecological Importance. Environ. Sci. Technol.
+Lett. 2022;9(4):333–338. doi: 10.1021/acs.estlett.2c00050.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Acute Toxicity of the Tire Rubber-Derived Chemical 6PPD-quinone to Four Fishes of Commercial, Cultural, and Ecological Importance&amp;author=M. Brinkmann&amp;author=D. Montgomery&amp;author=S. Selinger&amp;author=J. G. P. Miller&amp;author=E. Stock&amp;volume=9&amp;issue=4&amp;publication_year=2022&amp;pages=333-338&amp;doi=10.1021/acs.estlett.2c00050&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Hiki K., Yamamoto H.. The Tire-Derived Chemical 6PPD-quinone
+Is Lethally
+Toxic to the White-Spotted Char Salvelinus leucomaenis pluvius but
+Not to Two Other Salmonid Species. Environ.
+Sci. Technol. Lett. 2022;9(12):1050–1055. doi: 10.1021/acs.estlett.2c00683.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00683"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=The Tire-Derived Chemical 6PPD-quinone Is Lethally Toxic to the White-Spotted Char Salvelinus leucomaenis pluvius but Not to Two Other Salmonid Species&amp;author=K. Hiki&amp;author=H. Yamamoto&amp;volume=9&amp;issue=12&amp;publication_year=2022&amp;pages=1050-1055&amp;doi=10.1021/acs.estlett.2c00683&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Varshney S., Gora A. H., Siriyappagouder P., Kiron V., Olsvik P. A.. Toxicological
+effects of 6PPD and 6PPD quinone in zebrafish larvae. J. Hazard Mater. 2022;424:127623.  doi: 10.1016/j.jhazmat.2021.127623.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2021.127623"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34742612"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard Mater.&amp;title=Toxicological effects of 6PPD and 6PPD quinone in zebrafish larvae&amp;author=S. Varshney&amp;author=A. H. Gora&amp;author=P. Siriyappagouder&amp;author=V. Kiron&amp;author=P. A. Olsvik&amp;volume=424&amp;publication_year=2022&amp;pages=127623&amp;pmid=34742612&amp;doi=10.1016/j.jhazmat.2021.127623&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Di S., Liu Z., Zhao H., Li Y., Qi P., Wang Z., Xu H., Jin Y., Wang X.. Chiral perspective
+evaluations: Enantioselective
+hydrolysis of 6PPD and 6PPD-quinone in water and enantioselective
+toxicity to Gobiocypris rarus and Oncorhynchus mykiss. Environ. Int. 2022;166:107374. doi: 10.1016/j.envint.2022.107374.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envint.2022.107374"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35780684"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Int.&amp;title=Chiral perspective evaluations: Enantioselective hydrolysis of 6PPD and 6PPD-quinone in water and enantioselective toxicity to Gobiocypris rarus and Oncorhynchus mykiss&amp;author=S. Di&amp;author=Z. Liu&amp;author=H. Zhao&amp;author=Y. Li&amp;author=P. Qi&amp;volume=166&amp;publication_year=2022&amp;pages=107374&amp;pmid=35780684&amp;doi=10.1016/j.envint.2022.107374&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Mahoney H., da Silva Junior F. C., Roberts C., Schultz M., Ji X., Alcaraz A. J., Montgomery D., Selinger S., Challis J. K., Giesy J. P., Weber L., Janz D., Wiseman S., Hecker M., Brinkmann M.. Exposure to the Tire Rubber-Derived
+Contaminant 6PPD-Quinone Causes Mitochondrial Dysfunction In Vitro. Environ. Sci. Technol. Lett. 2022;9(9):765–771. doi: 10.1021/acs.estlett.2c00431.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00431"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Exposure to the Tire Rubber-Derived Contaminant 6PPD-Quinone Causes Mitochondrial Dysfunction In Vitro&amp;author=H. Mahoney&amp;author=F. C. da Silva Junior&amp;author=C. Roberts&amp;author=M. Schultz&amp;author=X. Ji&amp;volume=9&amp;issue=9&amp;publication_year=2022&amp;pages=765-771&amp;doi=10.1021/acs.estlett.2c00431&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Montgomery D., Ji X., Cantin J., Philibert D., Foster G., Selinger S., Jain N., Miller J., McIntyre J., de Jourdan B., Wiseman S., Hecker M., Brinkmann M.. Interspecies
+Differences in 6PPD-Quinone Toxicity Across Seven Fish Species: Metabolite
+Identification and Semiquantification. Environ.
+Sci. Technol. 2023;57(50):21071–21079. doi: 10.1021/acs.est.3c06891.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c06891"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38048442"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Interspecies Differences in 6PPD-Quinone Toxicity Across Seven Fish Species: Metabolite Identification and Semiquantification&amp;author=D. Montgomery&amp;author=X. Ji&amp;author=J. Cantin&amp;author=D. Philibert&amp;author=G. Foster&amp;volume=57&amp;issue=50&amp;publication_year=2023&amp;pages=21071-21079&amp;pmid=38048442&amp;doi=10.1021/acs.est.3c06891&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Fang L., Fang C., Di S., Yu Y., Wang C., Wang X., Jin Y.. Oral exposure to tire rubber-derived
+contaminant 6PPD and 6PPD-quinone induce hepatotoxicity in mice. Sci. Total Environ. 2023;869:161836. doi: 10.1016/j.scitotenv.2023.161836.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2023.161836"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36716866"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Oral exposure to tire rubber-derived contaminant 6PPD and 6PPD-quinone induce hepatotoxicity in mice&amp;author=L. Fang&amp;author=C. Fang&amp;author=S. Di&amp;author=Y. Yu&amp;author=C. Wang&amp;volume=869&amp;publication_year=2023&amp;pages=161836&amp;pmid=36716866&amp;doi=10.1016/j.scitotenv.2023.161836&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Zhang J., Cao G., Wang W., Qiao H., Chen Y., Wang X., Wang F., Liu W., Cai Z.. Stable isotope-assisted
+mass spectrometry reveals in vivo distribution, metabolism, and excretion
+of tire rubber-derived 6PPD-quinone in mice. Sci. Total Environ. 2024;912:169291. doi: 10.1016/j.scitotenv.2023.169291.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2023.169291"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38104817"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Stable isotope-assisted mass spectrometry reveals in vivo distribution, metabolism, and excretion of tire rubber-derived 6PPD-quinone in mice&amp;author=J. Zhang&amp;author=G. Cao&amp;author=W. Wang&amp;author=H. Qiao&amp;author=Y. Chen&amp;volume=912&amp;publication_year=2024&amp;pages=169291&amp;pmid=38104817&amp;doi=10.1016/j.scitotenv.2023.169291&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Hua X., Liang G., Chao J., Wang D.. Exposure to 6-PPD quinone
+causes damage on mitochondrial complex I/II associated with lifespan
+reduction in Caenorhabditis elegans. J. Hazard
+Mater. 2024;472:134598. doi: 10.1016/j.jhazmat.2024.134598.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2024.134598"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38743975"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard Mater.&amp;title=Exposure to 6-PPD quinone causes damage on mitochondrial complex I/II associated with lifespan reduction in Caenorhabditis elegans&amp;author=X. Hua&amp;author=G. Liang&amp;author=J. Chao&amp;author=D. Wang&amp;volume=472&amp;publication_year=2024&amp;pages=134598&amp;pmid=38743975&amp;doi=10.1016/j.jhazmat.2024.134598&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Liu Z., Bian Q., Wang D.. Exposure to
+6-PPD quinone causes
+ferroptosis activation associated with induction of reproductive toxicity
+in Caenorhabditis elegans. J. Hazard Mater. 2024;471:134356. doi: 10.1016/j.jhazmat.2024.134356.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2024.134356"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38643579"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard Mater.&amp;title=Exposure to 6-PPD quinone causes ferroptosis activation associated with induction of reproductive toxicity in Caenorhabditis elegans&amp;author=Z. Liu&amp;author=Q. Bian&amp;author=D. Wang&amp;volume=471&amp;publication_year=2024&amp;pages=134356&amp;pmid=38643579&amp;doi=10.1016/j.jhazmat.2024.134356&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Wang Y., Hua X., Wang D.. Exposure to
+6-PPD quinone enhances lipid accumulation
+through activating metabolic sensors of SBP-1 and MDT-15 in Caenorhabditis
+elegans. Environ. Pollut. 2023;333:121937. doi: 10.1016/j.envpol.2023.121937.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2023.121937"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37307863"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Exposure to 6-PPD quinone enhances lipid accumulation through activating metabolic sensors of SBP-1 and MDT-15 in Caenorhabditis elegans&amp;author=Y. Wang&amp;author=X. Hua&amp;author=D. Wang&amp;volume=333&amp;publication_year=2023&amp;pages=121937&amp;pmid=37307863&amp;doi=10.1016/j.envpol.2023.121937&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Liu H., Tan X., Wu Y., Li X., Hu Z., Lei S., Fan W., Wang Z.. Long-term exposure to 6-PPD quinone
+at environmentally
+relevant concentrations causes neurotoxicity by affecting dopaminergic,
+serotonergic, glutamatergic, and GABAergic neuronal systems in Caenorhabditis
+elegans. Sci. Total Environ. 2024;922:171291. doi: 10.1016/j.scitotenv.2024.171291.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2024.171291"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38423311"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Long-term exposure to 6-PPD quinone at environmentally relevant concentrations causes neurotoxicity by affecting dopaminergic, serotonergic, glutamatergic, and GABAergic neuronal systems in Caenorhabditis elegans&amp;author=H. Liu&amp;author=X. Tan&amp;author=Y. Wu&amp;author=X. Li&amp;author=Z. Hu&amp;volume=922&amp;publication_year=2024&amp;pages=171291&amp;pmid=38423311&amp;doi=10.1016/j.scitotenv.2024.171291&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Cao G., Wang W., Zhang J., Wu P., Zhao X., Yang Z., Hu D., Cai Z.. New Evidence
+of Rubber-Derived
+Quinones in Water, Air, and Soil. Environ. Sci.
+Technol. 2022;56(7):4142–4150. doi: 10.1021/acs.est.1c07376.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c07376"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8988306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35316033"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=New Evidence of Rubber-Derived Quinones in Water, Air, and Soil&amp;author=G. Cao&amp;author=W. Wang&amp;author=J. Zhang&amp;author=P. Wu&amp;author=X. Zhao&amp;volume=56&amp;issue=7&amp;publication_year=2022&amp;pages=4142-4150&amp;pmid=35316033&amp;doi=10.1021/acs.est.1c07376&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Zhang Z., Dai C., Chen S., Hu H., Kang R., Xu X., Huo X.. Spatiotemporal variation of 6PPD and 6PPDQ in dust and soil from
+e-waste recycling areas. Sci. Total Environ. 2024;923:171495. doi: 10.1016/j.scitotenv.2024.171495.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2024.171495"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38453087"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Spatiotemporal variation of 6PPD and 6PPDQ in dust and soil from e-waste recycling areas&amp;author=Z. Zhang&amp;author=C. Dai&amp;author=S. Chen&amp;author=H. Hu&amp;author=R. Kang&amp;volume=923&amp;publication_year=2024&amp;pages=171495&amp;pmid=38453087&amp;doi=10.1016/j.scitotenv.2024.171495&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Zhang Y., Li J.-N., Wang J.-X., Hu J., Sun J.-L., Li Y.-F., Li W.-L., Tang Z.-H., Zhang Z.-F.. Aniline
+antioxidants in road dust, parking lot dust, and green-belt soil in
+Harbin, a megacity in China: Occurrence, profile, and seasonal variation. J. Hazard. Mater. 2024;469:134001. doi: 10.1016/j.jhazmat.2024.134001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2024.134001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38479136"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard. Mater.&amp;title=Aniline antioxidants in road dust, parking lot dust, and green-belt soil in Harbin, a megacity in China: Occurrence, profile, and seasonal variation&amp;author=Y. Zhang&amp;author=J.-N. Li&amp;author=J.-X. Wang&amp;author=J. Hu&amp;author=J.-L. Sun&amp;volume=469&amp;publication_year=2024&amp;pages=134001&amp;pmid=38479136&amp;doi=10.1016/j.jhazmat.2024.134001&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Keith S. A., Amrit F. R. G., Ratnappan R., Ghazi A.. The C. elegans healthspan
+and stress-resistance assay toolkit. Methods. 2014;68(3):476–486. doi: 10.1016/j.ymeth.2014.04.003.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ymeth.2014.04.003"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24727065"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Methods&amp;title=The C. elegans healthspan and stress-resistance assay toolkit&amp;author=S. A. Keith&amp;author=F. R. G. Amrit&amp;author=R. Ratnappan&amp;author=A. Ghazi&amp;volume=68&amp;issue=3&amp;publication_year=2014&amp;pages=476-486&amp;pmid=24727065&amp;doi=10.1016/j.ymeth.2014.04.003&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Garcia-Gonzalez A. P., Ritter A. D., Shrestha S., Andersen E. C., Yilmaz L. S., Walhout A. J. M.. Bacterial Metabolism Affects the C. elegans Response
+to Cancer Chemotherapeutics. Cell. 2017;169(3):431–441.e8. doi: 10.1016/j.cell.2017.03.046.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.cell.2017.03.046"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5484065"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28431244"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cell&amp;title=Bacterial Metabolism Affects the C. elegans Response to Cancer Chemotherapeutics&amp;author=A. P. Garcia-Gonzalez&amp;author=A. D. Ritter&amp;author=S. Shrestha&amp;author=E. C. Andersen&amp;author=L. S. Yilmaz&amp;volume=169&amp;issue=3&amp;publication_year=2017&amp;pages=431-441.e8&amp;pmid=28431244&amp;doi=10.1016/j.cell.2017.03.046&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Hiki K., Asahina K., Kato K., Yamagishi T., Omagari R., Iwasaki Y., Watanabe H., Yamamoto H.. Acute Toxicity
+of a Tire Rubber-Derived Chemical, 6PPD Quinone, to Freshwater Fish
+and Crustacean Species. Environ. Sci. Technol.
+Lett. 2021;8(9):779–784. doi: 10.1021/acs.estlett.1c00453.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.1c00453"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Acute Toxicity of a Tire Rubber-Derived Chemical, 6PPD Quinone, to Freshwater Fish and Crustacean Species&amp;author=K. Hiki&amp;author=K. Asahina&amp;author=K. Kato&amp;author=T. Yamagishi&amp;author=R. Omagari&amp;volume=8&amp;issue=9&amp;publication_year=2021&amp;pages=779-784&amp;doi=10.1021/acs.estlett.1c00453&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Halama J. J., McKane R. B., Barnhart B. L., Pettus P. P., Brookes A. F., Adams A. K., Gockel C. K., Djang K. S., Phan V., Chokshi S. M., Graham J. J., Tian Z., Peter K. T., Kolodziej E. P.. Watershed analysis of urban stormwater
+contaminant
+6PPD-Quinone hotspots and stream concentrations using a process-based
+ecohydrological model. Front Environ. Sci. 2024;12:1–12. doi: 10.3389/fenvs.2024.1364673.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fenvs.2024.1364673"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11151736"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38845698"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Front Environ. Sci.&amp;title=Watershed analysis of urban stormwater contaminant 6PPD-Quinone hotspots and stream concentrations using a process-based ecohydrological model&amp;author=J. J. Halama&amp;author=R. B. McKane&amp;author=B. L. Barnhart&amp;author=P. P. Pettus&amp;author=A. F. Brookes&amp;volume=12&amp;publication_year=2024&amp;pages=1-12&amp;pmid=38845698&amp;doi=10.3389/fenvs.2024.1364673&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Nair P., Sun J., Xie L., Kennedy L., Kozakiewicz D., Kleywegt S. M., Hao C., Byun H., Barrett H., Baker J., Monaghan J., Krogh E. T., Song D., Peng H.. Synthesis and Toxicity
+Evaluation of p-Phenylenediamine-Quinones. Environ.
+Sci. Technol. 2025;59(15):7485–7494. doi: 10.1021/acs.est.4c12220.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c12220"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40197014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Synthesis and Toxicity Evaluation of p-Phenylenediamine-Quinones&amp;author=P. Nair&amp;author=J. Sun&amp;author=L. Xie&amp;author=L. Kennedy&amp;author=D. Kozakiewicz&amp;volume=59&amp;issue=15&amp;publication_year=2025&amp;pages=7485-7494&amp;pmid=40197014&amp;doi=10.1021/acs.est.4c12220&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Ankley P. J., da Silva F. C., Montgomery D., Schultz M., Krol E. S., Hecker M., Brinkmann M.. Biotransformation of 6PPD-quinone
+In Vitro Using RTL-W1 Cell Line. Environ. Sci.
+Technol. Lett. 2024;11(7):687–693. doi: 10.1021/acs.estlett.4c00342.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.4c00342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Biotransformation of 6PPD-quinone In Vitro Using RTL-W1 Cell Line&amp;author=P. J. Ankley&amp;author=F. C. da Silva&amp;author=D. Montgomery&amp;author=M. Schultz&amp;author=E. S. Krol&amp;volume=11&amp;issue=7&amp;publication_year=2024&amp;pages=687-693&amp;doi=10.1021/acs.estlett.4c00342&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Zhang Y. Y., Huang J. W., Liu Y. H., Zhang J. N., Huang Z., Liu Y. S., Zhao J. L., Ying G. G.. In vitro
+metabolism
+of the emerging contaminant 6PPD-quinone in human and rat liver microsomes:
+Kinetics, pathways, and mechanism. Environ.
+Pollut. 2024;345:123514. doi: 10.1016/j.envpol.2024.123514.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2024.123514"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38346634"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=In vitro metabolism of the emerging contaminant 6PPD-quinone in human and rat liver microsomes: Kinetics, pathways, and mechanism&amp;author=Y. Y. Zhang&amp;author=J. W. Huang&amp;author=Y. H. Liu&amp;author=J. N. Zhang&amp;author=Z. Huang&amp;volume=345&amp;publication_year=2024&amp;pages=123514&amp;pmid=38346634&amp;doi=10.1016/j.envpol.2024.123514&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Jiang P., Qiu J., Gao Y., Stefan M. I., Li X. F.. Nontargeted identification
+and predicted toxicity of new byproducts generated from UV treatment
+of water containing micropollutant 2-mercaptobenzothiazole. Water Res. 2021;188:116542. doi: 10.1016/j.watres.2020.116542.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2020.116542"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33128979"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Nontargeted identification and predicted toxicity of new byproducts generated from UV treatment of water containing micropollutant 2-mercaptobenzothiazole&amp;author=P. Jiang&amp;author=J. Qiu&amp;author=Y. Gao&amp;author=M. I. Stefan&amp;author=X. F. Li&amp;volume=188&amp;publication_year=2021&amp;pages=116542&amp;pmid=33128979&amp;doi=10.1016/j.watres.2020.116542&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Espada L., Dakhovnik A., Chaudhari P., Martirosyan A., Miek L., Poliezhaieva T., Schaub Y., Nair A., Döring N., Rahnis N., Werz O., Koeberle A., Kirkpatrick J., Ori A., Ermolaeva M. A.. Loss of
+metabolic plasticity underlies metformin toxicity in aged Caenorhabditis
+elegans. Nat. Metab. 2020;2(11):1316–1331. doi: 10.1038/s42255-020-00307-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s42255-020-00307-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33139960"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Metab.&amp;title=Loss of metabolic plasticity underlies metformin toxicity in aged Caenorhabditis elegans&amp;author=L. Espada&amp;author=A. Dakhovnik&amp;author=P. Chaudhari&amp;author=A. Martirosyan&amp;author=L. Miek&amp;volume=2&amp;issue=11&amp;publication_year=2020&amp;pages=1316-1331&amp;pmid=33139960&amp;doi=10.1038/s42255-020-00307-1&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Zhang X., Guo Y., Dallin E., Ma J., Dai M., Phillips D. L.. Unusual
+Acetonitrile Adduct Formed via Photolysis of 4′-Chloro-2-Hydroxybiphenyl
+in Aqueous Solution. Journal of Organic Chemistry. 2020;85(18):11635–11640. doi: 10.1021/acs.joc.0c01115.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.joc.0c01115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32842735"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Organic Chemistry&amp;title=Unusual Acetonitrile Adduct Formed via Photolysis of 4′-Chloro-2-Hydroxybiphenyl in Aqueous Solution&amp;author=X. Zhang&amp;author=Y. Guo&amp;author=E. Dallin&amp;author=J. Ma&amp;author=M. Dai&amp;volume=85&amp;issue=18&amp;publication_year=2020&amp;pages=11635-11640&amp;pmid=32842735&amp;doi=10.1021/acs.joc.0c01115&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">
+USEPA. Ecological Structure Activity Relationships
+(ECOSAR) Predictive Model. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.epa.gov/tsca-screening-tools/ecological-structure-activity-relationships-ecosar-predictive-model" ext-link-type="uri">https://www.epa.gov/tsca-screening-tools/ecological-structure-activity-relationships-ecosar-predictive-model</ext-link> (accessed 2022-10-11).</named-content></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Carpinteiro I., Rodil R., Quintana J. B., Cela R.. Reaction of diazepam
+and related benzodiazepines with chlorine. Kinetics, transformation
+products and in-silico toxicological assessment. Water Res. 2017;120:280–289. doi: 10.1016/j.watres.2017.04.063.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2017.04.063"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28549311"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Reaction of diazepam and related benzodiazepines with chlorine. Kinetics, transformation products and in-silico toxicological assessment&amp;author=I. Carpinteiro&amp;author=R. Rodil&amp;author=J. B. Quintana&amp;author=R. Cela&amp;volume=120&amp;publication_year=2017&amp;pages=280-289&amp;pmid=28549311&amp;doi=10.1016/j.watres.2017.04.063&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Scholze M., Boedeker W., Faust M., Backhaus T., Altenburger R., Grimme L. H.. A general best-fit method for concentration-response
+curves and the estimation of low-effect concentrations. Environ. Toxicol. Chem. 2001;20(2):448–457. doi: 10.1897/1551-5028(2001)020&lt;0448:AGBFMF&gt;2.0.CO;2.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1897/1551-5028(2001)020&lt;0448:AGBFMF&gt;2.0.CO;2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11351447"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Toxicol. Chem.&amp;title=A general best-fit method for concentration-response curves and the estimation of low-effect concentrations&amp;author=M. Scholze&amp;author=W. Boedeker&amp;author=M. Faust&amp;author=T. Backhaus&amp;author=R. Altenburger&amp;volume=20&amp;issue=2&amp;publication_year=2001&amp;pages=448-457&amp;pmid=11351447&amp;doi=10.1897/1551-5028(2001)020&lt;0448:AGBFMF&gt;2.0.CO;2&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Schymanski E. L., Jeon J., Gulde R., Fenner K., Ruff M., Singer H. P., Hollender J.. Identifying
+Small Molecules via High
+Resolution Mass Spectrometry: Communicating Confidence. Environ. Sci. Technol. 2014;48(4):2097–2098. doi: 10.1021/es5002105.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/es5002105"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24476540"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Identifying Small Molecules via High Resolution Mass Spectrometry: Communicating Confidence&amp;author=E. L. Schymanski&amp;author=J. Jeon&amp;author=R. Gulde&amp;author=K. Fenner&amp;author=M. Ruff&amp;volume=48&amp;issue=4&amp;publication_year=2014&amp;pages=2097-2098&amp;pmid=24476540&amp;doi=10.1021/es5002105&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">
+
+Croom, E.
+
+Chapter Three
+- Metabolism of Xenobiotics of Human Environments.
+In Prog. Mol. Biol. Transl. Sci.; 
+Hodgson, E.
+, Ed.; Academic
+Press, 2012; Vol. 112, pp 31–88.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/B978-0-12-415813-9.00003-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22974737"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Prog. Mol. Biol. Transl. Sci.&amp;publication_year=2012&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Stasiuk S. J., MacNevin G., Workentine M. L., Gray D., Redman E., Bartley D., Morrison A., Sharma N., Colwell D., Ro D. K., Gilleard J. S.. Similarities and differences in the
+biotransformation and transcriptomic responses of Caenorhabditis elegans
+and Haemonchus contortus to five different benzimidazole drugs. Int. J. Parasitol Drugs Drug Resist. 2019;11:13–29. doi: 10.1016/j.ijpddr.2019.09.001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijpddr.2019.09.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6796749"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31542693"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Parasitol Drugs Drug Resist&amp;title=Similarities and differences in the biotransformation and transcriptomic responses of Caenorhabditis elegans and Haemonchus contortus to five different benzimidazole drugs&amp;author=S. J. Stasiuk&amp;author=G. MacNevin&amp;author=M. L. Workentine&amp;author=D. Gray&amp;author=E. Redman&amp;volume=11&amp;publication_year=2019&amp;pages=13-29&amp;pmid=31542693&amp;doi=10.1016/j.ijpddr.2019.09.001&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Stupp G. S., von Reuss S. H., Izrayelit Y., Ajredini R., Schroeder F. C., Edison A. S.. Chemical detoxification of small molecules by Caenorhabditis
+elegans. ACS Chem. Biol. 2013;8(2):309–13. doi: 10.1021/cb300520u.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/cb300520u"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3747836"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23163740"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ACS Chem. Biol.&amp;title=Chemical detoxification of small molecules by Caenorhabditis elegans&amp;author=G. S. Stupp&amp;author=S. H. von Reuss&amp;author=Y. Izrayelit&amp;author=R. Ajredini&amp;author=F. C. Schroeder&amp;volume=8&amp;issue=2&amp;publication_year=2013&amp;pages=309-13&amp;pmid=23163740&amp;doi=10.1021/cb300520u&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Soukup S. T., Spanier B., Grunz G., Bunzel D., Daniel H., Kulling S. E.. Formation of phosphoglycosides
+in Caenorhabditis elegans:
+a novel biotransformation pathway. PLoS One. 2012;7:e46914.  doi: 10.1371/journal.pone.0046914.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0046914"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3474776"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23082135"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Formation of phosphoglycosides in Caenorhabditis elegans: a novel biotransformation pathway&amp;author=S. T. Soukup&amp;author=B. Spanier&amp;author=G. Grunz&amp;author=D. Bunzel&amp;author=H. Daniel&amp;volume=7&amp;publication_year=2012&amp;pages=e46914&amp;pmid=23082135&amp;doi=10.1371/journal.pone.0046914&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Knox J., Burns A. R., Cooke B., Cammalleri S. R., Kitner M., Ching J., Castelli J. M. P., Puumala E., Snider J., Koury E., Collins J. B., Geissah S., Dowling J. J., Andersen E. C., Stagljar I., Cowen L. E., Lautens M., Zasada I., Roy P. J.. Cyprocide
+selectively
+kills nematodes via cytochrome P450 bioactivation. Nat. Commun. 2024;15:5529. doi: 10.1038/s41467-024-49738-4.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-024-49738-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11219838"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38956039"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=Cyprocide selectively kills nematodes via cytochrome P450 bioactivation&amp;author=J. Knox&amp;author=A. R. Burns&amp;author=B. Cooke&amp;author=S. R. Cammalleri&amp;author=M. Kitner&amp;volume=15&amp;publication_year=2024&amp;pages=5529&amp;pmid=38956039&amp;doi=10.1038/s41467-024-49738-4&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Seiwert B., Nihemaiti M., Troussier M., Weyrauch S., Reemtsma T.. Abiotic oxidative
+transformation of 6-PPD and 6-PPD quinone from tires and occurrence
+of their products in snow from urban roads and in municipal wastewater. Water Res. 2022;212:118122. doi: 10.1016/j.watres.2022.118122.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2022.118122"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35101694"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Abiotic oxidative transformation of 6-PPD and 6-PPD quinone from tires and occurrence of their products in snow from urban roads and in municipal wastewater&amp;author=B. Seiwert&amp;author=M. Nihemaiti&amp;author=M. Troussier&amp;author=S. Weyrauch&amp;author=T. Reemtsma&amp;volume=212&amp;publication_year=2022&amp;pages=118122&amp;pmid=35101694&amp;doi=10.1016/j.watres.2022.118122&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Grasse N., Seiwert B., Massei R., Scholz S., Fu Q., Reemtsma T.. Uptake and Biotransformation of the Tire Rubber-derived
+Contaminants 6-PPD and 6-PPD Quinone in the Zebrafish Embryo (Danio
+rerio) Environ. Sci. Technol. 2023;57(41):15598–15607. doi: 10.1021/acs.est.3c02819.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c02819"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10586378"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37782849"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Uptake and Biotransformation of the Tire Rubber-derived Contaminants 6-PPD and 6-PPD Quinone in the Zebrafish Embryo (Danio rerio)&amp;author=N. Grasse&amp;author=B. Seiwert&amp;author=R. Massei&amp;author=S. Scholz&amp;author=Q. Fu&amp;volume=57&amp;issue=41&amp;publication_year=2023&amp;pages=15598-15607&amp;pmid=37782849&amp;doi=10.1021/acs.est.3c02819&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Yang Y., Meng W., Zhang Y., Meng W., Li J., Liu W., Su G.. Characterizing the Metabolism of Tire Rubber-Derived
+p-Phenylenediamine Quinones to Identify Potential Exposure Biomarkers
+in Humans. Environ. Sci. Technol. 2024;58(41):18098–18108. doi: 10.1021/acs.est.4c04693.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c04693"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39367834"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Characterizing the Metabolism of Tire Rubber-Derived p-Phenylenediamine Quinones to Identify Potential Exposure Biomarkers in Humans&amp;author=Y. Yang&amp;author=W. Meng&amp;author=Y. Zhang&amp;author=W. Meng&amp;author=J. Li&amp;volume=58&amp;issue=41&amp;publication_year=2024&amp;pages=18098-18108&amp;pmid=39367834&amp;doi=10.1021/acs.est.4c04693&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">Deng M., Ji X., Peng B., Fang M.. In Vitro and In Vivo Biotransformation
+Profiling of 6PPD-Quinone toward Their Detection in Human Urine. Environ. Sci. Technol. 2024;58(21):9113–9124. doi: 10.1021/acs.est.4c01106.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c01106"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38743028"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=In Vitro and In Vivo Biotransformation Profiling of 6PPD-Quinone toward Their Detection in Human Urine&amp;author=M. Deng&amp;author=X. Ji&amp;author=B. Peng&amp;author=M. Fang&amp;volume=58&amp;issue=21&amp;publication_year=2024&amp;pages=9113-9124&amp;pmid=38743028&amp;doi=10.1021/acs.est.4c01106&amp;"/></mixed-citation></ref><ref id="ref50"><mixed-citation id="cit50"><named-content content-type="citation-string">Zhang L., Jin Y., Chen M., Huang M., Harvey R. G., Blair I. A., Penning T. M.. Detoxication
+of Structurally Diverse Polycyclic Aromatic
+Hydrocarbon (PAH) o-Quinones by Human Recombinant Catechol-O-methyltransferase
+(COMT) via O-Methylation of PAH Catechols*. J. Biol. Chem. 2011;286(29):25644–25654. doi: 10.1074/jbc.M111.240739.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1074/jbc.M111.240739"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3138279"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21622560"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Biol. Chem.&amp;title=Detoxication of Structurally Diverse Polycyclic Aromatic Hydrocarbon (PAH) o-Quinones by Human Recombinant Catechol-O-methyltransferase (COMT) via O-Methylation of PAH Catechols*&amp;author=L. Zhang&amp;author=Y. Jin&amp;author=M. Chen&amp;author=M. Huang&amp;author=R. G. Harvey&amp;volume=286&amp;issue=29&amp;publication_year=2011&amp;pages=25644-25654&amp;pmid=21622560&amp;doi=10.1074/jbc.M111.240739&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Lu Y. C., Luo F., Pu Z. J., Zhang S., Huang M. T., Yang H.. Enhanced detoxification
+and degradation of herbicide atrazine by a group of O-methyltransferases
+in rice. Chemosphere. 2016;165:487–496. doi: 10.1016/j.chemosphere.2016.09.025.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2016.09.025"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27677124"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Enhanced detoxification and degradation of herbicide atrazine by a group of O-methyltransferases in rice&amp;author=Y. C. Lu&amp;author=F. Luo&amp;author=Z. J. Pu&amp;author=S. Zhang&amp;author=M. T. Huang&amp;volume=165&amp;publication_year=2016&amp;pages=487-496&amp;pmid=27677124&amp;doi=10.1016/j.chemosphere.2016.09.025&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Burns A. R., Wallace I. M., Wildenhain J., Tyers M., Giaever G., Bader G. D., Nislow C., Cutler S. R., Roy P. J.. A predictive
+model for drug bioaccumulation and bioactivity in Caenorhabditis elegans. Nat. Chem. Biol. 2010;6(7):549–557. doi: 10.1038/nchembio.380.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nchembio.380"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20512140"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Chem. Biol.&amp;title=A predictive model for drug bioaccumulation and bioactivity in Caenorhabditis elegans&amp;author=A. R. Burns&amp;author=I. M. Wallace&amp;author=J. Wildenhain&amp;author=M. Tyers&amp;author=G. Giaever&amp;volume=6&amp;issue=7&amp;publication_year=2010&amp;pages=549-557&amp;pmid=20512140&amp;doi=10.1038/nchembio.380&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Laing S. T., Ivens A., Laing R., Ravikumar S., Butler V., Woods D. J., Gilleard J. S.. Characterization
+of the xenobiotic response of Caenorhabditis elegans to the anthelmintic
+drug albendazole and the identification of novel drug glucoside metabolites. Biochem. J. 2010;432(3):505–516. doi: 10.1042/BJ20101346.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1042/BJ20101346"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20929438"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochem. J.&amp;title=Characterization of the xenobiotic response of Caenorhabditis elegans to the anthelmintic drug albendazole and the identification of novel drug glucoside metabolites&amp;author=S. T. Laing&amp;author=A. Ivens&amp;author=R. Laing&amp;author=S. Ravikumar&amp;author=V. Butler&amp;volume=432&amp;issue=3&amp;publication_year=2010&amp;pages=505-516&amp;pmid=20929438&amp;doi=10.1042/BJ20101346&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">Menzel R., Bogaert T., Achazi R.. A Systematic Gene Expression Screen
+of Caenorhabditis elegans Cytochrome P450 Genes Reveals CYP35 as Strongly
+Xenobiotic Inducible. Arch. Biochem. Biophys. 2001;395(2):158–168. doi: 10.1006/abbi.2001.2568.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1006/abbi.2001.2568"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11697852"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Biochem. Biophys.&amp;title=A Systematic Gene Expression Screen of Caenorhabditis elegans Cytochrome P450 Genes Reveals CYP35 as Strongly Xenobiotic Inducible&amp;author=R. Menzel&amp;author=T. Bogaert&amp;author=R. Achazi&amp;volume=395&amp;issue=2&amp;publication_year=2001&amp;pages=158-168&amp;pmid=11697852&amp;doi=10.1006/abbi.2001.2568&amp;"/></mixed-citation></ref><ref id="ref55"><mixed-citation id="cit55"><named-content content-type="citation-string">Hartman J. H., Widmayer S. J., Bergemann C. M., King D. E., Morton K. S., Romersi R. F., Jameson L. E., Leung M. C. K., Andersen E. C., Taubert S., Meyer J. N.. Xenobiotic metabolism and transport
+in Caenorhabditis elegans. J. Toxicol Environ.
+Health B Crit Rev. 2021;24(2):51–94. doi: 10.1080/10937404.2021.1884921.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1080/10937404.2021.1884921"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7958427"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33616007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Toxicol Environ. Health B Crit Rev.&amp;title=Xenobiotic metabolism and transport in Caenorhabditis elegans&amp;author=J. H. Hartman&amp;author=S. J. Widmayer&amp;author=C. M. Bergemann&amp;author=D. E. King&amp;author=K. S. Morton&amp;volume=24&amp;issue=2&amp;publication_year=2021&amp;pages=51-94&amp;pmid=33616007&amp;doi=10.1080/10937404.2021.1884921&amp;"/></mixed-citation></ref><ref id="ref56"><mixed-citation id="cit56"><named-content content-type="citation-string">Wei L.-N., Wu N.-N., Xu R., Liu S., Li H.-X., Lin L., Hou R., Xu X.-R., Zhao J.-L., Ying G.-G.. First Evidence
+of the Bioaccumulation and Trophic Transfer of Tire Additives and
+Their Transformation Products in an Estuarine Food Web. Environ. Sci. Technol. 2024;58(14):6370–6380. doi: 10.1021/acs.est.3c10248.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c10248"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38497719"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=First Evidence of the Bioaccumulation and Trophic Transfer of Tire Additives and Their Transformation Products in an Estuarine Food Web&amp;author=L.-N. Wei&amp;author=N.-N. Wu&amp;author=R. Xu&amp;author=S. Liu&amp;author=H.-X. Li&amp;volume=58&amp;issue=14&amp;publication_year=2024&amp;pages=6370-6380&amp;pmid=38497719&amp;doi=10.1021/acs.est.3c10248&amp;"/></mixed-citation></ref><ref id="ref57"><mixed-citation id="cit57"><named-content content-type="citation-string">Castan S., Sherman A., Peng R., Zumstein M. T., Wanek W., Huffer T., Hofmann T.. Uptake, Metabolism,
+and Accumulation
+of Tire Wear Particle-Derived Compounds in Lettuce. Environ. Sci. Technol. 2023;57(1):168–178. doi: 10.1021/acs.est.2c05660.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.2c05660"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9835885"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36576319"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Uptake, Metabolism, and Accumulation of Tire Wear Particle-Derived Compounds in Lettuce&amp;author=S. Castan&amp;author=A. Sherman&amp;author=R. Peng&amp;author=M. T. Zumstein&amp;author=W. Wanek&amp;volume=57&amp;issue=1&amp;publication_year=2023&amp;pages=168-178&amp;pmid=36576319&amp;doi=10.1021/acs.est.2c05660&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es5c02072_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 28c3/12288073/22a285926366/es5c02072_si_001.pdf?><?cloudpmc-bucket app?><?size 702485?></media></supplementary-material></sec></sec></body></article>

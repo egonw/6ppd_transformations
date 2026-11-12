@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>Environmental Science &amp; Technology</journal-title><abbrev-journal-title>Environ Sci Technol</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13689822</article-id><article-id pub-id-type="pmcaid">13689822</article-id><article-id pub-id-type="pmcaiid">13689822</article-id><article-id pub-id-type="pmid">42899653</article-id><article-id pub-id-type="doi">10.1021/acs.est.6c07136</article-id><title-group><article-title>Analysis of Multiple
+Tire Rubber-Derived Chemicals
+in Fish Bile and Plasma: Analytical Method and Field Assessment in
+Puget Sound, WA, USA</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>da Silva</surname><given-names initials="D">Denis</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib><contrib><name name-style="western"><surname>Gates</surname><given-names initials="J">Jonelle</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Hattaway</surname><given-names initials="M">Madison</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Harding</surname><given-names initials="L">Louisa</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>O’Neill</surname><given-names initials="S">Sandra</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Schultz</surname><given-names initials="I">Irvin</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib></contrib-group><aff id="aff1">
+<label>†</label>
+National
+Oceanic and Atmospheric Administration, National Marine and Fisheries
+Services, Northwest Fisheries Science Center. 2725 Montlake Boulevard East, Seattle, Washington
+98112, United States
+</aff><aff id="aff2">
+<label>‡</label>
+Washington
+Department of Fish and Wildlife. 1111 Washington St. SE, Olympia, Washington
+98501, United States
+</aff><author-notes><fn id="cor1"><label>*</label><p>
+Email: <email>denis.dasilva@noaa.gov</email>.</p></fn></author-notes><pub-date><day>6</day><month>10</month><year>2026</year></pub-date><volume>60</volume><issue>41</issue><fpage>29596</fpage><page-range>29596–29607</page-range><pub-history><event event-type="pmc-release"><date><day>23</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Not subject to U.S. Copyright. Published 2026 by American Chemical Society</copyright-statement><license><license-p>This article is licensed under CC-BY-NC-ND 4.0</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es6c07136.pdf" content-type="pmc-pdf"><?cloudpmc-path 7a41/13689822/eac45c2aff23/es6c07136.pdf?><?cloudpmc-bucket app?><?size 3938633?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Tire rubber-derived chemicals (TRCs) are known to be
+highly toxic
+to fish, but understanding of their environmental levels and fate
+is still limited. This study presents a new method for the analysis
+of 18 TRCs, including phenylenediamines (TRC-PDs), their quinone derivatives
+(TRC-Qs), and rubber vulcanizing and curing-related chemicals (TRC-VCRs)
+in fish bile and plasma samples. We applied this method in bile and
+plasma samples from English sole collected in urban, near-urban, and
+nonurban sites in Puget Sound, WA, USA. TRCs were detected in 100%
+of bile and 96% of plasma samples from English sole collected from
+all nine sites in Puget Sound. Mean TRC levels in bile samples per
+site ranged between 0.8 and 18 ng/mL, while plasma levels ranged between
+0.22 and 0.63 ng/mL, with total summed reaching up to 31 ng/mL in
+bile and 1.3 ng/mL in plasma. TRC-PDs were the most abundant group
+of TRC in both bile and plasma. Higher levels of TRCs in bile suggests
+this matrix to be more valuable for environmental monitoring, providing
+more sensitive detection of TRC during low exposures. To the best
+of our knowledge, this is the first data set reporting environmental
+levels of 18 TRCs in the bile and plasma of field-caught fish.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> tire chemicals, TRCs, 6PPD-Q, 6PPD, Puget Sound, English sole, bile, plasma</p></sec></abstract><abstract id="abstract2" abstract-type="graphical"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="es6c07136_0007.webp"><?cloudpmc-path blobs/7a41/13689822/99f0bb599265/es6c07136_0007.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 457?><?original-width 988?><?scaled-height 457?><?scaled-width 988?></graphic></abstract><abstract id="abstract3" abstract-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="tgr1" xlink:href="es6c07136_0005.webp"><?cloudpmc-path blobs/7a41/13689822/99f0bb599265/es6c07136_0005.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 457?><?original-width 988?><?scaled-height 457?><?scaled-width 988?></graphic></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2026 May 12; Accepted 2026 Sep 11; Revised 2026 Sep 10; Collection date 2026 Oct 20.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><label>1.</label><title>Introduction</title><p>Tire wear particles are
+a major component of the stormwater mixture. Following exposure of fish to tire rubber leachates,
+various harmful effects have been reported, including impacts on early
+life stage growth and development, survival rates, fertilization,
+and other end points.<italic>
+−
+
+
+
+
+</italic> During the manufacturing process of vehicle tires, a blend of synthetic
+and natural rubber is combined with various chemicals, including antioxidants,
+vulcanizing accelerators, and rubber curing and cross-linking agents,
+which collectively constitute 10–14% of the final tire material.<italic>
+,
+</italic> The environmental levels and fate of the majority of these tire
+rubber-derived chemicals (TRCs), including their transformation products,
+are still poorly understood worldwide.<italic>
+−
+
+</italic>
+</p><p>The tire rubber
+antioxidant called 6PPD [<italic>N</italic>-(1,3-dimethylbutyl)-<italic>N</italic>′-phenyl–phenylenediamine] is widely present
+in urban stormwater runoff. Research has linked a quinone transformation
+product of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> with acute prespawn mortality of coho salmon (<italic>Oncorhynchus
+kisutch</italic>). This finding
+has increased efforts to develop analytical methods for measuring <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>, its quinone derivative <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q and other TRCs
+in surface water,<italic>
+−
+
+
+</italic> and fish.<italic>
+,
+</italic> Additionally, it has promoted
+research focused on determining the toxicity of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q and stormwater
+in various fish species.<italic>
+−
+
+</italic>
+</p><p>Multiple TRCs have been
+detected in environmental samples such
+as water, sediment, air, soil, and wastewater effluents,<italic>
+−
+
+
+
+
+
+</italic> indicating these chemicals are ubiquitous in the environment. Limited
+field data on multiple TRC levels have been reported in biota.<italic>
+,,
+</italic> There is a significant deficiency
+in the current literature regarding methods and field assessments
+for a broader range of TRCs. Specifically, there is a notable lack
+of research on multi-TRCs in fish from urbanized coastal areas of
+the United States. To overcome this critical gap, we developed a liquid
+chromatography-tandem mass spectrometry (LC–MS/MS)-based method
+that is rapid, robust, and highly sensitive for the simultaneous analysis
+of 18 TRCs in fish bile and plasma. We applied this new method to
+bile and plasma samples from 80 adult English sole (<italic>Parophrys vetulus</italic>) collected throughout Puget Sound,
+WA, USA.</p></sec><sec id="sec2" disp-level="1"><label>2.</label><title>Materials and Methods</title><p>A detailed description
+of all reagents, method development, laboratory
+validation tests, the final extraction protocol, quality control,
+statistical analysis, instrument conditions, and field bile and plasma
+sampling can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_001.xlsx" ext-link-type="uri">Supporting Information</ext-link>.</p><sec id="sec2.1" disp-level="2"><label>2.1.</label><title>Area of Study and Environmental Samples</title><p>Puget Sound is an urbanized fjord-like enclosed estuary where the
+city of Seattle is located, which has a population that ranked in
+the top ten for urban growth in the USA in 2024. This area is a gateway for several anadromous salmonids
+when returning to spawn in freshwater, including Chinook (<italic>Oncorhynchus tshawytscha</italic>), chum (<italic>Oncorhynchus
+keta</italic>), bull trout (Salvelinus confluentus), and steelhead
+trout (<italic>Oncorhynchus mykiss</italic>), all listed
+as threatened under the US Endangered Species Act. In addition, Puget
+Sound serves as the critical habitat of the endangered ESA-listed
+southern resident killer whales (<italic>Orcinus orca</italic>), among other marine mammals protected under the Marine Mammal Protection
+Act.</p><p>English sole were collected from several sites within Puget
+Sound, WA, USA, by the Washington State Department of Fish and Wildlife
+(WDFW), as part of a long-term contaminant monitoring program. Sites
+sampled represent different levels of anthropogenic influence to the
+adjacent estuarine habitat and are preclassified as urban, near-urban,
+and nonurban. Details on this classification can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_001.xlsx" ext-link-type="uri">Supporting Information</ext-link> and in other studies.<italic>
+,
+</italic> Nine sites were used in this study and are depicted as represented
+in <xref rid="fig1" ref-type="fig">Figure 
+</xref>. The four
+urban sites were Elliott Bay/Seattle waterfront (EB), Duwamish River
+(DU), Commencement Bay (CB), and Sinclair Inlet (SI). Eagle Harbor
+(EH) was chosen as a near-urban site. The four nonurban sites were
+Carr Inlet (CIM), Point Madison (PM), Nisqually Reach (NQ), and Hood
+Canal (HC).</p><fig id="fig1" position="float"><?disp-level 3?><label>1</label><caption><p>Sampling sites in Puget Sound, WA, USA. Urban sites: EB = Elliott
+Bay/Seattle Waterfront, DU = Duwamish River, CB = Commencement Bay,
+SI = Sinclair Inlet. Near-urban site: EH = Eagle Harbor. Nonurban
+sites: HC = Hood Canal, NQ = Nisqually Reach, PM = Point Madison,
+CIM = Carr Inlet.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="es6c07136_0001.webp"><?cloudpmc-path blobs/7a41/13689822/20ad8b031175/es6c07136_0001.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1326?><?original-width 1000?><?scaled-height 1326?><?scaled-width 1000?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es6c07136_0001.gif"><?cloudpmc-path blobs/7a41/13689822/935f59d9af09/es6c07136_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>For this study, we utilized bile and plasma of
+80 individual male
+and female adult fish. Each of the nine sites had 6–10 individual
+fish collected as field replicates and stored at −80 °C
+until laboratory extraction for TRCs was conducted. English sole sampling
+and handling were conducted by WDFW staff, as authorized under state
+lawRevised Code of Washington (RCW chapter 77.12).</p></sec><sec id="sec2.2" disp-level="2"><label>2.2.</label><title>Reagents and Standards</title><p>Among the
+TRCs measured in this study, we selected eight rubber antioxidant
+phenyl–phenylenediamines and phenylenediamines (TRC-PDs), seven
+of their quinone transformation products (TRC-Qs), and three vulcanization
+and curing-related chemicals (TRC-VCRs). A mixture of deuterated TRC-PD
+and TRC-Q standards was used as extracted surrogate standards (TRC-Sur)
+to quantify all targeted TRCs. One nonextracted internal standard
+(TRC-IS) was used to measure the recovery of TRC-Sur. Individual standard
+manufacturers/sources, as well as purity levels, are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 1S</ext-link>. Many of the target chemicals in this
+study have multiple industrial applications. For simplicity, we group
+them all as TRCs.</p></sec><sec id="sec2.3" disp-level="2"><label>2.3.</label><title>Analytical Method</title><p>Briefly, each bile
+or plasma sample was diluted with water, spiked with TRC-Sur, and
+extracted via solid-phase extraction (SPE) using a 30 mg reversed-phase
+cartridge (Strata-X, Phenomenex). Samples were diluted, spiked with
+TRC-Sur standards, and loaded into SPE cartridges. The matrix-interfering
+substances were washed off with methanol/water 65/35 (v/v). The target
+analytes were then eluted with methanol/methyl <italic>tert</italic>-butyl ether (MTBE) 60/40 (v/v). MTBE was evaporated from the extract
+under N<sub>2</sub>, followed by the addition of TRC-IS. The final
+methanolic extract was analyzed via LC–MS/MS. The LC unit was
+equipped with a 100 mm × 2.1 mm, 1.7 μm particle size,
+reverse-phased column (Kinetex Coreshell Evo C18, Phenomenex). The
+LC gradient is provided on <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 2S</ext-link>. A
+multiple-reaction monitoring (MRM) method was used during data acquisition
+in the MS/MS analysis for identifying and quantifying each TRC analyte.
+For final quantitation, each TRC had a response factor generated by
+a calibration curve with a minimum of five concentration points. Individual
+limits of quantitation (LOQ) for each TRC are given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 3S</ext-link>. All individual MRM ions (<italic>m</italic>/<italic>z</italic>) monitored are provided in <xref rid="tbl1" ref-type="table">Table 
+</xref>.</p><table-wrap id="tbl1" position="float"><?disp-level 3?><label>1</label><caption><title>Description of TRCs, Precursors, and
+Product Ions (Noted in Mass/Charge, <italic>m</italic>/<italic>z</italic>) Used for Identification and Quantitation, as well as Percent Recovery
+for all Laboratory Validation Tests</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/></colgroup><thead><tr><th colspan="2" align="center" rowspan="1"> </th><th colspan="2" align="center" rowspan="1"> </th><th colspan="8" align="center" rowspan="1">recovery ± standard deviation (%)<hr/></th></tr><tr><th colspan="2" align="center" rowspan="1">TRCs<hr/></th><th colspan="2" align="center" rowspan="1">ions (<italic>m</italic>/<italic>z</italic>)<hr/></th><th colspan="4" align="center" rowspan="1">bile<hr/></th><th colspan="4" align="center" rowspan="1">plasma<hr/></th></tr><tr><th colspan="2" align="center" rowspan="1">name and
+abbreviation<hr/></th><th align="center" colspan="1" rowspan="1">precursor<hr/></th><th align="center" colspan="1" rowspan="1">products (quant/ident)<hr/></th><th colspan="2" align="center" rowspan="1">low (0.025–1.5 ng/mL)<hr/></th><th colspan="2" align="center" rowspan="1">high (5 ng/mL)<hr/></th><th colspan="2" align="center" rowspan="1">low (0.025–1.5 ng/mL)<hr/></th><th colspan="2" align="center" rowspan="1">high (5 ng/mL)<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1">efficiency</th><th align="center" colspan="1" rowspan="1">matrix effect</th><th align="center" colspan="1" rowspan="1">efficiency</th><th align="center" colspan="1" rowspan="1">matrix effect</th><th align="center" colspan="1" rowspan="1">efficiency</th><th align="center" colspan="1" rowspan="1">matrix effect</th><th align="center" colspan="1" rowspan="1">efficiency</th><th align="center" colspan="1" rowspan="1">matrix effect</th></tr></thead><tbody><tr><td colspan="12" align="left" rowspan="1">
+<bold>rubber antioxidants (phenylenediamines),
+TRC-PDs</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-isopropyl-<italic>N</italic>′-phenyl-1,4-phenylenediamine</td><td align="left" colspan="1" rowspan="1">IPPD</td><td align="center" colspan="1" rowspan="1">226.03</td><td align="left" colspan="1" rowspan="1">211/167.1</td><td align="center" colspan="1" rowspan="1">90 ± 14</td><td align="center" colspan="1" rowspan="1">107 ± 4</td><td align="center" colspan="1" rowspan="1">60 ± 2</td><td align="center" colspan="1" rowspan="1">68 ± 6</td><td align="center" colspan="1" rowspan="1">63 ± 7</td><td align="center" colspan="1" rowspan="1">127 ± 10</td><td align="center" colspan="1" rowspan="1">97 ± 13</td><td align="center" colspan="1" rowspan="1">115 ± 4</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-diphenyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">DPPD</td><td align="center" colspan="1" rowspan="1">261.03</td><td align="left" colspan="1" rowspan="1">184.1/183.5</td><td align="center" colspan="1" rowspan="1">110 ± 13</td><td align="center" colspan="1" rowspan="1">124 ± 8</td><td align="center" colspan="1" rowspan="1">68 ± 4</td><td align="center" colspan="1" rowspan="1">70 ± 8</td><td align="center" colspan="1" rowspan="1">107 ± 8</td><td align="center" colspan="1" rowspan="1">110 ± 13</td><td align="center" colspan="1" rowspan="1">81 ± 4</td><td align="center" colspan="1" rowspan="1">110 ± 1</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-cyclohexyl-<italic>N</italic>′-diphenyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">CPPD</td><td align="center" colspan="1" rowspan="1">267.06</td><td align="left" colspan="1" rowspan="1">185/184.1</td><td align="center" colspan="1" rowspan="1">102 ± 15</td><td align="center" colspan="1" rowspan="1">127 ± 4</td><td align="center" colspan="1" rowspan="1">64 ± 2</td><td align="center" colspan="1" rowspan="1">83 ± 6</td><td align="center" colspan="1" rowspan="1">63 ± 4</td><td align="center" colspan="1" rowspan="1">106 ± 11</td><td align="center" colspan="1" rowspan="1">60 ± 5</td><td align="center" colspan="1" rowspan="1">124 ± 1</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-1,3-dimethylbutyl-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>
+</td><td align="center" colspan="1" rowspan="1">268.04</td><td align="left" colspan="1" rowspan="1">211.1/167.1</td><td align="center" colspan="1" rowspan="1">112 ± 7</td><td align="center" colspan="1" rowspan="1">115 ± 3</td><td align="center" colspan="1" rowspan="1">60 ± 12</td><td align="center" colspan="1" rowspan="1">65 ± 5</td><td align="center" colspan="1" rowspan="1">60 ± 6</td><td align="center" colspan="1" rowspan="1">117 ± 6</td><td align="center" colspan="1" rowspan="1">69 ± 3</td><td align="center" colspan="1" rowspan="1">125 ± 1</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-ditolyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">DTPD</td><td align="center" colspan="1" rowspan="1">289.02</td><td align="left" colspan="1" rowspan="1">198.2/197.6</td><td align="center" colspan="1" rowspan="1">89 ± 14</td><td align="center" colspan="1" rowspan="1">124 ± 9</td><td align="center" colspan="1" rowspan="1">60 ± 2</td><td align="center" colspan="1" rowspan="1">71 ± 8</td><td align="center" colspan="1" rowspan="1">82 ± 13</td><td align="center" colspan="1" rowspan="1">97 ± 10</td><td align="center" colspan="1" rowspan="1">79 ± 5</td><td align="center" colspan="1" rowspan="1">117 ± 1</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-1,4-dimethylpentyl-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">7PPD</td><td align="center" colspan="1" rowspan="1">283.09</td><td align="left" colspan="1" rowspan="1">184/185.1</td><td align="center" colspan="1" rowspan="1">85 ± 6</td><td align="center" colspan="1" rowspan="1">86 ± 3</td><td align="center" colspan="1" rowspan="1">65 ± 2</td><td align="center" colspan="1" rowspan="1">84 ± 7</td><td align="center" colspan="1" rowspan="1">63 ± 0</td><td align="center" colspan="1" rowspan="1">102 ± 4</td><td align="center" colspan="1" rowspan="1">67 ± 5</td><td align="center" colspan="1" rowspan="1">123 ± 0</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-1-methylheptyl-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine</td><td align="left" colspan="1" rowspan="1">8PPD</td><td align="center" colspan="1" rowspan="1">297.1</td><td align="left" colspan="1" rowspan="1">184.1/185</td><td align="center" colspan="1" rowspan="1">91 ± 6</td><td align="center" colspan="1" rowspan="1">102 ± 12</td><td align="center" colspan="1" rowspan="1">46 ± 2</td><td align="center" colspan="1" rowspan="1">71 ± 7</td><td align="center" colspan="1" rowspan="1">63 ± 11</td><td align="center" colspan="1" rowspan="1">102 ± 8</td><td align="center" colspan="1" rowspan="1">68 ± 5</td><td align="center" colspan="1" rowspan="1">121 ± 3</td></tr><tr><td align="left" colspan="1" rowspan="1">4-hydroxydiphenylamine</td><td align="left" colspan="1" rowspan="1">4-HDPA</td><td align="center" colspan="1" rowspan="1">186</td><td align="left" colspan="1" rowspan="1">109/92</td><td align="center" colspan="1" rowspan="1">80 ± 11</td><td align="center" colspan="1" rowspan="1">86 ± 3</td><td align="center" colspan="1" rowspan="1">82 ± 7</td><td align="center" colspan="1" rowspan="1">109 ± 5</td><td align="center" colspan="1" rowspan="1">96 ± 14</td><td align="center" colspan="1" rowspan="1">102 ± 8</td><td align="center" colspan="1" rowspan="1">55 ± 11</td><td align="center" colspan="1" rowspan="1">102 ± 6</td></tr><tr><td colspan="12" align="left" rowspan="1">
+<bold>quinone transformation products, TRC-Qs</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-isopropyl-<italic>N</italic>′-phenyl-1,4-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">IPPD-Q</td><td align="center" colspan="1" rowspan="1">257.03</td><td align="left" colspan="1" rowspan="1">215/187</td><td align="center" colspan="1" rowspan="1">77 ± 5</td><td align="center" colspan="1" rowspan="1">88 ± 6</td><td align="center" colspan="1" rowspan="1">90 ± 2</td><td align="center" colspan="1" rowspan="1">86 ± 7</td><td align="center" colspan="1" rowspan="1">105 ± 6</td><td align="center" colspan="1" rowspan="1">104 ± 8</td><td align="center" colspan="1" rowspan="1">83 ± 6</td><td align="center" colspan="1" rowspan="1">87 ± 5</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-cyclohexyl-<italic>N</italic>′-diphenyl-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">CPPD-Q</td><td align="center" colspan="1" rowspan="1">297.01</td><td align="left" colspan="1" rowspan="1">215.1/187.1</td><td align="center" colspan="1" rowspan="1">83 ± 15</td><td align="center" colspan="1" rowspan="1">89 ± 3</td><td align="center" colspan="1" rowspan="1">92 ± 2</td><td align="center" colspan="1" rowspan="1">95 ± 7</td><td align="center" colspan="1" rowspan="1">117 ± 4</td><td align="center" colspan="1" rowspan="1">109 ± 3</td><td align="center" colspan="1" rowspan="1">93 ± 12</td><td align="center" colspan="1" rowspan="1">109 ± 3</td></tr><tr><td align="left" colspan="1" rowspan="1">N-1,3-dimethylbutyl-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q</td><td align="center" colspan="1" rowspan="1">299.09</td><td align="left" colspan="1" rowspan="1">241.2/215.1</td><td align="center" colspan="1" rowspan="1">85 ± 13</td><td align="center" colspan="1" rowspan="1">88 ± 4</td><td align="center" colspan="1" rowspan="1">95 ± 2</td><td align="center" colspan="1" rowspan="1">94 ± 1</td><td align="center" colspan="1" rowspan="1">93 ± 2</td><td align="center" colspan="1" rowspan="1">104 ± 5</td><td align="center" colspan="1" rowspan="1">81 ± 8</td><td align="center" colspan="1" rowspan="1">90 ± 4</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-<italic>o</italic>-ditolyl-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">
+<italic>o</italic>-DTPD-Q</td><td align="center" colspan="1" rowspan="1">318.99</td><td align="left" colspan="1" rowspan="1">212.1/300.8</td><td align="center" colspan="1" rowspan="1">80 ± 11</td><td align="center" colspan="1" rowspan="1">87 ± 3</td><td align="center" colspan="1" rowspan="1">93 ± 0</td><td align="center" colspan="1" rowspan="1">98 ± 2</td><td align="center" colspan="1" rowspan="1">103 ± 7</td><td align="center" colspan="1" rowspan="1">111 ± 17</td><td align="center" colspan="1" rowspan="1">87 ± 10</td><td align="center" colspan="1" rowspan="1">102 ± 3</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-<italic>p</italic>-ditolyl-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">
+<italic>p</italic>-DTPD-Q</td><td align="center" colspan="1" rowspan="1">319</td><td align="left" colspan="1" rowspan="1">291/301</td><td align="center" colspan="1" rowspan="1">82 ± 10</td><td align="center" colspan="1" rowspan="1">92 ± 8</td><td align="center" colspan="1" rowspan="1">87 ± 2</td><td align="center" colspan="1" rowspan="1">92 ± 5</td><td align="center" colspan="1" rowspan="1">105 ± 6</td><td align="center" colspan="1" rowspan="1">108 ± 5</td><td align="center" colspan="1" rowspan="1">87 ± 14</td><td align="center" colspan="1" rowspan="1">110 ± 6</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-1,4-dimethylpentyl-<italic>N</italic>′-phenyl-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">7PPD-Q</td><td align="center" colspan="1" rowspan="1">313.02</td><td align="left" colspan="1" rowspan="1">215.1/187.1</td><td align="center" colspan="1" rowspan="1">88 ± 12</td><td align="center" colspan="1" rowspan="1">90 ± 5</td><td align="center" colspan="1" rowspan="1">93 ± 2</td><td align="center" colspan="1" rowspan="1">103 ± 6</td><td align="center" colspan="1" rowspan="1">107 ± 1</td><td align="center" colspan="1" rowspan="1">113 ± 10</td><td align="center" colspan="1" rowspan="1">91 ± 11</td><td align="center" colspan="1" rowspan="1">108 ± 4</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-bis(1,4-dimethylpentyl)-<italic>p</italic>-phenylenediamine-quinone</td><td align="left" colspan="1" rowspan="1">77PD-Q</td><td align="center" colspan="1" rowspan="1">335</td><td align="left" colspan="1" rowspan="1">110.9/237.1</td><td align="center" colspan="1" rowspan="1">82
+± 14</td><td align="center" colspan="1" rowspan="1">88 ±
+6</td><td align="center" colspan="1" rowspan="1">87 ± 3</td><td align="center" colspan="1" rowspan="1">94 ± 6</td><td align="center" colspan="1" rowspan="1">107 ± 8</td><td align="center" colspan="1" rowspan="1">113 ± 9</td><td align="center" colspan="1" rowspan="1">87 ± 14</td><td align="center" colspan="1" rowspan="1">101 ± 5</td></tr><tr><td colspan="12" align="left" rowspan="1">
+<bold>vulcanization and curing, TRC-VCRs</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">hexa(methoxymethyl)melamine</td><td align="left" colspan="1" rowspan="1">HMMM</td><td align="center" colspan="1" rowspan="1">391.08</td><td align="left" colspan="1" rowspan="1">359.2/177.1</td><td align="center" colspan="1" rowspan="1">95 ± 10</td><td align="center" colspan="1" rowspan="1">97 ± 6</td><td align="center" colspan="1" rowspan="1">77 ± 4</td><td align="center" colspan="1" rowspan="1">73 ± 8</td><td align="center" colspan="1" rowspan="1">93 ± 7</td><td align="center" colspan="1" rowspan="1">87 ± 5</td><td align="center" colspan="1" rowspan="1">82 ± 16</td><td align="center" colspan="1" rowspan="1">85 ± 13</td></tr><tr><td align="left" colspan="1" rowspan="1">1,3-dicyclohexylurea</td><td align="left" colspan="1" rowspan="1">DCU</td><td align="center" colspan="1" rowspan="1">225.04</td><td align="left" colspan="1" rowspan="1">100/83.1</td><td align="center" colspan="1" rowspan="1">78 ± 15</td><td align="center" colspan="1" rowspan="1">82 ± 4</td><td align="center" colspan="1" rowspan="1">88 ± 2</td><td align="center" colspan="1" rowspan="1">89 ± 4</td><td align="center" colspan="1" rowspan="1">79 ± 7</td><td align="center" colspan="1" rowspan="1">90 ± 9</td><td align="center" colspan="1" rowspan="1">78 ± 6</td><td align="center" colspan="1" rowspan="1">72 ± 5</td></tr><tr><td align="left" colspan="1" rowspan="1">1,3-diphenylguanidine</td><td align="left" colspan="1" rowspan="1">DPG</td><td align="center" colspan="1" rowspan="1">212.04</td><td align="left" colspan="1" rowspan="1">118.9/76.9</td><td align="center" colspan="1" rowspan="1">100 ± 1</td><td align="center" colspan="1" rowspan="1">103 ± 4</td><td align="center" colspan="1" rowspan="1">66 ± 1</td><td align="center" colspan="1" rowspan="1">70 ± 6</td><td align="center" colspan="1" rowspan="1">114 ± 3</td><td align="center" colspan="1" rowspan="1">110 ± 18</td><td align="center" colspan="1" rowspan="1">71 ± 7</td><td align="center" colspan="1" rowspan="1">108 ± 5</td></tr><tr><td colspan="12" align="left" rowspan="1">
+<bold>deuterated surrogate<sup/> and internal<sup/> standards</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>-isopropyl-<italic>N</italic>′-phenyl-1,4-phenylenediamine-quinone (phenyl-d5)</td><td align="left" colspan="1" rowspan="1">d5-IPPD-Q</td><td align="center" colspan="1" rowspan="1">262</td><td align="left" colspan="1" rowspan="1">220/192</td><td align="center" colspan="1" rowspan="1">119 ± 4</td><td align="center" colspan="1" rowspan="1">120 ± 3</td><td align="center" colspan="1" rowspan="1">102 ± 4</td><td align="center" colspan="1" rowspan="1">99 ± 3</td><td align="center" colspan="1" rowspan="1">90 ± 2</td><td align="center" colspan="1" rowspan="1">98 ± 15</td><td align="center" colspan="1" rowspan="1">109 ± 5</td><td align="center" colspan="1" rowspan="1">113 ± 5</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>N</italic>,<italic>N</italic>′-diphenyl-<italic>p</italic>-phenylenediamine (d14)</td><td align="left" colspan="1" rowspan="1">d14-DPPD</td><td align="center" colspan="1" rowspan="1">274.05</td><td align="left" colspan="1" rowspan="1">177/192.1</td><td align="center" colspan="1" rowspan="1">124 ± 4</td><td align="center" colspan="1" rowspan="1">108 ± 1</td><td align="center" colspan="1" rowspan="1">125 ± 1</td><td align="center" colspan="1" rowspan="1">120 ± 4</td><td align="center" colspan="1" rowspan="1">75 ± 8</td><td align="center" colspan="1" rowspan="1">79 ± 12</td><td align="center" colspan="1" rowspan="1">86 ± 3</td><td align="center" colspan="1" rowspan="1">74 ± 3</td></tr><tr><td align="left" colspan="1" rowspan="1">6-<italic>p</italic>-phenylenediamine-quinone (phenyl-d5)</td><td align="left" colspan="1" rowspan="1">d5–<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q</td><td align="center" colspan="1" rowspan="1">304.09</td><td align="left" colspan="1" rowspan="1">220.1/246.2</td><td align="center" colspan="1" rowspan="1">120 ± 3</td><td align="center" colspan="1" rowspan="1">111 ± 1</td><td align="center" colspan="1" rowspan="1">101 ± 4</td><td align="center" colspan="1" rowspan="1">101 ± 6</td><td align="center" colspan="1" rowspan="1">68 ± 6</td><td align="center" colspan="1" rowspan="1">70 ± 15</td><td align="center" colspan="1" rowspan="1">88 ± 12</td><td align="center" colspan="1" rowspan="1">81 ± 1</td></tr><tr><td align="left" colspan="1" rowspan="1">progesterone
+(2,2,4,6,6,17a,21,21,21-d9)</td><td align="left" colspan="1" rowspan="1">d9-P</td><td align="center" colspan="1" rowspan="1">324.25</td><td align="left" colspan="1" rowspan="1">99.9</td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td><td align="center" colspan="1" rowspan="1"> </td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>d5-IPPD-Q, d14-DPPD, and d5–6PPD-Q
+were used as surrogate standards.</p></fn><fn id="t1fn2"><label>b</label><p>d9-P was used as the internal standard,
+and recovery tests were not performed for this chemical.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2.4" disp-level="2"><label>2.4.</label><title>Method Validation</title><p>To develop and
+validate the analytical method, we used coho salmon bile and sablefish
+(<italic>Anoplopoma fimbria</italic>) plasma as test
+samples. These samples were not intentionally exposed to the chemicals
+of interest in this study as test samples. Several spike blanks (LC–MS-grade
+water) and test bile and plasma samples were used to optimize each
+extraction parameter. Extraction efficiency (prespiked) tests, where
+a mixture of all TRCs was spiked directly into the test samples and
+then processed, were conducted to evaluate the overall recovery efficiency
+of the method. Matrix effect (postspiked) tests, where the TRC mixture
+was spiked into the final extract, were used to assess potential matrix
+effects such as suppression or enhancement of each analyte in the
+final LC–MS/MS analysis. The final protocol for SPE extraction
+was validated in triplicate using both test samples and blanks, pre-
+and postspiked with low (0.025–1.5 ng/mL, depending on instrument
+sensitivity for each TRC) and high (5 ng/mL) spike levels.</p></sec></sec><sec id="sec3" disp-level="1"><label>3.</label><title>Results and Discussion</title><sec id="sec3.1" disp-level="2"><label>3.1.</label><title>Method Validation</title><p>Both fish bile
+and plasma are important biofluids and are known to be reliable matrices
+for investigating the exposure of fish to anthropogenic contaminants.
+Bile typically contains higher concentrations of less lipophilic contaminants
+and their metabolites compared to tissues.<italic>
+−
+
+
+</italic> Plasma is also an important fluid
+for analysis, as it provides information on bioactive contaminant
+levels and can be used to estimate toxicity levels based on toxicokinetic
+models.<italic>
+,
+</italic> Additionally, both matrices usually require
+minimal sample treatment, which allows for more rapid analysis.</p><p>
+<xref rid="tbl1" ref-type="table">Table 
+</xref> shows the
+mean recoveries obtained for the method validation for all of the
+target TRCs. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Figure 1S</ext-link> shows the results
+from the method validation tests, including individual replicates
+for each test. The method validation and field sample analysis in
+this study adhere to the guidelines of our established analytical
+QAP for other LC–MS/MS analyses.
+</p><p>Overall, the mean percent recovery (±standard deviation,
+SD)
+for the prespiked test for blanks (water), bile, and plasma were 85
+± 16%, 83 ± 6%, and 84 ± 14%, respectively. While the
+reversed-phase chromatography system (both SPE and LC instrument)
+generally favors more polar TRCs, such as the quinone transformation
+products (TRC-Qs) and TRC-VCRs, most of the antioxidant TRC-PDs presented
+relatively lower extraction efficiencies. However, their extraction
+efficiencies were considered acceptable given the complexity of the
+analyte list.</p><p>The mean percent recovery (±SD) for the postspiked
+test for
+all of the TRCs and both spike levels was 108 ± 7% for blanks,
+91 ± 5% for bile, and 106 ± 11% for plasma. These results
+demonstrate that this extraction method is capable of removing most
+interfering substances from both plasma and bile samples.</p></sec><sec id="sec3.2" disp-level="2"><label>3.2.</label><title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> Calibration Adjustment</title><p>Both <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> standards used for the calibration curve
+had one of their oxidative transformation products detected, 6QDI
+(<italic>N</italic>-1,3-dimethyl-butyl-<italic>N</italic>′-phenyl
+quinone diamine) and 7QDI (<italic>N</italic>-1,4-dimethyl-pentyl-<italic>N</italic>′-phenyl quinone diamine), respectively. These transformation
+products were detected in the individual stock solutions prepared
+in methanol and all subsequent dilutions for the calibration curve
+(data not shown). This may be due to standard impurity (purities were
+above 96%, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 1S</ext-link>), rapid degradation
+once in solution, or postsynthesis/storage transformation. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6QDI" ext-link-type="uri">6QDI</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7QDI" ext-link-type="uri">7QDI</ext-link> were, respectively,
+present in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> standards
+at 40% of the intensity of the peak corresponded to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> in all calibration
+levels. The transitions (precursor/product ions, m/z) monitored for <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6QDI" ext-link-type="uri">6QDI</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7QDI" ext-link-type="uri">7QDI</ext-link> were 267.0/183.1
+and 280.5/183.1, respectively, and were determined with the use of
+their pure standards infused in the mass spectrometer. We presented
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> concentrations corrected
+by a 0.6 factor (or 60% of original calculated concentration) due
+to the presence of these transformation products in the standards.
+However, the stability test showed that concentrations of both <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> are stable once
+kept in 100% methanol and stored at −20 °C for at least
+five months (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Figure 2SA</ext-link>), strongly
+suggesting a standard contamination or postsynthesis/storage partial
+degradation. The transformation of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> into <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6QDI" ext-link-type="uri">6QDI</ext-link> as part of the quinone transformation
+route has been proposed. The potential
+presence of QDIs in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link> standards
+should be verified, and calibration curve adjustment should be applied
+in other studies reporting concentrations of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> or <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/7PPD" ext-link-type="uri">7PPD</ext-link>. To our knowledge,
+previous studies have neither reported the occurrence of QDI transformation
+products as cross-interfering chemicals in their standard nor investigated
+transformation products present in their original stocks and calibration
+curve solutions.</p></sec><sec id="sec3.3" disp-level="2"><label>3.3.</label><title>Analysis of TRCs in English Sole from Puget
+Sound, WA</title><sec id="sec3.3.1" disp-level="3"><label>3.3.1.</label><title>Field Distribution of TRCs in English Sole
+Bile and Plasma</title><p>The total summed TRC concentrations (summed
+TRCs = TRC-PDs + TRC-Qs + TRC-VCRs) reached 31 ng/mL in bile and 1.3
+ng/mL in plasma. We observed a high detection rate in English sole
+samples: 100% of the bile and 96% of the plasma samples in this study
+had at least one TRC detected. <xref rid="fig2" ref-type="fig">Figure 
+</xref> illustrates the mean summed TRC concentration per
+site type for both bile and plasma samples. For both bile and plasma,
+the mean summed TRCs for urban sites was significantly different from
+nonurban sites (p &lt; 0.0001 for bile and 0.0185 for plasma). The
+mean summed TRCs (±SD ng/mL) for urban, near-urban, and nonurban
+sites were, respectively, 9.4 ng/mL (±7.3), 6.4 ng/mL (±2.2),
+and 1.7 ng/mL (±1.5) for bile and 0.52 ng/mL (±0.16), 0.55
+ng/mL (±0.29), and 0.38 ng/mL (±0.23) ng/mL for plasma,
+calculated from each individual sample. Urbanized areas, which have
+greater amounts of impervious ground cover and higher volume of vehicle
+circulation, tend to generate a higher volume of stormwater runoff.
+This urban runoff typically contains a greater concentration of tire
+wear particles and TRCs that ultimately reach aquatic systems. The
+same pattern of spatial distribution of TRCs has been reported in
+sediment from Pearl River Delta, South China Sea, where higher concentrations
+of summed TRCs were found in urban river regions and lower levels
+in more remote areas, such as coastal and deep-sea sediments. While there are limited studies on multi-TRC
+levels in fish samples from different urbanization levels, the comparison
+with these sediment samples is relevant to our study. As a benthic
+fish species, English sole is highly exposed to sediment contaminants.</p><fig id="fig2" position="float"><?disp-level 4?><label>2</label><caption><p>Levels
+of summed TRCs in (A) bile and (B) plasma samples. The gray
+bar indicates mean summed TRC concentration (ng/mL) for each site
+type. Bars labeled with different lowercase letters are significantly
+different (Tukey–Kramer honestly significant difference pairwise
+test). Summed TRC concentrations for each individual sample are plotted
+using different symbols for each one of the nine sites, according
+to the graphic legend. Urban sites = red symbols. Near-urban site
+= green symbols. Nonurban sites = blue symbols.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="es6c07136_0002.webp"><?cloudpmc-path blobs/7a41/13689822/723891f53585/es6c07136_0002.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1267?><?original-width 834?><?scaled-height 1267?><?scaled-width 834?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es6c07136_0002.gif"><?cloudpmc-path blobs/7a41/13689822/0f01ddc7c182/es6c07136_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>
+<xref rid="tbl2" ref-type="table">Table 
+</xref>A–B
+summarizes the mean concentrations of individual TRCs measured in
+English sole bile (A) and plasma (B) in this study for each site in Puget Sound. The
+highest mean summed TRCs per site were measured in the bile samples
+of fish caught in the urban sites DU (18 ng/mL) and CB (12 ng/mL).
+Both of these sites are known to have high levels of anthropogenic
+contaminants, due to the intense industrial activities and urbanization
+levels.<italic>
+,,
+</italic> All nonurban
+sites had relatively low levels of mean summed TRCs. In plasma samples,
+the mean summed TRC was also relatively higher for urban sites EB
+(0.63 ng/mL) and DU (0.52 ng/mL) when compared to the nonurban sites
+CIM (0.24 ng/mL), NQ (0.22 ng/mL), and HC (0.34 ng/mL) but similar
+to the nonurban PM site (0.63 ng/mL). TRC concentrations for each
+bile and plasma sample are provided in the full data set section in
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Supporting Information</ext-link> (Table 5S).</p><table-wrap id="tbl2" position="float"><?disp-level 4?><label>2</label><caption><title>Mean Concentration (± Standard
+Deviation, SD) of Each TRC for Puget Sound Sites (Number of Samples
+Per Site) for English Sole (A) Bile and (B) Plasma Samples</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="9" align="center" rowspan="1">
+<bold>(A) Bile</bold>
+<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="9" align="center" rowspan="1">mean (±SD) concentration per site (ng/mL)<sup/>
+<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1">TRCs</th><th align="center" colspan="1" rowspan="1">% detected<sup/>
+</th><th align="center" colspan="1" rowspan="1">EB (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">DU (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">CB (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">SI (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">EH (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">CIM (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">PM (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">NQ (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">HC (<italic>n</italic> = 10)</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">
+<bold>IPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>69</bold>
+</td><td align="left" colspan="1" rowspan="1">0.26 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.32 ± 0.18</td><td align="left" colspan="1" rowspan="1">0.28 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.14 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.19 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.31 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.11</td><td align="left" colspan="1" rowspan="1">0.18 ± 0.11</td><td align="left" colspan="1" rowspan="1">0.18 ± 0.10</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>4</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.29 ± 0.12</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.10 ± 0.30</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.36 ± 0.27</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>CPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>1</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.28 ± 0.10</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>99</bold>
+</td><td align="left" colspan="1" rowspan="1">1.6 ± 0.89</td><td align="left" colspan="1" rowspan="1">13 ± 6.4</td><td align="left" colspan="1" rowspan="1">4.3 ± 4.3</td><td align="left" colspan="1" rowspan="1">1.0 ± 0.54</td><td align="left" colspan="1" rowspan="1">0.84 ± 0.43</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.05</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.08</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DTPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>4</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.29 ± 0.12</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.32 ± 0.22</td><td align="left" colspan="1" rowspan="1">&lt;0.50</td><td align="left" colspan="1" rowspan="1">0.36 ± 0.27</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>7PPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>8PPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>68</bold>
+</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.12 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.07 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.14 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.12 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.07 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.10 ± 0.15</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>4-HDPA</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>44</bold>
+</td><td align="left" colspan="1" rowspan="1">2.4 ± 1.5</td><td align="left" colspan="1" rowspan="1">3.1 ± 1.6</td><td align="left" colspan="1" rowspan="1">4.7 ± 0.9</td><td align="left" colspan="1" rowspan="1">1.4 ± 1.1</td><td align="left" colspan="1" rowspan="1">4.2 ± 1.7</td><td align="left" colspan="1" rowspan="1">&lt;1.5</td><td align="left" colspan="1" rowspan="1">&lt;1.5</td><td align="left" colspan="1" rowspan="1">&lt;1.5</td><td align="left" colspan="1" rowspan="1">1.9 ± 1.7</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>IPPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>59</bold>
+</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.24</td><td align="left" colspan="1" rowspan="1">0.11 ± 0.15</td><td align="left" colspan="1" rowspan="1">0.63 ± 0.84</td><td align="left" colspan="1" rowspan="1">0.13 ± 0.09</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.07 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.09</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>CPPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>10</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">0.16 ± 0.12</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.10 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.10 ± 0.07</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>
+<bold>-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>33</bold>
+</td><td align="left" colspan="1" rowspan="1">0.05 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.22 ± 0.09</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.03</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.03</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>
+<italic>o</italic>-DTPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>5</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.05 ± 0.05</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.03</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>
+<italic>p</italic>-DTPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>6</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.07 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.06</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>7PPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>1</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">0.11 ± 0.12</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.15</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>77PD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>4</bold>
+</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.01</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>HMMM</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>41</bold>
+</td><td align="left" colspan="1" rowspan="1">0.30 ± 0.32</td><td align="left" colspan="1" rowspan="1">0.12 ± 0.18</td><td align="left" colspan="1" rowspan="1">0.61 ± 0.44</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.22</td><td align="left" colspan="1" rowspan="1">0.13 ± 0.11</td><td align="left" colspan="1" rowspan="1">0.04 ± 0.04</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.09 ± 0.12</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DCU</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>8</bold>
+</td><td align="left" colspan="1" rowspan="1">0.05 ± 0.05</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td><td align="left" colspan="1" rowspan="1">&lt;0.05</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DPG</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>81</bold>
+</td><td align="left" colspan="1" rowspan="1">0.27 ± 0.13</td><td align="left" colspan="1" rowspan="1">0.99 ± 0.55</td><td align="left" colspan="1" rowspan="1">0.57 ± 0.35</td><td align="left" colspan="1" rowspan="1">0.35 ± 0.41</td><td align="left" colspan="1" rowspan="1">0.18 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.13 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.16 ± 0.20</td><td align="left" colspan="1" rowspan="1">0.18 ± 0.18</td><td align="left" colspan="1" rowspan="1">0.12 ± 0.11</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum</bold>
+<bold>TRC-PDs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">4.3 ± 1.9</td><td align="left" colspan="1" rowspan="1">16 ± 7.2</td><td align="left" colspan="1" rowspan="1">9.5 ± 3.8</td><td align="left" colspan="1" rowspan="1">2.7 ± 1.5</td><td align="left" colspan="1" rowspan="1">5.8 ± 2.0</td><td align="left" colspan="1" rowspan="1">0.59 ± 0.14</td><td align="left" colspan="1" rowspan="1">0.86 ± 0.63</td><td align="left" colspan="1" rowspan="1">0.42 ± 0.14</td><td align="left" colspan="1" rowspan="1">3.1 ± 1.7</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum</bold>
+<bold>TRC-Qs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">0.25 ± 0.23</td><td align="left" colspan="1" rowspan="1">0.61 ± 0.26</td><td align="left" colspan="1" rowspan="1">0.83 ± 0.89</td><td align="left" colspan="1" rowspan="1">0.38 ± 0.19</td><td align="left" colspan="1" rowspan="1">0.30 ± 0.14</td><td align="left" colspan="1" rowspan="1">0.19 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.24 ± 0.11</td><td align="left" colspan="1" rowspan="1">0.11 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.11</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum TRC-VCRs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">0.63 ± 0.37</td><td align="left" colspan="1" rowspan="1">1.1 ± 0.59</td><td align="left" colspan="1" rowspan="1">1.2 ± 0.41</td><td align="left" colspan="1" rowspan="1">0.55 ± 0.46</td><td align="left" colspan="1" rowspan="1">0.31 ± 0.18</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.16 ± 0.20</td><td align="left" colspan="1" rowspan="1">0.26 ± 0.24</td><td align="left" colspan="1" rowspan="1">0.21 ± 0.21</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum TRCs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">
+<bold>5.2 ± 2.2</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>18 ± 7.0</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>12 ± 3.4</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>3.7 ± 1.8</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>6.4 ± 2.2</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.95 ± 0.20</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>1.3 ± 0.73</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.80 ± 0.31</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>3.4 ± 1.7</bold>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="9" align="center" rowspan="1">
+<bold>(B) Plasma</bold>
+<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="9" align="center" rowspan="1">mean (±SD) concentration per site (ng/mL)<sup/>
+<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1">TRCs</th><th align="center" colspan="1" rowspan="1">% detected<sup/>
+</th><th align="center" colspan="1" rowspan="1">EB (<italic>n</italic> = 9)</th><th align="center" colspan="1" rowspan="1">DU (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">CB (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">SI (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">EH (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">CIM (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">PM (<italic>n</italic> = 10)</th><th align="center" colspan="1" rowspan="1">NQ (<italic>n</italic> = 6)</th><th align="center" colspan="1" rowspan="1">HC (<italic>n</italic> = 10)</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">
+<bold>IPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>39</bold>
+</td><td align="left" colspan="1" rowspan="1">0.061 ± 0.37</td><td align="left" colspan="1" rowspan="1">0.091 ± 0.063</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.086 ± 0.043</td><td align="left" colspan="1" rowspan="1">0.062 ± 0.040</td><td align="left" colspan="1" rowspan="1">0.068 ± 0.044</td><td align="left" colspan="1" rowspan="1">0.057 ± 0.043</td><td align="left" colspan="1" rowspan="1">0.11 ± 0.056</td><td align="left" colspan="1" rowspan="1">0.089 ± 0.059</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>CPPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>11</bold>
+</td><td align="left" colspan="1" rowspan="1">0.16 ± 0.069</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.084</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">0.22 ± 0.17</td><td align="left" colspan="1" rowspan="1">0.17 ± 0.15</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">0.14 ± 0.043</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">0.18 ± 0.18</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>76</bold>
+</td><td align="left" colspan="1" rowspan="1">0.02 ± 0.01</td><td align="left" colspan="1" rowspan="1">0.11 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">0.030 ± 0.01</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td><td align="left" colspan="1" rowspan="1">0.01 ± 0.009</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DTPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td><td align="left" colspan="1" rowspan="1">&lt;0.25</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>7PPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>5</bold>
+</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.01</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.01</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.07 ± 0.09</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>8PPD</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>39</bold>
+</td><td align="left" colspan="1" rowspan="1">0.085 ± 0.098</td><td align="left" colspan="1" rowspan="1">0.038 ± 0.034</td><td align="left" colspan="1" rowspan="1">0.049 ± 0.024</td><td align="left" colspan="1" rowspan="1">0.050 ± 0.069</td><td align="left" colspan="1" rowspan="1">0.050 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.034 ± 0.048</td><td align="left" colspan="1" rowspan="1">0.042 ± 0.065</td><td align="left" colspan="1" rowspan="1">0.069 ± 0.049</td><td align="left" colspan="1" rowspan="1">0.023 ± 0.034</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>4-HDPA</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td><td align="left" colspan="1" rowspan="1">&lt;0.75</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>IPPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>28</bold>
+</td><td align="left" colspan="1" rowspan="1">0.020 ± 0.09</td><td align="left" colspan="1" rowspan="1">0.032 ± 0.018</td><td align="left" colspan="1" rowspan="1">0.030 ± 0.027</td><td align="left" colspan="1" rowspan="1">0.020 ± 0.017</td><td align="left" colspan="1" rowspan="1">0.026 ± 0.032</td><td align="left" colspan="1" rowspan="1">0.019 ± 0.013</td><td align="left" colspan="1" rowspan="1">0.026 ± 0.017</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>CPPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>3</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.052 ± 0.033</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>
+<bold>-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>11</bold>
+</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.007</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.005</td><td align="left" colspan="1" rowspan="1">0.019 ± 0.015</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.008</td><td align="left" colspan="1" rowspan="1">0.018 ± 0.017</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.004</td><td align="left" colspan="1" rowspan="1">0.019 ± 0.011</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>
+<italic>o</italic>-DTPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>9</bold>
+</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.005</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.027 ± 0.035</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.009</td><td align="left" colspan="1" rowspan="1">0.016 ± 0.011</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.021 ± 0.016</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>
+<italic>p</italic>-DTPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>9</bold>
+</td><td align="left" colspan="1" rowspan="1">0.034 ± 0.024</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.008</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.025 ± 0.040</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>7PPD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>4</bold>
+</td><td align="left" colspan="1" rowspan="1">0.051 ± 0.041</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.065 ± 0.066</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">0.050 ± 0.036</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td><td align="left" colspan="1" rowspan="1">&lt;0.075</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>77PD-Q</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>5</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.005</td><td align="left" colspan="1" rowspan="1">0.020 ± 0.018</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.016 ± 0.012</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.005</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>HMMM</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>61</bold>
+</td><td align="left" colspan="1" rowspan="1">0.14 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.044 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.14 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.051 ± 0.075</td><td align="left" colspan="1" rowspan="1">0.069 ± 0.025</td><td align="left" colspan="1" rowspan="1">0.031 ± 0.041</td><td align="left" colspan="1" rowspan="1">0.19 ± 0.085</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.033 ± 0.022</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DCU</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>5</bold>
+</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.014 ± 0.006</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.006</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.015 ± 0.007</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td><td align="left" colspan="1" rowspan="1">0.017 ± 0.011</td><td align="left" colspan="1" rowspan="1">&lt;0.025</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>DPG</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td><td align="left" colspan="1" rowspan="1">NR</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum</bold>
+<bold>TRC-PDs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">0.35 ± 0.13</td><td align="left" colspan="1" rowspan="1">0.39 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.05</td><td align="left" colspan="1" rowspan="1">0.39 ± 0.20</td><td align="left" colspan="1" rowspan="1">0.34 ± 0.21</td><td align="left" colspan="1" rowspan="1">0.13 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.33 ± 0.16</td><td align="left" colspan="1" rowspan="1">0.20 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.31 ± 0.25</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum</bold>
+<bold>TRC-Qs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">0.13 ± 0.05</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.02</td><td align="left" colspan="1" rowspan="1">0.16 ± 0.10</td><td align="left" colspan="1" rowspan="1">0.05 ± 0.02</td><td align="left" colspan="1" rowspan="1">0.13 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.10 ± 0.08</td><td align="left" colspan="1" rowspan="1">&lt;LOQ</td><td align="left" colspan="1" rowspan="1">&lt;LOQ</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum</bold>
+<bold>TRC-VCRs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">0.14 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.06 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.15 ± 0.06</td><td align="left" colspan="1" rowspan="1">0.05 ± 0.07</td><td align="left" colspan="1" rowspan="1">0.08 ± 0.03</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.04</td><td align="left" colspan="1" rowspan="1">0.19 ± 0.08</td><td align="left" colspan="1" rowspan="1">0.017 ± 0.01</td><td align="left" colspan="1" rowspan="1">0.03 ± 0.02</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<bold>Sum TRCs</bold>
+<sup/>
+</td><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">
+<bold>0.63 ± 0.15</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.52 ± 0.12</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.39 ± 0.14</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.50 ± 0.18</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.55 ± 0.29</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.24 ± 0.09</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.63 ± 0.16</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.22 ± 0.08</bold>
+</td><td align="left" colspan="1" rowspan="1">
+<bold>0.34 ± 0.24</bold>
+</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>&lt;“value” = below
+LOQ, with the LOQ value for that compound. The “&lt;value”
+notation is shown only when all field replicates of a site had values
+&lt; LOQ. The mean value for a TRC is calculated when at least one
+sample had reported concentration above LOQ, and (0.5 × LOQ)
+value is assigned for the replicates that reported &lt; LOQ. NR =
+not reported.</p></fn><fn id="t2fn2"><label>b</label><p>% detected
+indicates the percentage
+of individual samples with the reported concentrations of each TRC
+above their LOQs.</p></fn><fn id="t2fn3"><label>c</label><p>Sum TRC-PDs
+= IPPD + DPPD + CPPD
++ <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> + DTPD
++ 7PPD + 8PPD + 4-HDPA.</p></fn><fn id="t2fn4"><label>d</label><p>Sum TRC-Qs = IPPD-Q + CPPD-Q + <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q + <italic>o</italic>-DTPD-Q + <italic>p</italic>-DTPD-Q + 7PPD-Q + 77PD-Q.</p></fn><fn id="t2fn5"><label>e</label><p>Sum TRC-VCRs = HMMM + DCU + DPG.</p></fn><fn id="t2fn6"><label>f</label><p>Sum TRCs = sum TRC-PDs + sum TRC-Qs
++ sum TRC-VCRs.</p></fn></table-wrap-foot></table-wrap><p>TRC-PDs were the predominant group of chemicals detected
+in individual
+bile and plasma samples at all sites, with the relative percentage
+ranging from 32 to 97% of the total summed TRCs for bile samples and
+15–99% for plasma samples. While TRC-VCRs were the second most
+abundant group for individual bile samples for most of the sites,
+with a range of 2.6–53% of the total summed TRCs, individual
+plasma samples showed a relatively higher percentage of TRC-Qs (4.6–63%).
+Summed TRC-PDs levels in individual samples were 9.0–32 times
+higher than summed TRC-Q levels in bile samples from urban sites and
+3.7–28 times higher in nonurban site samples. However, the
+TRC-PDs/TRC-Qs ratio in plasma samples from the same individuals was
+less prominent, ranging from 0.7 to 9.4 across all plasma samples.
+A similar distribution of TRCs in sediment samples has been observed
+in the Pearl River Delta, China, where TRC-PDs were higher than TRC-Qs
+(TRC-PDs/TRC-Qs = 2.7). Meanwhile, studies
+measuring TRCs in stormwater runoff or
+wastewater treatment plant influent and effluent found the total levels of TRC-PDs around 10-fold lower
+than TRC-Qs. A more balanced distribution between these two TRC classes
+was observed in air particles and roadside soil samples. In fish muscle collected from the Pearl River
+Delta (China), the TCR-PDs/TRC-Qs ratio varied substantially, ranging
+from 0.3 to22, potentially due to differences
+in the environmental load in their feeding habitat.</p><p>In addition
+to the potential higher levels of TRC-PDs in sediments,
+as observed in other urbanized areas, an apparent faster metabolism of the quinone derivatives by fish
+could explain the lower levels of TRC-Qs in fish bile and plasma.
+Variability in the distribution of TRCs in different types of samples
+(abiotic and biological matrices) is expected due to their chemical
+stability in each sample type as well as their susceptibility to biological
+transformations. Physicochemical properties, metabolism, and toxicokinetic
+behavior are also factors to be considered when assessing these distributions,
+particularly when comparing abiotic matrices (sediment or water) with
+fish tissues (muscle) and biofluids (bile and plasma) or different
+matrices within the same organism. It has been proposed that the formation
+of quinones is a part of the metabolic pathway for phenylenediamines,
+such as <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>, and rates of metabolic elimination of quinones and phenylenediamines
+are species-specific.
+<italic>In vitro</italic> metabolism using three different liver microsomes (humans, rats,
+and fish) was reported to affect a greater decrease in concentration
+of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q than <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>.
+</p><p>Even though TRC-Qs are known to be transformation
+products of TRC-PDs,
+individual English sole bile and plasma samples showed no correlation
+between TRC-PD and TRC-Q levels in all sites (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Figure 6S</ext-link>). This lack of correlation in bile and plasma concentrations
+could be due to many factors, including differences in exposure and
+bioavailability, environmental degradation, or kinetics of transformation
+after the absorption of the TRCs.</p><p>Based on discriminant analysis,
+there was a very distinctive pattern
+and separation of individual TRCs among urban, near-urban, and nonurban
+sites (<xref rid="fig3" ref-type="fig">Figure 
+</xref>) in
+both bile (A) and plasma (B) samples. Such site separation demonstrates
+that this method of analysis is selective and sensitive enough to
+distinguish the differences in TRC levels among sites with different
+urbanization levels. Among both bile and plasma samples, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and HMMM were the
+predominant TRCs responsible for site separation. Even with a known
+short half-life in the environment, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> was the most important TRC for site separation
+in both sample types and had very high detection rates in samples
+from all sites. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 4S</ext-link> shows the score
+summary and site classification based on the linear discriminant analysis.
+After canonical site separation by the bile TRC distribution, only
+10% of the bile samples were misclassified among the site types. Plasma
+TRC separation of sites had 30% of samples misclassified, as plasma
+levels were slightly less different among sites (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 4S</ext-link>).</p><fig id="fig3" position="float"><?disp-level 4?><label>3</label><caption><p>Canonical plots for linear discriminant analysis using
+log-transformed
+concentrations of individual TRCs as covariates and site types as
+categories for bile (A) and plasma (B) samples. Red represents urban
+sites, green represents near-urban sites, and blue represents nonurban
+sites. Inner circles = true mean for the group with 95% of confidence.
+Outer circle = estimated to contain 50% of the samples for that group.
+The biplot rays are shown in each canonical plot, illustrating the
+significance of each TRC in the site separation. The percent variance
+of the two functions that explains this canonical separation by the
+groups is indicated in each axis.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="es6c07136_0003.webp"><?cloudpmc-path blobs/7a41/13689822/d65449769b17/es6c07136_0003.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 2294?><?original-width 1592?><?scaled-height 2294?><?scaled-width 1592?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es6c07136_0003.gif"><?cloudpmc-path blobs/7a41/13689822/2bd4bcbe758e/es6c07136_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec3.3.2" disp-level="3"><label>3.3.2.</label><title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q Levels</title><p>The levels of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> measured in both bile and plasma for
+all sites were substantially higher than that of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q. <xref rid="tbl3" ref-type="table">Table 
+</xref> shows the mean concentration <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>/concentration <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q ratio (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q) for each site.
+Notably, the greater the urbanization level, the higher the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q ratio in both
+bile and plasma for English sole from Puget Sound. Consistent with
+our results, higher levels of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> relative to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q have been reported in the sediment
+samples from other urbanized areas. The
+higher 6PPD/6PPD-Q ratios could be due to faster metabolism of 6PPD-Q
+when compared to 6PPD or greater 6PPD
+environmental loading to urban areas.</p><table-wrap id="tbl3" position="float"><?disp-level 4?><label>3</label><caption><title>Mean 6PPD Concentration/6PPD-Q Concentration
+(6PPD/6PPD-Q) Ratio (±SD) in English Sole Bile and Plasma Samples
+for Each Site from Puget Sound</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="2" align="center" rowspan="1">6PPD/6PPD-Q ratio<sup/>
+<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1">site type</th><th align="center" colspan="1" rowspan="1">sites</th><th align="center" colspan="1" rowspan="1">bile</th><th align="center" colspan="1" rowspan="1">plasma</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">urban</td><td align="left" colspan="1" rowspan="1">EB</td><td align="left" colspan="1" rowspan="1">52 (±45)</td><td align="left" colspan="1" rowspan="1">2.6
+(±0.8)</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">DU</td><td align="left" colspan="1" rowspan="1">56 (±22)</td><td align="left" colspan="1" rowspan="1">14 (±3.2)</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">CB</td><td align="left" colspan="1" rowspan="1">35 (±23)</td><td align="left" colspan="1" rowspan="1">4.0
+(±2.6)</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">SI</td><td align="left" colspan="1" rowspan="1">33 (±26)</td><td align="left" colspan="1" rowspan="1">4.2 (±1.9)</td></tr><tr><td align="left" colspan="1" rowspan="1">near-urban</td><td align="left" colspan="1" rowspan="1">EH</td><td align="left" colspan="1" rowspan="1">27 (±17)</td><td align="left" colspan="1" rowspan="1">2.0 (±0.9)</td></tr><tr><td align="left" colspan="1" rowspan="1">nonurban</td><td align="left" colspan="1" rowspan="1">CIM</td><td align="left" colspan="1" rowspan="1">n.c.</td><td align="left" colspan="1" rowspan="1">2.1 (±2.7)</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">PM</td><td align="left" colspan="1" rowspan="1">6.0 (±3.2)</td><td align="left" colspan="1" rowspan="1">1.4 (±1.6)</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">NQ</td><td align="left" colspan="1" rowspan="1">n.c.</td><td align="left" colspan="1" rowspan="1">n.c.</td></tr><tr><td align="left" colspan="1" rowspan="1"> </td><td align="left" colspan="1" rowspan="1">HC</td><td align="left" colspan="1" rowspan="1">5.2 (±3.3)</td><td align="left" colspan="1" rowspan="1">n.c.</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><label>a</label><p>Ratios were initially calculated
+for each individual and then mean values for sites obtained. n.c.
+= not calculated as all samples from this site had 6PPD-Q values below
+LOQ.</p></fn></table-wrap-foot></table-wrap><p>The absence of studies on TRCs in the plasma and bile
+samples of
+fish species and in different regions limits comparison with this
+study. Most TRC studies monitoring fish tissues (muscle or whole body)
+have not detected both <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q in the same sample.<italic>
+,
+</italic> However, one study using whole-body samples of several fish species
+reported levels that correspond to the 6PPD/6PPD-Q ratio between 0.02
+and 0.3 for pelagic species, compared to 175–231 for a benthic
+fish. This illustrates how the exposure to these chemicals varies
+based on habitats, where 6PPD-Q is likely more bioavailable through
+water than via sediment exposure.</p><p>Conducting laboratory exposure
+studies to determine the kinetic
+differences in absorption, distribution, metabolism, and excretion
+between <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q
+(and other TRCs) is also essential to understand environmental exposure
+data. Moreover, due to rapid metabolism, it is important to measure
+the metabolite forms of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/structure/6PPD" ext-link-type="uri">6PPD</ext-link>-Q (and other TRCs) in order to assess the exposure to these chemicals
+in wild-caught fish.<italic>
+,
+</italic>
+</p></sec><sec id="sec3.3.3" disp-level="3"><label>3.3.3.</label><title>Main Individual TRCs in English Sole Bile
+and Plasma</title><p>Individual TRC mean concentrations per site and
+their percent detected are provided in <xref rid="tbl2" ref-type="table">Table 
+</xref>A–B.</p><p>Among the TRC-PDs measured,
+6PPD, IPPD, and 8PPD were the most frequently detected, with 6PPD
+being the most abundant TRC. 4-HDPA was the second highest abundant
+TRC in bile samples, with the maximum concentration ranging from 3.4
+to 7.1 among urban sites. However, this TRC-PD’s transformation
+product was not detected in any of the plasma samples. Other studies
+also reported 6PPD and IPPD as the most commonly detected TRC-PDs.
+Specifically, 6PPD consistently showed the highest concentration across
+a variety of samples, including river and estuary sediments, air particles, water runoff, and roadside soils. The high susceptibility to degradation in the
+environment, also demonstrated by the stability test in this study
+(see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_001.xlsx" ext-link-type="uri">Supporting Information</ext-link>), is another
+confounding factor to quantify 6PPD in environmental samples. However,
+even with a known short half-life in the environment, 6PPD has been
+detected in almost 100% of the samples in a variety of matrices. This
+is particularly concerning because 6PPD is the precursor to the toxic
+compound 6PPD-Q. Limited published data are available on the presence
+of 4-HDPA, a relevant TRC-PD found in this study, in tissue or plasma
+samples. Some of these TRC-PDs could be potentially selected by the
+tire industry as substitutes for 6PPD. Therefore, it is important to start baseline monitoring for several
+of these chemicals in aquatic wildlife.</p><p>TRC-Qs had a relatively
+low detection frequency. IPPD-Q and 6PPD-Q
+had the highest detection rates for bile and plasma. IPPD-Q and 6PPD-Q
+had maximum concentration levels of 1.8 ng/mL (CB site) and 0.46 ng/mL
+(DU site) in the bile samples, respectively. In plasma samples, these
+levels reached up to 0.11 ng/mL and 0.07 ng/mL, both from the EH site.
+The urban site DU also had relatively high levels of CPPD-Q, reaching
+0.41 ng/mL in bile. Studies also reported 6PPD-Q and IPPD-Q as the
+most detectable TRC-Qs in different matrices.<italic>
+,
+</italic> CPPD-Q was also reported in 100% of air particles, water runoff,
+and roadside soil samples. Although 77PD-Q
+was reported as the most dominant TRC-Q in biota, in this study, it was only found in relatively low concentrations
+and low detection frequency in both bile and plasma.</p><p>TRC-VCRs
+had relatively high levels in bile samples when compared
+to other TRCs, particularly TRC-Qs, with DPG and HMMM being detected
+in 81 and 41% of the bile samples and at concentrations of up to 2.3
+ng/mL (DU site) and 1.5 ng/mL (CB site), respectively. Because of
+an interfering chemical present in all English sole field plasma samples,
+DPG was not reported. In contrast to plasma samples used during method
+development, all plasma collected from field sites had a chromatogram
+peak with the same precursor/product (ion, <italic>m</italic>/<italic>z</italic>) transition that corresponded to DPG and interfered with
+quantitation. We speculate that the interference was most likely a
+component of the anticoagulant (heparin salt) used during blood sampling.
+HMMM was one of the most abundant TRCs in plasma samples, detected
+in 61% of the samples. These TRC-VCRs are widely used in industrial
+products, including the vehicle tire industry, which is reflected
+in the high detection frequency in English sole bile and plasma throughout
+Puget Sound. However, there is a lack of data regarding these TRC-VCRs
+in marine environments. Both HMMM and DPG, as well as their transformation
+products, have been detected in air samples from several highly urbanized
+cities worldwide, with DPG estimated to be the most abundant chemical. Surface water samples have been reported with
+levels of HMMM and DPG.<italic>
+,−
+
+
+</italic>
+</p></sec><sec id="sec3.3.4" disp-level="3"><label>3.3.4.</label><title>Bile versus Plasma</title><p>A mean sum TRC
+concentration in bile/concentration in plasma (bile/plasma) ratio
+was calculated for all sites and grouped as site types (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Table 6S</ext-link>). The mean for the summed TRC bile/plasma
+ratio for urban, near-urban, and nonurban sites was respectively 24,
+12, and 5. The more urbanized the site, the more concentrated these
+chemicals were in bile, relative to plasma levels. The higher levels
+of TRCs in bile are most likely due to the route of metabolism and
+excretion, as these exogenous chemicals may accumulate in bile before
+the final elimination process. Due to its less complex nature and
+tendency to accumulate contaminants such as TRCs, fish bile is a valuable
+matrix for assessing fish exposure to the environmental levels of
+TRCs in Puget Sound, WA, USA, or even lower levels of these chemicals
+in other similarly urbanized areas worldwide.</p><p>The bile/plasma
+ratio calculated for each of the TRC groups was 2–130 for TRC-PDs,
+2–8 for TRC-Qs, and 1–20 for TRC-VCRs. These ratios
+show a much higher presence of TRC-PDs in bile relative to TRC-Qs,
+but in plasma, this difference is substantially reduced. <xref rid="fig4" ref-type="fig">Figure 
+</xref> illustrates the
+percent distribution of each TRC group and individual TRC in bile
+and plasma for each of the three site types. The charts for each individual
+site are also provided in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">Supporting Information</ext-link> (Figure 7S). These charts illustrate the higher relative presence
+of TRC-Qs in plasma when compared to bile samples. 6PPD-Q followed
+a similar partition pattern and was found in a relatively higher percentage
+in plasma samples compared to bile samples. Potential differences
+in the kinetics of distribution and elimination between these types
+of TRCs within the fish might explain the differences in the relative
+distribution observed in bile and plasma. Understanding the toxicokinetic
+differences between TRC-PDs and TRC-Qs is crucial for comprehending
+the fate of these chemicals and for interpreting the environmental
+exposure levels measured in fish.</p><fig id="fig4" position="float"><?disp-level 4?><label>4</label><caption><p>Mean percent distribution of individual
+TRC in bile (left) and
+plasma (right) samples for urban (top), near-urban (middle), and nonurban
+(bottom) sites. The sampling sizes (<italic>n</italic>) are given
+below each pie chart. The blue palette represents TRC-PDs, with the
+darker shade representing 6PPD. The red palette represents TRC-Qs,
+with the darker shade representing 6PPD-Q. The gray palette represents
+TRC-VCRs. The number around the charts indicate each TRC, measured
+above LOQ, and corresponds to the number in parentheses in the legend.
+Numbers not shown in the charts indicate that a TRC was not measured
+above LOQ in any samples from all the sites. Percent value (±standard
+deviation) inside the chart indicates the percentage for each TRC
+group.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="es6c07136_0004.webp"><?cloudpmc-path blobs/7a41/13689822/595909c02ca5/es6c07136_0004.webp?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1792?><?original-width 1489?><?scaled-height 1792?><?scaled-width 1489?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="es6c07136_0004.gif"><?cloudpmc-path blobs/7a41/13689822/f55e7cd6eb6f/es6c07136_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>There was no correlation observed on TRC levels
+in bile versus
+plasma for either summed TRCs or any individual TRC levels, with the
+exception of 6PPD (<italic>r</italic>
+<sup>2</sup> &gt; 0.5). Low levels
+of several TRCs in plasma, many below LOQ, create a challenge for
+this correlation. Toxicokinetic differences among TRCs associated
+with bioavailability and elimination may contribute to this lack of
+correlation. This study also measured only the parent TRC and did
+not assess the metabolites of these chemicals. Based on studies with
+other contaminants in fish<italic>
+,,
+</italic> and 6PPDQ, it is possible that extensive
+phase I (e.g., hydroxylated) and phase II (e.g., glucuronide and sulfate
+conjugates) metabolism may occur. Therefore, total TRC (parent + metabolites)
+levels, especially in bile, may be underestimated. The environmental
+toxicological relevance of the data in this study cannot be currently
+addressed due to significant data gaps on biological end points associated
+with TRC levels in bile and plasma. Laboratory exposure studies are
+essential to closing these data gaps. Additionally, long-term monitoring
+across multiple species in Puget Sound would help establish temporal
+trends and allow for the correlation of bile and plasma levels to
+other extensive biological measurements taken by regional monitoring
+programs. Such correlations are necessary to understand the potential
+fish health risks associated with the levels of exposure that are
+currently presented.</p></sec></sec><sec id="sec3.4" disp-level="2"><label>3.4.</label><title>Biological Implications</title><p>This study
+developed and validated a method for simultaneously quantifying environmentally
+relevant concentrations of several TRCs in fish bile and plasma, allowing
+for biological exposure measures in field-caught fish that could potentially
+be applied elsewhere and in other species. The suitability of this
+method for assessing biologically meaningful exposure is demonstrated
+by higher measured TRCs in urban than nonurban sites around Puget
+Sound, WA, USA for both bile and plasma samples and the relatively
+high detection rate in bile samples. Also, because the TRC levels
+in bile were generally an order of magnitude higher than plasma levels
+from the same individuals, bile may be a more valuable matrix for
+assessing biological exposure to low concentrations of TRCs. To the
+best of our knowledge, this is the first data set reporting environmental
+levels of these 18 TRCs in fish bile and plasma. The distribution
+of several TRCs in a benthic fish helps to close the gap on the environmental
+fate of these chemicals, since most data report TRCs in abiotic samples.
+However, this study did not assess potential seasonal variations in
+the TRC exposure or differences in exposure from different species.
+The long-term measurement of these chemicals in aquatic organisms
+is of great importance for better understanding the exposure levels
+and potential ecological risks.</p><p>Assessing the toxicological
+effects of TRCs measured in tissue samples is challenging because,
+to date, only acute toxicity threshold data are available for most
+TRCs, while sublethal chronic toxicity studies are only reported for
+6PPD-Q. Furthermore, all toxicity threshold concentrations are only
+reported in water (μg/L).</p><p>In order to compare the toxicity
+thresholds with this study, we
+used the plasma concentration obtained from English sole and assumed
+a pseudoequilibrium between plasma levels and water. However, because
+of factors such as high dynamic exposure from stormwater events and
+the potential rapid metabolism of some TRCs (particularly TRC-Qs),
+this comparison is only a rough screening estimate.</p><p>TRCs appear
+to have acute toxicity levels over 1000× higher
+than the levels measured in the plasma of English sole. The notable
+exception is 6PPD-Q with its well-documented low LC50 of &lt;0.1 μg/L
+in sensitive salmonid species. For some of the most detected TRC-PDs
+in this study, the 96 h LC50 reported for different fish species ranged
+between 340 and 430 μg/L for IPPD, 140–737 μg/L for 6PPD, and &gt;61 μg/L for 8PPD. In
+contrast,
+the mean level of TRC-PDs in plasma from urban sites in this study
+ranged between 0.061 and 0.091 μg/L for IPPD, 0.02–0.11
+μg/L for 6PPD, and 0.038–0.085 μg/L for 8PPD. The
+reported acute toxicity threshold for the most detected TRC-Qs was
+&gt;10 μg/L for IPPD-Q and 0.04–0.095
+μg/L for 6PPD-Q. The mean TRC-Q
+concentrations in plasma measured in fish from urban sites in this
+study ranged between 0.02 and 0.032 and 0.014–0.019 μg/L
+for IPPD-Q and 6PPD-Q, respectively. In this study, TRC-VCR HMM was
+detected at a high frequency in plasma samples, and its mean concentration
+ranged between 0.044 and 0.14 μg/L; however, HMMM has reported
+acute toxicity in the mg/L levels. These
+observations highlight the need for additional toxicity studies of
+TRCs at much lower test concentrations using sublethal end points.</p><p>Although the concentrations of TRC measured in English sole plasma
+were well below the reported acute toxicity thresholds, the measured
+concentrations of 6PPD-Q were closer to the range of concentrations
+associated with sublethal chronic effects. A few studies have reported
+sublethal (chronic) toxicity thresholds for 6PPD-Q, which can reach
+as low as 0.06 μ/L of water, leading to embryonic malformation
+in rainbow trout. Vascular leakage and
+altered cellular gene expression were observed in coho salmon exposed
+to 6PPD-Q as low as 0.1 μg/L of water. Although fish are usually exposed to multiple TRCs presented in
+stormwater, there is no empirically proven synergistic effect studies
+of multiple PPD-quinones. Due to a potentially similar toxicological
+mechanism pathway, it is expected their sublethal and lethal effects
+could be potentialized when combined.</p><p>In order to better understand
+the distribution of these TRCs in
+fish, biological monitoring needs to be conducted using different
+species including pelagic fish. Future monitoring studies would also
+clearly benefit from a better understanding of the toxicokinetic behavior
+of TRCs in fish.</p></sec></sec><sec id="sec16" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es6c07136_si_001.xlsx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet"><?cloudpmc-path 7a41/13689822/b4bcb64de502/es6c07136_si_001.xlsx?><?cloudpmc-bucket app?><?size 30726?></media></supplementary-material><supplementary-material id="sifile2" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es6c07136_si_002.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 7a41/13689822/04a59ff8ed28/es6c07136_si_002.pdf?><?cloudpmc-bucket app?><?size 1345104?></media></supplementary-material></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>The authors acknowledge NOAA’s Northwest
+Fisheries Science Center for funding the method development and analyses
+of TRC in this study. Washington Department of Fish and Wildlife staff
+collected and provided English sole samples for this study with funding
+from the State of Washington via its environmental cleanup law, Model
+Toxic Control Act (MTCA). The authors would like to thank Julann Spromberg
+(NOAA) and R. Wesley Flynn (WDFW) for their insightful comments on
+the draft versions of this manuscript.</p></sec><sec id="notes1" disp-level="1"><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acs.est.6c07136?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acs.est.6c07136</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Full raw data with concentrations of each TRC in all
+individual samples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_001.xlsx" ext-link-type="uri">XLSX</ext-link>)</p></list-item><list-item><p>Details of the chemicals and reagents; full description
+of the analytical method, calibration curve, and method for quantitation
+of TRCs; individual LOQ; quality control; stability tests for all
+TRCs; and description of the statistical analysis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.6c07136/suppl_file/es6c07136_si_002.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes3" disp-level="1"><label>§.</label><p>Washington
+Department of Ecology. 300 Desmond Drive SE, Lacey,
+WA, 98,503, USA</p></sec><sec id="notes4" disp-level="1"><p>Denis da Silva:
+conceptualization, methodology, formal analysis, investigation, validation,
+writingoriginal draft, project administration, funding acquisition.
+Jonelle Gates: methodology, formal analysis, investigation, validation,
+writingreview and editing. Madison Hattaway: formal analysis,
+investigation, validation, writingreview and editing. Louisa
+Harding: resources, data curation, writingreview and editing.
+Sandra O’Neill: resources, data curation, writingreview
+and editing. Irvin Schultz: writingreview and editing, supervision.</p></sec><sec id="notes2" disp-level="1"><p>The authors
+declare no competing financial interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Mayer P. M.. et al. Where the rubber meets the road: Emerging environmental impacts of
+tire wear particles and their chemical cocktails. Sci. Total Environ. 2024;927:171153. doi: 10.1016/j.scitotenv.2024.171153.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2024.171153"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11214769"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38460683"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Where the rubber meets the road: Emerging environmental impacts of tire wear particles and their chemical cocktails&amp;author=P. M. Mayer&amp;volume=927&amp;publication_year=2024&amp;pages=171153&amp;pmid=38460683&amp;doi=10.1016/j.scitotenv.2024.171153&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Stephensen E.. et al. Rubber additives induce
+oxidative stress in rainbow trout. Aquat. Toxicol. 2005;75(2):136–143. doi: 10.1016/j.aquatox.2005.07.008.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.aquatox.2005.07.008"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16144723"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Aquat. Toxicol.&amp;title=Rubber additives induce oxidative stress in rainbow trout&amp;author=E. Stephensen&amp;volume=75&amp;issue=2&amp;publication_year=2005&amp;pages=136-143&amp;pmid=16144723&amp;doi=10.1016/j.aquatox.2005.07.008&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">LaPlaca S. B., van den Hurk P.. Toxicological
+effects of micronized tire crumb rubber
+on mummichog (Fundulus heteroclitus) and fathead minnow (Pimephales
+promelas) Ecotoxicology. 2020;29(5):524–534. doi: 10.1007/s10646-020-02210-7.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10646-020-02210-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32342294"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ecotoxicology&amp;title=Toxicological effects of micronized tire crumb rubber on mummichog (Fundulus heteroclitus) and fathead minnow (Pimephales promelas)&amp;author=S. B. LaPlaca&amp;author=P. van den Hurk&amp;volume=29&amp;issue=5&amp;publication_year=2020&amp;pages=524-534&amp;pmid=32342294&amp;doi=10.1007/s10646-020-02210-7&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Halsband C., Sørensen L., Booth A. M., Herzke D.. Car Tire Crumb Rubber:
+Does Leaching Produce a Toxic Chemical Cocktail in Coastal Marine
+Systems? Front. Environ. Sci. 2020;8:125. doi: 10.3389/fenvs.2020.00125.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fenvs.2020.00125"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Front. Environ. Sci.&amp;title=Car Tire Crumb Rubber: Does Leaching Produce a Toxic Chemical Cocktail in Coastal Marine Systems?&amp;author=C. Halsband&amp;author=L. Sørensen&amp;author=A. M. Booth&amp;author=D. Herzke&amp;volume=8&amp;publication_year=2020&amp;pages=125&amp;doi=10.3389/fenvs.2020.00125&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Capolupo M.. et al. Chemical composition and ecotoxicity of plastic
+and car tire rubber
+leachates to aquatic organisms. Water Res. 2020;169:115270. doi: 10.1016/j.watres.2019.115270.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2019.115270"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31731243"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Chemical composition and ecotoxicity of plastic and car tire rubber leachates to aquatic organisms&amp;author=M. Capolupo&amp;volume=169&amp;publication_year=2020&amp;pages=115270&amp;pmid=31731243&amp;doi=10.1016/j.watres.2019.115270&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Kolomijeca A.. et al. Increased Temperature and Turbulence Alter
+the Effects of Leachates
+from Tire Particles on Fathead Minnow (Pimephales promelas) Environ. Sci. Technol. 2020;54(3):1750–1759. doi: 10.1021/acs.est.9b05994.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.9b05994"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31904226"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Increased Temperature and Turbulence Alter the Effects of Leachates from Tire Particles on Fathead Minnow (Pimephales promelas)&amp;author=A. Kolomijeca&amp;volume=54&amp;issue=3&amp;publication_year=2020&amp;pages=1750-1759&amp;pmid=31904226&amp;doi=10.1021/acs.est.9b05994&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">McIntyre J. K.. et al. Treading Water: Tire Wear Particle Leachate Recreates an Urban Runoff
+Mortality Syndrome in Coho but Not Chum Salmon. Environ. Sci. Technol. 2021;55(17):11767–11774. doi: 10.1021/acs.est.1c03569.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c03569"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34410108"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Treading Water: Tire Wear Particle Leachate Recreates an Urban Runoff Mortality Syndrome in Coho but Not Chum Salmon&amp;author=J. K. McIntyre&amp;volume=55&amp;issue=17&amp;publication_year=2021&amp;pages=11767-11774&amp;pmid=34410108&amp;doi=10.1021/acs.est.1c03569&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">
+U.S. 
+Tire Manufacturers Association, U, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ustires.org/innovation" ext-link-type="uri">https://www.ustires.org/innovation</ext-link>.</named-content></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Wagner S.. et al. Tire wear particles in the aquatic environment - A review on generation,
+analysis, occurrence, fate and effects. Water
+Res. 2018;139:83–100. doi: 10.1016/j.watres.2018.03.051.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2018.03.051"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29631188"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Tire wear particles in the aquatic environment - A review on generation, analysis, occurrence, fate and effects&amp;author=S. Wagner&amp;volume=139&amp;publication_year=2018&amp;pages=83-100&amp;pmid=29631188&amp;doi=10.1016/j.watres.2018.03.051&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Peter K. T.. et al. Characterizing the Chemical
+Profile of Biological Decline in Stormwater-Impacted
+Urban Watersheds. Environ. Sci. Technol. 2022;56(5):3159–3169. doi: 10.1021/acs.est.1c08274.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c08274"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35166536"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Characterizing the Chemical Profile of Biological Decline in Stormwater-Impacted Urban Watersheds&amp;author=K. T. Peter&amp;volume=56&amp;issue=5&amp;publication_year=2022&amp;pages=3159-3169&amp;pmid=35166536&amp;doi=10.1021/acs.est.1c08274&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Wei L.-N.. et al. First Evidence of the
+Bioaccumulation and Trophic Transfer of Tire
+Additives and Their Transformation Products in an Estuarine Food Web. Environ. Sci. Technol. 2024;58(14):6370–6380. doi: 10.1021/acs.est.3c10248.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c10248"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38497719"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=First Evidence of the Bioaccumulation and Trophic Transfer of Tire Additives and Their Transformation Products in an Estuarine Food Web&amp;author=L.-N. Wei&amp;volume=58&amp;issue=14&amp;publication_year=2024&amp;pages=6370-6380&amp;pmid=38497719&amp;doi=10.1021/acs.est.3c10248&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Tian Z.. et al. A ubiquitous tire rubber-derived chemical induces acute mortality
+in coho salmon. Science. 2021;371(6525):185–189. doi: 10.1126/science.abd6951.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.abd6951"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33273063"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=A ubiquitous tire rubber-derived chemical induces acute mortality in coho salmon&amp;author=Z. Tian&amp;volume=371&amp;issue=6525&amp;publication_year=2021&amp;pages=185-189&amp;pmid=33273063&amp;doi=10.1126/science.abd6951&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Tian Z.. et al. 6PPD-Quinone: Revised Toxicity Assessment and Quantification
+with
+a Commercial Standard. Environ. Sci. Technol.
+Lett. 2022;9(2):140–146. doi: 10.1021/acs.estlett.1c00910.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.1c00910"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=6PPD-Quinone: Revised Toxicity Assessment and Quantification with a Commercial Standard&amp;author=Z. Tian&amp;volume=9&amp;issue=2&amp;publication_year=2022&amp;pages=140-146&amp;doi=10.1021/acs.estlett.1c00910&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Johannessen C., Helm P., Metcalfe C. D.. Detection
+of selected tire wear compounds
+in urban receiving waters. Environ. Pollut. 2021;287:117659. doi: 10.1016/j.envpol.2021.117659.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2021.117659"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34426371"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Detection of selected tire wear compounds in urban receiving waters&amp;author=C. Johannessen&amp;author=P. Helm&amp;author=C. D. Metcalfe&amp;volume=287&amp;publication_year=2021&amp;pages=117659&amp;pmid=34426371&amp;doi=10.1016/j.envpol.2021.117659&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Challis J. K.. et al. Occurrences of Tire Rubber-Derived Contaminants
+in Cold-Climate Urban
+Runoff. Environ. Sci. Technol. Lett. 2021;8(11):961–967. doi: 10.1021/acs.estlett.1c00682.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.1c00682"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Occurrences of Tire Rubber-Derived Contaminants in Cold-Climate Urban Runoff&amp;author=J. K. Challis&amp;volume=8&amp;issue=11&amp;publication_year=2021&amp;pages=961-967&amp;doi=10.1021/acs.estlett.1c00682&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">
+EPA,
+U.S. 
+Determination of 6PPD-Quinone
+in Aqueous Matrices
+Using Liquid Chromatography with Tandem Mass Spectrometry (LC/MS/MS) In Clean Water Act Analytical Methods; U.S. Environmental Protection Agency: Washington, DC, 2024; p 34.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Clean Water Act Analytical Methods&amp;publication_year=2024&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Ji J.. et al. Exploration of emerging
+environmental pollutants 6PPD and 6PPDQ in
+honey and fish samples. Food Chem. 2022;396:133640. doi: 10.1016/j.foodchem.2022.133640.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.foodchem.2022.133640"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35839723"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Chem.&amp;title=Exploration of emerging environmental pollutants 6PPD and 6PPDQ in honey and fish samples&amp;author=J. Ji&amp;volume=396&amp;publication_year=2022&amp;pages=133640&amp;pmid=35839723&amp;doi=10.1016/j.foodchem.2022.133640&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Kuo L.-J.. et al. Analysis of 6PPD-Q in
+finfish, shellfish, and marine mammal tissues. Chemosphere. 2025;379:144418. doi: 10.1016/j.chemosphere.2025.144418.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2025.144418"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40253813"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Analysis of 6PPD-Q in finfish, shellfish, and marine mammal tissues&amp;author=L.-J. Kuo&amp;volume=379&amp;publication_year=2025&amp;pages=144418&amp;pmid=40253813&amp;doi=10.1016/j.chemosphere.2025.144418&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Mahoney H.. et al. Exposure to the Tire
+Rubber-Derived Contaminant 6PPD-Quinone Causes
+Mitochondrial Dysfunction In Vitro. Environ.
+Sci. Technol. Lett. 2022;9:765. doi: 10.1021/acs.estlett.2c00431.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00431"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Exposure to the Tire Rubber-Derived Contaminant 6PPD-Quinone Causes Mitochondrial Dysfunction In Vitro&amp;author=H. Mahoney&amp;volume=9&amp;publication_year=2022&amp;pages=765&amp;doi=10.1021/acs.estlett.2c00431&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Brinkmann M.. et al. Acute Toxicity of the
+Tire Rubber-Derived Chemical 6PPD-quinone to
+Four Fishes of Commercial, Cultural, and Ecological Importance. Environ. Sci. Technol. Lett. 2022;9(4):333–338. doi: 10.1021/acs.estlett.2c00050.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Acute Toxicity of the Tire Rubber-Derived Chemical 6PPD-quinone to Four Fishes of Commercial, Cultural, and Ecological Importance&amp;author=M. Brinkmann&amp;volume=9&amp;issue=4&amp;publication_year=2022&amp;pages=333-338&amp;doi=10.1021/acs.estlett.2c00050&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">French B. F.. et al. Urban Roadway Runoff Is Lethal to Juvenile
+Coho, Steelhead, and Chinook
+Salmonids, But Not Congeneric Sockeye. Environ.
+Sci. Technol. Lett. 2022;9:733. doi: 10.1021/acs.estlett.2c00467.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.2c00467"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9476652"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36118959"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Urban Roadway Runoff Is Lethal to Juvenile Coho, Steelhead, and Chinook Salmonids, But Not Congeneric Sockeye&amp;author=B. F. French&amp;volume=9&amp;publication_year=2022&amp;pages=733&amp;pmid=36118959&amp;doi=10.1021/acs.estlett.2c00467&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Cao G.. et al. Occurrence and Fate
+of Substituted p-Phenylenediamine-Derived Quinones
+in Hong Kong Wastewater Treatment Plants. Environ.
+Sci. Technol. 2023;57(41):15635–15643. doi: 10.1021/acs.est.3c03758.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c03758"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10586368"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37798257"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Occurrence and Fate of Substituted p-Phenylenediamine-Derived Quinones in Hong Kong Wastewater Treatment Plants&amp;author=G. Cao&amp;volume=57&amp;issue=41&amp;publication_year=2023&amp;pages=15635-15643&amp;pmid=37798257&amp;doi=10.1021/acs.est.3c03758&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Cao G.. et al. New Evidence
+of Rubber-Derived Quinones in Water, Air, and Soil. Environ. Sci. Technol. 2022;56(7):4142–4150. doi: 10.1021/acs.est.1c07376.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c07376"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8988306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35316033"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=New Evidence of Rubber-Derived Quinones in Water, Air, and Soil&amp;author=G. Cao&amp;volume=56&amp;issue=7&amp;publication_year=2022&amp;pages=4142-4150&amp;pmid=35316033&amp;doi=10.1021/acs.est.1c07376&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Zeng L.. et al. Widespread Occurrence and Transport of p-Phenylenediamines and Their
+Quinones in Sediments across Urban Rivers, Estuaries, Coasts, and
+Deep-Sea Regions. Environ. Sci. Technol. 2023;57(6):2393–2403. doi: 10.1021/acs.est.2c07652.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.2c07652"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36720114"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Widespread Occurrence and Transport of p-Phenylenediamines and Their Quinones in Sediments across Urban Rivers, Estuaries, Coasts, and Deep-Sea Regions&amp;author=L. Zeng&amp;volume=57&amp;issue=6&amp;publication_year=2023&amp;pages=2393-2403&amp;pmid=36720114&amp;doi=10.1021/acs.est.2c07652&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Chen X.. et al. p-Phenylenediamines
+and their derived quinones: A review of their
+environmental fate, human exposure, and biological toxicity. J. Hazard. Mater. 2025;488:137373. doi: 10.1016/j.jhazmat.2025.137373.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2025.137373"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39869976"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard. Mater.&amp;title=p-Phenylenediamines and their derived quinones: A review of their environmental fate, human exposure, and biological toxicity&amp;author=X. Chen&amp;volume=488&amp;publication_year=2025&amp;pages=137373&amp;pmid=39869976&amp;doi=10.1016/j.jhazmat.2025.137373&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Johannessen C.. et al. Air monitoring of tire-derived
+chemicals in global megacities using
+passive samplers. Environ. Pollut. 2022;314:120206. doi: 10.1016/j.envpol.2022.120206.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2022.120206"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36152723"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Air monitoring of tire-derived chemicals in global megacities using passive samplers&amp;author=C. Johannessen&amp;volume=314&amp;publication_year=2022&amp;pages=120206&amp;pmid=36152723&amp;doi=10.1016/j.envpol.2022.120206&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Liang Y.. et al. P-phenylenediamine antioxidants and their quinone derivatives:
+A
+review of their environmental occurrence, accessibility, potential
+toxicity, and human exposure. Sci. Total Environ. 2024;948:174449. doi: 10.1016/j.scitotenv.2024.174449.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2024.174449"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38969117"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=P-phenylenediamine antioxidants and their quinone derivatives: A review of their environmental occurrence, accessibility, potential toxicity, and human exposure&amp;author=Y. Liang&amp;volume=948&amp;publication_year=2024&amp;pages=174449&amp;pmid=38969117&amp;doi=10.1016/j.scitotenv.2024.174449&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Brown M. L.. et al. Roadway Runoff Induced
+Acute Mortality in Juvenile Coho Salmon During
+Spring Storm Events. Environ. Sci. Technol. 2026;60(2):1723–1732. doi: 10.1021/acs.est.5c13992.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.5c13992"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC12825161"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="41490972"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Roadway Runoff Induced Acute Mortality in Juvenile Coho Salmon During Spring Storm Events&amp;author=M. L. Brown&amp;volume=60&amp;issue=2&amp;publication_year=2026&amp;pages=1723-1732&amp;pmid=41490972&amp;doi=10.1021/acs.est.5c13992&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Zeng J.. et al. Enantioselective accumulation
+and trophodynamics of p-phenylenediamine
+antioxidants and their quinones in the mangrove ecosystem. Environ. Pollut. 2025;381:126572. doi: 10.1016/j.envpol.2025.126572.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2025.126572"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40451528"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Enantioselective accumulation and trophodynamics of p-phenylenediamine antioxidants and their quinones in the mangrove ecosystem&amp;author=J. Zeng&amp;volume=381&amp;publication_year=2025&amp;pages=126572&amp;pmid=40451528&amp;doi=10.1016/j.envpol.2025.126572&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Zhang Q.. et al. Accurate and stable
+detection of p-phenylenediamine antioxidants
+and their transformation products in aquatic products using antioxidant
+protection - Analysis of actual aquatic products. J. Hazard. Mater. 2024;480:136099. doi: 10.1016/j.jhazmat.2024.136099.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jhazmat.2024.136099"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39405713"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Hazard. Mater.&amp;title=Accurate and stable detection of p-phenylenediamine antioxidants and their transformation products in aquatic products using antioxidant protection - Analysis of actual aquatic products&amp;author=Q. Zhang&amp;volume=480&amp;publication_year=2024&amp;pages=136099&amp;pmid=39405713&amp;doi=10.1016/j.jhazmat.2024.136099&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">
+Census,
+U.S. . Population Growth Reported
+Across Cities and Towns
+in All U.S. Regions, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.census.gov/newsroom/press-releases/2025/vintage-2024-popest.html" ext-link-type="uri">https://www.census.gov/newsroom/press-releases/2025/vintage-2024-popest.html</ext-link>.</named-content></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Homer C.. et al. Conterminous United
+States land cover change patterns 2001–2016
+from the 2016 National Land Cover Database. ISPRS J. Photogrammetry Remote Sens. 2020;162:184–199. doi: 10.1016/j.isprsjprs.2020.02.019.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.isprsjprs.2020.02.019"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9214659"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35746921"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ISPRS J. Photogrammetry Remote Sens.&amp;title=Conterminous United States land cover change patterns 2001–2016 from the 2016 National Land Cover Database&amp;author=C. Homer&amp;volume=162&amp;publication_year=2020&amp;pages=184-199&amp;pmid=35746921&amp;doi=10.1016/j.isprsjprs.2020.02.019&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">da
+Silva D. A. M.. et al. Assessing hydroxylated polycyclic aromatic
+hydrocarbon (OHPAH) metabolites in bile of English sole (Parophrys
+vetulus) from Puget Sound, WA, USA by liquid chromatography/tandem
+mass spectrometry (LC-MS/MS) Sci. Total Environ. 2023;865:161229. doi: 10.1016/j.scitotenv.2022.161229.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2022.161229"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36586683"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Assessing hydroxylated polycyclic aromatic hydrocarbon (OHPAH) metabolites in bile of English sole (Parophrys vetulus) from Puget Sound, WA, USA by liquid chromatography/tandem mass spectrometry (LC-MS/MS)&amp;author=D. A. M. da Silva&amp;volume=865&amp;publication_year=2023&amp;pages=161229&amp;pmid=36586683&amp;doi=10.1016/j.scitotenv.2022.161229&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">da
+Silva D. A. M.. et al. Endocrine disrupting chemicals in fish bile:
+A rapid method of analysis using English sole (Parophrys ventulus)
+from Puget Sound, WA, USA. Chemosphere. 2013;92(11):1550–1556. doi: 10.1016/j.chemosphere.2013.04.027.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2013.04.027"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23683869"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Endocrine disrupting chemicals in fish bile: A rapid method of analysis using English sole (Parophrys ventulus) from Puget Sound, WA, USA&amp;author=D. A. M. da Silva&amp;volume=92&amp;issue=11&amp;publication_year=2013&amp;pages=1550-1556&amp;pmid=23683869&amp;doi=10.1016/j.chemosphere.2013.04.027&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Faber M., James C. A., Harding L. B., da Silva D. A. M., Sofield R. M.. Estrogenic
+activity of mixtures in the Salish Sea: The use of high throughput
+toxicity data with chemical information from fish bile and other matrices. PLoS One. 2025;20(7):epone.0323865.  doi: 10.1371/journal.pone.0323865.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0323865"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC12240389"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40632739"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Estrogenic activity of mixtures in the Salish Sea: The use of high throughput toxicity data with chemical information from fish bile and other matrices&amp;author=M. Faber&amp;author=C. A. James&amp;author=L. B. Harding&amp;author=D. A. M. da Silva&amp;author=R. M. Sofield&amp;volume=20&amp;issue=7&amp;publication_year=2025&amp;pages=epone.0323865&amp;pmid=40632739&amp;doi=10.1371/journal.pone.0323865&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">de
+Souza H. M.. et al. Review: Fish bile, a highly versatile biomarker for
+different environmental pollutants. Comp. Biochem.
+Physiol., Part C:Toxicol. Pharmacol. 2024;278:109845. doi: 10.1016/j.cbpc.2024.109845.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.cbpc.2024.109845"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38280442"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Comp. Biochem. Physiol., Part C:Toxicol. Pharmacol.&amp;title=Review: Fish bile, a highly versatile biomarker for different environmental pollutants&amp;author=H. M. de Souza&amp;volume=278&amp;publication_year=2024&amp;pages=109845&amp;pmid=38280442&amp;doi=10.1016/j.cbpc.2024.109845&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Meador J. P.. et al. Using the fish plasma
+model to evaluate potential effects of pharmaceuticals
+in effluent from a large urban wastewater treatment plant. Environ. Pollut. 2024;348:123842. doi: 10.1016/j.envpol.2024.123842.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2024.123842"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38554836"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Using the fish plasma model to evaluate potential effects of pharmaceuticals in effluent from a large urban wastewater treatment plant&amp;author=J. P. Meador&amp;volume=348&amp;publication_year=2024&amp;pages=123842&amp;pmid=38554836&amp;doi=10.1016/j.envpol.2024.123842&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Grabicová K.. et al. Influence of time-dependent
+sampling on fish plasma levels of select
+pharmaceuticals and per- and polyfluoroalkyl substances (PFASs) Environ. Pollut. 2022;315:120338. doi: 10.1016/j.envpol.2022.120338.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envpol.2022.120338"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36209932"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Pollut.&amp;title=Influence of time-dependent sampling on fish plasma levels of select pharmaceuticals and per- and polyfluoroalkyl substances (PFASs)&amp;author=K. Grabicová&amp;volume=315&amp;publication_year=2022&amp;pages=120338&amp;pmid=36209932&amp;doi=10.1016/j.envpol.2022.120338&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">
+
+Sloan, C. A.
+; et al. 
+Quality
+Assurance Plan for Analyses of Environmental Samples for Polycyclic
+Aromatic Hydrocarbons, Persistent Organic Pollutants, Dioctyl Sulfosuccinate,
+Estrogenic Compounds, Steroids, Hydroxylated Polycyclic Aromatic Hydrocarbons,
+Stable Isotope Ratios, and Lipid Classes; N. U.S. Dept. of Commerce, National Marine Fisheries Service, 2019.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Quality Assurance Plan for Analyses of Environmental Samples for Polycyclic Aromatic Hydrocarbons, Persistent Organic Pollutants, Dioctyl Sulfosuccinate, Estrogenic Compounds, Steroids, Hydroxylated Polycyclic Aromatic Hydrocarbons, Stable Isotope Ratios, and Lipid Classes&amp;publication_year=2019&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Seiwert B.. et al. Abiotic oxidative transformation
+of 6-PPD and 6-PPD quinone from
+tires and occurrence of their products in snow from urban roads and
+in municipal wastewater. Water Res. 2022;212:118122. doi: 10.1016/j.watres.2022.118122.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2022.118122"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35101694"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Abiotic oxidative transformation of 6-PPD and 6-PPD quinone from tires and occurrence of their products in snow from urban roads and in municipal wastewater&amp;author=B. Seiwert&amp;volume=212&amp;publication_year=2022&amp;pages=118122&amp;pmid=35101694&amp;doi=10.1016/j.watres.2022.118122&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">West J. E., O’Neill S. M., Ylitalo G. M.. Time Trends of Persistent
+Organic
+Pollutants in Benthic and Pelagic Indicator Fishes from Puget Sound,
+Washington, USA. Arch. Environ. Contam. Toxicol. 2017;73(2):207–229. doi: 10.1007/s00244-017-0383-z.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00244-017-0383-z"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5539278"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28528416"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Environ. Contam. Toxicol.&amp;title=Time Trends of Persistent Organic Pollutants in Benthic and Pelagic Indicator Fishes from Puget Sound, Washington, USA&amp;author=J. E. West&amp;author=S. M. O’Neill&amp;author=G. M. Ylitalo&amp;volume=73&amp;issue=2&amp;publication_year=2017&amp;pages=207-229&amp;pmid=28528416&amp;doi=10.1007/s00244-017-0383-z&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Song Z.. et al. Distinct Species-Specific
+and Toxigenic Metabolic Profiles for 6PPD
+and 6PPD Quinone by P450 Enzymes: Insights from In Vitro and In Silico
+Studies. Environ. Sci. Technol. 2024;58(34):14994–15004. doi: 10.1021/acs.est.4c03361.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c03361"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39120070"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Distinct Species-Specific and Toxigenic Metabolic Profiles for 6PPD and 6PPD Quinone by P450 Enzymes: Insights from In Vitro and In Silico Studies&amp;author=Z. Song&amp;volume=58&amp;issue=34&amp;publication_year=2024&amp;pages=14994-15004&amp;pmid=39120070&amp;doi=10.1021/acs.est.4c03361&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Woytowich N.. et al. Uncovering Spatially
+Resolved 6PPDQ Metabolism in Rainbow Trout Fry
+with Nano-DESI Mass Spectrometry Imaging. Environ.
+Sci. Technol. Lett. 2025;12(8):937–944. doi: 10.1021/acs.estlett.5c00669.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.5c00669"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol. Lett.&amp;title=Uncovering Spatially Resolved 6PPDQ Metabolism in Rainbow Trout Fry with Nano-DESI Mass Spectrometry Imaging&amp;author=N. Woytowich&amp;volume=12&amp;issue=8&amp;publication_year=2025&amp;pages=937-944&amp;doi=10.1021/acs.estlett.5c00669&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">
+Ecology, W.D.o . 6PPD Action Plan and Alternatives Assessment - Progress
+Report and Recommendations; Washington Department
+of Ecology: Olympia, WA, 2024; p 28.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=6PPD Action Plan and Alternatives Assessment - Progress Report and Recommendations&amp;publication_year=2024&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Zahn D.. et al. Identification of potentially mobile and persistent transformation
+products of REACH-registered chemicals and their occurrence in surface
+waters. Water Res. 2019;150:86–96. doi: 10.1016/j.watres.2018.11.042.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2018.11.042"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30508717"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Identification of potentially mobile and persistent transformation products of REACH-registered chemicals and their occurrence in surface waters&amp;author=D. Zahn&amp;volume=150&amp;publication_year=2019&amp;pages=86-96&amp;pmid=30508717&amp;doi=10.1016/j.watres.2018.11.042&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Alhelou R., Seiwert B., Reemtsma T.. Hexamethoxymethylmelamine
+- A precursor
+of persistent and mobile contaminants in municipal wastewater and
+the water cycle. Water Res. 2019;165:114973. doi: 10.1016/j.watres.2019.114973.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.watres.2019.114973"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31430651"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Water Res.&amp;title=Hexamethoxymethylmelamine - A precursor of persistent and mobile contaminants in municipal wastewater and the water cycle&amp;author=R. Alhelou&amp;author=B. Seiwert&amp;author=T. Reemtsma&amp;volume=165&amp;publication_year=2019&amp;pages=114973&amp;pmid=31430651&amp;doi=10.1016/j.watres.2019.114973&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Rauert C.. et al. The first environmental assessment of hexa­(methoxymethyl)­melamine
+and co-occurring cyclic amines in Australian waterways. Sci. Total Environ. 2020;743:140834. doi: 10.1016/j.scitotenv.2020.140834.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2020.140834"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32679507"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=The first environmental assessment of hexa­(methoxymethyl)­melamine and co-occurring cyclic amines in Australian waterways&amp;author=C. Rauert&amp;volume=743&amp;publication_year=2020&amp;pages=140834&amp;pmid=32679507&amp;doi=10.1016/j.scitotenv.2020.140834&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Li Z.-M., Jeong H., Kannan K.. Occurrence
+and Distribution of 1,3-Diphenylguanidine,
+Benzotriazole, Benzothiazole, N-(1,3-Dimethylbutyl)-N′-phenyl-p-phenylenediamine,
+and Their Derivatives in Surface Water, Drinking Water, Stormwater
+Runoff, and Rainwater from New York State, USA. ACS ES&amp;T Water. 2025;5(7):3897–3907. doi: 10.1021/acsestwater.5c00216.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acsestwater.5c00216"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ACS ES&amp;T Water&amp;title=Occurrence and Distribution of 1,3-Diphenylguanidine, Benzotriazole, Benzothiazole, N-(1,3-Dimethylbutyl)-N′-phenyl-p-phenylenediamine, and Their Derivatives in Surface Water, Drinking Water, Stormwater Runoff, and Rainwater from New York State, USA&amp;author=Z.-M. Li&amp;author=H. Jeong&amp;author=K. Kannan&amp;volume=5&amp;issue=7&amp;publication_year=2025&amp;pages=3897-3907&amp;doi=10.1021/acsestwater.5c00216&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">
+EPA,
+U . US EPA Toxicity Estimation Software
+Tool
+(TEST), 2024.</named-content></mixed-citation></ref><ref id="ref50"><mixed-citation id="cit50"><named-content content-type="citation-string">
+EPA, U . Acute Aquatic Life Screening Value for 6PPD in Freshwater; United States Environmental Protection Agency: Washington, DC, 2024; p 111.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Acute Aquatic Life Screening Value for 6PPD in Freshwater&amp;publication_year=2024&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Mano H., Moriyama A., Hara J., Tai R., Naito W.. Acute Toxicities
+of Three Para-Phenylenediamine Quinones to Coho Salmon (Oncorhynchus
+kisutch) Juveniles and Embryonic Cells. Bull.
+Environ. Contam. Toxicol. 2025;115(6):78. doi: 10.1007/s00128-025-04150-6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00128-025-04150-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC12665623"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="41320711"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bull. Environ. Contam. Toxicol.&amp;title=Acute Toxicities of Three Para-Phenylenediamine Quinones to Coho Salmon (Oncorhynchus kisutch) Juveniles and Embryonic Cells&amp;author=H. Mano&amp;author=A. Moriyama&amp;author=J. Hara&amp;author=R. Tai&amp;author=W. Naito&amp;volume=115&amp;issue=6&amp;publication_year=2025&amp;pages=78&amp;pmid=41320711&amp;doi=10.1007/s00128-025-04150-6&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Nair P.. et al. Synthesis and Toxicity
+Evaluation of p-Phenylenediamine-Quinones. Environ.
+Sci. Technol. 2025;59(15):7485–7494. doi: 10.1021/acs.est.4c12220.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c12220"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40197014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Synthesis and Toxicity Evaluation of p-Phenylenediamine-Quinones&amp;author=P. Nair&amp;volume=59&amp;issue=15&amp;publication_year=2025&amp;pages=7485-7494&amp;pmid=40197014&amp;doi=10.1021/acs.est.4c12220&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Li C., Yang Y., Tian Z., Huang Z., Huang Y., Hong Y.. Residues of
+6PPD-Q in the Aquatic Environment and Toxicity to Aquatic
+Organisms: A Review. Fishes. 2025;10(4):146. doi: 10.3390/fishes10040146.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/fishes10040146"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Fishes&amp;title=Residues of 6PPD-Q in the Aquatic Environment and Toxicity to Aquatic Organisms: A Review&amp;author=C. Li&amp;author=Y. Yang&amp;author=Z. Tian&amp;author=Z. Huang&amp;author=Y. Huang&amp;volume=10&amp;issue=4&amp;publication_year=2025&amp;pages=146&amp;doi=10.3390/fishes10040146&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">Greer J. B.. et al. Tire-Derived Transformation Product 6PPD-Quinone Induces Mortality
+and Transcriptionally Disrupts Vascular Permeability Pathways in Developing
+Coho Salmon. Environ. Sci. Technol. 2023;57(30):10940–10950. doi: 10.1021/acs.est.3c01040.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c01040"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10399305"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37467138"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Tire-Derived Transformation Product 6PPD-Quinone Induces Mortality and Transcriptionally Disrupts Vascular Permeability Pathways in Developing Coho Salmon&amp;author=J. B. Greer&amp;volume=57&amp;issue=30&amp;publication_year=2023&amp;pages=10940-10950&amp;pmid=37467138&amp;doi=10.1021/acs.est.3c01040&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es6c07136_si_001.xlsx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet"><?cloudpmc-path 7a41/13689822/b4bcb64de502/es6c07136_si_001.xlsx?><?cloudpmc-bucket app?><?size 30726?></media></supplementary-material><supplementary-material id="db_ds_supplementary-material2_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es6c07136_si_002.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 7a41/13689822/04a59ff8ed28/es6c07136_si_002.pdf?><?cloudpmc-bucket app?><?size 1345104?></media></supplementary-material></sec></sec></body></article>

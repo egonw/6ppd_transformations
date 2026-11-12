@@ -27,6 +27,8 @@ LITERATURE  = literature
 CACHE       = cache/ontology_labels.sqlite
 # Terms added by hand (6PPD and 6PPD-Q), used on top of the cache.
 LOCAL       = local_terms.tsv
+# Articles added by hand (DOIs), downloaded with the seed articles from Wikidata.
+ARTICLES    = local_articles.txt
 
 JATS := $(wildcard $(LITERATURE)/PMC*.xml)
 HTML := $(JATS:.xml=.html)
@@ -40,9 +42,10 @@ CHEM := $(JATS:.xml=.chem.tsv)
 all: literature
 
 # Find the 6PPD / 6PPD-Q seed articles in Wikidata and download their
-# Europe PMC JATS XML files. Already downloaded files are kept.
+# Europe PMC JATS XML files, and those of the articles in local_articles.txt.
+# Already downloaded files are kept.
 literature:
-	$(PYTHON) -u fetch_seed_articles.py --outdir $(LITERATURE)
+	$(PYTHON) -u fetch_seed_articles.py --outdir $(LITERATURE) --extra $(ARTICLES)
 
 annotate: $(HTML) index.html
 

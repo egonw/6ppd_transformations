@@ -10,6 +10,9 @@ Steps:
   3. Look up each DOI in Europe PMC and, when full text is available there,
      save the JATS XML as <outdir>/<PMCID>.xml.
 
+Articles that are not in Wikidata as such can be added by hand: give a text
+file with their DOIs with --extra (see local_articles.txt).
+
 An overview of all seed articles is written to <outdir>/seeds.tsv.
 Only the Python standard library is used.
 """
@@ -113,6 +116,17 @@ def find_seed_articles(compounds):
     return articles
 
 
+def read_extra_dois(path):
+    """DOIs added by hand: one per line, lines starting with # are comments."""
+    dois = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        doi = line.split("#", 1)[0].strip().lower()
+        doi = doi.removeprefix("https://doi.org/").removeprefix("doi:")
+        if doi:
+            dois.append(doi)
+    return dois
+
+
 def europepmc_lookup(doi):
     """Return the Europe PMC record for a DOI, or None when it is not there."""
     body = http_get(f"{EUROPEPMC}/search", {
@@ -144,6 +158,8 @@ def main():
     parser.add_argument("--both", action="store_true",
                         help="only keep articles that have both 6PPD and "
                              "6PPD-Q as main subject (default: either)")
+    parser.add_argument("--extra", type=Path,
+                        help="text file with DOIs of articles to add by hand")
     parser.add_argument("--delay", default=0.2, type=float,
                         help="seconds to wait between Europe PMC requests")
     args = parser.parse_args()
@@ -158,6 +174,13 @@ def main():
         articles = {doi: a for doi, a in articles.items()
                     if len(a["subjects"]) == len(COMPOUNDS)}
     print(f"Found {len(articles)} seed articles with a DOI in Wikidata")
+    if args.extra and args.extra.exists():
+        added = 0
+        for doi in read_extra_dois(args.extra):
+            if doi not in articles:
+                articles[doi] = {"doi": doi, "wikidata": "", "subjects": set()}
+                added += 1
+        print(f"Added {added} articles from {args.extra}")
 
     counts = {"downloaded": 0, "exists": 0, "no full text": 0,
               "not open access": 0, "not in Europe PMC": 0, "error": 0}
