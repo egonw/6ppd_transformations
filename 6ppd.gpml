@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="6PPD transformations" Version="20261112" Organism="Homo sapiens">
+  <Graphics BoardWidth="513.0" BoardHeight="334.5" />
+  <DataNode TextLabel="6PPD-quinone" GraphId="d076d" Type="Metabolite">
+    <Graphics CenterX="172.0" CenterY="226.0" Width="120.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q122709782" />
+  </DataNode>
+  <DataNode TextLabel="6PPD" GraphId="fe84a" Type="Metabolite">
+    <Graphics CenterX="172.0" CenterY="115.0" Width="120.0" Height="25.0" ZOrder="32769" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q27279957" />
+  </DataNode>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="172.0" Y="127.5" GraphRef="fe84a" RelX="0.0" RelY="1.0" />
+      <Point X="172.0" Y="213.5" GraphRef="d076d" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>
+

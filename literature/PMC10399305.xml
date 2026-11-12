@@ -1,0 +1,854 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="EN" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Environ Sci Technol</journal-id><journal-id journal-id-type="iso-abbrev">Environ Sci Technol</journal-id><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-id journal-id-type="nlm-id">0213155</journal-id><journal-id journal-id-type="publisher-id">es</journal-id><journal-title-group><journal-title>Environmental Science &amp; Technology</journal-title></journal-title-group><issn pub-type="ppub">0013-936X</issn><issn pub-type="epub">1520-5851</issn><?publisher_abbrev acs?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>ACS AuthorChoice</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10399305</article-id><article-id pub-id-type="pmcid-ver">PMC10399305.1</article-id><article-id pub-id-type="pmcaid">10399305</article-id><article-id pub-id-type="pmcaiid">10399305</article-id><article-id pub-id-type="pmid">37467138</article-id><article-id pub-id-type="doi">10.1021/acs.est.3c01040</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Tire-Derived Transformation
+Product 6PPD-Quinone Induces
+Mortality and Transcriptionally Disrupts Vascular Permeability Pathways
+in Developing Coho Salmon</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6660-9976</contrib-id><name name-style="western"><surname>Greer</surname><given-names initials="JB">Justin B.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8299-7198</contrib-id><name name-style="western"><surname>Dalsky</surname><given-names initials="EM">Ellie M.</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9202-0612</contrib-id><name name-style="western"><surname>Lane</surname><given-names initials="RF">Rachael F.</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Hansen</surname><given-names initials="JD">John D.</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><aff id="aff1"><label>†</label>U.S.
+Geological Survey, <institution>Western Fisheries Research
+Center</institution>, Seattle, Washington 98115, <country>United States</country></aff><aff id="aff2"><label>‡</label>U.S.
+Geological Survey, <institution>Kansas Water Science
+Center</institution>, Lawrence, Kansas 66049, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>jgreer@usgs.gov</email>. Tel: <phone>(206) 526-2055</phone>.</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>07</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>01</day><month>08</month><year>2023</year></pub-date><volume>57</volume><issue>30</issue><issue-id pub-id-type="pmc-issue-id">442379</issue-id><fpage>10940</fpage><lpage>10950</lpage><history><date date-type="received"><day>08</day><month>02</month><year>2023</year></date><date date-type="accepted"><day>23</day><month>06</month><year>2023</year></date><date date-type="rev-recd"><day>25</day><month>05</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>08</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>04</day><month>08</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-08-04 12:25:09.487"><day>04</day><month>08</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>Not subject to U.S. Copyright. Published 2023 by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>U.S. Government</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="es3c01040.pdf"><?pdf-name es3c01040.pdf?><?pdf-size 6298319?><?pdf-md5 73fa1862f28e322a18470e24d586d868?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:e536/10399305/73fa1862f28e/es3c01040.pdf?></self-uri><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="es3c01040_0009.jpg"><?image-name es3c01040_0009.jpg?><?image-size 81590?><?image-md5 a89245484bcd2876aad40df69a962cfd?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1293?><?image-original-width 2400?><?image-scaled-height 420?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/a89245484bcd/es3c01040_0009.jpg?><?thumb-name es3c01040_0009.gif?><?thumb-size 4851?><?thumb-md5 d53cc7b43ed62777397a947410feabd2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 147?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/d53cc7b43ed6/es3c01040_0009.gif?></graphic></p><p>Urban stormwater runoff frequently contains the car tire
+transformation
+product 6PPD-quinone, which is highly toxic to juvenile and adult
+coho salmon (<italic toggle="yes">Onchorychus kisutch</italic>).
+However, it is currently unclear if embryonic stages are impacted.
+We addressed this by exposing developing coho salmon embryos starting
+at the eyed stage to three concentrations of 6PPD-quinone twice weekly
+until hatch. Impacts on survival and growth were assessed. Further,
+whole-transcriptome sequencing was performed on recently hatched alevin
+to address the potential mechanism of 6PPD-quinone-induced toxicity.
+Acute mortality was not elicited in developing coho salmon embryos
+at environmentally measured concentrations lethal to juveniles and
+adults, however, growth was inhibited. Immediately after hatching,
+coho salmon were sensitive to 6PPD-quinone mortality, implicating
+a large window of juvenile vulnerability prior to smoltification.
+Molecularly, 6PPD-quinone induced dose-dependent effects that implicated
+broad dysregulation of genomic pathways governing cell–cell
+contacts and endothelial permeability. These pathways are consistent
+with previous observations of macromolecule accumulation in the brains
+of coho salmon exposed to 6PPD-quinone, implicating blood–brain
+barrier disruption as a potential pathway for toxicity. Overall, our
+data suggests that developing coho salmon exposed to 6PPD-quinone
+are at risk for adverse health events upon hatching while indicating
+potential mechanism(s) of action for this highly toxic chemical.</p></abstract><abstract abstract-type="short"><p>Large-scale mortality of coho salmon
+in urbanized streams
+has been linked to the stormwater pollutant 6PPD-quinone. This study
+reports dysregulation of endothelial permeability pathways as a possible
+prominent mechanism of toxicity.</p></abstract><kwd-group><kwd>transformation products</kwd><kwd>urban streams</kwd><kwd>salmon</kwd><kwd>nonpoint source pollution</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>U.S. Environmental Protection Agency</institution><institution-id institution-id-type="doi">10.13039/100000139</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>U.S. Geological Survey</institution><institution-id institution-id-type="doi">10.13039/100000203</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>es3c01040</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>es3c01040</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Populations of coho (<italic toggle="yes">Oncorhynchus
+kisutch</italic>) and other salmon species on the western coast
+of the United States
+and Canada are at historically low abundance, commonly attributed
+to climate change, freshwater habitat degradation, and fishing pressure.<sup><xref ref-type="bibr" rid="ref1">1</xref>−<xref ref-type="bibr" rid="ref5">5</xref></sup> Four reproductively isolated populations of coho salmon are currently
+listed as endangered (Central California Coast) or threatened (Lower
+Columbia River, Oregon Coast, S Oregon, and N California Coast) under
+the Endangered Species Act. In highly urbanized watersheds surrounding
+Seattle, Washington, coho salmon population declines have been linked
+to acute prespawn mortality induced by toxic stormwater runoff as
+coho traverse urban waterways to the spawning grounds.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> During the fall run, upward of 90% of female coho salmon succumb
+to mortality prior to spawning, posing substantial threat of local
+extinctions of populations residing in urbanized watersheds.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>While nonpoint source stormwater runoff and traffic density
+have
+long been implicated in coho salmon prespawn mortality in urban streams,
+the toxic chemical responsible for acute prespawn mortality was only
+recently identified as <italic toggle="yes">N</italic>-(1,3-dimethylbutyl)-<italic toggle="yes">N</italic>′-phenyl-<italic toggle="yes">p</italic>-phenylenediamine-quinone
+(6PPD-quinone).<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> 6PPD-quinone is an ozonated
+transformation product of 6PPD, the most abundant substituted <italic toggle="yes">p</italic>-phenylenediamine (PPD) antioxidant added to rubber tires
+to prevent oxidation and extend service life.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> The ubiquity of 6PPD in car tires suggests that <italic toggle="yes">p</italic>-phenylenediamine and its transformation products are pervasive globally
+in urbanized watersheds, and since initial identification of 6PPD-quinone
+in late 2020, it has been detected in receiving waters and runoff
+in the United States, Canada, Germany, China, and Australia<sup><xref ref-type="bibr" rid="ref11">11</xref>−<xref ref-type="bibr" rid="ref14">14</xref></sup> at concentrations up to 2.4 μg/L. Concentrations acutely lethal
+to coho salmon (LC<sub>50</sub>: 95 ng/L)<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> occur regularly and can be detected for more than 24 h during rain
+events.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> Further, at least five different quinone-based
+transformation products of <italic toggle="yes">p</italic>-phenylenediamine antioxidants
+have now been identified and are likely ubiquitous in urban watersheds,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> with unknown potential for animal toxicity.
+Detections of PPDs in airborne particles and dust also raise concern
+for terrestrial organisms including humans via inhalation, ingestion,
+and physical contact,<sup><xref ref-type="bibr" rid="ref18">18</xref>−<xref ref-type="bibr" rid="ref20">20</xref></sup> and recently both 6PPD and 6PPD-quinone have been
+detected in human urine samples in South China.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><p>Adult and juvenile coho salmon exposed to stormwater
+containing
+6PPD-quinone undergo a common progression of behavioral symptoms termed
+urban runoff mortality syndrome (URMS) that begins with increased
+surface swimming, followed by loss of equilibrium and buoyancy, and
+eventual death.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> After the onset of symptoms fish
+do not recover when transferred to clean water.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Blood chemistry in symptomatic fish has demonstrated increased hematocrit
+and plasma leakage from the cerebrovasculature, suggesting loss of
+integrity of cell–cell adhesions in the blood–brain
+barrier (BBB) and endothelial junctions.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>Given the recent identification of 6PPD-quinone, few studies
+to
+date have assessed its effects on other fish species but have demonstrated
+a wide range of sensitivity. Brook trout (<italic toggle="yes">Salvelinus
+fontinalis</italic>) and rainbow trout (<italic toggle="yes">Oncorhynchus
+mykiss</italic>) are 6- to 10-fold less sensitive than coho
+salmon but still exhibit mortality at environmentally measured concentrations,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> while several other species (Chinook salmon
+(<italic toggle="yes">O. tshawytscha</italic>), sockey salmon (<italic toggle="yes">O. nerka</italic>), zebrafish (<italic toggle="yes">Danio rerio</italic>), white
+sturgeon (<italic toggle="yes">Acepenser transmontanus</italic>),
+arctic char (<italic toggle="yes">Salvelinus alpinus</italic>), Japanese
+medaka (<italic toggle="yes">Oryzias latipes</italic>), Atlantic
+salmon (<italic toggle="yes">Salmo salar</italic>), brown trout (<italic toggle="yes">Salmo trutta</italic>)) do not show behavioral symptoms or
+reduced survivorship at concentrations likely to be encountered in
+the environment.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref26">26</xref>−<xref ref-type="bibr" rid="ref29">29</xref></sup> Insights into the mechanism of
+action of 6PDD-quinone will provide critical information to better
+understand the broad range of observed species sensitivity. With reductions
+in recruitment capacity of up to 90% in urban watersheds due to adult
+prespawn mortality, impacts on annual recruitment could further accelerate
+coho salmon population declines. We therefore investigated the effects
+of 6PPD-quinone on developing coho salmon embryos using survival studies
+coupled with morphology and transcriptomic assessments.</p><p>Coho
+salmon embryos were exposed to 6PPD-quinone using twice weekly
+24 h pulse exposures to mimic intermittent rainfall events common
+during the fall coho spawning season in the Pacific Northwest (PNW).
+We documented significant effects on survivorship and growth with
+as little as one 24 h pulse of 6PPD-quinone at environmentally observed
+concentrations. Further, we provide the first assessment of global
+transcriptomic responses in coho salmon to 6PPD-quinone in an effort
+to explore the mechanism of toxicity. Strong dose-dependent effects
+were observed relating to developmental pathways, including skeletal
+muscle development, blood vessel formation, and ossification. Pathways
+and molecules innervating endothelial cell–cell adhesion, hemostasis,
+and blood coagulation were perturbed at all concentrations and provided
+molecular linkages to observed blood–brain barrier disruptions.
+Our findings suggest that in addition to adult prespawn mortality,
+6PDD-quinone induces reductions in survival and fitness of progeny
+that represent a substantial concern for urban spawning coho salmon
+populations.</p></sec><sec id="sec2"><title>Materials and Methods</title><sec id="sec2.1"><title>Chemicals</title><p>6PPD-quinone, the internal standard 6PPD-quinone-D5,
+and analytical independent check standard 6PPD-quinone were obtained
+from HPC Standards (purity 97.26%). All other chemicals were from
+Millipore Sigma and Fisher Scientific.</p></sec><sec id="sec2.2"><title>Embryo Rearing</title><p>Fertilized coho salmon embryos at the
+eyed egg stage were obtained from two fish hatcheries: the Issaquah
+Salmon Hatchery in Issaquah, WA, and Yakima Nation Fisheries Hatchery
+Complex in Yakima, WA. Eggs were transported to the U.S. Geological
+Survey Western Fisheries Research Center in Seattle, WA, and reared
+in egg stacks with spinning disc filtered (2 μM final) and ultraviolet
+(UV)-treated fresh water from Lake Washington (100 μS) maintained
+at 8.0–8.5 °C. Embryos were acclimated for a minimum of
+96 h before initial exposure. All experimental protocols were approved
+by the Animal Care and Use Committee at the U.S. Geological Survey
+Western Fisheries Research Center (Protocol #2008-73).</p></sec><sec id="sec2.3"><title>6PPD-Quinone Exposures</title><p>Static 24 h exposures to nominal
+6PPD-quinone concentrations of 0.1, 1, or 10 μg/L or a DMSO
+solvent carrier control were carried out in glass Petri dishes (150
+mm × 20 mm) containing 170 mL of water at a density of 20 embryos
+per dish. Each exposure period covered eight accumulated temperature
+units (ATUs) of embryonic development. Embryos were carefully transferred
+from the egg stacks to exposure dishes using a slotted spoon for each
+exposure. Dishes were placed at the bottom of circular 2 ft. tanks
+and surrounded by low-flow temperature-controlled water to maintain
+8.5 °C in exposure dishes. Each tank contained two dishes per
+concentration to minimize potential tank effects. A working 1×
+stock solution of 10 μg/L 6PPD-quinone in process water was
+prepared immediately prior to the start of exposure and serial diluted
+to obtain 1× working solutions of 1.0 and 0.1 μg/L.</p><p>For experiment 1, embryos obtained from the Issaquah Salmon Hatchery
+(Issaquah, WA) were exposed to 6PPD-quinone or solvent carrier control
+twice per week until hatch (6 replicate dishes, <italic toggle="yes">n</italic> = 120 embryos/concentration) to mimic intermittent winter rain events.
+After each 24 h exposure, eggs were carefully transferred back to
+egg rearing trays (1 tray per treatment group) and maintained in clean
+flowing water. Embryos that hatched prior to the final exposure were
+excluded from subsequent exposures but continued to be monitored for
+mortality. Surviving, unhatched embryos were randomly distributed
+to the dishes for the next exposure. In the event of mortalities,
+fewer dishes were used but were maintained at 20 embryos/dish for
+density consistency. In experiment 2, a single 24 h exposure was performed
+similarly as described above on eyed eggs obtained from the Yakima
+Nation Fisheries Hatchery Complex (Toppenish, WA). A full schematic
+of exposure regimes and endpoints for each experiment can be found
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Experimental
+design for exposure studies. During experiment 1,
+coho salmon embryos were exposed to three concentrations of 6PPD-quinone
+(0.1, 1, 10 μg/L nominal) in 24 h pulse exposures twice weekly
+until hatching. During experiment 2, embryos were exposed to a single
+24 h pulse. Greater than 98% of embryos hatched at the indicated hatching
+date, which occurred during the fourth exposure of experiment 1. Mortality
+and hatching success were monitored daily throughout both experiments.
+Morphological assessment included eye area and total length (experiment
+1) or fork length (experiment 2).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="es3c01040_0002.jpg"><?image-name es3c01040_0002.jpg?><?image-size 69800?><?image-md5 620ea26cead30da7082a9eff8e724f7a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 923?><?image-original-width 2400?><?image-scaled-height 312?><?image-scaled-width 810?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/620ea26cead3/es3c01040_0002.jpg?><?thumb-name es3c01040_0002.gif?><?thumb-size 6231?><?thumb-md5 7193c760c060f216ebdd802efdae37e3?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 77?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/7193c760c060/es3c01040_0002.gif?></graphic></fig></sec><sec id="sec2.4"><title>Mortality, Hatching Success, and Phenotypic Measurements</title><p>Mortality and hatching were monitored daily throughout each experiment,
+with hatching defined as the complete liberation of both the head
+and tail from the chorion. Embryos exhibiting abnormal phenotypes
+were monitored for a minimum of 24 h to ensure the embryo was not
+in the process of a successful hatch. Measurements of growth and development
+were assessed at two time points from experiment 1 and one time point
+from experiment 2 (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A). Larvae assessed in experiment 1 were collected directly
+from the glass exposure dishes following the fourth exposure in which
+most embryos hatched to ensure that all larvae measured were less
+than 24 h posthatch. For both experiments, larvae were randomly selected
+from each treatment, euthanized in Tricaine-S (MS-222), and immediately
+stored in formalin fixative. Larvae were transferred to 70% ethanol
+prior to imaging. Images were taken using a Keyence BZX-710 fluorescent
+microscope at 2× magnification. Due to the large size of the
+larvae, the image merge function was used to stitch images together
+into one measurable image. Standard length was measured from experiment
+1 larvae, and fork length was measured from Experiment 2 larvae due
+to their larger size. Eye area was also assessed using Keyence analysis
+software using the XY measurement and area measurement features. Visualization
+of the heart and surrounding cardiac tissue was obscured by the yolk
+sac, and therefore, pericardial edema could not be measured.</p></sec><sec id="sec2.5"><title>Concentrations of 6PPD-Quinone Determined by Liquid Chromatography-Mass
+Spectrometry</title><p>Exposure samples were collected in 4 mL amber
+glass vials and stored at −20 °C until analysis. Samples
+from experiment 1 were collected in duplicate: 6PPD-quinone initial
+and final concentrations were assessed from the second and fourth
+exposures and the initial concentration from the third exposure. For
+experiment 2, triplicate water samples were assessed at six time points
+over the 24 h exposure. Concentrations of 6PPD-quinone were determined
+by direct injection ultraperformance liquid chromatography/tandem
+mass spectrometry (UPLC/MS/MS). The method used an isotope dilution
+approach with the isotopically labeled surrogate internal standard
+6PPD-quinone-D5 and had a 0.002 μg/L reporting limit. Chromatographic
+separation was achieved with an Acquity H-Class Bio UPLC (Waters Corporation)
+equipped with an Acquity UPLC BEH C18, 1.7 μm 2.1 mm ×
+50 mm column and corresponding guard column held at 40 °C with
+a 0.5 mL/min flow rate and 0.1% formic acid in water and acetonitrile
+gradient, and the injection volumes ranged from 1 to 50 μL.
+For detection, an API 5500 Triple Quadrupole Mass Spectrometer (Sciex
+LLC) used positive electrospray ionization with multireaction monitoring,
+and parameters were optimized for the following ion transitions: <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 299.1 → 215.1 for 6PPD-quinone
+quantitation, 299.1 → 187.1 for 6PPD-quinone confirmation,
+and 304.1 → 220.2 for 6PPD-quinone-D5. Identification was based
+on the retention time and the ratio of the two MRM transitions being
+within ±25%. For quantification, calibration curves used ≥7
+points with concentrations ranging from 0.001 to 20 μg/L and
+a 1/<italic toggle="yes">x</italic> weighting was applied. The following quality
+control samples were also analyzed and within acceptance criteria:
+check and independent check standards ranged from 0.01 to 10 μg/L
+with an 80–118% accuracy, spike recovery samples were spiked
+at 0.25 and 11 μg/L and had an 80–88% recovery, instrument
+replicate injections were within ±20% of each other, laboratory
+duplicate samples had a 2–18% difference, and 43 laboratory
+blanks were nondetects.</p></sec><sec id="sec2.6"><title>RNA Extraction and Library Preparation</title><p>Transcriptomic
+effects of exposure were assessed in larvae from experiment 1. Recently
+hatched (&lt;24 h) larvae were collected from exposure dishes from
+all three concentrations and the carrier controls at the end of the
+24 h period of the fourth exposure (<italic toggle="yes">n</italic> = 7). Larvae
+were euthanized in buffered MS-222 and then stored in RNALater (Qiagen).
+Immediately prior to RNA extractions, larvae were removed from RNALater
+and the yolk sac was quickly removed with sterile forceps and scissors.
+Larvae were then transferred to RLT Lysis Buffer (Qiagen) and homogenized
+with homogenizing beads using an MP Fast Prep 24 homogenizer (MP Biomedicals,
+Irvine, CA). Total RNA was extracted from whole larvae homogenate
+with the RNEasy mini kit (Qiagen) following the manufacturer's
+protocols.
+Quantity and quality of total RNA for each sample were assessed with
+an Agilent 2100 Bioanalyzer (Agilent Technologies, Palo Alto, CA)
+prior to library preparation.</p><p>Libraries were prepared from 500
+ng of total RNA with the NEBNext Ultra II Direction RNA Library Prep
+Kit (New England Biolabs, Ipswich, MA) following the manufacturer’s
+protocols, with the NEBNext rRNA depletion kit (Human/Mouse/Rat) used
+for mRNA enrichment of total RNA. Quantity and fragment size of final
+complementary cDNA libraries were assessed on the Agilent 2100 Bioanalyzer.
+Libraries were multiplexed and sequenced as 75 bp single-end reads
+on 1 lane of a NextSeq. 500 at the University of California Riverside
+genomics facility (Riverside, CA). One individual from the lowest
+treatment (0.1 μg/L) was removed due to poor RNA quality, and
+one sequencing library was unsuccessful from the medium treatment
+(1 μg/L), resulting in 6 biological replicates for these treatments.</p></sec><sec id="sec2.7"><title>RNASeq Bioinformatic Processing</title><p>Quality control and
+adapter removal of the raw reads were performed with trimmomatic (v0.39)<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> and read quality and sequencing depth were assessed
+with FastQC.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Cleaned reads passing quality
+control were quantified using the<italic toggle="yes">O. kisutch</italic> transcriptome and genome obtained from NCBI (refseq accession GCF_002021735.2,
+retrieved 3/28/2022) using salmon (v1.8.0)<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> in mapping mode with selective alignment. Fragment length mean (fldMean)
+was set to 415, and fragment length standard deviation (fldSD) was
+set to 50 based on fragment sizes determined from the bioanalyzer
+trace of the final pooled library.</p><p>Quantification outputs from
+salmon were imported into R with tximport (v1.16.1), with quantification
+aggregated from the transcript to the gene level using transcript/gene
+relationships extracted from the <italic toggle="yes">O. kisutch</italic> feature table obtained from the NCBI. Treatment-induced differential
+expression was assessed in DeSeq2 (v1.32.0) using a likelihood ratio
+test<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> with statistical significance defined
+as <italic toggle="yes">p</italic> ≤ 0.05, following Benjamini-Hochberg
+(BH) false discovery rate correction. Differentially expressed transcripts
+were clustered with DIANA hierarchical clustering using degPatterns
+in the DEGreport package<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> with reduce
+= T and a minimum of 10 genes per cluster to evaluate clusters of
+differentially expressed transcripts with similar expression patterns
+across treatments. Heatmaps were created using the ComplexHeatmap
+package in R.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p><p>Pathway analysis
+was assessed on clusters of differentially expressed
+genes using the clusterProfiler package in R.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> A large proportion of genes from the <italic toggle="yes">O. kisutch</italic> genome lacked gene symbols necessary for pathway analysis. Therefore,
+prior to analysis, we linked the NCBI gene IDs with the better-annotated
+ENSEMBL gene IDs extracted from the ENSEMBL transcriptome FASTA file.
+Further gene annotations for genes still without a gene symbol were
+performed by matching the gene name to its <italic toggle="yes">Homo sapien</italic> counterpart in the org.Hs.eg.db database in R.</p></sec><sec id="sec2.8"><title>Statistical Analysis</title><p>Statistical significance for mortality
+and timing of hatch was assessed by Kaplan–Meier analysis implemented
+with the <italic toggle="yes">drc</italic> package in R. For length (total length
+for experiment 1 and fork length for experiment 2) and eye area, normality
+of the data was assessed with a Shapiro-Wilk test. Statistical significance
+was assessed with a one-way analysis of variance (ANOVA) and Tukey’s
+post-hoc test for normally distributed data. For non-normally distributed
+data, statistical significance was assessed using a Kruskal–Wallis
+one-way ANOVA, followed by Dunn’s post-hoc testing.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><p>Identification of 6PPD-quinone
+as the causative stormwater toxicant
+of coho salmon URMS shed light on over two decades of mass prespawn
+mortality events in urban streams of the PNW. The intense ecological
+risk posed to coho salmon populations traversing urban regions is
+the consequence of several biological and ecological factors. First,
+coho salmon are acutely sensitive to 6PPD-quinone at very low concentrations,
+making it one of the most toxic aquatic chemicals described compared
+to other toxicants with EPA-established aquatic life criteria.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Second, the fall freshwater spawning migration
+is triggered by the onset of the autumn rainfall when contaminant
+levels from stormwater runoff are frequently at their highest levels.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Individuals that successfully spawn commonly
+do so in shallow, low-lying streams where elevated levels of stormwater
+contaminants can persist for hours or days with high peak contaminant
+concentrations.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup></p><sec id="sec3.1"><title>Embryonic Exposure to 6PPD-Quinone Induces Mortality and May
+Bioaccumulate in Hatched Alevin</title><p>We first investigated the
+potential for environmentally observed concentrations of 6PPD-quinone
+to elicit acute mortality using 24 h pulse exposures twice per week
+until hatch (<italic toggle="yes">n</italic> = 120 embryos/treatment) to mimic
+intermittent rain events that produce high volumes of stormwater runoff
+during the fall and winter in the Pacific Northwest. A total of four
+pulse exposures were performed (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>), with mean initial exposure concentrations of 0.10,
+0.90, and 7.22 μg/L (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A–C). Significant embryonic mortality was observed
+at 7.22 μg/L in experiment 1 (log-rank test, <italic toggle="yes">p</italic> &lt; 0.001) beginning at the onset of the second exposure, and only
+21% of those embryos survived through hatching and yolk sac internalization
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). Further,
+this acute toxicity was observed at later embryonic stages following
+eye pigmentation (&gt;370 ATUs, 52 days postfertilization) that is
+typically
+considered less sensitive than earlier embryonic stages.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup></p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Analytical assessment of 6PPD-quinone concentrations.
+(A–D)
+Analysis of 6PPD-quinone concentrations measured in duplicate by UPLC/MS/MS
+from experiment 1. Dark bars represent measurements at the beginning
+of the exposure period and light bars indicate measurements at the
+end of the 24 h exposure. Mean initial exposure concentrations are
+indicated at the top of each panel for nominal concentrations of 0.1
+μg/L (B), 1 μg/L (C), and 10 μg/L (D). Percent loss
+of the compound during the 24 h period is indicated above each exposure.
+Measurements were not determined (ND) during exposure 1 or at the
+end of exposure 3. Percentages indicate the percent loss of 6PPD-quinone
+during the exposure period. (E) Time course of water chemistry from
+the single exposure in experiment 2. Each concentration and time point
+were measured in triplicate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="es3c01040_0003.jpg"><?image-name es3c01040_0003.jpg?><?image-size 89840?><?image-md5 b27553214f9babed65143fb7afcd2789?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1750?><?image-original-width 2400?><?image-scaled-height 591?><?image-scaled-width 810?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/b27553214f9b/es3c01040_0003.jpg?><?thumb-name es3c01040_0003.gif?><?thumb-size 3813?><?thumb-md5 47961e5112cf8d68c62611fd8181cd42?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 109?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/47961e5112cf/es3c01040_0003.gif?></graphic></fig><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Mortality and associated phenotypes. (A) Kaplan–Meier
+survival
+analysis from experiment 1 (<italic toggle="yes">n</italic> = 120). Gray dots indicate
+24 h periods of 6PPD-quinone exposure. <italic toggle="yes">X</italic>-axis represents
+days post 6PPD-quinone exposure, with the first exposure occurring
+on day 2 (372 ATUs). Significant mortality was induced at 0.90 and
+7.22 μg/L (log-rank test, BH correction). Embryonic mortality
+was not observed at 0.95 μg/L (yellow line). (B) Kaplan–Meier
+survival analysis from experiment 2 (<italic toggle="yes">n</italic> = 60), with
+gray dot indicating the timing of exposure. <italic toggle="yes">X</italic>-axis
+represents days post 6PPD-quinone exposure, with the first exposure
+occurring on day 2 (390 ATUs). Significant mortality was induced after
+one exposure to 6.04 μg/L (log-rank test) (C) Representative
+gross morphology of embryos with protrusion of the yolk sac (orange)
+from the chorion, a phenotype that was fatal. (D) Density plot indicating
+timing of protruding yolk sac and partial hatching phenotypes from
+the high exposure concentration for experiment 1 (left panel) and
+experiment 2 (right panel). N represents the total number of mortalities,
+percentage indicates the proportion of total mortalities, and arrows
+indicate the hatching date for healthy individuals.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="es3c01040_0004.jpg"><?image-name es3c01040_0004.jpg?><?image-size 90486?><?image-md5 daba40047c68768bdecad2791bff08c3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1550?><?image-original-width 2400?><?image-scaled-height 523?><?image-scaled-width 810?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/daba40047c68/es3c01040_0004.jpg?><?thumb-name es3c01040_0004.gif?><?thumb-size 4508?><?thumb-md5 cbfb587dd26b6bcc82750bfb78db9cdc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 123?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/cbfb587dd26b/es3c01040_0004.gif?></graphic></fig><p>We then repeated the experiment to assess if a
+single 24 h exposure
+was sufficient to induce mortality (<italic toggle="yes">n</italic> = 60). Significant
+mortality was induced at 6.04 μg/L (log-rank test, <italic toggle="yes">p</italic> &lt; 0.01, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B), with embryos dying at a rate of ∼10 per day until hatching.
+Overall survival was lower than in experiment 1, and time to mortality
+was significantly shorter (<italic toggle="yes">p</italic> ≤ 0.05) despite
+receiving only a single 24 h pulse of 6PPD-quinone.</p><p>The chorion
+that surrounds developing fish embryos provides a physical
+barrier that can restrict compound uptake and reduce toxicity to some
+chemicals<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> and likely contributed to greater
+than 99% survival at 0.10 μg/L, the estimated 24 h LC50 in juvenile
+coho salmon<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B). Predictions of 6PPD-quinone chorion
+permeability are difficult to address due to the large number of physical
+and chemical properties that affect substance permeability,<sup><xref ref-type="bibr" rid="ref40">40</xref>−<xref ref-type="bibr" rid="ref42">42</xref></sup> however, during experiment 1, recovery of 72% or greater for 6PPD-quinone
+at the end of the second exposure indicated that uptake was likely
+minimal during these exposure periods (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A–C). Similar stability of 6PPD-quinone
+was observed during single pulse exposures in experiment 2, lending
+support to minimal absorption of 6PPD-quinone during embryonic stages
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>D). Conversely,
+during the fourth exposure in experiment 1, greater than 98% of exposed
+embryos from each treatment unexpectedly hatched overnight and were
+directly exposed to 6PPD-quinone for ∼6–12 h. Compound
+recovery at the end of this exposure was substantially lower across
+all concentrations (25.9–35.2%), suggesting active uptake or
+absorption occurred immediately after hatching. This brief exposure
+of alevin to 6PPD-quinone did not elicit immediate mortality, however,
+17% of fish exposed to 0.90 μg/L exhibited significant delayed
+mortality over a three-day period beginning 5 days after hatch (log-rank
+test, BH correction, <italic toggle="yes">p</italic> &lt; 0.001, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). No mortality occurred at
+0.95 μg/L. All remaining individuals from the 7.22 μg/L
+concentration were collected for molecular and morphological endpoints,
+and mortality was no longer monitored.</p><p>An inability of juvenile
+fish to recover after the onset of symptoms<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> and our observations of delayed mortality postexposure implicate
+slow elimination of 6PPD-quinone in coho alevin. Rapid uptake posthatch
+and slow elimination commonly lead to bioaccumulation. 6PPD is expected
+to be highly bioaccumulative,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> and 6PPD-quinone
+and its suspected monohydroxylated metabolite can be detected in the
+brain and gills immediately after exposure that suggest compound uptake.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The duration of tissue persistence, however,
+is unclear.</p><p>Such future studies are highly relevant for risk
+assessments in
+the PNW, where low freshwater survival rates of out-migrating smolt
+are a significant contributor to coho salmon population declines,<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> and fry can spend a year or more in the watershed
+prior to ocean migration and encounter multiple stormwater pollution
+events.</p><p>Embryonic mortalities were commonly observed (&gt;80%)
+as one of two
+distinct phenotypes: either protrusion of the yolk sac from the chorion,
+typically near the head (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C), or partial hatching of only the head that never
+progressed to full hatch. Each phenotype occurred well in advance
+of the expected hatching day and thus may be indicative of early induction
+of hatching prior to full embryonic development. In support of this
+hypothesis, we observed a trend of earlier onset of hatching at all
+three concentrations during experiment 1, with 10–15% of embryos
+hatching prior to the primary hatching day compared to 5% for controls.
+Early hatching was lethal, as no fish hatching &gt;5 days prior to
+the
+common hatching date survived through yolk sac internalization. We
+were unable to find any literature describing similar phenotypes in
+salmonid embryos, and therefore, this may represent a unique toxicity
+outcome for 6PPD-quinone.</p></sec><sec id="sec3.2"><title>Impaired Growth and Development of Surviving Embryos</title><p>After observing the earlier onset of hatching in experiment 1 and
+mortalities that appeared to be related to premature hatching, we
+then examined surviving alevin for morphological signs of altered
+development. Immediately after hatching in experiment 1, alevin exposed
+to 7.22 μg/L showed significantly reduced eye area compared
+to all other treatments (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). At 6 days posthatch (dph), significant reductions
+were noted for eye area and total length for both 0.90 and 7.22 μg/L
+concentrations (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). There were no effects on morphology at the timing of yolk sac
+internalization after the single exposure for experiment 2. Other
+gross malformations including lordosis and yolk sac edema were not
+observed.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>Altered development in surviving alevin in experiment 1. (A) Total
+fish length was significantly reduced at 7.22 μg/L immediately
+after hatching (<italic toggle="yes">p</italic> &lt; 0.05, Kruskal–Wallace
+test, Dunn’s post-hoc, <italic toggle="yes">n</italic> = 10), but eye area
+was unaffected. (B) Total length and eye area were both significantly
+reduced at high concentrations in alevin at 6 days posthatch (<italic toggle="yes">p</italic> &lt; 0.05, ANOVA, Tukey’s post-hoc).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="es3c01040_0005.jpg"><?image-name es3c01040_0005.jpg?><?image-size 80140?><?image-md5 c3658e0f04bd9754c7b633357ee2027b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1778?><?image-original-width 2400?><?image-scaled-height 613?><?image-scaled-width 827?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/c3658e0f04bd/es3c01040_0005.jpg?><?thumb-name es3c01040_0005.gif?><?thumb-size 3199?><?thumb-md5 b003dcf7971d6a494f513f37df960108?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 107?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/b003dcf7971d/es3c01040_0005.gif?></graphic></fig></sec><sec id="sec3.3"><title>Dose-Dependent Effects of 6PPD-Quinone on Global Transcriptomic
+Patterns</title><p>Substantial species-dependent toxicity, especially
+within <italic toggle="yes">Oncorhynchus</italic> and <italic toggle="yes">Salvelinus</italic>, highlights a critical need for investigations into the mechanism
+of action for 6PPD-quinone. The most closely related species to coho
+salmon (Chinook salmon, chum salmon<italic toggle="yes">(O. keta</italic><italic toggle="yes">)</italic>, and sockeye salmon) are relatively insensitive to 6PPD-quinone
+mortality,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> while in some more distantly related species (rainbow trout, brook
+trout, and white-spotted char), mortality is induced at concentrations
+less than 1 μg/L.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> 6PPD and 6PPD-quinone
+are also detected in human urine samples, with further elevated levels
+in pregnant women.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Thus, the mechanism
+of 6PPD-quinone toxicity also has important implications for human
+health and terrestrial organisms as a whole.</p><p>We performed whole-transcriptome
+sequencing on alevin that hatched during the fourth exposure in experiment
+1 to better understand the molecular basis for 6PPD-quinone-induced
+mortality and developmental abnormalities (<italic toggle="yes">n</italic> = 6–7/treatment).
+A likelihood ratio test identified 1886 differentially expressed genes
+(DEGs, <italic toggle="yes">p</italic><sub>adj</sub> ≤ 0.05, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_001.txt">Table S1</ext-link>) across all concentrations compared
+to controls out of a total of 29,278 genes with measurable expression.
+Hierarchical clustering of DEGs categorized 1822 of the DEGs into
+seven distinct transcriptional patterns, each of which demonstrated
+a dose-dependent effect of 6PPD-quinone (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).</p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>6PPD-quinone elicited strong dose-dependent
+modifications in gene
+expression. Heatmap of the 7 DEG clusters identified by likelihood
+ratio testing and DIANA hierarchical clustering. <italic toggle="yes">N</italic> represents the number of genes in each gene cluster. Right panel
+shows the LOESS model fit of scaled gene expression (<italic toggle="yes">y</italic>-axis) with increasing concentration (<italic toggle="yes">x</italic>-axis).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="es3c01040_0006.jpg"><?image-name es3c01040_0006.jpg?><?image-size 462339?><?image-md5 8834c7180b142b270dcaca8b7d5731c3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 5071?><?image-original-width 2400?><?image-scaled-height 1640?><?image-scaled-width 776?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/8834c7180b14/es3c01040_0006.jpg?><?thumb-name es3c01040_0006.gif?><?thumb-size 14702?><?thumb-md5 52e13422196db382988cd70c8e02e960?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 211?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/52e13422196d/es3c01040_0006.gif?></graphic></fig><p>BBB permeability is governed by tight junctions
+(TJs) and adherens
+junctions (AJs) that regulate contacts between adjacent endothelial
+cells to form the principal barrier restricting polar macromolecule
+diffusion into the central nervous system. Integrity of the BBB is
+critical for central nervous system function, and BBB disruptions
+are associated with trauma, hemorrhagic stroke, and inflammation and
+can lead to neuronal dysfunction, brain edema, paralysis, and death.<sup><xref ref-type="bibr" rid="ref46">46</xref>−<xref ref-type="bibr" rid="ref48">48</xref></sup> Coho displaying stormwater-induced UMRS display hemoconcentration
+and macromolecule accumulation in cerebral tissues that signify disruption
+of junctional complexes,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> introduction
+of paracellular gaps, and loss of BBB integrity. Our molecular data
+overwhelmingly indicated that exposure to 6PPD-quinone led to dysregulation
+of transcripts encoding endothelial barrier integrity and hematological
+pathways at both AJs and TJs, with the bulk of these changes supporting
+mechanisms of increased endothelial permeability.</p><p>Tight junctions
+are composed of transmembrane adhesive proteins,
+including junctional adhesion molecules (JAMs), occludin, and claudins
+that interact with intracellular zona occludin proteins (<italic toggle="yes">zo-1</italic>, <italic toggle="yes">zo-2</italic>, and <italic toggle="yes">zo-3</italic>) to connect adhesion
+molecules to the actin cytoskeleton.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Genes
+encoding adhesion molecules <italic toggle="yes">jamc</italic> and occludin were
+significantly downregulated and intracellular <italic toggle="yes">zo-1</italic> and <italic toggle="yes">zo-2</italic> were significantly upregulated in 6PPD-quinone-exposed
+embryos (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>C). <italic toggle="yes">In vitro</italic> knockdown of either occludin or JAM alone is sufficient
+to enhance endothelial permeability.<sup><xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> Further, we
+observed significant dysregulation of prominent mediators of BBB permeability
+at tight junctions that may have led to the decreased expression of
+TJ adhesive molecules.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Transcription
+of inflammatory mediators, including vascular endothelial growth factor
+c (<italic toggle="yes">vegfc</italic>), thrombin (<italic toggle="yes">f2</italic>), and proinflammatory
+molecules interleukin 1 β (<italic toggle="yes">il1</italic>β) and
+tumor necrosis factor α (<italic toggle="yes">tnf</italic>α) were altered
+(<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A). Pathway
+enrichment was observed for two other molecules with well-documented
+effects on BBB tight junction permeability, interferon γ (<italic toggle="yes">ifn</italic>γ), and transforming growth factor β (<italic toggle="yes">tgf</italic>β, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_002.txt">Table S2</ext-link>). DEGs from the
+IFNγ pathway were significantly skewed toward increased expression
+(<italic toggle="yes">p</italic> &lt; 0.05, Fisher’s exact test) that implies
+pathway activation, which mediates endothelial hyperpermeability by
+altering cell morphology and rearrangement of the actin cytoskeleton.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup></p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p>6PPD-quinone altered expression of mediators and genes
+involved
+in endothelial permeability. (A) Expression of permeability mediators
+vascular endothelial growth factor c (<italic toggle="yes">vegfc</italic>), thrombin
+(<italic toggle="yes">f2</italic>), interleukin 1 β (<italic toggle="yes">il1β</italic>), and tumor necrosis factor α (<italic toggle="yes">tnfα</italic>). <italic toggle="yes">Y</italic>-axis displays the gene expression <italic toggle="yes">z</italic>-score. (B) Gene ontology enrichment of endothelial permeability
+mediators interferon γ (IFNγ) and transforming growth
+factor β (TGFβ). Treatment is indicated on the left side,
+with colors corresponding to the legend in panel (A). (C) Altered
+expression of critical components of tight junctions zona occludin
+(<italic toggle="yes">zo-1</italic> and <italic toggle="yes">zo-2</italic>), occludin, and junction
+adhesion molecule c (<italic toggle="yes">jamc</italic>). (D) Expression of VE-cadherin,
+the primary transmembrane protein at adherens junctions. Displayed <italic toggle="yes">p</italic>-values were obtained from likelihood ratio testing in
+DESeq2.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="es3c01040_0007.jpg"><?image-name es3c01040_0007.jpg?><?image-size 698837?><?image-md5 0719243caceba56da6d0156b0ba71ee5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 358?><?image-original-width 840?><?image-scaled-height 1493?><?image-scaled-width 3500?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/0719243caceb/es3c01040_0007.jpg?><?thumb-name es3c01040_0007.gif?><?thumb-size 7592?><?thumb-md5 b53fdb58fd457fa5a6e1eb176b7f29d6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 186?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/b53fdb58fd45/es3c01040_0007.gif?></graphic></fig><p>VEGF and proinflammatory factors TNFα and
+thrombin also act
+at adherens junctions to increase endothelial permeability through
+serine/threonine kinase-dependent mechanisms<sup><xref ref-type="bibr" rid="ref53">53</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> that lead to phosphorylation and internalization of VE-cadherin,
+the primary transmembrane adhesion molecule controlling vascular permeability
+of endothelial AJs. In addition to dysregulation of all three inflammatory
+mediators, VE-cadherin expression decreased in a dose-dependent manner
+(<italic toggle="yes">p</italic> = 0.07, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>D), and the transmembrane receptor protein serine/threonine
+kinase signaling pathway (GO:0007178) was significantly enriched in
+exposed fish with 40 DEGs (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>A). Extracellular matrix organization was the most
+significantly enriched gene ontology category, further indicating
+disruptions in cell–cell contacts (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>A). Hematological-related pathways including
+coagulation and hemostasis were also affected. Moreover, hematological
+disruptions were significantly associated with transcripts altered
+at all three 6PPD-quinone concentrations (DEG clusters 4 and 7, <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>), suggesting that
+substantial effects on vascular permeability may occur after brief
+exposure and in the absence of any mortality (Fisher’s exact
+test, <italic toggle="yes">p</italic> ≤ 0.05, <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>A).</p><fig id="fig7" position="float" orientation="portrait"><label>Figure 7</label><caption><p>Gene ontology enrichment of hematological and
+developmental-related
+pathways. (A) Enrichment of hematological and extracellular organization
+pathways using the full dataset of DEGs. (B) Density plot of scaled
+gene expression for DEGs with strong dose-dependent changes (clusters
+2 and 3) belonging to development and cell proliferation gene ontologies,
+with n representing the number of DEGs in each pathway. (C) Linkage
+network of DEGs in clusters 2 and 3 belonging to the indicated categories.
+Each node represents the specified DEG, color coded as downregulated
+(blue, cluster 3) or upregulated (orange, cluster 2) with increasing
+6PPD-quinone concentration.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="es3c01040_0008.jpg"><?image-name es3c01040_0008.jpg?><?image-size 1523618?><?image-md5 3eee261aeb246112c9c2e490368081ed?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 709?><?image-original-width 842?><?image-scaled-height 2948?><?image-scaled-width 3500?><?image-cloudpmc-urn urn:cdn:blobs/e536/10399305/3eee261aeb24/es3c01040_0008.jpg?><?thumb-name es3c01040_0008.gif?><?thumb-size 5313?><?thumb-md5 3cb8ae4ab3840651bbc5042e17b9de32?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 84?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e536/10399305/3cb8ae4ab384/es3c01040_0008.gif?></graphic></fig><p>Our results strongly implicate increased vascular
+permeability
+as a significant effect of 6PPD-quinone in coho salmon. Capillary
+leak syndrome (CLS) describes manifestations of increased capillary
+permeability and has primarily been studied in humans with sepsis
+and Clarkson’s disease and with respect to adverse reactions
+to anticancer drugs.<sup><xref ref-type="bibr" rid="ref55">55</xref>,<xref ref-type="bibr" rid="ref56">56</xref></sup> In severe cases of CLS, rapid
+extravasation of plasma into surrounding tissues and loss of blood
+volume can lead to hypovolemic shock and subsequent ischemia-induced
+organ failure resulting in death.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> Symptoms
+experienced during severe instances of CLS are similar to URMS in
+several ways. For example, coho salmon in late-stage URMS experience
+thickening of the blood and increased hemoconcentration of 20–25%
+that is comparable to fatal instances of CLS in patients with Clarkson’s
+disease.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> Disruptions of the BBB via capillary leak
+can lead to cerebral edema and impaired motor function and cognition,
+which may be paralleled by loss of equilibrium, sideways swimming,
+and spiraling in coho displaying late stages of URMS.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup></p><p>Importantly, induction of inflammatory molecules that were
+altered
+by 6PPD-quinone is frequently cited as the driver of CLS as a side
+effect of anticancer drugs<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> that lead
+to the loss of surface expression of VE-cadherin in endothelial cells,<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> including <italic toggle="yes">il1</italic>β that was
+the most significantly altered transcript in this study. Thus, induction
+of inflammatory responses by 6PPD-quinone in coho salmon presents
+a potential mechanism promoting endothelial permeability and downstream
+biological effects. Induction of apoptotic pathways and endothelial
+cell death are also frequently associated with CLS; however, we did
+not observe molecular indications of apoptosis induction. Similarly,
+mitochondrial dysfunction can lead to overproduction of reactive oxygen
+species (ROS) that are also known modulators of vascular permeability,<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> and mitochondrial dysfunction has also been
+implicated as a proposed route of 6PPD-quinone toxicity using rainbow
+trout and coho salmon <italic toggle="yes">in vitro</italic> models.<sup><xref ref-type="bibr" rid="ref63">63</xref>,<xref ref-type="bibr" rid="ref64">64</xref></sup> However, we did not observe molecular signatures indicating the
+presence of mitochondrial dysfunction.</p><p>We then performed independent
+pathway analyses on DEG clusters
+2 and 3 that contained the majority of the DEGs (1193, 65%), which
+indicated progressively perturbed expression with increasing concentration
+of 6PPD-quinone. We removed 401 DEGs that lacked sufficient mapping
+to human annotations and then assessed gene ontology enrichment analysis
+with the remaining 792 genes using the corresponding human IDs. Results
+overwhelmingly supported disruptions in development (blood vessel,
+skeletal system, mesenchyme, connective tissue, muscle tissue, embryonic
+organ, heart, face, cartilage), cell differentiation (epithelial cells,
+osteoblasts), and cell proliferation (epithelial, hepatocytes) (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_003.txt">Table S3</ext-link>). Impacts on developmental pathways
+were heavily skewed toward DEG cluster 3 showing downregulated expression,
+despite an approximately equal number of up and down DEGs in the analysis
+(<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>B). Minimal
+overlap in genes innervating blood vessel development, skeletal system
+development, and ossification indicated that effects represent a broad
+organismal response not limited to a core set of shared genes among
+pathways (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>C).
+Persistent downregulation of developmental pathways provides a likely
+mechanism for reductions in total length and eye area in exposed embryos
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>).</p><p>In
+summary, stormwater containing the car tire transformation product
+6PPD-quinone is considered to be responsible for prespawn mortality
+in PNW waterways and will likely have long-term implications for coho
+salmon populations that transit urban areas in the PNW. Our data suggests
+that the embryonic chorion of coho salmon embryos provided effective
+protection from 6PPD-quinone-induced mortality at low concentrations.
+However, our data implicates that fry and smolt mortality are likely
+significant factors in population declines of an ESA-listed species.
+As urbanization and nonpoint source pollution continue to increase
+globally, our identification of the mechanisms of 6PPD-quinone effects
+is an important step in understanding the ways in which PPDs exert
+toxicity. Capillary leak and disruptions of the BBB may be a key event
+in 6PDD-quinone-induced mortality, and further refinements of the
+mechanism of action will provide crucial insights into the substantial
+variability in 6PPD-quinone-induced mortality in salmonids. One critically
+important question evoked by this study is the potential for 6PPD-quinone
+bioaccumulation that would further increase concerns for repeated
+exposures during freshwater residence, as multiple stormwater runoff
+events are a regular occurrence for coho salmon in the PNW.</p></sec></sec></body><back><notes notes-type="data-availability" id="notes-1"><title>Data Availability Statement</title><p>All data underlying
+the conclusions of this manuscript are freely available online. Raw
+RNA sequencing reads are deposited at the NCBI Sequence Read Archive,
+Bioproject PRJNA867720. All other data and all coding scripts used
+in analyses (RNASeq, statistics) are available on Github at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/jbg03/coho_embryos_6PPD-quinone">https://github.com/jbg03/coho_embryos_6PPD-quinone</uri>.</p></notes><notes id="notes-3" notes-type="si"><title>Supporting Information Available</title><p>The
+Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.est.3c01040?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.est.3c01040</ext-link>.<list id="silist" list-type="simple"><list-item><p>DEGs from RNASeq (Table S1) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_001.txt">TXT</ext-link>)</p></list-item><list-item><p>Gene ontology results (Table S2) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_002.txt">TXT</ext-link>)</p></list-item><list-item><p>Gene ontology
+results for RNASeq clusters 2 and 3 (Table
+S3) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c01040/suppl_file/es3c01040_si_003.txt">TXT</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c01040_si_001.txt" position="float" orientation="portrait"><?suppdata-name es3c01040_si_001.txt?><?suppdata-size 437563?><?suppdata-md5 62f753f19ae04a0df20da3791970cb7a?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type text?><?suppdata-mime-sub-type plain?><?suppdata-cloudpmc-urn urn:app:e536/10399305/62f753f19ae0/es3c01040_si_001.txt?><caption><p>es3c01040_si_001.txt</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c01040_si_002.txt" position="float" orientation="portrait"><?suppdata-name es3c01040_si_002.txt?><?suppdata-size 10259?><?suppdata-md5 48cd3a70a482e32c0647a9b404b1485c?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type text?><?suppdata-mime-sub-type plain?><?suppdata-cloudpmc-urn urn:app:e536/10399305/48cd3a70a482/es3c01040_si_002.txt?><caption><p>es3c01040_si_002.txt</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c01040_si_003.txt" position="float" orientation="portrait"><?suppdata-name es3c01040_si_003.txt?><?suppdata-size 39688?><?suppdata-md5 685d5526bd50ab08f3304a35e9e51f84?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type text?><?suppdata-mime-sub-type plain?><?suppdata-cloudpmc-urn urn:app:e536/10399305/685d5526bd50/es3c01040_si_003.txt?><caption><p>es3c01040_si_003.txt</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p>J.B.G. and
+J.D.H. conceived and designed the experiments. J.B.G. and E.M.D. performed
+the experiments and R.F.L. analyzed water chemistry. J.B.G. analyzed
+the data. All authors contributed to the writing and editing of the
+manuscript.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e787-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The present study was supported by the
+U.S. Geological Survey,
+Environmental Health Program, Ecosystems Mission Area, and the U.S.
+Environmental Protection Agency Puget Sound Geographic Program (Interagency
+Agreement DW-014-92581001). The authors would like to thank the Issaquah
+Salmon Hatchery and Yakima Nation Fisheries Hatchery Complex for providing
+coho salmon embryos for this study. They would also like to thank
+Holly Clark and Clay Clark for their assistance with sequencing, Crawford
+Drury and Chris Amemiya for their critical reading and comments on
+the manuscript, and Prarthana Shankar for assistance creating the
+experimental design figure. All data underlying the conclusions of
+this manuscript are available at the U.S. Geological Survey at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5066/P9PYKOPH.">https://doi.org/10.5066/P9PYKOPH.</uri>(<xref ref-type="bibr" rid="ref65">65</xref>) Any use of trade, firm, or product
+names is for descriptive purposes only and does not imply endorsement
+by the U.S. Government.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Bradford</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Irvine</surname><given-names>J. R.</given-names></name>
+<article-title>Land use, fishing, climate change, and the decline
+of Thompson River, British Columbia, coho salmon</article-title>. <source>Can. J. Fish. Aquat. Sci.</source>
+<year>2000</year>, <volume>57</volume>, <fpage>13</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1139/f99-283</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Schindler</surname><given-names>D. E.</given-names></name>; <name name-style="western"><surname>Augerot</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Fleishman</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Mantua</surname><given-names>N. J.</given-names></name>; <name name-style="western"><surname>Riddell</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Ruckelshaus</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Seeb</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Webster</surname><given-names>M.</given-names></name>
+<article-title>Climate change, ecosystem
+impacts, and management for Pacific salmon</article-title>. <source>Fisheries</source>
+<year>2008</year>, <volume>33</volume>, <fpage>502</fpage>–<lpage>506</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8446-33.10.502</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Wainwright</surname><given-names>T. C.</given-names></name>; <name name-style="western"><surname>Weitkamp</surname><given-names>L. A.</given-names></name>
+<article-title>Effects of climate
+change on Oregon Coast coho salmon:
+habitat and life-cycle interactions</article-title>. <source>Northwest
+Sci.</source>
+<year>2013</year>, <volume>87</volume>, <fpage>219</fpage>–<lpage>242</lpage>. <pub-id pub-id-type="doi">10.3955/046.087.0305</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Good</surname><given-names>T. P.</given-names></name>; <name name-style="western"><surname>Beechie</surname><given-names>T. J.</given-names></name>; <name name-style="western"><surname>McElhany</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>McClure</surname><given-names>M. M.</given-names></name>; <name name-style="western"><surname>Ruckelshaus</surname><given-names>M. H.</given-names></name>
+<article-title>Recovery
+planning for Endangered Species Act-listed Pacific salmon: using science
+to inform goals and strategies</article-title>. <source>Fisheries</source>
+<year>2007</year>, <volume>32</volume>, <fpage>426</fpage>–<lpage>440</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8446(2007)32[426:RPFESL]2.0.CO;2</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Brown</surname><given-names>L. R.</given-names></name>; <name name-style="western"><surname>Moyle</surname><given-names>P. B.</given-names></name>; <name name-style="western"><surname>Yoshiyama</surname><given-names>R. M.</given-names></name>
+<article-title>Historical
+decline and current status
+of coho salmon in California</article-title>. <source>N. Am. J. Fish.
+Manage.</source>
+<year>1994</year>, <volume>14</volume>, <fpage>237</fpage>–<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8675(1994)014&lt;0237:HDACSO&gt;2.3.CO;2</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>; <name name-style="western"><surname>Myers</surname><given-names>M. S.</given-names></name>; <name name-style="western"><surname>McCarthy</surname><given-names>S. G.</given-names></name>; <name name-style="western"><surname>Labenia</surname><given-names>J. S.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Ylitalo</surname><given-names>G. M.</given-names></name>; <name name-style="western"><surname>Rhodes</surname><given-names>L. D.</given-names></name>; <name name-style="western"><surname>Laetz</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Stehr</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>French</surname><given-names>B. L.</given-names></name>; et al. <article-title>Recurrent
+die-offs of adult coho salmon returning
+to spawn in Puget Sound lowland urban streams</article-title>. <source>PLoS One</source>
+<year>2011</year>, <volume>6</volume>, <elocation-id>e28013</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0028013</pub-id>.<pub-id pub-id-type="pmid">22194802</pub-id><pub-id pub-id-type="pmcid">PMC3237429</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Feist</surname><given-names>B. E.</given-names></name>; <name name-style="western"><surname>Buhle</surname><given-names>E. R.</given-names></name>; <name name-style="western"><surname>Baldwin</surname><given-names>D. H.</given-names></name>; <name name-style="western"><surname>Spromberg</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Damm</surname><given-names>S. E.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>
+<article-title>Roads to
+ruin: conservation
+threats to a sentinel species across an urban gradient</article-title>. <source>Ecol. Appl.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>2382</fpage>–<lpage>2396</lpage>. <pub-id pub-id-type="doi">10.1002/eap.1615</pub-id>.<pub-id pub-id-type="pmid">29044812</pub-id><pub-id pub-id-type="pmcid">PMC6084292</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Spromberg</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>
+<article-title>Estimating the future
+decline of wild coho salmon populations
+resulting from early spawner die-offs in urbanizing watersheds of
+the Pacific Northwest, USA</article-title>. <source>Integr. Environ.
+Assess. Manage.</source>
+<year>2011</year>, <volume>7</volume>, <fpage>648</fpage>–<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.219</pub-id>.<pub-id pub-id-type="pmid">21786416</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Gonzalez</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Prat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Hettinger</surname><given-names>R.</given-names></name>
+<article-title>A ubiquitous
+tire rubber–derived chemical induces acute mortality in coho
+salmon</article-title>. <source>Science</source>
+<year>2021</year>, <volume>371</volume>, <fpage>185</fpage>–<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1126/science.abd6951</pub-id>.<pub-id pub-id-type="pmid">33273063</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Kruger</surname><given-names>R. H.</given-names></name>; <name name-style="western"><surname>Boissière</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Klein-Hartwig</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Kretzschmar</surname><given-names>H.-J.</given-names></name>
+<article-title>New phenylenediamine
+antiozonants for commodities based on natural and synthetic rubber</article-title>. <source>Food Addit. Contam.</source>
+<year>2005</year>, <volume>22</volume>, <fpage>968</fpage>–<lpage>974</lpage>. <pub-id pub-id-type="doi">10.1080/02652030500098177</pub-id>.<pub-id pub-id-type="pmid">16227180</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Johannessen</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Helm</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lashuk</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Yargeau</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Metcalfe</surname><given-names>C. D.</given-names></name>
+<article-title>The tire
+wear compounds 6PPD-quinone and 1, 3-diphenylguanidine in an urban
+watershed</article-title>. <source>Arch. Environ. Contam. Toxicol.</source>
+<year>2022</year>, <volume>82</volume>, <fpage>171</fpage>–<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1007/s00244-021-00878-4</pub-id>.<pub-id pub-id-type="pmid">34347118</pub-id><pub-id pub-id-type="pmcid">PMC8335451</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Rauert</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Charlton</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Okoffo</surname><given-names>E. D.</given-names></name>; <name name-style="western"><surname>Stanton</surname><given-names>R. S.</given-names></name>; <name name-style="western"><surname>Agua</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Pirrung</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Thomas</surname><given-names>K. V.</given-names></name>
+<article-title>Concentrations
+of Tire Additive Chemicals
+and Tire Road Wear Particles in an Australian Urban Tributary</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2022</year>, <volume>56</volume>, <fpage>2421</fpage>–<lpage>2431</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c07451</pub-id>.<pub-id pub-id-type="pmid">35099932</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Challis</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Popick</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Prajapati</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Harder</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Giesy</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>McPhedran</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Brinkmann</surname><given-names>M.</given-names></name>
+<article-title>Occurrences of tire rubber-derived
+contaminants in cold-climate urban runoff</article-title>. <source>Environ.
+Sci. Technol. Lett.</source>
+<year>2021</year>, <volume>8</volume>, <fpage>961</fpage>–<lpage>967</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00682</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Seiwert</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Nihemaiti</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Troussier</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Weyrauch</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Reemtsma</surname><given-names>T.</given-names></name>
+<article-title>Abiotic oxidative
+transformation of 6-PPD and 6-PPD quinone from tires and occurrence
+of their products in snow from urban roads and in municipal wastewater</article-title>. <source>Water Res.</source>
+<year>2022</year>, <volume>212</volume>, <elocation-id>118122</elocation-id><pub-id pub-id-type="doi">10.1016/j.watres.2022.118122</pub-id>.<pub-id pub-id-type="pmid">35101694</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Gonzalez</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Rideout</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H. N.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>James</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>6PPD-quinone:
+Revised toxicity assessment and quantification
+with a commercial standard</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>140</fpage>–<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00910</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Zeng</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>L.-Y.</given-names></name>; <name name-style="western"><surname>Shen</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Du</surname><given-names>B.</given-names></name>
+<article-title>Widespread
+Occurrence and Transport of p-Phenylenediamines and Their Quinones
+in Sediments across Urban Rivers, Estuaries, Coasts, and Deep-Sea
+Regions</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2023</year>, <volume>57</volume>, <fpage>2393</fpage>–<lpage>2403</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.2c07652</pub-id>.<pub-id pub-id-type="pmid">36720114</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Cao</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Cai</surname><given-names>Z.</given-names></name>
+<article-title>New Evidence of Rubber-Derived
+Quinones in Water, Air, and Soil</article-title>. <source>Environ. Sci.
+Technol.</source>
+<year>2022</year>, <volume>56</volume>, <fpage>4142</fpage>–<lpage>4150</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c07376</pub-id>.<pub-id pub-id-type="pmid">35316033</pub-id><pub-id pub-id-type="pmcid">PMC8988306</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Huang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Shi</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Deng</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<article-title>Occurrence
+of substituted p-phenylenediamine antioxidants in dusts</article-title>. <source>Environ. Sci. Technol. Lett.</source>
+<year>2021</year>, <volume>8</volume>, <fpage>381</fpage>–<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00148</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Wu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Venier</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hites</surname><given-names>R. A.</given-names></name>
+<article-title>Broad exposure of the North American
+environment to phenolic and amino antioxidants and to ultraviolet
+filters</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2020</year>, <volume>54</volume>, <fpage>9345</fpage>–<lpage>9355</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.0c04114</pub-id>.<pub-id pub-id-type="pmid">32672444</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Hiki</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yamamoto</surname><given-names>H.</given-names></name>
+<article-title>Concentration and leachability of
+N-(1, 3-dimethylbutyl)-N′-phenyl-p-phenylenediamine
+(6PPD) and its quinone transformation product (6PPD-Q) in road dust
+collected in Tokyo, Japan</article-title>. <source>Environ. Pollut.</source>
+<year>2022</year>, <volume>302</volume>, <elocation-id>119082</elocation-id><pub-id pub-id-type="doi">10.1016/j.envpol.2022.119082</pub-id>.<pub-id pub-id-type="pmid">35245619</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Du</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Liang</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Shen</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>L.-Y.</given-names></name>; <name name-style="western"><surname>Zeng</surname><given-names>L.</given-names></name>
+<article-title>First Report on the
+Occurrence of N-(1, 3-Dimethylbutyl)-N′-phenyl-p-phenylenediamine
+(6PPD) and 6PPD-Quinone as Pervasive Pollutants in Human Urine from
+South China</article-title>. <source>Environ. Sci. Technol. Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>1056</fpage>–<lpage>1062</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00821</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Chow</surname><given-names>M. I.</given-names></name>; <name name-style="western"><surname>Lundin</surname><given-names>J. I.</given-names></name>; <name name-style="western"><surname>Mitchell</surname><given-names>C. J.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Young</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>
+<article-title>An urban
+stormwater runoff mortality
+syndrome in juvenile coho salmon</article-title>. <source>Aquat. Toxicol.</source>
+<year>2019</year>, <volume>214</volume>, <elocation-id>105231</elocation-id><pub-id pub-id-type="doi">10.1016/j.aquatox.2019.105231</pub-id>.<pub-id pub-id-type="pmid">31295703</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Lundin</surname><given-names>J. I.</given-names></name>; <name name-style="western"><surname>Cameron</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Chow</surname><given-names>M. I.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Incardona</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>
+<article-title>Interspecies variation in the susceptibility
+of adult Pacific salmon to toxic urban stormwater runoff</article-title>. <source>Environ. Pollut.</source>
+<year>2018</year>, <volume>238</volume>, <fpage>196</fpage>–<lpage>203</lpage>. <pub-id pub-id-type="doi">10.1016/j.envpol.2018.03.012</pub-id>.<pub-id pub-id-type="pmid">29554567</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>French</surname><given-names>B. F.</given-names></name>; <name name-style="western"><surname>Baldwin</surname><given-names>D. H.</given-names></name>; <name name-style="western"><surname>Cameron</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Prat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>King</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>
+<article-title>Urban Roadway Runoff
+Is Lethal to Juvenile Coho, Steelhead, and Chinook Salmonids, But
+Not Congeneric Sockeye</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>733</fpage>–<lpage>738</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00467</pub-id>.<pub-id pub-id-type="pmid">36118959</pub-id><pub-id pub-id-type="pmcid">PMC9476652</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Blair</surname><given-names>S. I.</given-names></name>; <name name-style="western"><surname>Barlow</surname><given-names>C. H.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>
+<article-title>Acute cerebrovascular
+effects in
+juvenile coho salmon exposed to roadway runoff</article-title>. <source>Can. J. Fish. Aquat. Sci.</source>
+<year>2021</year>, <volume>78</volume>, <fpage>103</fpage>–<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1139/cjfas-2020-0240</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Brinkmann</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Montgomery</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Selinger</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Miller</surname><given-names>J. G. P.</given-names></name>; <name name-style="western"><surname>Stock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Alcaraz</surname><given-names>A. J.</given-names></name>; <name name-style="western"><surname>Challis</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Weber</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Janz</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Hecker</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wiseman</surname><given-names>S.</given-names></name>
+<article-title>Acute toxicity of the tire rubber-derived
+chemical 6ppd-quinone to four fishes of commercial, cultural, and
+ecological importance</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>333</fpage>–<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00050</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Hiki</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Asahina</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Kato</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yamagishi</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Omagari</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Iwasaki</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Watanabe</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yamamoto</surname><given-names>H.</given-names></name>
+<article-title>Acute toxicity
+of a tire rubber-derived chemical, 6PPD quinone, to freshwater fish
+and crustacean species</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2021</year>, <volume>8</volume>, <fpage>779</fpage>–<lpage>784</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00453</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Foldvik</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Kryuchkov</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Sandodden</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Uhlig</surname><given-names>S.</given-names></name>
+<article-title>Acute toxicity testing
+of the tire rubber-derived chemical 6PPD-quinone on Atlantic salmon
+(<italic toggle="yes">Salmo salar</italic>) and brown trout (<italic toggle="yes">Salmo trutta</italic>)</article-title>. <source>Environ. Toxicol.
+Chem.</source>
+<year>2022</year>, <volume>41</volume>, <fpage>3041</fpage>–<lpage>3045</lpage>. <pub-id pub-id-type="doi">10.1002/etc.5487</pub-id>.<pub-id pub-id-type="pmid">36148925</pub-id><pub-id pub-id-type="pmcid">PMC9828523</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Hiki</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yamamoto</surname><given-names>H.</given-names></name>
+<article-title>The Tire-Derived Chemical
+6PPD-quinone Is Lethally
+Toxic to the White-Spotted Char <italic toggle="yes">Salvelinus leucomaenis</italic> pluvius but Not to Two Other Salmonid Species</article-title>. <source>Environ. Sci. Technol. Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>1050</fpage>–<lpage>1055</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00683</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Bolger</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Lohse</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Usadel</surname><given-names>B.</given-names></name>
+<article-title>Trimmomatic: a flexible trimmer for
+Illumina sequence data</article-title>. <source>Bioinformatics</source>
+<year>2014</year>, <volume>30</volume>, <fpage>2114</fpage>–<lpage>2120</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btu170</pub-id>.<pub-id pub-id-type="pmid">24695404</pub-id><pub-id pub-id-type="pmcid">PMC4103590</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="weblink" id="cit31"><person-group person-group-type="allauthors"><name name-style="western"><surname>Andrews</surname><given-names>S.</given-names></name></person-group><article-title>FastQC: a quality
+control tool for high throughput sequence data</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc">http://www.bioinformatics.babraham.ac.uk/projects/fastqc</uri>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Patro</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Duggal</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Love</surname><given-names>M. I.</given-names></name>; <name name-style="western"><surname>Irizarry</surname><given-names>R. A.</given-names></name>; <name name-style="western"><surname>Kingsford</surname><given-names>C.</given-names></name>
+<article-title>Salmon provides
+fast and bias-aware quantification of transcript expression</article-title>. <source>Nat. Methods</source>
+<year>2017</year>, <volume>14</volume>, <fpage>417</fpage>–<lpage>419</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.4197</pub-id>.<pub-id pub-id-type="pmid">28263959</pub-id><pub-id pub-id-type="pmcid">PMC5600148</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Love</surname><given-names>M. I.</given-names></name>; <name name-style="western"><surname>Huber</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Anders</surname><given-names>S.</given-names></name>
+<article-title>Moderated
+estimation of fold change
+and dispersion for RNA-seq data with DESeq. 2</article-title>. <source>Genome Biol.</source>
+<year>2014</year>, <volume>15</volume>, <elocation-id>550</elocation-id><pub-id pub-id-type="doi">10.1186/s13059-014-0550-8</pub-id>.<pub-id pub-id-type="pmid">25516281</pub-id><pub-id pub-id-type="pmcid">PMC4302049</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="report" id="cit34"><person-group person-group-type="allauthors"><name name-style="western"><surname>Pantano</surname><given-names>L.</given-names></name></person-group><source>DEGreport: Report of
+DEG analysis</source>, <year>2017</year>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Gu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Eils</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Schlesner</surname><given-names>M.</given-names></name>
+<article-title>Complex heatmaps reveal patterns
+and correlations in multidimensional genomic data</article-title>. <source>Bioinformatics</source>
+<year>2016</year>, <volume>32</volume>, <fpage>2847</fpage>–<lpage>2849</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btw313</pub-id>.<pub-id pub-id-type="pmid">27207943</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Yu</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>L.-G.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>Q.-Y.</given-names></name>
+<article-title>clusterProfiler:
+an R package for comparing biological themes among gene clusters</article-title>. <source>OMICS: J. Integr. Biol.</source>
+<year>2012</year>, <volume>16</volume>, <fpage>284</fpage>–<lpage>287</lpage>. <pub-id pub-id-type="doi">10.1089/omi.2011.0118</pub-id>.<pub-id pub-id-type="pmcid">PMC3339379</pub-id><pub-id pub-id-type="pmid">22455463</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Hou</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Goehring</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>More than
+a first flush: Urban creek storm hydrographs
+demonstrate broad contaminant pollutographs</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2020</year>, <volume>54</volume>, <fpage>6152</fpage>–<lpage>6165</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.0c00872</pub-id>.<pub-id pub-id-type="pmid">32302122</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Johnson</surname><given-names>S. C.</given-names></name>; <name name-style="western"><surname>Chapman</surname><given-names>G. A.</given-names></name>; <name name-style="western"><surname>Stevens</surname><given-names>D. G.</given-names></name>
+<article-title>Relationships between temperature
+units and sensitivity to handling for coho salmon and rainbow trout
+embryos</article-title>. <source>Prog. Fish-Cult.</source>
+<year>1989</year>, <volume>51</volume>, <fpage>61</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8640(1989)051&lt;0061:RBTUAS&gt;2.3.CO;2</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Henn</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Braunbeck</surname><given-names>T.</given-names></name>
+<article-title>Dechorionation
+as a tool to improve the fish embryo
+toxicity test (FET) with the zebrafish (<italic toggle="yes">Danio rerio</italic>)</article-title>. <source>Comp. Biochem. Physiol., Part C: Toxicol.
+Pharmacol.</source>
+<year>2011</year>, <volume>153</volume>, <fpage>91</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1016/j.cbpc.2010.09.003</pub-id>.<pub-id pub-id-type="pmid">20869464</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Braunbeck</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Böttcher</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hollert</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Kosmehl</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Lammer</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Leist</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Rudolf</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Seitz</surname><given-names>N.</given-names></name>
+<article-title>Towards an alternative
+for the acute fish LC50 test in chemical assessment: the fish embryo
+toxicity test goes multi-species-an update</article-title>. <source>ALTEX-Altern. Anim. Exp.</source>
+<year>2005</year>, <volume>22</volume>, <fpage>87</fpage>–<lpage>102</lpage>.<pub-id pub-id-type="pmid">15953964</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Fent</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Weisbrod</surname><given-names>C. J.</given-names></name>; <name name-style="western"><surname>Wirth-Heller</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Pieles</surname><given-names>U.</given-names></name>
+<article-title>Assessment of uptake
+and toxicity of fluorescent silica nanoparticles in zebrafish (<italic toggle="yes">Danio rerio</italic>) early life stages</article-title>. <source>Aquat. Toxicol.</source>
+<year>2010</year>, <volume>100</volume>, <fpage>218</fpage>–<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1016/j.aquatox.2010.02.019</pub-id>.<pub-id pub-id-type="pmid">20303188</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Pelka</surname><given-names>K. E.</given-names></name>; <name name-style="western"><surname>Henn</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Keck</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Sapel</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Braunbeck</surname><given-names>T.</given-names></name>
+<article-title>Size does
+matter–Determination of the critical molecular size for the
+uptake of chemicals across the chorion of zebrafish (<italic toggle="yes">Danio rerio</italic>) embryos</article-title>. <source>Aquat.
+Toxicol.</source>
+<year>2017</year>, <volume>185</volume>, <fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/j.aquatox.2016.12.015</pub-id>.<pub-id pub-id-type="pmid">28142078</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="weblink" id="cit43"><person-group person-group-type="allauthors"><name name-style="western"><surname>Manahan</surname><given-names>C.</given-names></name></person-group><article-title>Assessment of
+potential hazards of 6PPD and alternatives</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ezview.wa.gov/Portals/_1962/Documents/6ppd/6PPD%20Alternatives%20Technical%20Memo.pdf">https://www.ezview.wa.gov/Portals/_1962/Documents/6ppd/6PPD%20Alternatives%20Technical%20Memo.pdf</uri>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Chittenden</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Melnychuk</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Welch</surname><given-names>D. W.</given-names></name>; <name name-style="western"><surname>McKinley</surname><given-names>R. S.</given-names></name>
+<article-title>An investigation
+into the poor survival of an endangered coho salmon population</article-title>. <source>PLoS One</source>
+<year>2010</year>, <volume>5</volume>, <elocation-id>e10869</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0010869</pub-id>.<pub-id pub-id-type="pmid">20526367</pub-id><pub-id pub-id-type="pmcid">PMC2878331</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Prat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Cameron</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Mackenzie</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Lundin</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Stark</surname><given-names>J. D.</given-names></name>; et al. <article-title>Treading
+water: tire
+wear particle leachate recreates an urban runoff mortality syndrome
+in coho but not chum salmon</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2021</year>, <volume>55</volume>, <fpage>11767</fpage>–<lpage>11774</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c03569</pub-id>.<pub-id pub-id-type="pmid">34410108</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Brooks</surname><given-names>T. A.</given-names></name>; <name name-style="western"><surname>Hawkins</surname><given-names>B. T.</given-names></name>; <name name-style="western"><surname>Huber</surname><given-names>J. D.</given-names></name>; <name name-style="western"><surname>Egleton</surname><given-names>R. D.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>T. P.</given-names></name>
+<article-title>Chronic
+inflammatory pain leads to increased blood-brain barrier permeability
+and tight junction protein alterations</article-title>. <source>Am.
+J. Physiol.: Heart Circ. Physiol.</source>
+<year>2005</year>, <volume>289</volume>, <fpage>H738</fpage>–<lpage>H743</lpage>. <pub-id pub-id-type="doi">10.1152/ajpheart.01288.2004</pub-id>.<pub-id pub-id-type="pmid">15792985</pub-id><pub-id pub-id-type="pmcid">PMC4638185</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Hawkins</surname><given-names>B. T.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>T. P.</given-names></name>
+<article-title>The blood-brain barrier/neurovascular
+unit in health
+and disease</article-title>. <source>Pharmacol. Rev.</source>
+<year>2005</year>, <volume>57</volume>, <fpage>173</fpage>–<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1124/pr.57.2.4</pub-id>.<pub-id pub-id-type="pmid">15914466</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Komarova</surname><given-names>Y. A.</given-names></name>; <name name-style="western"><surname>Kruse</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Mehta</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Malik</surname><given-names>A. B.</given-names></name>
+<article-title>Protein interactions
+at endothelial junctions and signaling mechanisms regulating endothelial
+permeability</article-title>. <source>Circ. Res.</source>
+<year>2017</year>, <volume>120</volume>, <fpage>179</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.116.306534</pub-id>.<pub-id pub-id-type="pmid">28057793</pub-id><pub-id pub-id-type="pmcid">PMC5225667</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>Cerutti</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Ridley</surname><given-names>A. J.</given-names></name>
+<article-title>Endothelial cell-cell adhesion and
+signaling</article-title>. <source>Exp. Cell Res.</source>
+<year>2017</year>, <volume>358</volume>, <fpage>31</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/j.yexcr.2017.06.003</pub-id>.<pub-id pub-id-type="pmid">28602626</pub-id><pub-id pub-id-type="pmcid">PMC5700119</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name name-style="western"><surname>Laukoetter</surname><given-names>M. G.</given-names></name>; <name name-style="western"><surname>Nava</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>W. Y.</given-names></name>; <name name-style="western"><surname>Severson</surname><given-names>E. A.</given-names></name>; <name name-style="western"><surname>Capaldo</surname><given-names>C. T.</given-names></name>; <name name-style="western"><surname>Babbin</surname><given-names>B. A.</given-names></name>; <name name-style="western"><surname>Williams</surname><given-names>I. R.</given-names></name>; <name name-style="western"><surname>Koval</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Peatman</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Campbell</surname><given-names>J. A.</given-names></name>; et al. <article-title>JAM-A regulates permeability
+and inflammation
+in the intestine in vivo</article-title>. <source>J. Exp. Med.</source>
+<year>2007</year>, <volume>204</volume>, <fpage>3067</fpage>–<lpage>3076</lpage>. <pub-id pub-id-type="doi">10.1084/jem.20071416</pub-id>.<pub-id pub-id-type="pmid">18039951</pub-id><pub-id pub-id-type="pmcid">PMC2150975</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Al-Sadi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Khatib</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ye</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Youssef</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>T.</given-names></name>
+<article-title>Occludin regulates macromolecule
+flux across the intestinal epithelial
+tight junction barrier</article-title>. <source>Am. J. Physiol.: Gastrointest.
+Liver Physiol.</source>
+<year>2011</year>, <volume>300</volume>, <fpage>G1054</fpage>–<lpage>G1064</lpage>. <pub-id pub-id-type="doi">10.1152/ajpgi.00055.2011</pub-id>.<pub-id pub-id-type="pmid">21415414</pub-id><pub-id pub-id-type="pmcid">PMC3119114</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Ng</surname><given-names>C. T.</given-names></name>; <name name-style="western"><surname>Fong</surname><given-names>L. Y.</given-names></name>; <name name-style="western"><surname>Sulaiman</surname><given-names>M. R.</given-names></name>; <name name-style="western"><surname>Moklas</surname><given-names>M. A. M.</given-names></name>; <name name-style="western"><surname>Yong</surname><given-names>Y. K.</given-names></name>; <name name-style="western"><surname>Hakim</surname><given-names>M. N.</given-names></name>; <name name-style="western"><surname>Ahmad</surname><given-names>Z.</given-names></name>
+<article-title>Interferon-gamma
+increases endothelial
+permeability by causing activation of p38 MAP kinase and actin cytoskeleton
+alteration</article-title>. <source>J. Interferon Cytokine Res.</source>
+<year>2015</year>, <volume>35</volume>, <fpage>513</fpage>–<lpage>522</lpage>. <pub-id pub-id-type="doi">10.1089/jir.2014.0188</pub-id>.<pub-id pub-id-type="pmid">25830506</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Weis</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Shintani</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Weber</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Kirchmair</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Wood</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Cravens</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>McSharry</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Iwakura</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Yoon</surname><given-names>Y.-s.</given-names></name>; <name name-style="western"><surname>Himes</surname><given-names>N.</given-names></name>; et al. <article-title>Src blockade stabilizes
+a Flk/cadherin complex, reducing edema and tissue injury following
+myocardial infarction</article-title>. <source>J. Clin. Invest.</source>
+<year>2004</year>, <volume>113</volume>, <fpage>885</fpage>–<lpage>894</lpage>. <pub-id pub-id-type="doi">10.1172/JCI200420702</pub-id>.<pub-id pub-id-type="pmid">15067321</pub-id><pub-id pub-id-type="pmcid">PMC362122</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Jaken</surname><given-names>S.</given-names></name>
+<article-title>Protein kinase
+C isozymes and substrates</article-title>. <source>Curr. Opin. Cell
+Biol.</source>
+<year>1996</year>, <volume>8</volume>, <fpage>168</fpage>–<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1016/S0955-0674(96)80062-7</pub-id>.<pub-id pub-id-type="pmid">8791416</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Jeong</surname><given-names>G. H.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>I. R.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>D. W.</given-names></name>; <name name-style="western"><surname>Shin</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Kronbichler</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Eisenhut</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>van der
+Vliet</surname><given-names>H. J.</given-names></name>; <name name-style="western"><surname>Abdel-Rahman</surname><given-names>O.</given-names></name>; et al. <article-title>Incidence of capillary
+leak syndrome as an adverse effect of drugs in cancer patients: a
+systematic review and meta-analysis</article-title>. <source>J. Clin.
+Med.</source>
+<year>2019</year>, <volume>8</volume>, <elocation-id>143</elocation-id><pub-id pub-id-type="doi">10.3390/jcm8020143</pub-id>.<pub-id pub-id-type="pmid">30691103</pub-id><pub-id pub-id-type="pmcid">PMC6406478</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Siddall</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Khatri</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Radhakrishnan</surname><given-names>J.</given-names></name>
+<article-title>Capillary leak syndrome: etiologies,
+pathophysiology, and management</article-title>. <source>Kidney Int.</source>
+<year>2017</year>, <volume>92</volume>, <fpage>37</fpage>–<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1016/j.kint.2016.11.029</pub-id>.<pub-id pub-id-type="pmid">28318633</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Druey</surname><given-names>K. M.</given-names></name>; <name name-style="western"><surname>Greipp</surname><given-names>P. R.</given-names></name>
+<article-title>Narrative review:
+the systemic capillary leak syndrome</article-title>. <source>Ann. Intern.
+Med.</source>
+<year>2010</year>, <volume>153</volume>, <fpage>90</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.7326/0003-4819-153-2-201007200-00005</pub-id>.<pub-id pub-id-type="pmid">20643990</pub-id><pub-id pub-id-type="pmcid">PMC3017349</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Kapoor</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Greipp</surname><given-names>P. T.</given-names></name>; <name name-style="western"><surname>Schaefer</surname><given-names>E. W.</given-names></name>; <name name-style="western"><surname>Mandrekar</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Kamal</surname><given-names>A. H.</given-names></name>; <name name-style="western"><surname>Gonzalez-Paz</surname><given-names>N. C.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Greipp</surname><given-names>P. R.</given-names></name>
+<article-title>Idiopathic
+systemic capillary leak syndrome (Clarkson’s disease): the
+Mayo clinic experience</article-title>. <source>Mayo Clin. Proc.</source>
+<year>2010</year>, <volume>85</volume>, <fpage>905</fpage>–<lpage>912</lpage>. <pub-id pub-id-type="doi">10.4065/mcp.2010.0159</pub-id>.<pub-id pub-id-type="pmid">20634497</pub-id><pub-id pub-id-type="pmcid">PMC2947962</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Stamatovic</surname><given-names>S. M.</given-names></name>; <name name-style="western"><surname>Johnson</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Keep</surname><given-names>R. F.</given-names></name>; <name name-style="western"><surname>Andjelkovic</surname><given-names>A. V.</given-names></name>
+<article-title>Junctional
+proteins of the blood-brain barrier: New insights into function and
+dysfunction</article-title>. <source>Tissue Barriers</source>
+<year>2016</year>, <volume>4</volume>, <elocation-id>e1154641</elocation-id><pub-id pub-id-type="doi">10.1080/21688370.2016.1154641</pub-id>.<pub-id pub-id-type="pmid">27141427</pub-id><pub-id pub-id-type="pmcid">PMC4836471</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Izzedine</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Mathian</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Amoura</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Ng</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Jhaveri</surname><given-names>K. D.</given-names></name>
+<article-title>Anticancer
+Drugs-induced Capillary Leak Syndrome</article-title>. <source>Kidney
+Int. Rep.</source>
+<year>2022</year>, <fpage>945</fpage>–<lpage>953</lpage>. <pub-id pub-id-type="doi">10.1016/j.ekir.2022.02.014</pub-id>.<pub-id pub-id-type="pmid">35570987</pub-id><pub-id pub-id-type="pmcid">PMC9091576</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Puhlmann</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Weinreich</surname><given-names>D. M.</given-names></name>; <name name-style="western"><surname>Farma</surname><given-names>J. M.</given-names></name>; <name name-style="western"><surname>Carroll</surname><given-names>N. M.</given-names></name>; <name name-style="western"><surname>Turner</surname><given-names>E. M.</given-names></name>; <name name-style="western"><surname>Alexander</surname><given-names>H. R.</given-names></name>
+<article-title>Interleukin-1β
+induced vascular permeability
+is dependent on induction of endothelial tissue factor (TF) activity</article-title>. <source>J. Transl. Med.</source>
+<year>2005</year>, <volume>3</volume>, <elocation-id>37</elocation-id><pub-id pub-id-type="doi">10.1186/1479-5876-3-37</pub-id>.<pub-id pub-id-type="pmid">16197553</pub-id><pub-id pub-id-type="pmcid">PMC1276820</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>He</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Talukder</surname><given-names>M. A. H.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>F.</given-names></name>
+<article-title>Oxidative
+stress and microvessel
+barrier dysfunction</article-title>. <source>Front. Physiol.</source>
+<year>2020</year>, <volume>11</volume>, <elocation-id>472</elocation-id><pub-id pub-id-type="doi">10.3389/fphys.2020.00472</pub-id>.<pub-id pub-id-type="pmid">32536875</pub-id><pub-id pub-id-type="pmcid">PMC7268512</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Mahoney</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>da Silva Junior</surname><given-names>F. C.</given-names></name>; <name name-style="western"><surname>Roberts</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Schultz</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Alcaraz</surname><given-names>A. J.</given-names></name>; <name name-style="western"><surname>Montgomery</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Selinger</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Challis</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Giesy</surname><given-names>J. P.</given-names></name>; et al. <article-title>Exposure to the tire rubber-derived contaminant
+6PPD-Quinone causes mitochondrial dysfunction in vitro</article-title>. <source>Environ. Sci. Technol. Lett.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>765</fpage>–<lpage>771</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00431</pub-id>.</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name name-style="western"><surname>Greer</surname><given-names>J. B.</given-names></name>; <name name-style="western"><surname>Dalsky</surname><given-names>E. M.</given-names></name>; <name name-style="western"><surname>Lane</surname><given-names>R. F.</given-names></name>; <name name-style="western"><surname>Hansen</surname><given-names>J. D.</given-names></name>
+<article-title>Establishing
+an
+In Vitro Model to Assess the Toxicity of 6PPD-Quinone and Other Tire
+Wear Transformation Products</article-title>. <source>Environ. Sci.
+Technol. Lett.</source>
+<year>2023</year>, <volume>10</volume>, <fpage>533</fpage>–<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.3c00196</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="report" id="cit65"><person-group person-group-type="allauthors"><name name-style="western"><surname>Greer</surname><given-names>J. B.</given-names></name></person-group><source>Mortality, morphology,
+and water chemistry for 6PPD-quinone exposed coho embryos</source>, U.S. Geological Survey data release, <year>2023</year>.</mixed-citation></ref></ref-list></back></article>

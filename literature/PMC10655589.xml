@@ -1,0 +1,443 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="EN" article-type="rapid-communication" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Environ Au</journal-id><journal-id journal-id-type="iso-abbrev">ACS Environ Au</journal-id><journal-id journal-id-type="pmc-domain-id">4427</journal-id><journal-id journal-id-type="pmc-domain">acsenvau</journal-id><journal-id journal-id-type="nlm-id">9918300984206676</journal-id><journal-id journal-id-type="publisher-id">vg</journal-id><journal-title-group><journal-title>ACS Environmental Au</journal-title></journal-title-group><issn pub-type="epub">2694-2518</issn><?publisher_abbrev acs?><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10655589</article-id><article-id pub-id-type="pmcid-ver">PMC10655589.1</article-id><article-id pub-id-type="pmcaid">10655589</article-id><article-id pub-id-type="pmcaiid">10655589</article-id><article-id pub-id-type="pmid">38028740</article-id><article-id pub-id-type="doi">10.1021/acsenvironau.3c00023</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Investigation
+of 6PPD-Quinone in Rubberized Asphalt
+Concrete Mixtures</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Lokesh</surname><given-names initials="S">Srinidhi</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Arunthavabalan</surname><given-names initials="S">Siththarththan</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Hajj</surname><given-names initials="E">Elie</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Hitti</surname><given-names initials="E">Edgard</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7568-0202</contrib-id><name name-style="western"><surname>Yang</surname><given-names initials="Y">Yu</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><aff id="aff1"><label>†</label>Department
+of Civil and Environmental Engineering, <institution>University of Nevada, Reno</institution>, 1644 N. Virginia Street, Reno, Nevada 89557, <country>United States</country></aff><aff id="aff2"><label>‡</label><institution>Granite
+Constructions Inc.</institution>, Watsonville, California 95076, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>yuy@unr.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>07</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>15</day><month>11</month><year>2023</year></pub-date><volume>3</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">449350</issue-id><fpage>336</fpage><lpage>341</lpage><history><date date-type="received"><day>12</day><month>05</month><year>2023</year></date><date date-type="accepted"><day>17</day><month>07</month><year>2023</year></date><date date-type="rev-recd"><day>14</day><month>07</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>07</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>26</day><month>07</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-16 01:25:14.647"><day>16</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="vg3c00023.pdf"><?pdf-name vg3c00023.pdf?><?pdf-size 1835281?><?pdf-md5 f6a4481e509a899f1b344c1aba3f61ca?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:b014/10655589/f6a4481e509a/vg3c00023.pdf?></self-uri><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" vol="4" journal-id="ACS Environ Au" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10958650"><article-title>Correction
+to “Investigation of 6PPD-Quinone
+in Rubberized Asphalt Concrete Mixtures”</article-title><volume>4</volume><issue>2</issue><date><day>12</day><month>1</month><year>2024</year></date><fpage>126</fpage><lpage>126</lpage><source>ACS Environmental Au</source><pub-id pub-id-type="doi">10.1021/acsenvironau.3c00077</pub-id><pub-id pub-id-type="pmcid">PMC10958650</pub-id><pub-id pub-id-type="pmid">38525019</pub-id></related-article><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="vg3c00023_0004.jpg"><?image-name vg3c00023_0004.jpg?><?image-size 119868?><?image-md5 323c21b6448b804ddff7f3d45d257da7?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1296?><?image-original-width 2400?><?image-scaled-height 442?><?image-scaled-width 819?><?image-cloudpmc-urn urn:cdn:blobs/b014/10655589/323c21b6448b/vg3c00023_0004.jpg?><?thumb-name vg3c00023_0004.gif?><?thumb-size 290418?><?thumb-md5 10278b63461c462d70edd08f0cbe822c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 818?><?thumb-scaled-width 1515?><?thumb-cloudpmc-urn urn:cdn:blobs/b014/10655589/10278b63461c/vg3c00023_0004.gif?></graphic></p><p>N-(1,3-dimethylbutyl)-N′-phenyl-p-phenylenediamine
+(6PPD)-quinone
+(6PPD-Q), a transformation byproduct of 6PPD used in tires as an antiozonant
+and antioxidant, was recently discovered as the chemical primarily
+responsible for the acute lethal toxicity of urban storm runoff to
+coho salmon. The asphalt concrete (AC) surface layer is the primary
+medium to contact 6PPD-Q immediately upon its release from tires,
+and the addition of recycled tire rubber (RTR) to the asphalt binder
+and mixture is a widely accepted practice in asphalt production. Therefore,
+it is urgent to understand the fate of 6PPD-Q at the asphalt concrete
+surface layer–water interface. This study analyzed the sorption
+and desorption of 6PPD-Q by compacted and crushed loose (loose particles,
+∼5 mm) rubberized asphalt mixtures and their mobilization from
+compacted asphalt mixtures during simulated rainfall events. It should
+be noted that the crushed loose asphalt mixtures demonstrated the
+physicochemical properties of the asphalt materials, while the compacted
+asphalt mixtures represent in-service AC layers. Sorption of 6PPD-Q
+by crushed loose and compacted asphalt mixtures reached equilibrium
+within 12 days, with a sorption coefficient of 151.57–257.51
+L/kg for compacted asphalt mixtures. Within 12 days, desorption of
+6PPD-Q from crushed loose and compacted rubberized asphalt mixtures
+(20 g particles/L) to the double deionized (DDI) water and synthetic
+stormwater was 0.01–0.09 and 0.025–0.05 μg/L,
+respectively. Through the rainfall simulation experiments, 0.0015–0.0049
+μg/L 6PPD-Q was detected in the runoff water, much lower than
+the lethal concentration (LC<sub>50</sub>) of 6PPD-Q of 0.095 μg/L
+and 308.67 μg/L for coho salmon and zebrafish larvae. Our results
+indicate that, while the release of 6PPD-Q from compacted rubberized
+asphalt mixtures is minor, the mixtures can serve as sorbents for
+tire-derived 6PPD-Q and retain this emerging contaminant.</p></abstract><kwd-group><kwd>6PPD-quinone</kwd><kwd>rubberized asphalt concrete</kwd><kwd>leachate</kwd><kwd>sorption</kwd><kwd>desorption</kwd><kwd>runoff</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Granite Construction Inc</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>vg3c00023</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>vg3c00023</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>N-(1,3-dimethylbutyl)-N′-phenyl-p-phenylenediamine
+(6PPD)
+is used ubiquitously as an antioxidant amendment for tires.<sup><xref ref-type="bibr" rid="ref1">1</xref>−<xref ref-type="bibr" rid="ref5">5</xref></sup> Recently, an ozonation byproduct of 6PPD, namely, 6PPD-quinone (6PPD-Q),
+was determined as the toxicant responsible for “urban stream
+syndrome,” i.e., the rapid mortality of adult coho salmon caused
+by urban stormwater.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Up to date, the lethal concentration
+(LC<sub>50</sub>) of 6PPD-Q was determined for a range of species
+(coho salmon,<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> zebrafish larvae,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> brook trout,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> rainbow
+trout,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> white sturgeon,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> water flea,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> scud,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> and <italic toggle="yes">Salvelinus leucomaenis</italic> pluvis),<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> ranging from 0.095 μg/L (updated using
+HPC standard versus originally reported 0.95 μg/L) for coho
+salmon to up to 308.67 μg/L for zebrafish larvae. The acute
+toxicity and ubiquitous occurrence of 6PPD-Q have triggered a lot
+of concerns from the academic community and administrator entities
+regarding its impact on the ecosystem and human health.<sup><xref ref-type="bibr" rid="ref6">6</xref>−<xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>As a known carrier and source for 6PPD-Q, the life cycles
+of tire
+rubber have attracted a good deal of attention.<sup><xref ref-type="bibr" rid="ref11">11</xref>−<xref ref-type="bibr" rid="ref13">13</xref></sup> Every year,
+75% of the 250 million scrap tires (4 billion tons) produced in the
+United States are recycled.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The addition
+of recycled tire rubber (RTR) to asphalt binders to produce rubberized
+asphalt mixtures is a widely used practice in asphalt production that
+consumes about 17% of the total RTR today.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>Asphalt modified by the incorporation of crumb rubber through
+wet
+(mixing into hot asphalt) or dry processes (mixing with hot aggregate
+before the addition of bitumen) can provide benefits, including reduced
+noise, increased road lifespan, improved traction for safety, and
+others.<sup><xref ref-type="bibr" rid="ref20">20</xref>−<xref ref-type="bibr" rid="ref23">23</xref></sup> Addressing the fate of 6PPD and 6PPD-quinone derived from RTR-modified
+asphalt is crucial for the sustainable reuse of RTR for pavement.
+6PPD-Q release from rubberized asphalt mixtures is a complex process,
+depending on the chemical compositions and physical properties (air
+voids/surface area) of asphalt materials and the stormwater chemistry.
+No existing research has investigated the release of 6PPD-Q from rubberized
+asphalt mixtures.</p><p>Furthermore, asphalt pavement is the primary
+medium to directly
+contact 6PPD-Q upon its release from tires,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and the fate of 6PPD-Q at the asphalt concrete (AC)–water
+interface is a critical knowledge gap for understanding the environmental
+processes of 6PPD-Q. While previous studies have examined the sorption
+of metals onto asphalt mixtures and porous AC pavements, limited published
+results are available for the sorption of organic pollutants by asphalt
+mixtures. The sorption coefficients of a pyrethroid insecticide (permethrin)
+on cement concrete were determined to be 5.11 ± 0.29 L/kg (calculated
+based on the reported values in the paper).<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> The addition of RTR to an asphalt mixture may influence the sorption
+of organic compounds, as it adds organic carbon to the asphalt binder.
+At the AC–water interface, the sorption and desorption of 6PPD-Q,
+a relatively hydrophobic and less water-soluble compound, are still
+unknown.</p><p>Therefore, this study investigated the retention and
+release of
+6PPD-Q by the rubberized AC: sorption and desorption of 6PPD-Q by
+compacted and crushed loose (loose particle, ∼5 mm) rubberized
+asphalt mixtures and the release of 6PPD-Q during the simulated rainfall
+events. The compacted asphalt mixtures represent in-service AC layers,
+while the crushed loose asphalt mixtures in the loose particle form
+were generated in the laboratory to demonstrate the physicochemical
+properties of asphalt materials.</p></sec><sec id="sec2"><title>Materials and Methods</title><sec id="sec2.1"><title>Materials</title><p>Solid and solution standard materials of
+6PPD-Q (solid standard purity = 97.26% g/g) were purchased from HPC
+Standards Inc. (Atlanta, GA, USA). The stock solution of 50 mg/L of
+6PPD-Q was made by dissolving the solid particles in acetonitrile
+immediately after receiving the materials following the protocol:
+5.2 mg of 6PPD-Q powder was mixed with 10.12 mL of acetonitrile, shaken
+in the dark overnight, and sonicated further for 3 h until no particles
+could be observed. The stock solution was stored at 4 °C before
+use. C18 solid-phase extraction cartridges (Millipore Sigma Supelco
+Supelclean ENVI-18 SPE 6 mL-0.5 g Tube) were obtained from Sigma-Aldrich
+(Bellefonte, PA, USA). Acetonitrile, methanol, hexane, and dichloromethane
+used for extractions and mass spectrometry (MS) analysis were analytical
+and MS grade, respectively (Fisher Scientific, Hampton, NH, USA).
+Double deionized (DDI) water (18.2 MΩ·cm<sup>–1</sup>) was used for all experiments. Three typical RTR-modified plant-produced
+asphalt mixtures from different geographical locations were used and
+assigned as RMM1, RMM2, and RMM3, meeting the California Department
+of Transportation (Caltrans) Standard Specifications Section 39.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> The asphalt mixture has a nominal maximum aggregate
+size (NMAS) of 12.5 mm with a design asphalt binder content of 7.5%
+by the total weight of the mix. The crumb rubber percentage was 18%
+by weight of asphalt binder. The loose plant-produced asphalt mixture
+was heated to 148 °C and compacted using a Superpave gyratory
+compactor to make cylindrical samples (150 mm diameter by 100 mm height).
+Four small columns were cut out of the 150 mm diameter cylindrical
+specimen using a 38-mm-diameter core bit (internal diameter) to obtain
+columns (38 mm diameter × 100 mm height). Then, the top and bottom
+portions of each of the small columns were cut using a masonry saw
+to get the columns (38 mm diameter by 38 mm height). For analysis
+of the total 6PPD-Q in asphalt mixtures, crushed loose mixtures (loose
+particles, ∼5 mm) were obtained by heating the loose plant-produced
+asphalt mixture to 110 °C and sieving through a no. 4 sieve (4.75
+mm). The sieved particles were then frozen using liquid nitrogen,
+powdered with a mortar and pestle, and sieved. The material passing
+the no. 50 sieve (0.297 mm) was obtained for testing and is referred
+to as powdered crushed loose mixtures (Supporting Information (SI), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S1</ext-link>). The crushed loose and compacted mixtures
+were used for the sorption/desorption experiments. Only the compacted
+asphalt mixture was used for the rainfall simulation experiments,
+while the powdered crushed loose asphalt mixtures were used to measure
+the total 6PPD-Q contained in all of the asphalt mixtures by solvent
+extraction (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figures S2 and S3</ext-link>).</p></sec><sec id="sec2.2"><title>Sorption and Desorption</title><p>Sorption kinetics were determined
+for rubberized crushed loose (loose particle, ∼ 5 mm) and compacted
+rubberized asphalt mixtures. Crushed loose rubberized asphalt mixtures
+were mixed with 6PPD-Q (100 μg/L)-spiked DDI water in a ratio
+of 100 g of solid/1 L of water. At different intervals (0, 1, 2, 4,
+8, and 12 days), the supernatant was filtered with 0.45 μm glass
+fiber filters and analyzed for 6PPD-Q. Compacted rubberized asphalt
+mixtures (38 mm diameter × 38 mm height, 7% air voids) were first
+immersed in DDI water in 50 mL beakers for 20 days to achieve saturation
+with water. Glass beads (0.5 mm diameter) were used to fill the side
+space to minimize sorption by the side walls of asphalt mixtures (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S4</ext-link>). After water-saturated conditions
+were achieved, the compacted rubberized asphalt mixtures were overlaid
+with 25 mL of 6PPD-Q (100 μg/L)-spiked DDI water. At different
+intervals within 12 days, the overlay water was filtered with 0.45
+μm glass fiber filters and analyzed for 6PPD-Q (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S3</ext-link>).</p><p>After the sorption kinetics
+were determined, the sorption isotherm analysis involved mixing loose
+rubberized asphalt (100 g/L) with 6PPD-Q (100–500 μg/L)-spiked
+deionized water (DDI). Similarly, compacted rubberized mixtures (38
+mm diameter × 38 mm height, 7% air voids) were mixed with 6PPD-Q
+(0.1–400 μg/L)-spiked DDI water for the isotherm analysis.
+The background release of 6PPD-Q was found to be negligible compared
+with the spiked 6PPD-Q concentrations. The use of lower concentrations
+(0.1 and 10 μg/L) in the sorption isotherm analysis with compacted
+asphalt mixtures was chosen to represent environmentally relevant
+concentrations of 6PPD-Q. After the sorption of 6PPD-Q reached equilibrium,
+the supernatant was filtered with 0.45 μm glass fiber filters
+and analyzed for the residual concentration of 6PPD-Q. The control
+without rubberized asphalt mixtures was used for the same analysis
+to demonstrate the loss of 6PPD-Q during the experiment. For sorption
+kinetic and isotherm analyses, triplicate experiments were conducted
+for crushed loose rubberized asphalt mixtures, while duplicates were
+used for compacted rubberized asphalt mixtures.</p><p>Desorption of
+6PPD-Q from rubberized asphalt particles was analyzed
+by mixing loose (20 g) or compacted (38 mm diameter × 38 mm height,
+93–96 g, 7% air voids) rubberized asphalt particles with 1
+L of DDI water. At different intervals within 12 days, the supernatant
+was filtered (0.45 μm, glass fiber filters) for analysis of
+6PPD-Q. Furthermore, we analyzed the desorption of 6PPD-Q from crushed
+loose rubberized asphalt mixtures following a 12-day shaking period
+of 20 g of crushed loose mixtures with 1 L of double deionized water
+(DDI). All three materials (RMM1, RMM2, and RMM3) were used for the
+sorption and desorption experiments (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S2</ext-link>).</p></sec><sec id="sec2.3"><title>Rainfall Simulation</title><p>A 3D-printed apparatus was fabricated
+for the rainfall simulation (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S5</ext-link>). For a typical rainfall event simulation, DDI water and synthetic
+stormwater<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Table S1</ext-link>) were run through the simulator at a flow rate of 1 mL/s
+for 16–32 min (1 and 2 L—total precipitation, pH adjusted
+to 7 and 5). Duplicated rainfall simulation experiments were conducted.</p></sec><sec id="sec2.4"><title>Chemical Analysis</title><p>Chemical analysis of 6PPD-Q is detailed
+in the SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Text S1</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figures S6–S8</ext-link>. In brief, solution samples in sorption
+kinetics and isotherm analysis were analyzed by high-performance liquid
+chromatography (HPLC) with a diode-array detector (DAD) for ultraviolet
+(UV) analysis. For desorption kinetics and rainfall simulation, 6PPD-Q
+in solution samples was concentrated through the solid phase extraction
+(SPE) process to 100 μL of acetonitrile and analyzed by HPLC–time
+of the flight-mass spectrometry (TOF-MS). Total 6PPD-Q in asphalt
+mixtures was analyzed through solvent extraction of powdered crushed
+loose mixtures and analysis with HPLC-TOF-MS.</p></sec><sec id="sec2.5"><title>Data Analysis</title><p>Statistical analyses were performed with
+IBM SPSS Statistics (ver. 26, IBM Corp., Armonk, NY, USA). MS analysis
+was done with MestReNova (14.2, Mestrelab Research, Santiago de Compostela,
+Spain). Molecular formulas were assigned using Formularity (1.0.8045,
+PNNL, Washington, USA).</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><sec id="sec3.1"><title>HPLC-TOF-MS Analysis of 6PPD-Q</title><p>6PPD-Q was analyzed
+by HPLC-TOF-MS with an instrument detection limit of 2 μg/L
+(<italic toggle="yes">n</italic> = 3, <italic toggle="yes">S</italic>/<italic toggle="yes">N</italic> = 3).
+With the C18 column, the retention time of 6PPD-Q was 22.1 ±
+0.03 min; under the positive mode, the MS peak with <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> = 299.176 was detected for [C<sub>18</sub>H<sub>22</sub>O<sub>2</sub>N<sub>2</sub> + H]<sup>+</sup>. A good calibration
+curve (<italic toggle="yes">R</italic><sup>2</sup> = 0.99) was established for
+6PPD-Q in the range 10–1000 μg/L (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S8</ext-link>). Solid-phase extraction (SPE) was performed for
+the DDI water and synthetic stormwater without and with spiked 6PPD-Q.
+Following the EPA guidelines,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> using replicate
+measurement (<italic toggle="yes">n</italic> = 7) of DDI water and synthetic stormwater
+through SPE-HPLC-TOF-MS, the method detection limit was determined
+as 8.0 × 10<sup>–4</sup> and 7.0 × 10<sup>–4</sup> μg/L (<italic toggle="yes">S</italic>/<italic toggle="yes">N</italic> = 3), respectively.
+The recovery of 6PPD-Q through the process was 58%.</p></sec><sec id="sec3.2"><title>Sorption Kinetics and Isotherm</title><p>The sorption of 6PPD-Q
+on crushed loose rubberized asphalt mixtures (loose particles, ∼5
+mm) and compacted asphalt mixtures reached equilibrium within 12 days
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A and B).
+For the crushed loose mixtures, the sorption isotherm can be fitted
+with the Freundlich sorption equation with a nonlinear index of 1.03–1.26
+(<italic toggle="yes">R</italic><sup>2</sup> = 0.90–0.96; <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C). The sorption of 6PPD-Q
+on presaturated rubberized compacted asphalt mixtures reached equilibrium
+within 12 days (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B; SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S9</ext-link>) and can also be fitted
+well with the Freundlich sorption equation (<italic toggle="yes">R</italic><sup>2</sup> = 0.87–0.9; <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D; SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Table S3</ext-link>). With the
+aqueous concentration of 6PPD-Q at 0.01 μg/L, the sorption coefficient
+of 6PPD-Q on the compacted columns ranged 151.57–257.51 L/kg.
+Based on the work of Jiang et al.,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> the
+sorption coefficient of permethrin (log <italic toggle="yes">K</italic><sub>ow</sub> = 6.5) on cement concrete was 5.11 ± 0.29 L/kg. Hu et al.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> measured the <italic toggle="yes">K</italic><sub>ow</sub> of 6PPD-Q to be 10<sup>4.3±0.02</sup>. Tian et al.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> reported the <italic toggle="yes">K</italic><sub>ow</sub> to
+be between 10<sup>5</sup> and 10<sup>5.5</sup> when the U.S. EPA’s
+EPI Suite prediction software predicts a <italic toggle="yes">K</italic><sub>ow</sub> of 10<sup>3.98</sup>.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> The sorption
+coefficient measured for 6PPD-Q was higher than that of permethrin,
+although the <italic toggle="yes">K</italic><sub>ow</sub> of 6PPD-Q was lower,
+noting that cement concrete was used in the study for the sorption
+of permethrin when asphalt concrete was used in this study for the
+sorption of 6PPD-Q. Assuming field runoff conditions similar to that
+used in the experiment (25 mL (2.0 cm height) of overlaid water versus
+3.8 cm of asphalt concrete surface layer), over 90% of 6PPD-Q would
+be sorbed by the asphalt concrete. These results indicate the potential
+for asphalt mixtures to act as a reservoir for 6PPD-Q upon its release
+into the stormwater.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Sorption kinetics (A,B) and isotherm (C,D) of 6PPD-quinone
+on crushed
+loose (loose particles, ∼5 cm) rubberized asphalt mixtures
+and compacted rubberized asphalt mixtures, respectively. RMM1, RMM2,
+and RMM3 represent the three different crushed loose rubberized asphalt
+mixtures used; Particle-Control and Column-Control indicate experiments
+with crushed loose asphalt mixture (RMM1) and compacted asphalt mixtures
+(RMM2), respectively, without spiking 6PPD-quinone. Method Control
+represents samples with 6PPD-quinone spiked but without crushed loose/compacted
+asphalt mixtures. <italic toggle="yes">C</italic><sub>s</sub> and <italic toggle="yes">C</italic><sub>w</sub> are the concentrations of 6PPD-Q in the solid and in
+the aqueous phase, respectively. Error bars for A represent standard
+deviation derived from triplicate experiments, while error bars for
+B represent standard deviation derived from duplicate experiments,
+which is too small to be visualized for most data points.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="vg3c00023_0001.jpg"><?image-name vg3c00023_0001.jpg?><?image-size 112949?><?image-md5 0b2ccad20ba337a13682b4fd15a451f6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1944?><?image-original-width 2400?><?image-scaled-height 632?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/b014/10655589/0b2ccad20ba3/vg3c00023_0001.jpg?><?thumb-name vg3c00023_0001.gif?><?thumb-size 3544?><?thumb-md5 1470c569911d685b4bef6343a4b568e4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 81?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/b014/10655589/1470c569911d/vg3c00023_0001.gif?></graphic></fig></sec><sec id="sec3.3"><title>Desorption Kinetics</title><p>The desorption of 6PPD-Q from crushed
+loose (loose particle, ∼5 cm) rubberized asphalt mixtures was
+minimal. While the use of RTR material in the asphalt mixture (&lt;1%
+by weight) contributed to 333–1530 μg/kg of 6PPD-Q (based
+on acetonitrile extraction using powdered crushed loose asphalt mixture;
+SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Text S1</ext-link>), only 0.26–0.45% of
+mixture-bound 6PPD-Q was released to the aqueous phase (with a concentration
+of 0.01 ± 0.009–0.09 ± 0.05 μg/L) within 12
+days (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A). The
+release of 6PPD-Q from the compacted rubberized asphalt mixture to
+the solution phase approached steady-state stage within 9 days and
+ranged from 0.025 ± 0.001– to 0.05 ± 0.004 μg/L
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B), equivalent
+to 0.064–0.35% of column-bound 6PPD-Q released, more representative
+of real-world application conditions and lower than that from the
+crushed loose mixtures.</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>(A) Desorption of 6PPD-quinone from 20 g/L crushed
+loose (loose
+particles, ∼5 cm) rubberized asphalt mixtures to solution-phase
+during 12 days of experimentation. RMM1, RMM2, and RMM3 represent
+the different crushed loose rubberized asphalt mixtures. (B) Desorption
+of 6PPD-quinone from rubberized compacted asphalt mixtures. Error
+bars represent standard deviation derived from duplicate experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="vg3c00023_0002.jpg"><?image-name vg3c00023_0002.jpg?><?image-size 42855?><?image-md5 c37a111fac5f7f61590745ffd648d044?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 942?><?image-original-width 2400?><?image-scaled-height 306?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/b014/10655589/c37a111fac5f/vg3c00023_0002.jpg?><?thumb-name vg3c00023_0002.gif?><?thumb-size 4071?><?thumb-md5 fecd678841bd7b9273ab5cc9646ad67b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/b014/10655589/fecd678841bd/vg3c00023_0002.gif?></graphic></fig><p>In addition to 6PPD-Q, a range of chemicals was
+captured by HPLC-TOF-MS
+for the desorption from RMM1 crushed loose rubberized asphalt mixtures.
+There are several significant peaks with 25.0 and 27.0 min retention
+time (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S10</ext-link>). Based on the molecular
+formula assignment, the desorption from rubberized asphalt mixtures
+was dominated by molecules with molecular weights ranging from 400
+to 500 Da (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S11</ext-link>).</p></sec><sec id="sec3.4"><title>Mobilization during Rainfall Simulation</title><p>The release
+of 6PPD-Q during simulated rainfall experiments was minimal and well
+below the reported LC<sub>50</sub> concentration.<sup><xref ref-type="bibr" rid="ref6">6</xref>−<xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> The influences of the rainfall conditions on the
+release of 6PPD-Q were minimal. Mobilization of 6PPD-Q during the
+rainfall simulations with compacted asphalt mixtures under all conditions
+ranged from 0.0015 ± 0.0002 to 0.0046 ± 0.003 μg/L
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>), which is
+well below the reported LC<sub>50</sub> for coho salmon (0.095 μg/L).
+Hu et al.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> reported an estimated 60–130
+ng/L release of 6PPD-Q from tire wear particles on roadways in the
+U.S., much lower than the release from rubberized asphalt. The total
+organic carbon detected was 2.2–2.8 mg C/L for the runoff from
+compacted rubberized asphalt mixtures (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S12</ext-link>). A full MS scan of the simulated rainfall runoff samples
+for RMM1 rubberized asphalt mixtures with 1 L of DDI water revealed
+over 6000 compounds. Based on the modified aromaticity index (AI<sub>mod</sub>),<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> the aliphatic compounds
+dominated the overall captured compounds, while in the aromatic components
+(AI<sub>mod</sub> &lt; 0.5), condensed aromatic compounds (AI<sub>mod</sub> &gt; 0.67) dominated (SI, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">Figure S13</ext-link>). The captured compounds had an average molecular weight of 929.8
+Da and a formula of C<sub>48</sub>H<sub>65</sub>O<sub>15</sub>N<sub>1</sub>.</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Comparison of 6PPD-quinone concentration in different simulations
+with compacted rubberized asphalt mixtures. DI-Control corresponds
+to double deionized water run through the entire setup without the
+compacted asphalt mixture, and SY-Control corresponds to synthetic
+rainwater run through the setup without a compacted asphalt mixture.
+Error bars represent standard deviation derived from duplicate experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="vg3c00023_0003.jpg"><?image-name vg3c00023_0003.jpg?><?image-size 65965?><?image-md5 19c406cb9eee5e3006db9a19f5d1c99f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1181?><?image-original-width 2400?><?image-scaled-height 384?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/b014/10655589/19c406cb9eee/vg3c00023_0003.jpg?><?thumb-name vg3c00023_0003.gif?><?thumb-size 4404?><?thumb-md5 75a4e49887489511e1e1a6a19c3560ec?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 162?><?thumb-cloudpmc-urn urn:cdn:blobs/b014/10655589/75a4e4988748/vg3c00023_0003.gif?></graphic></fig><sec id="sec3.4.1"><title>Environmental Implication</title><p>Our study demonstrated that
+rubberized asphalt concrete materials released a minimal amount of
+6PPD-Q when &lt;1% by weight of RTR was added to the asphalt materials.
+A limited release can be the result for multiple reasons: 6PPD-Q was
+relatively less soluble and hydrophobic, with the release of 6PPD-Q
+lower than the release of organic carbon in rubberized asphalt materials.
+Second, the release of 6PPD-Q can be hindered by incorporating tire
+rubber in the asphalt matrix and binder with limited materials exposed
+on the exterior surface. Based on Tian et al.,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> the
+release of 6PPD-Q can be as high as 13.9 g of 6PPD-Q/kg of tire rubber,
+depending on how the release and leachate were conducted. Based on
+the 1% by weight addition of RTR into rubberized asphalt mixtures,
+the 6PPD-Q release was below 0.139 g of 6PPD-Q/kg of rubberized asphalt
+mixtures—assuming no loss of 6PPD-Q during production. Third,
+due to the heterogeneous porous materials of rubberized asphalt, 6PPD-Q
+can also be sorbed by other components used in asphalt, as our study
+demonstrated. It warrants further studies to fully understand the
+whole life cycle of 6PPD-Q during the production of rubberized asphalt
+materials and its exposure to the environment. The HPLC-TOF-MS analysis
+detected a wide range of compounds potentially released from rubberized
+asphalt materials, indicating the potential that 6PPD-Q or its transformation
+products may be released when the pavement is exposed to stormwater.
+Our current simulator targeted runoff collection from the surface
+of asphalt concrete columns. Still, stormwater can also infiltrate
+asphalt columns with air voids of 7%, as determined by the water infiltration
+experiment. The infiltrated water might contain higher 6PPD-Q, and
+more extensive interactions with the asphalt matrix, regulated by
+the permeability of asphalt materials, are possible, which are part
+of our next-step studies.</p><p>In addition, we determined that rubberized
+asphalt materials can sorb 6PPD-Q and serve as a sink for this emerging
+toxicant from stormwater. The sorption of 6PPD-Q in stormwater by
+the asphalt concrete will depend on the contact time and infiltration/penetration
+depth. Due to the higher surface area, loose asphalt mixtures have
+much higher sorption than compacted asphalt mixtures. More comprehensive
+investigation into the sorption of 6PPD-Q by the compacted asphalt
+mixtures and their major components responsible for the sorption of
+6PPD-Q will help mitigate the environmental risk. Investigation of
+the release of 6PPD-Q from weathered asphalt can be of great value
+for understanding the long-term fate of 6PPD-Q at the asphalt–water
+interface.</p></sec></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The
+Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsenvironau.3c00023?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsenvironau.3c00023</ext-link>.<list id="silist" list-type="simple"><list-item><p>Additional experimental details, materials and methods,
+and results, including photographs of experimental setup (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsenvironau.3c00023/suppl_file/vg3c00023_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="vg3c00023_si_001.pdf" position="float" orientation="portrait"><?suppdata-name vg3c00023_si_001.pdf?><?suppdata-size 1439764?><?suppdata-md5 19ccb0d4e97ff6c57c1537d961fce167?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:b014/10655589/19ccb0d4e97f/vg3c00023_si_001.pdf?><caption><p>vg3c00023_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare the following competing financial interest(s): This study
+was financially supported by Granite Constructions Inc (Watsonville,
+CA, USA).</p></notes><ack><title>Acknowledgments</title><p>This project was financially supported by Granite
+Construction Inc.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Kruger</surname><given-names>R. H.</given-names></name>; <name name-style="western"><surname>Boissiere</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Klein-Hartwig</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Kretzschmar</surname><given-names>H. -J.</given-names></name>
+<article-title>New Phenylenediamine
+Antiozonants for Commodities Based on Natural and Synthetic Rubber</article-title>. <source>Food Addit. Contam.</source>
+<year>2005</year>, <volume>22</volume> (<issue>10</issue>), <fpage>968</fpage>–<lpage>974</lpage>. <pub-id pub-id-type="doi">10.1080/02652030500098177</pub-id>.<pub-id pub-id-type="pmid">16227180</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book" id="cit2"><person-group person-group-type="allauthors"><name name-style="western"><surname>Sheridan</surname><given-names>M.</given-names></name></person-group><source>The Vanderbilt Rubber
+Handbook</source>; <publisher-name>RT Vanderbilt Company, Inc.</publisher-name>: <publisher-loc>Norwalk, CT</publisher-loc>, <year>2010</year>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Poldushova</surname><given-names>G. A.</given-names></name>; <name name-style="western"><surname>Kandyrin</surname><given-names>K. L.</given-names></name>; <name name-style="western"><surname>Reznichenko</surname><given-names>S. V.</given-names></name>
+<article-title>The Effect
+of the Structure of P-Phenylenediamine
+Antiagers on the Physicomechanical and Hysteresis Properties of Filled
+Rubber Compounds</article-title>. <source>Int. Polym. Sci. Technol.</source>
+<year>2016</year>, <volume>43</volume> (<issue>2</issue>), <fpage>19</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1177/0307174X1604300205</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Dorofeev</surname><given-names>A. N.</given-names></name>; <name name-style="western"><surname>Zemskii</surname><given-names>D. N.</given-names></name>
+<article-title>Oxypropylated Aromatic Diamines–Stabilisers
+for Tyre Rubbers</article-title>. <source>Int. Polym. Sci. Technol.</source>
+<year>2017</year>, <volume>44</volume> (<issue>6</issue>), <fpage>27</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1177/0307174X1704400604</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Zheng</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Jia</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>S.</given-names></name>
+<article-title>Improvements
+of Lanthanum Complex on the Thermal-Oxidative Stability of Natural
+Rubber</article-title>. <source>J. Mater. Sci.</source>
+<year>2016</year>, <volume>51</volume> (<issue>19</issue>), <fpage>9043</fpage>–<lpage>9056</lpage>. <pub-id pub-id-type="doi">10.1007/s10853-016-0157-4</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Gonzalez</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Prat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Hettinger</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Cortina</surname><given-names>A. E.</given-names></name>; <name name-style="western"><surname>Biswas</surname><given-names>R. G.</given-names></name>; <name name-style="western"><surname>Kock</surname><given-names>F. V. C.</given-names></name>; <name name-style="western"><surname>Soong</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Jenne</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Du</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Hou</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Lundeen</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Gilbreath</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Sutton</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Dodd</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Simpson</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>A Ubiquitous Tire Rubber–Derived Chemical Induces
+Acute Mortality in Coho Salmon</article-title>. <source>Science</source>
+<year>2021</year>, <volume>371</volume> (<issue>6525</issue>), <fpage>185</fpage>–<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1126/science.abd6951</pub-id>.<pub-id pub-id-type="pmid">33273063</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Gonzalez</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Rideout</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H. N.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>James</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>6PPD-Quinone:
+Revised Toxicity Assessment and Quantification
+with a Commercial Standard</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2022</year>, <volume>9</volume> (<issue>2</issue>), <fpage>140</fpage>–<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00910</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Varshney</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Gora</surname><given-names>A. H.</given-names></name>; <name name-style="western"><surname>Siriyappagouder</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Kiron</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Olsvik</surname><given-names>P. A.</given-names></name>
+<article-title>Toxicological
+Effects of 6PPD and 6PPD Quinone in Zebrafish Larvae</article-title>. <source>J. Hazard. Mater.</source>
+<year>2022</year>, <volume>424</volume>, <fpage>127623</fpage><pub-id pub-id-type="doi">10.1016/j.jhazmat.2021.127623</pub-id>.<pub-id pub-id-type="pmid">34742612</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Brinkmann</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Montgomery</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Selinger</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Miller</surname><given-names>J. G. P.</given-names></name>; <name name-style="western"><surname>Stock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Alcaraz</surname><given-names>A. J.</given-names></name>; <name name-style="western"><surname>Challis</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Weber</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Janz</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Hecker</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wiseman</surname><given-names>S.</given-names></name>
+<article-title>Acute Toxicity of the Tire Rubber-Derived
+Chemical 6PPD-Quinone to Four Fishes of Commercial, Cultural, and
+Ecological Importance</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2022</year>, <volume>9</volume> (<issue>4</issue>), <fpage>333</fpage>–<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00050</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Hiki</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Asahina</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Kato</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yamagishi</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Omagari</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Iwasaki</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Watanabe</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yamamoto</surname><given-names>H.</given-names></name>
+<article-title>Acute Toxicity
+of a Tire Rubber-Derived Chemical, 6PPD Quinone, to Freshwater Fish
+and Crustacean Species</article-title>. <source>Environ. Sci. Technol.
+Lett.</source>
+<year>2021</year>, <volume>8</volume> (<issue>9</issue>), <fpage>779</fpage>–<lpage>784</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.1c00453</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>McIntyre</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Prat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Cameron</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wetzel</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mudrock</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Mackenzie</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Lundin</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Stark</surname><given-names>J. D.</given-names></name>; <name name-style="western"><surname>King</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>; <name name-style="western"><surname>Scholz</surname><given-names>N. L.</given-names></name>
+<article-title>Treading Water: Tire Wear Particle
+Leachate Recreates an Urban Runoff Mortality Syndrome in Coho but
+Not Chum Salmon</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2021</year>, <volume>55</volume> (<issue>17</issue>), <fpage>11767</fpage>–<lpage>11774</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c03569</pub-id>.<pub-id pub-id-type="pmid">34410108</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Rauert</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Charlton</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Okoffo</surname><given-names>E. D.</given-names></name>; <name name-style="western"><surname>Stanton</surname><given-names>R. S.</given-names></name>; <name name-style="western"><surname>Agua</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Pirrung</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Thomas</surname><given-names>K. V.</given-names></name>
+<article-title>Concentrations of Tire Additive Chemicals
+and Tire Road Wear Particles in an Australian Urban Tributary</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2022</year>, <volume>56</volume> (<issue>4</issue>), <fpage>2421</fpage>–<lpage>2431</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c07451</pub-id>.<pub-id pub-id-type="pmid">35099932</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Johannessen</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Helm</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lashuk</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Yargeau</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Metcalfe</surname><given-names>C. D.</given-names></name>
+<article-title>The Tire
+Wear Compounds 6PPD-Quinone and 1, 3-Diphenylguanidine in an Urban
+Watershed</article-title>. <source>Arch. Environ. Contam. Toxicol.</source>
+<year>2022</year>, <volume>82</volume> (<issue>2</issue>), <fpage>171</fpage>–<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1007/s00244-021-00878-4</pub-id>.<pub-id pub-id-type="pmid">34347118</pub-id><pub-id pub-id-type="pmcid">PMC8335451</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Stokstad</surname><given-names>E.</given-names></name>
+<article-title>Why Were Salmon
+Dying? The Answer Washed off the Road</article-title>. <source>Science</source>
+<year>2020</year>, <volume>370</volume> (<issue>6521</issue>), <fpage>1145</fpage><pub-id pub-id-type="doi">10.1126/science.370.6521.1145</pub-id>.<pub-id pub-id-type="pmid">33273078</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="thesis" id="cit15"><person-group person-group-type="allauthors"><name name-style="western"><surname>Popick</surname><given-names>H. J.</given-names></name></person-group><source>Assessment of Stormwater
+and Snowmelt Quality and Quantity Discharging from a Cold-Climate
+City to a Freshwater River</source>. Thesis, <publisher-name>University
+of Saskatchewan</publisher-name>, <year>2022</year>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Cao</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Cai</surname><given-names>Z.</given-names></name>
+<article-title>New Evidence of Rubber-Derived
+Quinones in Water, Air, and Soil</article-title>. <source>Environ. Sci.
+Technol.</source>
+<year>2022</year>, <volume>56</volume> (<issue>7</issue>), <fpage>4142</fpage>–<lpage>4150</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c07376</pub-id>.<pub-id pub-id-type="pmid">35316033</pub-id><pub-id pub-id-type="pmcid">PMC8988306</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Masset</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Ferrari</surname><given-names>B. J.</given-names></name>; <name name-style="western"><surname>Oldham</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Dudefoi</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Minghetti</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Schirmer</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Bergmann</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Vermeirssen</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Breider</surname><given-names>F.</given-names></name>
+<article-title>In vitro digestion of tire particles in a fish model
+(Oncorhynchus mykiss): solubilization kinetics of heavy metals and
+effects of food coingestion</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2021</year>, <volume>55</volume> (<issue>23</issue>), <fpage>15788</fpage>–<lpage>15796</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.1c04385</pub-id>.<pub-id pub-id-type="pmid">34807574</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Johannessen</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Helm</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lashuk</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Yargeau</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Metcalfe</surname><given-names>C. D.</given-names></name>
+<article-title>The Tire
+Wear Compounds 6PPD-Quinone and 1, 3-Diphenylguanidine in an Urban
+Watershed</article-title>. <source>Arch. Environ. Contam. Toxicol.</source>
+<year>2022</year>, <volume>82</volume> (<issue>2</issue>), <fpage>171</fpage>–<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1007/s00244-021-00878-4</pub-id>.<pub-id pub-id-type="pmid">34347118</pub-id><pub-id pub-id-type="pmcid">PMC8335451</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="weblink" id="cit19">PowerPoint
+Presentation: 2019 U.S. Scrap Tire Management Summary. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ustires.org/sites/default/files/2019%20USTMA%20Scrap%20Tire%20Management%20Summary%20Report.pdf">ustires.org/sites/default/files/2019%20USTMA%20Scrap%20Tire%20Management%20Summary%20Report.pdf</uri> (accessed July 7, <year>2023</year>).</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Anburuvel</surname><given-names>A.</given-names></name>
+<article-title>Utilizing
+Scrap Tyre in Unbound Pavement Layers: A State-of-the-Art Review</article-title>. <source>Int. J. Pavement Res. Technol.</source>
+<year>2022</year>, <fpage>1</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1007/s42947-022-00203-9</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Dhoska</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Sakaj</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Moezzi</surname><given-names>R.</given-names></name>
+<article-title>Enhancement of Road
+Construction
+by Using Recycled Tire Rubber Modified Bitumen</article-title>. <source>Journal of Transactions in Systems Engineering</source>
+<year>2023</year>, <volume>1</volume> (<issue>1</issue>), <fpage>1</fpage>–<lpage>9</lpage>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Alfayez</surname><given-names>S. A.</given-names></name>; <name name-style="western"><surname>Suleiman</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Nehdi</surname><given-names>M. L.</given-names></name>
+<article-title>Recycling
+Tire Rubber in Asphalt
+Pavements: State of the Art</article-title>. <source>Sustainability</source>
+<year>2020</year>, <volume>12</volume> (<issue>21</issue>), <fpage>9076</fpage><pub-id pub-id-type="doi">10.3390/su12219076</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="weblink" id="cit23">Resource
+Responsible Use of Recycled Tire Rubber in Asphalt Pavements. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fhwa.dot.gov/pavement/asphalt/hif20043.pdf">https://www.fhwa.dot.gov/pavement/asphalt/hif20043.pdf</uri> (accessed July 7, <year>2023</year>).</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Wagner</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Klöckner</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Reemtsma</surname><given-names>T.</given-names></name>
+<article-title>Aging of Tire and Road Wear Particles
+in Terrestrial and Freshwater Environments–a Review on Processes,
+Testing, Analysis and Impact</article-title>. <source>Chemosphere</source>
+<year>2022</year>, <volume>288</volume>, <fpage>132467</fpage><pub-id pub-id-type="doi">10.1016/j.chemosphere.2021.132467</pub-id>.<pub-id pub-id-type="pmid">34624341</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Jiang</surname><given-names>W. Y.</given-names></name>; <name name-style="western"><surname>Gan</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Haver</surname><given-names>D.</given-names></name>
+<article-title>Sorption and
+desorption of pyrethroid insecticide permethrin
+on concrete Environ</article-title>. <source>Sci. Technol.</source>
+<year>2011</year>, <volume>45</volume>, <fpage>602</fpage>–<lpage>607</lpage>. <pub-id pub-id-type="doi">10.1021/es1030323</pub-id>.<pub-id pub-id-type="pmid">21133424</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="book" id="cit26"><source>Caltrans Asphalt Rubber Usage Guide</source>; <publisher-name>State
+of California Department of Transportation, Materials Engineering
+and Testing Services</publisher-name>: <publisher-loc>Sacramento,
+CA</publisher-loc>, <year>2006</year>; <fpage>95819-4612</fpage>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Ostrom</surname><given-names>T. K.</given-names></name>; <name name-style="western"><surname>Davis</surname><given-names>A. P.</given-names></name>
+<article-title>Evaluation of an Enhanced Treatment
+Media and Permeable
+Pavement Base to Remove Stormwater Nitrogen, Phosphorus, and Metals
+under Simulated Rainfall</article-title>. <source>Water Res.</source>
+<year>2019</year>, <volume>166</volume>, <fpage>115071</fpage><pub-id pub-id-type="doi">10.1016/j.watres.2019.115071</pub-id>.<pub-id pub-id-type="pmid">31526979</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="gov" id="cit28"><source>Definition
+and Procedure for the Determination of the Method Detection Limit</source>, Revision 2; EPA 821-R-16-00; <publisher-name>Environmental Protection
+Agency</publisher-name>, <year>2016</year>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Dodd</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>Chemical Characteristics, Leaching, and Stability of
+the Ubiquitous Tire Rubber-Derived Toxicant 6PPD-Quinone</article-title>. <source>Environ. Sci.: Processes Impacts</source>
+<year>2023</year>, <volume>25</volume> (<issue>5</issue>), <fpage>901</fpage>–<lpage>911</lpage>. <pub-id pub-id-type="doi">10.1039/D3EM00047H</pub-id>.<pub-id pub-id-type="pmid">37042393</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Seung</surname><given-names>L. J.</given-names></name>
+<article-title>EPI Suite:
+A Fascinate Predictive Tool for Estimating the Fates of Organic Contaminants</article-title>. <source>J. Biorem. Biodegrad.</source>
+<year>2016</year>, <volume>7</volume>, <elocation-id>e171</elocation-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Koch</surname><given-names>B. P.</given-names></name>; <name name-style="western"><surname>Dittmar</surname><given-names>T.</given-names></name>
+<article-title>From Mass to Structure: An Aromaticity Index for High-Resolution
+Mass Data of Natural Organic Matter</article-title>. <source>Rapid Commun.
+Mass Spectrom.</source>
+<year>2006</year>, <volume>20</volume> (<issue>5</issue>), <fpage>926</fpage>–<lpage>932</lpage>. <pub-id pub-id-type="doi">10.1002/rcm.2386</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>H. N.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Peter</surname><given-names>K. T.</given-names></name>; <name name-style="western"><surname>Dodd</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Kolodziej</surname><given-names>E. P.</given-names></name>
+<article-title>Transformation Product Formation upon Heterogeneous
+Ozonation of the Tire Rubber Antioxidant 6PPD (N-(1,3-Dimethylbutyl)-N′-Phenyl-p-Phenylenediamine)</article-title>. <source>Environ. Sci. Technol. Lett.</source>
+<year>2022</year>, <volume>9</volume> (<issue>5</issue>), <fpage>413</fpage>–<lpage>419</lpage>. <pub-id pub-id-type="doi">10.1021/acs.estlett.2c00187</pub-id>.</mixed-citation></ref></ref-list></back></article>

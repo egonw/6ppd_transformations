@@ -1,0 +1,16 @@
+# Terms added by hand, on top of the labels and structures from ExpoPortal.
+# annotate_jats.py reads this file; the cache is not changed.
+#
+# Columns (tab-separated):
+#   iri       the ontology term
+#   label     its label; highlighted in the articles
+#   synonyms  other names to highlight, separated by |
+#   smiles    structure shown in the popup (used instead of the one in the cache)
+#   inchikey  optional: a name that OPSIN turns into this structure is highlighted too
+#   see_also  optional: where the SMILES comes from
+#
+# The SMILES of 6PPD and 6PPD-Q are the canonical SMILES from Wikidata (P233);
+# the stereocentre next to the nitrogen is not specified.
+iri	label	synonyms	smiles	inchikey	see_also
+http://purl.obolibrary.org/obo/CHEBI_747835	6PPD	N-(1,3-dimethylbutyl)-N'-phenyl-p-phenylenediamine	CC(C)CC(C)NC1=CC=C(C=C1)NC2=CC=CC=C2	ZZMVLMVFYMGSMY-UHFFFAOYSA-N	http://www.wikidata.org/entity/Q27279957
+http://purl.obolibrary.org/obo/CHEBI_233238	6PPD-Q	6PPD-quinone	CC(CC(C)C)NC1=CC(=O)C(=CC1=O)NC2=CC=CC=C2	UBMGKRIXKUIXFQ-UHFFFAOYSA-N	http://www.wikidata.org/entity/Q122709782
