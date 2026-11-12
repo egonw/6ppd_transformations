@@ -7,6 +7,8 @@
 #                     ChEBI (green) highlighted. Runs one article per job:
 #                     make -j4 annotate
 #                     Terms in local_terms.tsv are added to those of ExpoPortal.
+#                     Also writes index.html, the list of these pages.
+#   make index        only write index.html again
 #   make cache        download the labels of all ontology terms on ExpoPortal
 #                     again (a few minutes). "make annotate" does this by
 #                     itself only when there is no cache yet.
@@ -30,7 +32,7 @@ JATS := $(wildcard $(LITERATURE)/PMC*.xml)
 HTML := $(JATS:.xml=.html)
 CHEM := $(JATS:.xml=.chem.tsv)
 
-.PHONY: all literature annotate cache clean clean-html
+.PHONY: all literature annotate index cache clean clean-html
 .DELETE_ON_ERROR:
 # The lists of chemical names are kept: they are slow to make.
 .SECONDARY: $(CHEM)
@@ -42,7 +44,13 @@ all: literature
 literature:
 	$(PYTHON) -u fetch_seed_articles.py --outdir $(LITERATURE)
 
-annotate: $(HTML)
+annotate: $(HTML) index.html
+
+index: index.html
+
+# The list of annotated pages, in the root folder.
+index.html: $(HTML) make_index.py $(wildcard $(LITERATURE)/seeds.tsv)
+	$(PYTHON) make_index.py $(HTML) --seeds $(LITERATURE)/seeds.tsv --out $@
 
 # Labels of all ontology terms on ExpoPortal, and the ChEBI structures.
 cache:
@@ -61,7 +69,7 @@ $(LITERATURE)/%.html: $(LITERATURE)/%.xml $(LITERATURE)/%.chem.tsv annotate_jats
 	$(PYTHON) annotate_jats.py $< --chem $(LITERATURE)/$*.chem.tsv --cache $(CACHE) --local $(LOCAL) --exclude "$(EXCLUDE)" --out $@
 
 clean-html:
-	rm -f $(HTML) $(CHEM)
+	rm -f $(HTML) $(CHEM) index.html
 
 clean: clean-html
 	rm -f $(LITERATURE)/*.xml $(LITERATURE)/seeds.tsv
