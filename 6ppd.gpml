@@ -1,22 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="6PPD transformations" Version="20261112" Organism="Homo sapiens">
-  <Graphics BoardWidth="513.0" BoardHeight="334.5" />
+  <Graphics BoardWidth="513.0" BoardHeight="445.5" />
   <DataNode TextLabel="6PPD-quinone" GraphId="d076d" Type="Metabolite">
-    <Graphics CenterX="172.0" CenterY="226.0" Width="120.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="172.0" CenterY="337.0" Width="120.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="Wikidata" ID="Q122709782" />
   </DataNode>
   <DataNode TextLabel="6PPD" GraphId="fe84a" Type="Metabolite">
     <Graphics CenterX="172.0" CenterY="115.0" Width="120.0" Height="25.0" ZOrder="32769" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="Wikidata" ID="Q27279957" />
   </DataNode>
-  <Interaction>
+  <DataNode TextLabel="hydroxy-6PPD" GraphId="b3c51" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)Nc1ccc(Nc2ccccc2)cc1.*O |m:20:8.9.18.19|</Comment>
+    <Comment>Markush structure: 6PPD with one hydroxyl group at any of the four CH positions of the central (p-phenylenediamine) ring.</Comment>
+    <Graphics CenterX="172.0" CenterY="226.0" Width="120.0" Height="25.0" ZOrder="32770" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="O3" GraphId="c41e7" Type="Metabolite">
+    <Graphics CenterX="60.0" CenterY="150.0" Width="50.0" Height="25.0" ZOrder="32771" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q36933" />
+  </DataNode>
+  <DataNode TextLabel="1O2" GraphId="e92a4" Type="Metabolite">
+    <Comment>Singlet oxygen</Comment>
+    <Graphics CenterX="290.0" CenterY="191.0" Width="50.0" Height="25.0" ZOrder="32772" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q2413613" />
+  </DataNode>
+  <DataNode TextLabel="O3" GraphId="a57d2" Type="Metabolite">
+    <Graphics CenterX="60.0" CenterY="261.0" Width="50.0" Height="25.0" ZOrder="32773" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q36933" />
+  </DataNode>
+  <DataNode TextLabel="H2O2" GraphId="f08b6" Type="Metabolite">
+    <Graphics CenterX="290.0" CenterY="302.0" Width="50.0" Height="25.0" ZOrder="32774" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q171877" />
+  </DataNode>
+  <Interaction GraphId="id1a2b">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="172.0" Y="127.5" GraphRef="fe84a" RelX="0.0" RelY="1.0" />
-      <Point X="172.0" Y="213.5" GraphRef="d076d" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Point X="172.0" Y="213.5" GraphRef="b3c51" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.5" Shape="None" GraphId="aa101" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3c4d">
+    <Graphics ZOrder="12289" LineThickness="1.0">
+      <Point X="172.0" Y="238.5" GraphRef="b3c51" RelX="0.0" RelY="1.0" />
+      <Point X="172.0" Y="324.5" GraphRef="d076d" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.5" Shape="None" GraphId="aa102" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5e6f">
+    <Graphics ZOrder="12290" LineThickness="1.0">
+      <Point X="85.0" Y="150.0" GraphRef="c41e7" RelX="1.0" RelY="0.0" />
+      <Point X="172.0" Y="170.5" GraphRef="aa101" RelX="0.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7a8b">
+    <Graphics ZOrder="12291" LineThickness="1.0">
+      <Point X="172.0" Y="170.5" GraphRef="aa101" RelX="0.0" RelY="0.0" />
+      <Point X="265.0" Y="191.0" GraphRef="e92a4" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9c0d">
+    <Graphics ZOrder="12292" LineThickness="1.0">
+      <Point X="85.0" Y="261.0" GraphRef="a57d2" RelX="1.0" RelY="0.0" />
+      <Point X="172.0" Y="281.5" GraphRef="aa102" RelX="0.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1e2f">
+    <Graphics ZOrder="12293" LineThickness="1.0">
+      <Point X="172.0" Y="281.5" GraphRef="aa102" RelX="0.0" RelY="0.0" />
+      <Point X="265.0" Y="302.0" GraphRef="f08b6" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax />
 </Pathway>
-

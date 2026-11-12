@@ -1,0 +1,5 @@
+# Articles added by hand, on top of the seed articles found in Wikidata.
+# One DOI per line; fetch_seed_articles.py downloads their JATS XML too.
+10.1021/acs.est.6c07136
+10.3390/toxics13121076
+10.1021/acs.est.5c02072

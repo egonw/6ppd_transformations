@@ -9,6 +9,10 @@
 #                     Terms in local_terms.tsv are added to those of ExpoPortal.
 #                     Also writes index.html, the list of these pages.
 #   make index        only write index.html again
+#   make sbml         convert every GPML file in the root folder to SBML with
+#                     the MINERVA conversion service (sends the file there)
+#   make svg          draw every SBML file made by "make sbml" as SVG, also with
+#                     the MINERVA service
 #   make cache        download the labels of all ontology terms on ExpoPortal
 #                     again (a few minutes). "make annotate" does this by
 #                     itself only when there is no cache yet.
@@ -33,11 +37,15 @@ ARTICLES    = local_articles.txt
 JATS := $(wildcard $(LITERATURE)/PMC*.xml)
 HTML := $(JATS:.xml=.html)
 CHEM := $(JATS:.xml=.chem.tsv)
+GPML := $(wildcard *.gpml)
+SBML := $(GPML:.gpml=.sbml)
+SVG  := $(GPML:.gpml=.svg)
+MINERVA = https://minerva-service.lcsb.uni.lu/minerva/api/convert
 
-.PHONY: all literature annotate index cache clean clean-html
+.PHONY: all literature annotate index sbml svg cache clean clean-html
 .DELETE_ON_ERROR:
 # The lists of chemical names are kept: they are slow to make.
-.SECONDARY: $(CHEM)
+.SECONDARY: $(CHEM) $(SBML)
 
 all: literature
 
@@ -71,9 +79,25 @@ $(LITERATURE)/%.chem.tsv: $(LITERATURE)/%.xml ner_chemicals.groovy
 $(LITERATURE)/%.html: $(LITERATURE)/%.xml $(LITERATURE)/%.chem.tsv annotate_jats.py cache_ontology_labels.py $(LOCAL) | $(CACHE)
 	$(PYTHON) annotate_jats.py $< --chem $(LITERATURE)/$*.chem.tsv --cache $(CACHE) --local $(LOCAL) --exclude "$(EXCLUDE)" --out $@
 
+sbml: $(SBML)
+
+# GPML to SBML, converted by the MINERVA service. --fail makes curl stop with
+# an error when the service refuses the file, instead of saving the error page.
+%.sbml: %.gpml
+	curl --fail --silent --show-error -H "Content-Type: application/octet-stream" \
+		-X POST --data-binary @$< $(MINERVA)/GPML:SBML > $@
+
+svg: $(SVG)
+
+# SBML to SVG, drawn by the MINERVA service.
+%.svg: %.sbml
+	curl --fail --silent --show-error -H "Content-Type: application/octet-stream" \
+		-X POST --data-binary @$< $(MINERVA)/image/SBML:svg > $@
+
 clean-html:
 	rm -f $(HTML) $(CHEM) index.html
 
 clean: clean-html
+	rm -f $(SBML) $(SVG)
 	rm -f $(LITERATURE)/*.xml $(LITERATURE)/seeds.tsv
 	-rmdir $(LITERATURE)
