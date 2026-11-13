@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Created by minerva version 22.0.3 on 2026-11-12 at 17:05:47 CET with JSBML version 1.6.1. -->
+<!-- Created by minerva version 22.0.3 on 2026-11-13 at 08:13:09 CET with JSBML version 1.6.1. -->
 <sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" layout:required="false" level="3" multi:required="true" render:required="false" version="2" xmlns:layout="http://www.sbml.org/sbml/level3/version1/layout/version1" xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1" xmlns:render="http://www.sbml.org/sbml/level3/version1/render/version1">
   <model areaUnits="area_unit" extentUnits="mole" lengthUnits="metre" name="6PPD transformations" substanceUnits="mole" timeUnits="second" volumeUnits="litre">
     <notes>
@@ -37,7 +37,7 @@
       <layout:listOfLayouts xmlns:layout="http://www.sbml.org/sbml/level3/version1/layout/version1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <layout:layout layout:id="minerva_layout">
         <render:listOfRenderInformation xmlns:render="http://www.sbml.org/sbml/level3/version1/render/version1">
-          <render:renderInformation render:id="minerva_definitions_4374c38a_d876_4073_b6eb_822c29cc6d19">
+          <render:renderInformation render:id="minerva_definitions_cdba4b08_f340_4a88_8c91_1fe02cdec1d4">
             <render:listOfColorDefinitions>
               <render:colorDefinition render:id="color_FFFFFFFF" render:value="#FFFFFFFF"/>
               <render:colorDefinition render:id="color_FF0000FF" render:value="#0000FFFF"/>
@@ -432,14 +432,14 @@
               <render:style render:idList="node_3">
                 <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i13d11_0">
+              <render:style render:idList="i50355_0">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="122" render:y="549" xsi:type="RenderPoint"/>
-                      <render:element render:x="116" render:y="557" xsi:type="RenderPoint"/>
-                      <render:element render:x="108" render:y="551" xsi:type="RenderPoint"/>
-                      <render:element render:x="113" render:y="543" xsi:type="RenderPoint"/>
+                      <render:element render:x="615" render:y="544" xsi:type="RenderPoint"/>
+                      <render:element render:x="624" render:y="546" xsi:type="RenderPoint"/>
+                      <render:element render:x="623" render:y="556" xsi:type="RenderPoint"/>
+                      <render:element render:x="613" render:y="554" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -448,78 +448,51 @@
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_6">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_7">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_8">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="id1a2b_4">
+              <render:style render:idList="i1097d_4">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="177" render:y="166" xsi:type="RenderPoint"/>
-                      <render:element render:x="177" render:y="176" xsi:type="RenderPoint"/>
-                      <render:element render:x="167" render:y="176" xsi:type="RenderPoint"/>
-                      <render:element render:x="167" render:y="166" xsi:type="RenderPoint"/>
+                      <render:element render:x="177" render:y="406" xsi:type="RenderPoint"/>
+                      <render:element render:x="177" render:y="416" xsi:type="RenderPoint"/>
+                      <render:element render:x="167" render:y="416" xsi:type="RenderPoint"/>
+                      <render:element render:x="167" render:y="406" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
+              </render:style>
+              <render:style render:idList="node_9">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_10">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_11">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="node_12">
                 <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="i9f6e8_8">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="439" render:y="164" xsi:type="RenderPoint"/>
+                      <render:element render:x="449" render:y="165" xsi:type="RenderPoint"/>
+                      <render:element render:x="448" render:y="175" xsi:type="RenderPoint"/>
+                      <render:element render:x="438" render:y="174" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
               </render:style>
               <render:style render:idList="node_13">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="i6bedd_9">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="429" render:y="106" xsi:type="RenderPoint"/>
-                      <render:element render:x="439" render:y="106" xsi:type="RenderPoint"/>
-                      <render:element render:x="439" render:y="116" xsi:type="RenderPoint"/>
-                      <render:element render:x="429" render:y="116" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="node_15">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_16">
+              <render:style render:idList="node_14">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_17">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="iade98_14">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="718" render:y="195" xsi:type="RenderPoint"/>
-                      <render:element render:x="728" render:y="195" xsi:type="RenderPoint"/>
-                      <render:element render:x="728" render:y="205" xsi:type="RenderPoint"/>
-                      <render:element render:x="718" render:y="205" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="node_19">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="node_20">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="i84446_18">
+              <render:style render:idList="i84446_12">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
@@ -531,20 +504,47 @@
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="node_22">
+              <render:style render:idList="node_16">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_23">
+              <render:style render:idList="node_17">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_18">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i5395e_21">
+              <render:style render:idList="node_19">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="id1a2b_15">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="360" render:y="63" xsi:type="RenderPoint"/>
-                      <render:element render:x="370" render:y="62" xsi:type="RenderPoint"/>
-                      <render:element render:x="372" render:y="72" xsi:type="RenderPoint"/>
-                      <render:element render:x="362" render:y="73" xsi:type="RenderPoint"/>
+                      <render:element render:x="177" render:y="166" xsi:type="RenderPoint"/>
+                      <render:element render:x="177" render:y="176" xsi:type="RenderPoint"/>
+                      <render:element render:x="167" render:y="176" xsi:type="RenderPoint"/>
+                      <render:element render:x="167" render:y="166" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="node_21">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_22">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_23">
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="iade98_20">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="718" render:y="195" xsi:type="RenderPoint"/>
+                      <render:element render:x="728" render:y="195" xsi:type="RenderPoint"/>
+                      <render:element render:x="728" render:y="205" xsi:type="RenderPoint"/>
+                      <render:element render:x="718" render:y="205" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -558,7 +558,28 @@
               <render:style render:idList="node_27">
                 <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="ic2e43_24">
+              <render:style render:idList="idd029_24">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="447" render:y="544" xsi:type="RenderPoint"/>
+                      <render:element render:x="457" render:y="547" xsi:type="RenderPoint"/>
+                      <render:element render:x="454" render:y="556" xsi:type="RenderPoint"/>
+                      <render:element render:x="444" render:y="553" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="node_29">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_30">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_31">
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="ic2e43_28">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
@@ -570,37 +591,19 @@
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="node_29">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="node_30">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="iedcd3_28">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="250" render:y="518" xsi:type="RenderPoint"/>
-                      <render:element render:x="258" render:y="524" xsi:type="RenderPoint"/>
-                      <render:element render:x="252" render:y="532" xsi:type="RenderPoint"/>
-                      <render:element render:x="244" render:y="526" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="node_32">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
               <render:style render:idList="node_33">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_34">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_35">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="id3c4d_31">
+              <render:style render:idList="node_36">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="id3c4d_32">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
@@ -612,23 +615,20 @@
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="node_37">
+              <render:style render:idList="node_38">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_38">
+              <render:style render:idList="node_39">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_39">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="i9f6e8_36">
+              <render:style render:idList="i1921c_37">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="439" render:y="164" xsi:type="RenderPoint"/>
-                      <render:element render:x="449" render:y="165" xsi:type="RenderPoint"/>
-                      <render:element render:x="448" render:y="175" xsi:type="RenderPoint"/>
-                      <render:element render:x="438" render:y="174" xsi:type="RenderPoint"/>
+                      <render:element render:x="371" render:y="342" xsi:type="RenderPoint"/>
+                      <render:element render:x="381" render:y="343" xsi:type="RenderPoint"/>
+                      <render:element render:x="381" render:y="353" xsi:type="RenderPoint"/>
+                      <render:element render:x="371" render:y="352" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -639,77 +639,77 @@
               <render:style render:idList="node_42">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="ib8b48_40">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="363" render:y="194" xsi:type="RenderPoint"/>
-                      <render:element render:x="372" render:y="197" xsi:type="RenderPoint"/>
-                      <render:element render:x="369" render:y="206" xsi:type="RenderPoint"/>
-                      <render:element render:x="360" render:y="203" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
+              <render:style render:idList="node_43">
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_44">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_45">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              <render:style render:idList="i6bedd_40">
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="429" render:y="106" xsi:type="RenderPoint"/>
+                      <render:element render:x="439" render:y="106" xsi:type="RenderPoint"/>
+                      <render:element render:x="439" render:y="116" xsi:type="RenderPoint"/>
+                      <render:element render:x="429" render:y="116" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
               </render:style>
               <render:style render:idList="node_46">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i03fd1_43">
+              <render:style render:idList="node_47">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="i2ecdf_45">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="989" render:y="280" xsi:type="RenderPoint"/>
-                      <render:element render:x="999" render:y="280" xsi:type="RenderPoint"/>
-                      <render:element render:x="999" render:y="290" xsi:type="RenderPoint"/>
-                      <render:element render:x="989" render:y="290" xsi:type="RenderPoint"/>
+                      <render:element render:x="635" render:y="663" xsi:type="RenderPoint"/>
+                      <render:element render:x="642" render:y="670" xsi:type="RenderPoint"/>
+                      <render:element render:x="635" render:y="677" xsi:type="RenderPoint"/>
+                      <render:element render:x="628" render:y="670" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
-              </render:style>
-              <render:style render:idList="node_48">
-                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_49">
-                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+                <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
               <render:style render:idList="node_50">
+                <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="node_51">
                 <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i50355_47">
+              <render:style render:idList="i13d11_48">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="615" render:y="544" xsi:type="RenderPoint"/>
-                      <render:element render:x="624" render:y="546" xsi:type="RenderPoint"/>
-                      <render:element render:x="623" render:y="556" xsi:type="RenderPoint"/>
-                      <render:element render:x="613" render:y="554" xsi:type="RenderPoint"/>
+                      <render:element render:x="122" render:y="549" xsi:type="RenderPoint"/>
+                      <render:element render:x="116" render:y="557" xsi:type="RenderPoint"/>
+                      <render:element render:x="108" render:y="551" xsi:type="RenderPoint"/>
+                      <render:element render:x="113" render:y="543" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="node_52">
+              <render:style render:idList="node_53">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_53">
+              <render:style render:idList="node_54">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_54">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="ife916_51">
+              <render:style render:idList="iedcd3_52">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="718" render:y="280" xsi:type="RenderPoint"/>
-                      <render:element render:x="728" render:y="280" xsi:type="RenderPoint"/>
-                      <render:element render:x="728" render:y="290" xsi:type="RenderPoint"/>
-                      <render:element render:x="718" render:y="290" xsi:type="RenderPoint"/>
+                      <render:element render:x="250" render:y="518" xsi:type="RenderPoint"/>
+                      <render:element render:x="258" render:y="524" xsi:type="RenderPoint"/>
+                      <render:element render:x="252" render:y="532" xsi:type="RenderPoint"/>
+                      <render:element render:x="244" render:y="526" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -723,14 +723,14 @@
               <render:style render:idList="node_58">
                 <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i1097d_55">
+              <render:style render:idList="ife916_55">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="177" render:y="406" xsi:type="RenderPoint"/>
-                      <render:element render:x="177" render:y="416" xsi:type="RenderPoint"/>
-                      <render:element render:x="167" render:y="416" xsi:type="RenderPoint"/>
-                      <render:element render:x="167" render:y="406" xsi:type="RenderPoint"/>
+                      <render:element render:x="718" render:y="280" xsi:type="RenderPoint"/>
+                      <render:element render:x="728" render:y="280" xsi:type="RenderPoint"/>
+                      <render:element render:x="728" render:y="290" xsi:type="RenderPoint"/>
+                      <render:element render:x="718" render:y="290" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -741,14 +741,14 @@
               <render:style render:idList="node_61">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i2ecdf_59">
+              <render:style render:idList="ib8b48_59">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="635" render:y="663" xsi:type="RenderPoint"/>
-                      <render:element render:x="642" render:y="670" xsi:type="RenderPoint"/>
-                      <render:element render:x="635" render:y="677" xsi:type="RenderPoint"/>
-                      <render:element render:x="628" render:y="670" xsi:type="RenderPoint"/>
+                      <render:element render:x="363" render:y="194" xsi:type="RenderPoint"/>
+                      <render:element render:x="372" render:y="197" xsi:type="RenderPoint"/>
+                      <render:element render:x="369" render:y="206" xsi:type="RenderPoint"/>
+                      <render:element render:x="360" render:y="203" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -759,35 +759,35 @@
               <render:style render:idList="node_64">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="i1921c_62">
+              <render:style render:idList="node_65">
+                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
+              </render:style>
+              <render:style render:idList="i03fd1_62">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="371" render:y="342" xsi:type="RenderPoint"/>
-                      <render:element render:x="381" render:y="343" xsi:type="RenderPoint"/>
-                      <render:element render:x="381" render:y="353" xsi:type="RenderPoint"/>
-                      <render:element render:x="371" render:y="352" xsi:type="RenderPoint"/>
+                      <render:element render:x="989" render:y="280" xsi:type="RenderPoint"/>
+                      <render:element render:x="999" render:y="280" xsi:type="RenderPoint"/>
+                      <render:element render:x="999" render:y="290" xsi:type="RenderPoint"/>
+                      <render:element render:x="989" render:y="290" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="node_66">
+              <render:style render:idList="node_67">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_67">
+              <render:style render:idList="node_68">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="node_68">
-                <render:g render:endHead="line_ending_CIRCLE" render:fill="color_FF000000" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1"/>
-              </render:style>
-              <render:style render:idList="idd029_65">
+              <render:style render:idList="i5395e_66">
                 <render:g render:endHead="line_ending_NONE" render:fill="color_FFFFFFFF" render:startHead="NONE" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
-                      <render:element render:x="447" render:y="544" xsi:type="RenderPoint"/>
-                      <render:element render:x="457" render:y="547" xsi:type="RenderPoint"/>
-                      <render:element render:x="454" render:y="556" xsi:type="RenderPoint"/>
-                      <render:element render:x="444" render:y="553" xsi:type="RenderPoint"/>
+                      <render:element render:x="360" render:y="63" xsi:type="RenderPoint"/>
+                      <render:element render:x="370" render:y="62" xsi:type="RenderPoint"/>
+                      <render:element render:x="372" render:y="72" xsi:type="RenderPoint"/>
+                      <render:element render:x="362" render:y="73" xsi:type="RenderPoint"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
@@ -1011,501 +1011,7 @@
           </layout:speciesGlyph>
         </layout:listOfSpeciesGlyphs>
         <layout:listOfReactionGlyphs>
-          <layout:reactionGlyph layout:id="i13d11_0" layout:reaction="i13d11">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="117.34255160988012" layout:y="545.8192810824999" layout:z="12310"/>
-                  <layout:end layout:x="111.85744839011987" layout:y="554.1807189175001" layout:z="12310"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_1" layout:role="substrate" layout:speciesGlyph="nqoh">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="117.34255160988012" layout:y="545.8192810824999" layout:z="12310"/>
-                      <layout:end layout:x="172" layout:y="462.5" layout:z="12310"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_2" layout:role="product" layout:speciesGlyph="nqome">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="111.85744839011987" layout:y="554.1807189175001" layout:z="12310"/>
-                      <layout:end layout:x="90" layout:y="587.5" layout:z="12310"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_3" layout:role="modifier" layout:speciesGlyph="e12935">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="128" layout:y="550" layout:z="12310"/>
-                      <layout:end layout:x="121.52327052738032" layout:y="548.56183269238" layout:z="12310"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="id1a2b_4" layout:reaction="id1a2b">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="172" layout:y="149" layout:z="0"/>
-                  <layout:end layout:x="172" layout:y="192" layout:z="0"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_5" layout:role="substrate" layout:speciesGlyph="fe84a">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="149" layout:z="12288"/>
-                      <layout:end layout:x="172" layout:y="127.5" layout:z="12288"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_6" layout:role="sidesubstrate" layout:speciesGlyph="c41e7">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="149" layout:z="12288"/>
-                      <layout:end layout:x="85" layout:y="150" layout:z="12288"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_7" layout:role="product" layout:speciesGlyph="b3c51">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="192" layout:z="12288"/>
-                      <layout:end layout:x="172" layout:y="213.5" layout:z="12288"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_8" layout:role="sideproduct" layout:speciesGlyph="e92a4">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="192" layout:z="12288"/>
-                      <layout:end layout:x="265" layout:y="191" layout:z="12288"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i6bedd_9" layout:reaction="i6bedd">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="429.4009761392614" layout:y="111.09879493795925" layout:z="12302"/>
-                  <layout:end layout:x="439.39902386073857" layout:y="110.90120506204075" layout:z="12302"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_10" layout:role="substrate" layout:speciesGlyph="fe84a">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="429.4009761392614" layout:y="111.09879493795925" layout:z="12302"/>
-                      <layout:end layout:x="232" layout:y="115" layout:z="12302"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_11" layout:role="product" layout:speciesGlyph="ncys">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="439.39902386073857" layout:y="110.90120506204075" layout:z="12302"/>
-                      <layout:end layout:x="485" layout:y="110" layout:z="12302"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_12" layout:role="modifier" layout:speciesGlyph="e2243c">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="401" layout:y="102" layout:z="12302"/>
-                      <layout:end layout:x="429.3021812013021" layout:y="106.09977107722068" layout:z="12302"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_13" layout:role="modifier" layout:speciesGlyph="e39903">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="404" layout:y="121" layout:z="12302"/>
-                      <layout:end layout:x="429.49977107722066" layout:y="116.09781879869783" layout:z="12302"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="iade98_14" layout:reaction="iade98">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="717.5" layout:y="200" layout:z="12304"/>
-                  <layout:end layout:x="727.5" layout:y="200" layout:z="12304"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_15" layout:role="substrate" layout:speciesGlyph="nglc">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="717.5" layout:y="200" layout:z="12304"/>
-                      <layout:end layout:x="635" layout:y="200" layout:z="12304"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_16" layout:role="product" layout:speciesGlyph="nglcp">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="727.5" layout:y="200" layout:z="12304"/>
-                      <layout:end layout:x="760" layout:y="200" layout:z="12304"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_17" layout:role="modifier" layout:speciesGlyph="e5298c">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="747" layout:y="219" layout:z="12304"/>
-                      <layout:end layout:x="727.5" layout:y="205" layout:z="12304"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i84446_18" layout:reaction="i84446">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="606.049914823479" layout:y="524.2952612220215" layout:z="12314"/>
-                  <layout:end layout:x="615.950085176521" layout:y="525.7047387779785" layout:z="12314"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_19" layout:role="substrate" layout:speciesGlyph="nqoh">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="606.049914823479" layout:y="524.2952612220215" layout:z="12314"/>
-                      <layout:end layout:x="172" layout:y="462.5" layout:z="12314"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_20" layout:role="product" layout:speciesGlyph="nqp">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="615.950085176521" layout:y="525.7047387779785" layout:z="12314"/>
-                      <layout:end layout:x="1050" layout:y="587.5" layout:z="12314"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i5395e_21" layout:reaction="i5395e">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="361.07943754793183" layout:y="68.38773033929064" layout:z="12301"/>
-                  <layout:end layout:x="370.92056245206817" layout:y="66.61226966070936" layout:z="12301"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_22" layout:role="substrate" layout:speciesGlyph="fe84a">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="361.07943754793183" layout:y="68.38773033929064" layout:z="12301"/>
-                      <layout:end layout:x="172" layout:y="102.5" layout:z="12301"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_23" layout:role="product" layout:speciesGlyph="n6qdi">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="370.92056245206817" layout:y="66.61226966070936" layout:z="12301"/>
-                      <layout:end layout:x="560" layout:y="32.5" layout:z="12301"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="ic2e43_24" layout:reaction="ic2e43">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="482.7449828124519" layout:y="689.6871305889848" layout:z="12315"/>
-                  <layout:end layout:x="475.2550171875481" layout:y="696.3128694110152" layout:z="12315"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_25" layout:role="substrate" layout:speciesGlyph="nqoh2">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="482.7449828124519" layout:y="689.6871305889848" layout:z="12315"/>
-                      <layout:end layout:x="570" layout:y="612.5" layout:z="12315"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_26" layout:role="product" layout:speciesGlyph="nqohglc">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="475.2550171875481" layout:y="696.3128694110152" layout:z="12315"/>
-                      <layout:end layout:x="440" layout:y="727.5" layout:z="12315"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_27" layout:role="modifier" layout:speciesGlyph="edb5b6">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="491" layout:y="700" layout:z="12315"/>
-                      <layout:end layout:x="486.0578522234671" layout:y="693.4321134014367" layout:z="12315"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="iedcd3_28" layout:reaction="iedcd3">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="247.07876459298868" layout:y="521.8977567982505" layout:z="12311"/>
-                  <layout:end layout:x="254.92123540701132" layout:y="528.1022432017495" layout:z="12311"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_29" layout:role="substrate" layout:speciesGlyph="nqoh">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="247.07876459298868" layout:y="521.8977567982505" layout:z="12311"/>
-                      <layout:end layout:x="172" layout:y="462.5" layout:z="12311"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_30" layout:role="product" layout:speciesGlyph="nqglcu">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="254.92123540701132" layout:y="528.1022432017495" layout:z="12311"/>
-                      <layout:end layout:x="330" layout:y="587.5" layout:z="12311"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="id3c4d_31" layout:reaction="id3c4d">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="172" layout:y="260" layout:z="0"/>
-                  <layout:end layout:x="172" layout:y="303" layout:z="0"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_32" layout:role="substrate" layout:speciesGlyph="b3c51">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="260" layout:z="12289"/>
-                      <layout:end layout:x="172" layout:y="238.5" layout:z="12289"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_33" layout:role="sidesubstrate" layout:speciesGlyph="a57d2">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="260" layout:z="12289"/>
-                      <layout:end layout:x="85" layout:y="261" layout:z="12289"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_34" layout:role="product" layout:speciesGlyph="d076d">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="303" layout:z="12289"/>
-                      <layout:end layout:x="172" layout:y="324.5" layout:z="12289"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_35" layout:role="sideproduct" layout:speciesGlyph="f08b6">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="172" layout:y="303" layout:z="12289"/>
-                      <layout:end layout:x="265" layout:y="302" layout:z="12289"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i9f6e8_36" layout:reaction="i9f6e8">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="438.6587319065244" layout:y="168.7358863772976" layout:z="12303"/>
-                  <layout:end layout:x="448.5412680934757" layout:y="170.2641136227024" layout:z="12303"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_37" layout:role="substrate" layout:speciesGlyph="fe84a">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="438.6587319065244" layout:y="168.7358863772976" layout:z="12303"/>
-                      <layout:end layout:x="172" layout:y="127.5" layout:z="12303"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_38" layout:role="product" layout:speciesGlyph="nglc">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="448.5412680934757" layout:y="170.2641136227024" layout:z="12303"/>
-                      <layout:end layout:x="560" layout:y="187.5" layout:z="12303"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_39" layout:role="modifier" layout:speciesGlyph="ee5851">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="411" layout:y="178" layout:z="12303"/>
-                      <layout:end layout:x="437.89461828382196" layout:y="173.67715447077325" layout:z="12303"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="ib8b48_40" layout:reaction="ib8b48">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="361.3163727950098" layout:y="198.24967540019696" layout:z="12305"/>
-                  <layout:end layout:x="370.6836272049902" layout:y="201.75032459980304" layout:z="12305"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_41" layout:role="substrate" layout:speciesGlyph="fe84a">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="361.3163727950098" layout:y="198.24967540019696" layout:z="12305"/>
-                      <layout:end layout:x="172" layout:y="127.5" layout:z="12305"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_42" layout:role="product" layout:speciesGlyph="n4hdpa">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="370.6836272049902" layout:y="201.75032459980304" layout:z="12305"/>
-                      <layout:end layout:x="560" layout:y="272.5" layout:z="12305"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i03fd1_43" layout:reaction="i03fd1">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="988.5" layout:y="285" layout:z="12307"/>
-                  <layout:end layout:x="998.5" layout:y="285" layout:z="12307"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_44" layout:role="substrate" layout:speciesGlyph="nhglc">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="988.5" layout:y="285" layout:z="12307"/>
-                      <layout:end layout:x="920" layout:y="285" layout:z="12307"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_45" layout:role="product" layout:speciesGlyph="nhglcp">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="998.5" layout:y="285" layout:z="12307"/>
-                      <layout:end layout:x="1025" layout:y="285" layout:z="12307"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_46" layout:role="modifier" layout:speciesGlyph="edab2b">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="1018" layout:y="304" layout:z="12307"/>
-                      <layout:end layout:x="998.5" layout:y="290" layout:z="12307"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i50355_47" layout:reaction="i50355">
+          <layout:reactionGlyph layout:id="i50355_0" layout:reaction="i50355">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
@@ -1515,7 +1021,7 @@
               </layout:listOfCurveSegments>
             </layout:curve>
             <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_48" layout:role="substrate" layout:speciesGlyph="nqoh">
+              <layout:speciesReferenceGlyph layout:id="node_1" layout:role="substrate" layout:speciesGlyph="nqoh">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1525,7 +1031,7 @@
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_49" layout:role="product" layout:speciesGlyph="nqglc">
+              <layout:speciesReferenceGlyph layout:id="node_2" layout:role="product" layout:speciesGlyph="nqglc">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1535,7 +1041,7 @@
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_50" layout:role="modifier" layout:speciesGlyph="e21af6">
+              <layout:speciesReferenceGlyph layout:id="node_3" layout:role="modifier" layout:speciesGlyph="e21af6">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1547,49 +1053,7 @@
               </layout:speciesReferenceGlyph>
             </layout:listOfSpeciesReferenceGlyphs>
           </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="ife916_51" layout:reaction="ife916">
-            <layout:curve>
-              <layout:listOfCurveSegments>
-                <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="717.5" layout:y="285" layout:z="12306"/>
-                  <layout:end layout:x="727.5" layout:y="285" layout:z="12306"/>
-                </layout:curveSegment>
-              </layout:listOfCurveSegments>
-            </layout:curve>
-            <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_52" layout:role="substrate" layout:speciesGlyph="n4hdpa">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="717.5" layout:y="285" layout:z="12306"/>
-                      <layout:end layout:x="635" layout:y="285" layout:z="12306"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_53" layout:role="product" layout:speciesGlyph="nhglc">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="727.5" layout:y="285" layout:z="12306"/>
-                      <layout:end layout:x="760" layout:y="285" layout:z="12306"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_54" layout:role="modifier" layout:speciesGlyph="ea2301">
-                <layout:curve>
-                  <layout:listOfCurveSegments>
-                    <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="747" layout:y="304" layout:z="12306"/>
-                      <layout:end layout:x="727.5" layout:y="290" layout:z="12306"/>
-                    </layout:curveSegment>
-                  </layout:listOfCurveSegments>
-                </layout:curve>
-              </layout:speciesReferenceGlyph>
-            </layout:listOfSpeciesReferenceGlyphs>
-          </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i1097d_55" layout:reaction="i1097d">
+          <layout:reactionGlyph layout:id="i1097d_4" layout:reaction="i1097d">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
@@ -1599,7 +1063,7 @@
               </layout:listOfCurveSegments>
             </layout:curve>
             <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_56" layout:role="substrate" layout:speciesGlyph="d076d">
+              <layout:speciesReferenceGlyph layout:id="node_5" layout:role="substrate" layout:speciesGlyph="d076d">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1609,7 +1073,7 @@
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_57" layout:role="product" layout:speciesGlyph="nqoh">
+              <layout:speciesReferenceGlyph layout:id="node_6" layout:role="product" layout:speciesGlyph="nqoh">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1619,7 +1083,7 @@
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_58" layout:role="modifier" layout:speciesGlyph="e7e840">
+              <layout:speciesReferenceGlyph layout:id="node_7" layout:role="modifier" layout:speciesGlyph="e7e840">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1631,39 +1095,311 @@
               </layout:speciesReferenceGlyph>
             </layout:listOfSpeciesReferenceGlyphs>
           </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i2ecdf_59" layout:reaction="i2ecdf">
+          <layout:reactionGlyph layout:id="i9f6e8_8" layout:reaction="i9f6e8">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="631.2550171875481" layout:y="666.6871305889848" layout:z="12316"/>
-                  <layout:end layout:x="638.7449828124519" layout:y="673.3128694110152" layout:z="12316"/>
+                  <layout:start layout:x="438.6587319065244" layout:y="168.7358863772976" layout:z="12303"/>
+                  <layout:end layout:x="448.5412680934757" layout:y="170.2641136227024" layout:z="12303"/>
                 </layout:curveSegment>
               </layout:listOfCurveSegments>
             </layout:curve>
             <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_60" layout:role="substrate" layout:speciesGlyph="nqoh2">
+              <layout:speciesReferenceGlyph layout:id="node_9" layout:role="substrate" layout:speciesGlyph="fe84a">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="631.2550171875481" layout:y="666.6871305889848" layout:z="12316"/>
-                      <layout:end layout:x="570" layout:y="612.5" layout:z="12316"/>
+                      <layout:start layout:x="438.6587319065244" layout:y="168.7358863772976" layout:z="12303"/>
+                      <layout:end layout:x="172" layout:y="127.5" layout:z="12303"/>
                     </layout:curveSegment>
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_61" layout:role="product" layout:speciesGlyph="nqohp">
+              <layout:speciesReferenceGlyph layout:id="node_10" layout:role="product" layout:speciesGlyph="nglc">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="638.7449828124519" layout:y="673.3128694110152" layout:z="12316"/>
-                      <layout:end layout:x="700" layout:y="727.5" layout:z="12316"/>
+                      <layout:start layout:x="448.5412680934757" layout:y="170.2641136227024" layout:z="12303"/>
+                      <layout:end layout:x="560" layout:y="187.5" layout:z="12303"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_11" layout:role="modifier" layout:speciesGlyph="ee5851">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="411" layout:y="178" layout:z="12303"/>
+                      <layout:end layout:x="437.89461828382196" layout:y="173.67715447077325" layout:z="12303"/>
                     </layout:curveSegment>
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
             </layout:listOfSpeciesReferenceGlyphs>
           </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="i1921c_62" layout:reaction="i1921c">
+          <layout:reactionGlyph layout:id="i84446_12" layout:reaction="i84446">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="606.049914823479" layout:y="524.2952612220215" layout:z="12314"/>
+                  <layout:end layout:x="615.950085176521" layout:y="525.7047387779785" layout:z="12314"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_13" layout:role="substrate" layout:speciesGlyph="nqoh">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="606.049914823479" layout:y="524.2952612220215" layout:z="12314"/>
+                      <layout:end layout:x="172" layout:y="462.5" layout:z="12314"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_14" layout:role="product" layout:speciesGlyph="nqp">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="615.950085176521" layout:y="525.7047387779785" layout:z="12314"/>
+                      <layout:end layout:x="1050" layout:y="587.5" layout:z="12314"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="id1a2b_15" layout:reaction="id1a2b">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="172" layout:y="149" layout:z="0"/>
+                  <layout:end layout:x="172" layout:y="192" layout:z="0"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_16" layout:role="substrate" layout:speciesGlyph="fe84a">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="149" layout:z="12288"/>
+                      <layout:end layout:x="172" layout:y="127.5" layout:z="12288"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_17" layout:role="sidesubstrate" layout:speciesGlyph="c41e7">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="149" layout:z="12288"/>
+                      <layout:end layout:x="85" layout:y="150" layout:z="12288"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_18" layout:role="product" layout:speciesGlyph="b3c51">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="192" layout:z="12288"/>
+                      <layout:end layout:x="172" layout:y="213.5" layout:z="12288"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_19" layout:role="sideproduct" layout:speciesGlyph="e92a4">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="192" layout:z="12288"/>
+                      <layout:end layout:x="265" layout:y="191" layout:z="12288"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="iade98_20" layout:reaction="iade98">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="717.5" layout:y="200" layout:z="12304"/>
+                  <layout:end layout:x="727.5" layout:y="200" layout:z="12304"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_21" layout:role="substrate" layout:speciesGlyph="nglc">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="717.5" layout:y="200" layout:z="12304"/>
+                      <layout:end layout:x="635" layout:y="200" layout:z="12304"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_22" layout:role="product" layout:speciesGlyph="nglcp">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="727.5" layout:y="200" layout:z="12304"/>
+                      <layout:end layout:x="760" layout:y="200" layout:z="12304"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_23" layout:role="modifier" layout:speciesGlyph="e5298c">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="747" layout:y="219" layout:z="12304"/>
+                      <layout:end layout:x="727.5" layout:y="205" layout:z="12304"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="idd029_24" layout:reaction="idd029">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="445.8297376555205" layout:y="548.5018020274875" layout:z="12312"/>
+                  <layout:end layout:x="455.37026234447956" layout:y="551.4981979725125" layout:z="12312"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_25" layout:role="substrate" layout:speciesGlyph="nqoh">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="445.8297376555205" layout:y="548.5018020274875" layout:z="12312"/>
+                      <layout:end layout:x="172" layout:y="462.5" layout:z="12312"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_26" layout:role="product" layout:speciesGlyph="nqoh2">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="455.37026234447956" layout:y="551.4981979725125" layout:z="12312"/>
+                      <layout:end layout:x="570" layout:y="587.5" layout:z="12312"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_27" layout:role="modifier" layout:speciesGlyph="eb1d9d">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="464" layout:y="576" layout:z="12312"/>
+                      <layout:end layout:x="453.8720643719671" layout:y="556.268460316992" layout:z="12312"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="ic2e43_28" layout:reaction="ic2e43">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="482.7449828124519" layout:y="689.6871305889848" layout:z="12315"/>
+                  <layout:end layout:x="475.2550171875481" layout:y="696.3128694110152" layout:z="12315"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_29" layout:role="substrate" layout:speciesGlyph="nqoh2">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="482.7449828124519" layout:y="689.6871305889848" layout:z="12315"/>
+                      <layout:end layout:x="570" layout:y="612.5" layout:z="12315"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_30" layout:role="product" layout:speciesGlyph="nqohglc">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="475.2550171875481" layout:y="696.3128694110152" layout:z="12315"/>
+                      <layout:end layout:x="440" layout:y="727.5" layout:z="12315"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_31" layout:role="modifier" layout:speciesGlyph="edb5b6">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="491" layout:y="700" layout:z="12315"/>
+                      <layout:end layout:x="486.0578522234671" layout:y="693.4321134014367" layout:z="12315"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="id3c4d_32" layout:reaction="id3c4d">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="172" layout:y="260" layout:z="0"/>
+                  <layout:end layout:x="172" layout:y="303" layout:z="0"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_33" layout:role="substrate" layout:speciesGlyph="b3c51">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="260" layout:z="12289"/>
+                      <layout:end layout:x="172" layout:y="238.5" layout:z="12289"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_34" layout:role="sidesubstrate" layout:speciesGlyph="a57d2">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="260" layout:z="12289"/>
+                      <layout:end layout:x="85" layout:y="261" layout:z="12289"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_35" layout:role="product" layout:speciesGlyph="d076d">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="303" layout:z="12289"/>
+                      <layout:end layout:x="172" layout:y="324.5" layout:z="12289"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_36" layout:role="sideproduct" layout:speciesGlyph="f08b6">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="172" layout:y="303" layout:z="12289"/>
+                      <layout:end layout:x="265" layout:y="302" layout:z="12289"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="i1921c_37" layout:reaction="i1921c">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
@@ -1673,7 +1409,7 @@
               </layout:listOfCurveSegments>
             </layout:curve>
             <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_63" layout:role="substrate" layout:speciesGlyph="d076d">
+              <layout:speciesReferenceGlyph layout:id="node_38" layout:role="substrate" layout:speciesGlyph="d076d">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1683,7 +1419,7 @@
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_64" layout:role="product" layout:speciesGlyph="nhpq">
+              <layout:speciesReferenceGlyph layout:id="node_39" layout:role="product" layout:speciesGlyph="nhpq">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
@@ -1695,42 +1431,306 @@
               </layout:speciesReferenceGlyph>
             </layout:listOfSpeciesReferenceGlyphs>
           </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="idd029_65" layout:reaction="idd029">
+          <layout:reactionGlyph layout:id="i6bedd_40" layout:reaction="i6bedd">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
-                  <layout:start layout:x="445.8297376555205" layout:y="548.5018020274875" layout:z="12312"/>
-                  <layout:end layout:x="455.37026234447956" layout:y="551.4981979725125" layout:z="12312"/>
+                  <layout:start layout:x="429.4009761392614" layout:y="111.09879493795925" layout:z="12302"/>
+                  <layout:end layout:x="439.39902386073857" layout:y="110.90120506204075" layout:z="12302"/>
                 </layout:curveSegment>
               </layout:listOfCurveSegments>
             </layout:curve>
             <layout:listOfSpeciesReferenceGlyphs>
-              <layout:speciesReferenceGlyph layout:id="node_66" layout:role="substrate" layout:speciesGlyph="nqoh">
+              <layout:speciesReferenceGlyph layout:id="node_41" layout:role="substrate" layout:speciesGlyph="fe84a">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="445.8297376555205" layout:y="548.5018020274875" layout:z="12312"/>
-                      <layout:end layout:x="172" layout:y="462.5" layout:z="12312"/>
+                      <layout:start layout:x="429.4009761392614" layout:y="111.09879493795925" layout:z="12302"/>
+                      <layout:end layout:x="232" layout:y="115" layout:z="12302"/>
                     </layout:curveSegment>
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_67" layout:role="product" layout:speciesGlyph="nqoh2">
+              <layout:speciesReferenceGlyph layout:id="node_42" layout:role="product" layout:speciesGlyph="ncys">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="455.37026234447956" layout:y="551.4981979725125" layout:z="12312"/>
-                      <layout:end layout:x="570" layout:y="587.5" layout:z="12312"/>
+                      <layout:start layout:x="439.39902386073857" layout:y="110.90120506204075" layout:z="12302"/>
+                      <layout:end layout:x="485" layout:y="110" layout:z="12302"/>
                     </layout:curveSegment>
                   </layout:listOfCurveSegments>
                 </layout:curve>
               </layout:speciesReferenceGlyph>
-              <layout:speciesReferenceGlyph layout:id="node_68" layout:role="modifier" layout:speciesGlyph="eb1d9d">
+              <layout:speciesReferenceGlyph layout:id="node_43" layout:role="modifier" layout:speciesGlyph="e39903">
                 <layout:curve>
                   <layout:listOfCurveSegments>
                     <layout:curveSegment xsi:type="LineSegment">
-                      <layout:start layout:x="464" layout:y="576" layout:z="12312"/>
-                      <layout:end layout:x="453.8720643719671" layout:y="556.268460316992" layout:z="12312"/>
+                      <layout:start layout:x="404" layout:y="121" layout:z="12302"/>
+                      <layout:end layout:x="429.49977107722066" layout:y="116.09781879869783" layout:z="12302"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_44" layout:role="modifier" layout:speciesGlyph="e2243c">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="401" layout:y="102" layout:z="12302"/>
+                      <layout:end layout:x="429.3021812013021" layout:y="106.09977107722068" layout:z="12302"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="i2ecdf_45" layout:reaction="i2ecdf">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="631.2550171875481" layout:y="666.6871305889848" layout:z="12316"/>
+                  <layout:end layout:x="638.7449828124519" layout:y="673.3128694110152" layout:z="12316"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_46" layout:role="substrate" layout:speciesGlyph="nqoh2">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="631.2550171875481" layout:y="666.6871305889848" layout:z="12316"/>
+                      <layout:end layout:x="570" layout:y="612.5" layout:z="12316"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_47" layout:role="product" layout:speciesGlyph="nqohp">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="638.7449828124519" layout:y="673.3128694110152" layout:z="12316"/>
+                      <layout:end layout:x="700" layout:y="727.5" layout:z="12316"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="i13d11_48" layout:reaction="i13d11">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="117.34255160988012" layout:y="545.8192810824999" layout:z="12310"/>
+                  <layout:end layout:x="111.85744839011987" layout:y="554.1807189175001" layout:z="12310"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_49" layout:role="substrate" layout:speciesGlyph="nqoh">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="117.34255160988012" layout:y="545.8192810824999" layout:z="12310"/>
+                      <layout:end layout:x="172" layout:y="462.5" layout:z="12310"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_50" layout:role="product" layout:speciesGlyph="nqome">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="111.85744839011987" layout:y="554.1807189175001" layout:z="12310"/>
+                      <layout:end layout:x="90" layout:y="587.5" layout:z="12310"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_51" layout:role="modifier" layout:speciesGlyph="e12935">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="128" layout:y="550" layout:z="12310"/>
+                      <layout:end layout:x="121.52327052738032" layout:y="548.56183269238" layout:z="12310"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="iedcd3_52" layout:reaction="iedcd3">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="247.07876459298868" layout:y="521.8977567982505" layout:z="12311"/>
+                  <layout:end layout:x="254.92123540701132" layout:y="528.1022432017495" layout:z="12311"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_53" layout:role="substrate" layout:speciesGlyph="nqoh">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="247.07876459298868" layout:y="521.8977567982505" layout:z="12311"/>
+                      <layout:end layout:x="172" layout:y="462.5" layout:z="12311"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_54" layout:role="product" layout:speciesGlyph="nqglcu">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="254.92123540701132" layout:y="528.1022432017495" layout:z="12311"/>
+                      <layout:end layout:x="330" layout:y="587.5" layout:z="12311"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="ife916_55" layout:reaction="ife916">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="717.5" layout:y="285" layout:z="12306"/>
+                  <layout:end layout:x="727.5" layout:y="285" layout:z="12306"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_56" layout:role="substrate" layout:speciesGlyph="n4hdpa">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="717.5" layout:y="285" layout:z="12306"/>
+                      <layout:end layout:x="635" layout:y="285" layout:z="12306"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_57" layout:role="product" layout:speciesGlyph="nhglc">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="727.5" layout:y="285" layout:z="12306"/>
+                      <layout:end layout:x="760" layout:y="285" layout:z="12306"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_58" layout:role="modifier" layout:speciesGlyph="ea2301">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="747" layout:y="304" layout:z="12306"/>
+                      <layout:end layout:x="727.5" layout:y="290" layout:z="12306"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="ib8b48_59" layout:reaction="ib8b48">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="361.3163727950098" layout:y="198.24967540019696" layout:z="12305"/>
+                  <layout:end layout:x="370.6836272049902" layout:y="201.75032459980304" layout:z="12305"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_60" layout:role="substrate" layout:speciesGlyph="fe84a">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="361.3163727950098" layout:y="198.24967540019696" layout:z="12305"/>
+                      <layout:end layout:x="172" layout:y="127.5" layout:z="12305"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_61" layout:role="product" layout:speciesGlyph="n4hdpa">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="370.6836272049902" layout:y="201.75032459980304" layout:z="12305"/>
+                      <layout:end layout:x="560" layout:y="272.5" layout:z="12305"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="i03fd1_62" layout:reaction="i03fd1">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="988.5" layout:y="285" layout:z="12307"/>
+                  <layout:end layout:x="998.5" layout:y="285" layout:z="12307"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_63" layout:role="substrate" layout:speciesGlyph="nhglc">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="988.5" layout:y="285" layout:z="12307"/>
+                      <layout:end layout:x="920" layout:y="285" layout:z="12307"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_64" layout:role="product" layout:speciesGlyph="nhglcp">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="998.5" layout:y="285" layout:z="12307"/>
+                      <layout:end layout:x="1025" layout:y="285" layout:z="12307"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_65" layout:role="modifier" layout:speciesGlyph="edab2b">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="1018" layout:y="304" layout:z="12307"/>
+                      <layout:end layout:x="998.5" layout:y="290" layout:z="12307"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+            </layout:listOfSpeciesReferenceGlyphs>
+          </layout:reactionGlyph>
+          <layout:reactionGlyph layout:id="i5395e_66" layout:reaction="i5395e">
+            <layout:curve>
+              <layout:listOfCurveSegments>
+                <layout:curveSegment xsi:type="LineSegment">
+                  <layout:start layout:x="361.07943754793183" layout:y="68.38773033929064" layout:z="12301"/>
+                  <layout:end layout:x="370.92056245206817" layout:y="66.61226966070936" layout:z="12301"/>
+                </layout:curveSegment>
+              </layout:listOfCurveSegments>
+            </layout:curve>
+            <layout:listOfSpeciesReferenceGlyphs>
+              <layout:speciesReferenceGlyph layout:id="node_67" layout:role="substrate" layout:speciesGlyph="fe84a">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="361.07943754793183" layout:y="68.38773033929064" layout:z="12301"/>
+                      <layout:end layout:x="172" layout:y="102.5" layout:z="12301"/>
+                    </layout:curveSegment>
+                  </layout:listOfCurveSegments>
+                </layout:curve>
+              </layout:speciesReferenceGlyph>
+              <layout:speciesReferenceGlyph layout:id="node_68" layout:role="product" layout:speciesGlyph="n6qdi">
+                <layout:curve>
+                  <layout:listOfCurveSegments>
+                    <layout:curveSegment xsi:type="LineSegment">
+                      <layout:start layout:x="370.92056245206817" layout:y="66.61226966070936" layout:z="12301"/>
+                      <layout:end layout:x="560" layout:y="32.5" layout:z="12301"/>
                     </layout:curveSegment>
                   </layout:listOfCurveSegments>
                 </layout:curve>
@@ -1951,12 +1951,12 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_SimpleMolecule" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_SimpleMolecule_178" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_SimpleMolecule_182" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_SimpleMolecule" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_SimpleMolecule_179" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_SimpleMolecule_183" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1965,12 +1965,12 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_180" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_184" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Gene" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_181" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_185" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -2021,12 +2021,12 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2051,12 +2051,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2082,12 +2082,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2108,12 +2108,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2134,12 +2134,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2160,12 +2160,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2186,12 +2186,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2212,12 +2212,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2238,12 +2238,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_180"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_184"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_181"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_185"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2271,12 +2271,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2302,12 +2302,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2333,12 +2333,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2368,12 +2368,12 @@ Markush structure: 6PPD with one hydroxyl group at any of the four CH positions 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2403,12 +2403,12 @@ N-(1,3-dimethylbutyl)-N'-phenyl-p-quinonediimine, C18H22N2.
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2433,12 +2433,12 @@ Markush structure (6DTP388, C21H29N3O2S): cysteine bound by its sulfur; the posi
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2463,12 +2463,12 @@ Markush structure (6DTP431, C24H34N2O5): glucose on either of the two nitrogen a
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2493,12 +2493,12 @@ Markush structure (6DTP511, two isomers, C24H35N2O8P): glucose 6-phosphate on ei
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2523,12 +2523,12 @@ Markush structure (6DTP511, two isomers, C24H35N2O8P): glucose 6-phosphate on ei
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2553,12 +2553,12 @@ Markush structure (6DTP511, two isomers, C24H35N2O8P): glucose 6-phosphate on ei
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2583,12 +2583,12 @@ Markush structure (6DTP511, two isomers, C24H35N2O8P): glucose 6-phosphate on ei
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2613,12 +2613,12 @@ Markush structure (6QTP477, two isomers): the mass in the article (476.2159, C24
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2643,12 +2643,12 @@ Markush structure ("6PPD-Q + O + glucuronic acid", C24H30N2O9): glucuronide of m
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2673,12 +2673,12 @@ Markush structure (6QTP315, three isomers, C18H22N2O3): one hydroxyl group; the 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2703,12 +2703,12 @@ Markush structure (6QTP331, two isomers, C18H22N2O4): two hydroxyl groups; the p
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2733,12 +2733,12 @@ Markush structure (6QTP493, C24H32N2O9): glucoside of dihydroxy 6PPD-Q; the posi
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2763,12 +2763,12 @@ Markush structure (6QTP411, C18H23N2O7P): phosphate ester of dihydroxy 6PPD-Q; t
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2793,12 +2793,12 @@ Markush structure (6QTP329, two isomers, C19H24N2O3): one methoxy group; the pos
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2823,321 +2823,28 @@ Markush structure (6QTP395, two isomers, C18H23N2O6P): the formula is that of a 
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_178"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_SimpleMolecule_182"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_SimpleMolecule">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_179"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_SimpleMolecule_183"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
     </listOfSpecies>
     <listOfReactions>
-      <reaction id="i13d11" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-Oryza sativa
-
-Homo sapiens
-
-In Homo sapiens: in vitro.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i13d11">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_22"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_26"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_3"/>
-        </listOfModifiers>
-      </reaction>
-      <reaction id="id1a2b" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#id1a2b">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_11"/>
-          <speciesReference constant="false" species="species_0"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_1"/>
-          <speciesReference constant="false" species="species_9"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="i6bedd" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-Via a glutathione conjugate that is broken down to the cysteine conjugate.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i6bedd">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_11"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_14"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_5"/>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_6"/>
-        </listOfModifiers>
-      </reaction>
-      <reaction id="iade98" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#iade98">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_15"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_16"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_7"/>
-        </listOfModifiers>
-      </reaction>
-      <reaction id="i84446" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-Described in the article as phosphorylation of 6PPD-Q.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i84446">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_22"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_27"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="i5395e" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Oxidation with loss of two hydrogens (for example by persulfate); proposed as part of the route to the quinone. Also found in analytical standards of 6PPD.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i5395e">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_11"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_13"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="ic2e43" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#ic2e43">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_23"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_24"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
-        </listOfModifiers>
-      </reaction>
-      <reaction id="iedcd3" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Danio rerio
-
-In embryos; more than 80% of the transformation products.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#iedcd3">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_22"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_21"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="id3c4d" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#id3c4d">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_1"/>
-          <speciesReference constant="false" species="species_0"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_2"/>
-          <speciesReference constant="false" species="species_10"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="i9f6e8" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i9f6e8">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_11"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_15"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
-        </listOfModifiers>
-      </reaction>
-      <reaction id="ib8b48" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-Danio rerio
-
-Hydrolysis; also abiotic in water.
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#ib8b48">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_11"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_12"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="i03fd1" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i03fd1">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_17"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_18"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_7"/>
-        </listOfModifiers>
-      </reaction>
       <reaction id="i50355" reversible="false" sboTerm="SBO:0000176">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
+<p>PMC12288073_e07
+
+PMC12288073_e12
+
+PMC12288073_e14
+
+Caenorhabditis elegans
 
 </p>
 </body>
@@ -3159,35 +2866,16 @@ Hydrolysis; also abiotic in water.
           <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
         </listOfModifiers>
       </reaction>
-      <reaction id="ife916" reversible="false" sboTerm="SBO:0000176">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
-
-</p>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#ife916">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <listOfReactants>
-          <speciesReference constant="false" species="species_12"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="false" species="species_17"/>
-        </listOfProducts>
-        <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
-        </listOfModifiers>
-      </reaction>
       <reaction id="i1097d" reversible="false" sboTerm="SBO:0000176">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
+<p>PMC12288073_e07
+
+PMC12288073_e08
+
+PMC10399305_e01
+
+Caenorhabditis elegans
 
 Mus musculus
 
@@ -3217,19 +2905,158 @@ In Oncorhynchus mykiss: in liver cells (RTL-W1). In Oncorhynchus kisutch: suspec
           <modifierSpeciesReference sboTerm="SBO:0000013" species="species_8"/>
         </listOfModifiers>
       </reaction>
-      <reaction id="i2ecdf" reversible="false" sboTerm="SBO:0000176">
+      <reaction id="i9f6e8" reversible="false" sboTerm="SBO:0000176">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
+<p>PMC12288073_e02
 
-Described in the article as phosphorylation of monohydroxy 6PPD-Q.
+PMC12288073_e03
+
+Caenorhabditis elegans
 
 </p>
 </body>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#i2ecdf">
+<rdf:Description rdf:about="#i9f6e8">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_11"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_15"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="i84446" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e12
+
+PMC12288073_e13
+
+PMC12288073_e14
+
+Caenorhabditis elegans
+
+Described in the article as phosphorylation of 6PPD-Q.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#i84446">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_22"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_27"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="id1a2b" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#id1a2b">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_11"/>
+          <speciesReference constant="false" species="species_0"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_1"/>
+          <speciesReference constant="false" species="species_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="iade98" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e02
+
+PMC12288073_e03
+
+Caenorhabditis elegans
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#iade98">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_15"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_16"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_7"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="idd029" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e12
+
+PMC12288073_e14
+
+Caenorhabditis elegans
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#idd029">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_22"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_23"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_8"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="ic2e43" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e12
+
+Caenorhabditis elegans
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#ic2e43">
 <dcterms:modified rdf:parseType="Resource"/>
 </rdf:Description>
 </rdf:RDF>
@@ -3238,13 +3065,42 @@ Described in the article as phosphorylation of monohydroxy 6PPD-Q.
           <speciesReference constant="false" species="species_23"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="false" species="species_25"/>
+          <speciesReference constant="false" species="species_24"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="id3c4d" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#id3c4d">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_1"/>
+          <speciesReference constant="false" species="species_0"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_2"/>
+          <speciesReference constant="false" species="species_10"/>
         </listOfProducts>
       </reaction>
       <reaction id="i1921c" reversible="false" sboTerm="SBO:0000176">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
+<p>PMC12288073_e10
+
+PMC12288073_e11
+
+Caenorhabditis elegans
 
 Homo sapiens
 
@@ -3273,17 +3129,89 @@ In Homo sapiens, Rattus norvegicus, Oncorhynchus mykiss and Cyprinus carpio: in 
           <speciesReference constant="false" species="species_19"/>
         </listOfProducts>
       </reaction>
-      <reaction id="idd029" reversible="false" sboTerm="SBO:0000176">
+      <reaction id="i6bedd" reversible="false" sboTerm="SBO:0000176">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-<p>Caenorhabditis elegans
+<p>PMC12288073_e02
+
+PMC12288073_e04
+
+Caenorhabditis elegans
+
+Via a glutathione conjugate that is broken down to the cysteine conjugate.
 
 </p>
 </body>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#idd029">
+<rdf:Description rdf:about="#i6bedd">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_11"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_14"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_6"/>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_5"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="i2ecdf" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e12
+
+PMC12288073_e13
+
+PMC12288073_e14
+
+Caenorhabditis elegans
+
+Described in the article as phosphorylation of monohydroxy 6PPD-Q.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#i2ecdf">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_23"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_25"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="i13d11" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e07
+
+PMC12288073_e09
+
+Caenorhabditis elegans
+
+Oryza sativa
+
+Homo sapiens
+
+In Homo sapiens: in vitro.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#i13d11">
 <dcterms:modified rdf:parseType="Resource"/>
 </rdf:Description>
 </rdf:RDF>
@@ -3292,11 +3220,151 @@ In Homo sapiens, Rattus norvegicus, Oncorhynchus mykiss and Cyprinus carpio: in 
           <speciesReference constant="false" species="species_22"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="false" species="species_23"/>
+          <speciesReference constant="false" species="species_26"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_8"/>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_3"/>
         </listOfModifiers>
+      </reaction>
+      <reaction id="iedcd3" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12737381_e03
+
+Danio rerio
+
+In embryos; more than 80% of the transformation products.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#iedcd3">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_22"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_21"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="ife916" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e05
+
+Caenorhabditis elegans
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#ife916">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_12"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_17"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="ib8b48" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e05
+
+PMC12288073_e06
+
+PMC12737381_e02
+
+Caenorhabditis elegans
+
+Danio rerio
+
+Hydrolysis; also abiotic in water.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#ib8b48">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_11"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_12"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="i03fd1" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12288073_e05
+
+Caenorhabditis elegans
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#i03fd1">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_17"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_18"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_7"/>
+        </listOfModifiers>
+      </reaction>
+      <reaction id="i5395e" reversible="false" sboTerm="SBO:0000176">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p>PMC12737381_e01
+
+PMC13689822_e01
+
+PMC13689822_e02
+
+Oxidation with loss of two hydrogens (for example by persulfate); proposed as part of the route to the quinone. Also found in analytical standards of 6PPD.
+
+</p>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#i5395e">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <listOfReactants>
+          <speciesReference constant="false" species="species_11"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="false" species="species_13"/>
+        </listOfProducts>
       </reaction>
     </listOfReactions>
   </model>

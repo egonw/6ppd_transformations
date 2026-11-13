@@ -13,6 +13,9 @@
 #                     the MINERVA conversion service (sends the file there)
 #   make svg          draw every SBML file made by "make sbml" as SVG, also with
 #                     the MINERVA service
+#   make pathway      make <name>.html for every GPML file: the SVG with popups
+#                     that show structures, species and the sentences in the
+#                     articles that support each conversion (evidence.tsv)
 #   make cache        download the labels of all ontology terms on ExpoPortal
 #                     again (a few minutes). "make annotate" does this by
 #                     itself only when there is no cache yet.
@@ -40,9 +43,12 @@ CHEM := $(JATS:.xml=.chem.tsv)
 GPML := $(wildcard *.gpml)
 SBML := $(GPML:.gpml=.sbml)
 SVG  := $(GPML:.gpml=.svg)
+PATHWAY := $(GPML:.gpml=.html)
+# Sentences in the articles that support the conversions in the pathway.
+EVIDENCE = evidence.tsv
 MINERVA = https://minerva-service.lcsb.uni.lu/minerva/api/convert
 
-.PHONY: all literature annotate index sbml svg cache clean clean-html
+.PHONY: all literature annotate index sbml svg pathway cache clean clean-html
 .DELETE_ON_ERROR:
 # The lists of chemical names are kept: they are slow to make.
 .SECONDARY: $(CHEM) $(SBML)
@@ -61,7 +67,7 @@ index: index.html
 
 # The list of annotated pages, in the root folder.
 index.html: $(HTML) make_index.py $(wildcard $(LITERATURE)/seeds.tsv)
-	$(PYTHON) make_index.py $(HTML) --seeds $(LITERATURE)/seeds.tsv --out $@
+	$(PYTHON) make_index.py $(HTML) --seeds $(LITERATURE)/seeds.tsv --pathways $(PATHWAY) --out $@
 
 # Labels of all ontology terms on ExpoPortal, and the ChEBI structures.
 cache:
@@ -76,8 +82,8 @@ $(LITERATURE)/%.chem.tsv: $(LITERATURE)/%.xml ner_chemicals.groovy
 
 # The annotated page. The cache is an order-only prerequisite: it is made
 # when missing, but a newer cache does not make the pages out of date.
-$(LITERATURE)/%.html: $(LITERATURE)/%.xml $(LITERATURE)/%.chem.tsv annotate_jats.py cache_ontology_labels.py $(LOCAL) | $(CACHE)
-	$(PYTHON) annotate_jats.py $< --chem $(LITERATURE)/$*.chem.tsv --cache $(CACHE) --local $(LOCAL) --exclude "$(EXCLUDE)" --out $@
+$(LITERATURE)/%.html: $(LITERATURE)/%.xml $(LITERATURE)/%.chem.tsv annotate_jats.py cache_ontology_labels.py $(LOCAL) $(EVIDENCE) | $(CACHE)
+	$(PYTHON) annotate_jats.py $< --chem $(LITERATURE)/$*.chem.tsv --cache $(CACHE) --local $(LOCAL) --evidence $(EVIDENCE) --pathway ../$(firstword $(PATHWAY)) --exclude "$(EXCLUDE)" --out $@
 
 sbml: $(SBML)
 
@@ -94,8 +100,15 @@ svg: $(SVG)
 	curl --fail --silent --show-error -H "Content-Type: application/octet-stream" \
 		-X POST --data-binary @$< $(MINERVA)/image/SBML:svg > $@
 
+pathway: $(PATHWAY)
+
+# The pathway page: the SVG with a popup for every node and interaction. The
+# articles are order-only: their pages only have to be there for the links.
+$(PATHWAY): %.html: %.gpml %.svg $(EVIDENCE) make_pathway_html.py $(wildcard $(LITERATURE)/seeds.tsv) | $(HTML)
+	$(PYTHON) make_pathway_html.py $< --svg $*.svg --evidence $(EVIDENCE) --seeds $(LITERATURE)/seeds.tsv --out $@
+
 clean-html:
-	rm -f $(HTML) $(CHEM) index.html
+	rm -f $(HTML) $(CHEM) $(PATHWAY) index.html
 
 clean: clean-html
 	rm -f $(SBML) $(SVG)

@@ -78,6 +78,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("pages", nargs="*", type=Path, help="annotated HTML pages")
     parser.add_argument("--out", type=Path, default=Path("index.html"))
+    parser.add_argument("--pathways", nargs="*", default=[], type=Path,
+                        help="pathway pages (make_pathway_html.py) to link to")
     parser.add_argument("--seeds", type=Path, default=Path("literature/seeds.tsv"),
                         help="overview written by fetch_seed_articles.py")
     args = parser.parse_args()
@@ -101,6 +103,10 @@ def main():
             + "</li>")
     listing = "<ol>\n" + "\n".join(rows) + "\n</ol>" if rows else \
         "<p>No annotated articles yet: run <code>make annotate</code>.</p>"
+    links = ", ".join(f'<a href="{esc(Path(os.path.relpath(p.resolve(), out_dir)).as_posix())}">{esc(p.stem)}</a>'
+                      for p in args.pathways)
+    pathways = (f"<p>Pathway of the conversions found in these articles, with the supporting "
+                f"sentences: {links}.</p>") if links else ""
     page = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -115,6 +121,7 @@ def main():
 <p>{len(articles)} seed article{"" if len(articles) == 1 else "s"} from Wikidata with full text in Europe PMC.
 In each page the <span class="tag chem">chemical structures in ChEBI</span> and the
 <span class="tag ont">other ontology terms on ExpoPortal</span> are highlighted.</p>
+{pathways}
 </header>
 <main>
 {listing}

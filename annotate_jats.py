@@ -13,6 +13,9 @@ Two kinds of terms are highlighted in the text:
 Hovering, focusing or clicking a term opens a popup with the matching
 ontology terms, like the one of the exposome map in background/ExpoPortal.
 
+Sentences that support a conversion in the pathway (--evidence, see
+evidence.tsv) are marked yellow, on top of the grey and green.
+
 Terms can be added by hand in a TSV file (--local, see local_terms.tsv), for
 names and structures that ExpoPortal does not have.
 
@@ -82,7 +85,7 @@ BLOCK = {"p": "p", "list-item": "li", "def-list": "dl", "term": "dt", "def": "dd
          "verse-group": "blockquote", "preformat": "pre"}
 SKIP = {"graphic", "inline-graphic", "media", "tex-math", "object-id", "col", "colgroup",
         "permissions", "ref-list", "journal-meta", "article-meta", "front", "fn-group-skip"}
-PLAIN = {"math", "ext-link", "uri", "email", "xref", "inline-supplementary-material"}
+PLAIN = {"math", "uri", "email", "xref", "inline-supplementary-material"}
 
 
 def local(tag):
@@ -112,6 +115,11 @@ class Tokens:
     def brk(self):
         self.items.append((BREAK, ""))
 
+    def soft(self):
+        """A break inside a paragraph (around a citation or link): it ends a
+        term, but not a sentence."""
+        self.items.append((BREAK, "soft"))
+
     def open(self, tag, attrs=""):
         self.raw(f"<{tag}{attrs}>")
 
@@ -136,9 +144,15 @@ def walk(el, out, depth=1):
         out.open(INLINE[name])
         children(el, out, depth)
         out.close(INLINE[name])
+    elif name == "ext-link":
+        # a link in running text: its words are part of the sentence
+        href = el.get(XLINK_HREF) or ""
+        out.raw(f'<a href="{esc(href)}" rel="noopener">' if href else "<span>")
+        children(el, out, depth)
+        out.raw("</a>" if href else "</span>")
     elif name in PLAIN:
         # shown, but not annotated and not part of a term
-        out.brk()
+        out.soft()
         text = esc(flat(el))
         href = el.get(XLINK_HREF) or (flat(el) if name == "uri" else "")
         if name == "xref" and el.get("rid"):
@@ -149,7 +163,7 @@ def walk(el, out, depth=1):
             out.raw(f'<a href="{esc(href)}" rel="noopener">{text}</a>')
         else:
             out.raw(f'<span class="{name}">{text}</span>')
-        out.brk()
+        out.soft()
     elif name == "break":
         out.brk()
         out.raw("<br>")
@@ -175,10 +189,10 @@ def walk(el, out, depth=1):
                 walk(child, out, depth + 1)
         out.close("section")
         out.brk()
-    elif name == "title":
+    elif name == "title":           # of an abstract, caption or box; not of a section
         level = min(depth + 1, 6)
         out.brk()
-        out.open(f"h{level}")
+        out.open(f"h{level}", ' class="t"')
         children(el, out, depth)
         out.close(f"h{level}")
         out.brk()
@@ -349,9 +363,114 @@ class Matcher:
         return result
 
 
-def annotate(tokens, matcher):
-    """Return the HTML of the tokens, with the terms wrapped in <span class="ann">."""
+SENTENCE_END = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9(])')
+
+
+def sentences(tokens):
+    """(section title, sentence) for all text of the article.
+
+    The text of citations is not part of the tokens, so a sentence reads as in
+    the article but without its reference numbers.
+    """
+    section, heading, block, out = "", None, [], []
+
+    def flush():
+        text = " ".join("".join(block).split())
+        # what is left of a list of citations after a sentence: ". , Next"
+        text = re.sub(r"([.!?])(\s+[,;−–-])+\s+(?=[A-Z0-9(])", r"\1 ", text)
+        block.clear()
+        for sentence in SENTENCE_END.split(text):
+            sentence = sentence.lstrip(" ,;.−-–")
+            if len(sentence) > 20:
+                out.append((section, sentence))
+
+    for kind, value in tokens.items:
+        if kind == RAW and re.fullmatch(r"<h[1-6]>", value):
+            flush()
+            heading = []
+        elif kind == RAW and re.fullmatch(r"</h[1-6]>", value) and heading is not None:
+            section, heading = " ".join("".join(heading).split()), None
+        elif kind == RAW and heading is not None:
+            heading.append(html.unescape(re.sub(r"<[^>]+>", "", value)))
+        elif kind == TEXT:
+            (heading if heading is not None else block).append(value)
+        elif kind == BREAK and value != "soft":
+            flush()
+    flush()
+    return out
+
+
+def read_evidence(path, pmcid):
+    """The supporting sentences of one article: a list of (id, quote).
+
+    See evidence.tsv for the columns.
+    """
+    if not path or not path.exists():
+        return []
+    with open(path, encoding="utf-8", newline="") as handle:
+        lines = [line for line in handle if line.strip() and not line.startswith("#")]
+    return [(row["id"], row["quote"])
+            for row in csv.DictReader(lines, delimiter="\t", quoting=csv.QUOTE_NONE)
+            if row["pmcid"] == pmcid]
+
+
+def find_evidence(items, evidence):
+    """Where the supporting sentences are in the text of the article.
+
+    Returns ({index of text token: offset of the token in the whole text},
+    [(start, end, id)]) and the ids that were not found. White space is
+    ignored in the comparison, so a quote may run over markup and citations.
+    """
+    offsets, parts, total = {}, [], 0
+    for i, (kind, value) in enumerate(items):
+        if kind == TEXT:
+            offsets[i] = total
+            parts.append(value)
+            total += len(value)
+    text = "".join(parts)
+    index = [k for k, char in enumerate(text) if not char.isspace()]
+    squeezed = "".join(text[k] for k in index)
+    ranges, missing = [], []
+    for ident, quote in evidence:
+        needle = "".join(quote.split())
+        at = squeezed.find(needle) if needle else -1
+        if at < 0:
+            missing.append(ident)
+        else:
+            ranges.append((index[at], index[at + len(needle) - 1] + 1, ident))
+    return offsets, ranges, missing
+
+
+def annotate(tokens, matcher, evidence=()):
+    """Return the HTML of the tokens, with the terms wrapped in <span class="ann">
+    and the supporting sentences in <mark class="ev">."""
     items = tokens.items
+    offsets, ranges, missing = find_evidence(items, evidence)
+    anchored = set()
+
+    def emit(i, a, b):
+        """Text a..b of token i, with the parts of supporting sentences marked."""
+        piece, base = items[i][1], offsets[i]
+        if a >= b:
+            return ""
+        cuts = {a, b}
+        for start, end, _ in ranges:
+            for cut in (start - base, end - base):
+                if a < cut < b:
+                    cuts.add(cut)
+        cuts = sorted(cuts)
+        out = []
+        for lo, hi in zip(cuts, cuts[1:]):
+            ids = [ident for start, end, ident in ranges if start <= base + lo and base + hi <= end]
+            if not ids:
+                out.append(esc(piece[lo:hi]))
+                continue
+            for ident in ids:           # the place that the pathway page links to
+                if ident not in anchored:
+                    anchored.add(ident)
+                    out.append(f'<span class="evanchor" id="{esc(ident)}"></span>')
+            out.append(f'<mark class="ev" data-ev="{esc(" ".join(ids))}">{esc(piece[lo:hi])}</mark>')
+        return "".join(out)
     # the runs: lists of indexes of text tokens between two breaks
     runs, run = [], []
     for i, (kind, _) in enumerate(items):
@@ -406,12 +525,12 @@ def annotate(tokens, matcher):
                 if end <= lo or start >= hi:
                     continue
                 a, b = max(start, lo), min(end, hi)
-                out.append(esc(text[pos:a]))
+                out.append(emit(i, pos - lo, a - lo))
                 cls = matcher.annotations[k]["cls"]
                 focus = ' tabindex="0"' if a == start else ""
-                out.append(f'<span class="ann {cls}" data-k="{k}"{focus}>{esc(text[a:b])}</span>')
+                out.append(f'<span class="ann {cls}" data-k="{k}"{focus}>{emit(i, a - lo, b - lo)}</span>')
                 pos = b
-            out.append(esc(text[pos:hi]))
+            out.append(emit(i, pos - lo, hi - lo))
             rendered[i] = "".join(out)
             offset = hi
     parts = []
@@ -420,7 +539,7 @@ def annotate(tokens, matcher):
             parts.append(value)
         elif kind == TEXT:
             parts.append(rendered[i])
-    return "".join(parts), counts
+    return "".join(parts), counts, len(ranges), missing
 
 
 # ---------------------------------------------------------------- the page
@@ -445,6 +564,7 @@ p{margin:0 0 12px}
 .abstract{border-left:3px solid var(--line);padding-left:14px;margin:16px 0}
 .sc{font-variant:small-caps}
 .label{font-weight:600}
+main a{color:var(--accent)}
 .xref{color:var(--accent);text-decoration:none;font-size:.85em}
 .fig,.table-wrap,.box,.supp{margin:16px 0;padding:10px 12px;border:1px solid var(--line);border-radius:8px}
 .table-wrap{overflow-x:auto}
@@ -460,6 +580,10 @@ td,th{border:1px solid var(--line);padding:3px 8px;text-align:left;vertical-alig
 .ann.chem{background:var(--chem)}
 .ann.ont:hover,.ann.ont:focus,.ann.ont.active{outline:2px solid var(--ont-line);outline-offset:0}
 .ann.chem:hover,.ann.chem:focus,.ann.chem.active{outline:2px solid var(--chem-line);outline-offset:0}
+mark.ev{background:rgba(255,214,0,.42);color:inherit;border-radius:2px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.evanchor{scroll-margin-top:90px}
+.evanchor:target+mark.ev,.evanchor:target~mark.ev{background:rgba(255,190,0,.7)}
+#legend a{color:var(--accent)}
 #pop{position:absolute;z-index:10;width:max-content;max-width:min(440px,calc(100vw - 16px));max-height:380px;overflow:auto;
 background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 12px;
 box-shadow:0 6px 24px rgba(0,0,0,.25);font-size:14px;line-height:1.5}
@@ -636,22 +760,29 @@ def read_chem(path):
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("jats", type=Path, help="JATS XML file")
-    parser.add_argument("--cache", type=Path, required=True,
+    parser.add_argument("--cache", type=Path,
                         help="SQLite file made by cache_ontology_labels.py")
     parser.add_argument("--chem", type=Path, help="TSV file made by ner_chemicals.groovy")
     parser.add_argument("--out", type=Path, help="HTML file to write (default: next to the XML)")
     parser.add_argument("--local", type=Path, help="TSV file with terms added by hand")
+    parser.add_argument("--evidence", type=Path,
+                        help="TSV file with the sentences that support the pathway (evidence.tsv)")
+    parser.add_argument("--pathway", default="",
+                        help="link to the pathway page, shown with the supporting sentences")
+    parser.add_argument("--sentences", action="store_true",
+                        help="only print section and sentence of all text, tab-separated; "
+                             "use this to copy a sentence to evidence.tsv")
     parser.add_argument("--exclude", default="", metavar="ACRONYMS",
                         help="ontologies whose terms are not used, e.g. NCIT,SWEET")
     args = parser.parse_args()
     out_path = args.out or args.jats.with_suffix(".html")
-    if not args.cache.exists():
+    if not args.sentences and not (args.cache and args.cache.exists()):
         sys.exit(f"{args.cache} not found: run cache_ontology_labels.py first")
 
     article = ET.parse(args.jats).getroot()
     if local(article.tag) != "article":
         article = next(article.iter("article"))
-    matcher = Matcher(args.cache, read_chem(args.chem),
+    matcher = None if args.sentences else Matcher(args.cache, read_chem(args.chem),
                       [a.strip().upper() for a in args.exclude.split(",") if a.strip()],
                       read_local(args.local))
 
@@ -674,7 +805,15 @@ def main():
         for child in back:
             walk(child, tokens, 1)
     tokens.brk()
-    content, counts = annotate(tokens, matcher)
+    if args.sentences:
+        for section, sentence in sentences(tokens):
+            print(f"{section}\t{sentence}")
+        return
+    content, counts, n_evidence, missing = annotate(
+        tokens, matcher, read_evidence(args.evidence, args.jats.stem))
+    if missing:
+        sys.exit(f"{args.jats}: sentences of {args.evidence} not found in the article: "
+                 + ", ".join(missing))
     content += references(article) + "</main>"
 
     unique = {"chem": 0, "ont": 0}
@@ -682,6 +821,11 @@ def main():
         unique[annotation["cls"]] += 1
     payload = json.dumps(matcher.annotations, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     title = info["title"] or args.jats.stem
+    evidence_legend = ""
+    if n_evidence:
+        where = (f' the <a href="{esc(args.pathway)}">pathway</a>' if args.pathway else " the pathway")
+        evidence_legend = (f'<span><mark class="ev">sentence that supports{where}</mark> '
+                           f'{n_evidence}</span>\n')
     page = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -694,7 +838,7 @@ def main():
 <div id="legend">
 <span><span class="ann chem">chemical structure in ChEBI</span> {counts["chem"]} in the text, {unique["chem"]} different</span>
 <span><span class="ann ont">other ontology term on ExpoPortal</span> {counts["ont"]} in the text, {unique["ont"]} different</span>
-<span>Hover or focus a term to see its ontology terms; click to keep the popup open.</span>
+{evidence_legend}<span>Hover or focus a term to see its ontology terms; click to keep the popup open.</span>
 </div>
 <div id="page">
 {content}
@@ -709,7 +853,7 @@ def main():
     via_opsin = sum(1 for a in matcher.annotations for t in a["terms"] if "opsin" in t)
     print(f"{args.jats}: {counts['chem']} chemical structures ({unique['chem']} different, "
           f"{via_opsin} found by OPSIN) and {counts['ont']} other ontology terms "
-          f"({unique['ont']} different) -> {out_path}")
+          f"({unique['ont']} different), {n_evidence} supporting sentences -> {out_path}")
 
 
 if __name__ == "__main__":

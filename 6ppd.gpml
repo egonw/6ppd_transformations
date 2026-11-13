@@ -218,6 +218,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i5395e">
+    <Comment Source="Evidence">PMC12737381_e01</Comment>
+    <Comment Source="Evidence">PMC13689822_e01</Comment>
+    <Comment Source="Evidence">PMC13689822_e02</Comment>
     <Comment>Oxidation with loss of two hydrogens (for example by persulfate); proposed as part of the route to the quinone. Also found in analytical standards of 6PPD.</Comment>
     <BiopaxRef>e9d</BiopaxRef>
     <BiopaxRef>bc6</BiopaxRef>
@@ -228,6 +231,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i6bedd">
+    <Comment Source="Evidence">PMC12288073_e02</Comment>
+    <Comment Source="Evidence">PMC12288073_e04</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment>Via a glutathione conjugate that is broken down to the cysteine conjugate.</Comment>
     <BiopaxRef>fb4</BiopaxRef>
@@ -240,6 +245,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i9f6e8">
+    <Comment Source="Evidence">PMC12288073_e02</Comment>
+    <Comment Source="Evidence">PMC12288073_e03</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12303" LineThickness="1.0">
@@ -250,6 +257,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="iade98">
+    <Comment Source="Evidence">PMC12288073_e02</Comment>
+    <Comment Source="Evidence">PMC12288073_e03</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12304" LineThickness="1.0">
@@ -260,6 +269,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ib8b48">
+    <Comment Source="Evidence">PMC12288073_e05</Comment>
+    <Comment Source="Evidence">PMC12288073_e06</Comment>
+    <Comment Source="Evidence">PMC12737381_e02</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment Source="Species">Danio rerio</Comment>
     <Comment>Hydrolysis; also abiotic in water.</Comment>
@@ -272,6 +284,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ife916">
+    <Comment Source="Evidence">PMC12288073_e05</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12306" LineThickness="1.0">
@@ -282,6 +295,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i03fd1">
+    <Comment Source="Evidence">PMC12288073_e05</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12307" LineThickness="1.0">
@@ -292,6 +306,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i1921c">
+    <Comment Source="Evidence">PMC12288073_e10</Comment>
+    <Comment Source="Evidence">PMC12288073_e11</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment Source="Species">Homo sapiens</Comment>
     <Comment Source="Species">Rattus norvegicus</Comment>
@@ -306,6 +322,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i1097d">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
+    <Comment Source="Evidence">PMC12288073_e08</Comment>
+    <Comment Source="Evidence">PMC10399305_e01</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment Source="Species">Mus musculus</Comment>
     <Comment Source="Species">Oncorhynchus mykiss</Comment>
@@ -321,6 +340,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i13d11">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
+    <Comment Source="Evidence">PMC12288073_e09</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment Source="Species">Oryza sativa</Comment>
     <Comment Source="Species">Homo sapiens</Comment>
@@ -334,6 +355,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="iedcd3">
+    <Comment Source="Evidence">PMC12737381_e03</Comment>
     <Comment Source="Species">Danio rerio</Comment>
     <Comment>In embryos; more than 80% of the transformation products.</Comment>
     <BiopaxRef>e9d</BiopaxRef>
@@ -344,6 +366,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="idd029">
+    <Comment Source="Evidence">PMC12288073_e12</Comment>
+    <Comment Source="Evidence">PMC12288073_e14</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12312" LineThickness="1.0">
@@ -354,6 +378,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i50355">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
+    <Comment Source="Evidence">PMC12288073_e12</Comment>
+    <Comment Source="Evidence">PMC12288073_e14</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12313" LineThickness="1.0">
@@ -364,6 +391,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i84446">
+    <Comment Source="Evidence">PMC12288073_e12</Comment>
+    <Comment Source="Evidence">PMC12288073_e13</Comment>
+    <Comment Source="Evidence">PMC12288073_e14</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment>Described in the article as phosphorylation of 6PPD-Q.</Comment>
     <BiopaxRef>fb4</BiopaxRef>
@@ -374,6 +404,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ic2e43">
+    <Comment Source="Evidence">PMC12288073_e12</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <BiopaxRef>fb4</BiopaxRef>
     <Graphics ZOrder="12315" LineThickness="1.0">
@@ -384,6 +415,9 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="i2ecdf">
+    <Comment Source="Evidence">PMC12288073_e12</Comment>
+    <Comment Source="Evidence">PMC12288073_e13</Comment>
+    <Comment Source="Evidence">PMC12288073_e14</Comment>
     <Comment Source="Species">Caenorhabditis elegans</Comment>
     <Comment>Described in the article as phosphorylation of monohydroxy 6PPD-Q.</Comment>
     <BiopaxRef>fb4</BiopaxRef>
@@ -394,6 +428,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c39903">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e04</Comment>
     <Graphics ZOrder="12317" LineThickness="1.0">
       <Point X="404.0" Y="121.0" GraphRef="e39903" RelX="0.0" RelY="-1.0" />
       <Point X="371.1" Y="112.2" GraphRef="a39903" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -401,6 +437,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c2243c">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e04</Comment>
     <Graphics ZOrder="12318" LineThickness="1.0">
       <Point X="401.0" Y="102.0" GraphRef="e2243c" RelX="0.0" RelY="1.0" />
       <Point X="434.4" Y="111.0" GraphRef="a2243c" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -408,6 +446,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ce5851">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e03</Comment>
     <Graphics ZOrder="12319" LineThickness="1.0">
       <Point X="411.0" Y="178.0" GraphRef="ee5851" RelX="0.0" RelY="-1.0" />
       <Point X="443.6" Y="169.5" GraphRef="ae5851" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -415,6 +455,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c5298c">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e03</Comment>
     <Graphics ZOrder="12320" LineThickness="1.0">
       <Point X="747.0" Y="219.0" GraphRef="e5298c" RelX="0.0" RelY="-1.0" />
       <Point X="722.5" Y="200.0" GraphRef="a5298c" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -422,6 +464,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ca2301">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e05</Comment>
     <Graphics ZOrder="12321" LineThickness="1.0">
       <Point X="747.0" Y="304.0" GraphRef="ea2301" RelX="0.0" RelY="-1.0" />
       <Point X="722.5" Y="285.0" GraphRef="aa2301" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -429,6 +473,8 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="cdab2b">
+    <Comment Source="Evidence">PMC12288073_e01</Comment>
+    <Comment Source="Evidence">PMC12288073_e05</Comment>
     <Graphics ZOrder="12322" LineThickness="1.0">
       <Point X="1018.0" Y="304.0" GraphRef="edab2b" RelX="0.0" RelY="-1.0" />
       <Point X="993.5" Y="285.0" GraphRef="adab2b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -436,6 +482,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c7e840">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
     <Graphics ZOrder="12323" LineThickness="1.0">
       <Point X="185.0" Y="411.0" GraphRef="e7e840" RelX="-1.0" RelY="0.0" />
       <Point X="172.0" Y="411.1" GraphRef="a7e840" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -443,6 +490,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c12935">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
     <Graphics ZOrder="12324" LineThickness="1.0">
       <Point X="128.0" Y="550.0" GraphRef="e12935" RelX="-1.0" RelY="0.0" />
       <Point X="114.6" Y="550.0" GraphRef="a12935" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -450,6 +498,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="cb1d9d">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
     <Graphics ZOrder="12325" LineThickness="1.0">
       <Point X="464.0" Y="576.0" GraphRef="eb1d9d" RelX="0.0" RelY="-1.0" />
       <Point X="450.6" Y="550.0" GraphRef="ab1d9d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -457,6 +506,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c21af6">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
     <Graphics ZOrder="12326" LineThickness="1.0">
       <Point X="586.0" Y="559.0" GraphRef="e21af6" RelX="0.0" RelY="-1.0" />
       <Point X="618.6" Y="550.0" GraphRef="a21af6" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
@@ -464,6 +514,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="cdb5b6">
+    <Comment Source="Evidence">PMC12288073_e07</Comment>
     <Graphics ZOrder="12327" LineThickness="1.0">
       <Point X="491.0" Y="700.0" GraphRef="edb5b6" RelX="-1.0" RelY="0.0" />
       <Point X="479.0" Y="693.0" GraphRef="adb5b6" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />

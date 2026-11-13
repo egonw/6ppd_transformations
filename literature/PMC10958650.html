@@ -24,6 +24,7 @@ p{margin:0 0 12px}
 .abstract{border-left:3px solid var(--line);padding-left:14px;margin:16px 0}
 .sc{font-variant:small-caps}
 .label{font-weight:600}
+main a{color:var(--accent)}
 .xref{color:var(--accent);text-decoration:none;font-size:.85em}
 .fig,.table-wrap,.box,.supp{margin:16px 0;padding:10px 12px;border:1px solid var(--line);border-radius:8px}
 .table-wrap{overflow-x:auto}
@@ -39,6 +40,10 @@ td,th{border:1px solid var(--line);padding:3px 8px;text-align:left;vertical-alig
 .ann.chem{background:var(--chem)}
 .ann.ont:hover,.ann.ont:focus,.ann.ont.active{outline:2px solid var(--ont-line);outline-offset:0}
 .ann.chem:hover,.ann.chem:focus,.ann.chem.active{outline:2px solid var(--chem-line);outline-offset:0}
+mark.ev{background:rgba(255,214,0,.42);color:inherit;border-radius:2px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.evanchor{scroll-margin-top:90px}
+.evanchor:target+mark.ev,.evanchor:target~mark.ev{background:rgba(255,190,0,.7)}
+#legend a{color:var(--accent)}
 #pop{position:absolute;z-index:10;width:max-content;max-width:min(440px,calc(100vw - 16px));max-height:380px;overflow:auto;
 background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 12px;
 box-shadow:0 6px 24px rgba(0,0,0,.25);font-size:14px;line-height:1.5}
