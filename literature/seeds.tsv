@@ -1,28 +1,28 @@
-doi	wikidata	main_subjects	pmid	pmcid	status	file
-10.1002/etc.5487	Q142116691	6PPD-Q	36148925	PMC9828523	exists	PMC9828523.xml
-10.1002/etc.5568	Q142110115	6PPD-Q	36692118		no full text	
-10.1007/s10646-024-02836-x	Q131358687	6PPD	39612103		no full text	
-10.1016/j.envpol.2024.124969	Q135238450	6PPD;6PPD-Q	39293656		no full text	
-10.1016/j.envres.2024.118201	Q129655858	6PPD-Q	38220074		no full text	
-10.1016/j.foodchem.2022.133640	Q114178391	6PPD	35839723		no full text	
-10.1016/j.scib.2023.12.045	Q142110061	6PPD-Q	38185590		no full text	
-10.1016/j.scitotenv.2022.154675	Q113865220	6PPD	35314241		no full text	
-10.1016/j.scitotenv.2024.175057	Q142109964	6PPD-Q	39067606		no full text	
-10.1016/j.watres.2022.118122	Q142109858	6PPD;6PPD-Q	35101694		no full text	
-10.1021/acs.est.3c01040	Q142116704	6PPD-Q	37467138	PMC10399305	exists	PMC10399305.xml
-10.1021/acs.est.3c05026	Q142110050	6PPD;6PPD-Q	37642336	PMC11648498	not open access	
-10.1021/acs.est.3c06891	Q142116757	6PPD-Q	38048442		no full text	
-10.1021/acs.est.5c02072			40627503	PMC12288073	downloaded	PMC12288073.xml
-10.1021/acs.est.6c07136			42899653	PMC13689822	downloaded	PMC13689822.xml
-10.1021/acs.estlett.2c00050	Q114653436	6PPD;6PPD-Q			not in Europe PMC	
-10.1021/acs.estlett.2c00431	Q114653432	6PPD;6PPD-Q			not in Europe PMC	
-10.1021/acs.estlett.3c00196	Q142116725	6PPD-Q			not in Europe PMC	
-10.1021/acs.estlett.3c00446	Q123420338	6PPD			not in Europe PMC	
-10.1021/acsenvironau.3c00023	Q140765105	6PPD-Q	38028740	PMC10655589	exists	PMC10655589.xml
-10.1021/acsenvironau.3c00077	Q140765331	6PPD-Q	38525019	PMC10958650	exists	PMC10958650.xml
-10.1021/acsestwater.3c00589	Q142116718	6PPD-Q			not in Europe PMC	
-10.1021/acssusresmgt.4c00307	Q136360032	6PPD			not in Europe PMC	
-10.1093/toxsci/kfaf008	Q133847092	6PPD;6PPD-Q	39842856	PMC12290522	not open access	
-10.1126/science.abd6951	Q142116684	6PPD;6PPD-Q	33273063		no full text	
-10.2324/gomu.92.3	Q128028376	6PPD			not in Europe PMC	
-10.3390/toxics13121076			41441297	PMC12737381	downloaded	PMC12737381.xml
+doi	wikidata	main_subjects	pmid	pmcid	status	file	title
+10.1002/etc.5487	Q142116691	6PPD-Q	36148925	PMC9828523	exists	PMC9828523.xml	Acute Toxicity Testing of the Tire Rubber–Derived Chemical 6PPD-quinone on Atlantic Salmon ( Salmo salar ) and Brown Trout ( Salmo trutta )
+10.1002/etc.5568	Q142110115	6PPD-Q	36692118		no full text		Acute Toxicity of 6PPD-Quinone to Early Life Stage Juvenile Chinook ( Oncorhynchus tshawytscha ) and Coho ( Oncorhynchus kisutch ) Salmon
+10.1007/s10646-024-02836-x	Q131358687	6PPD	39612103		no full text		Chronic toxicity and intergenerational effects of N-(1,3-dimethylbutyl)-N’-phenyl-p-phenylenediamine (6PPD) exposure alone and in combination with Zn2+ on Daphnia magna (Cladocera)
+10.1016/j.envpol.2024.124969	Q135238450	6PPD;6PPD-Q	39293656		no full text		A bibliometric analysis of global research hotspots and progress on emerging environmental pollutants 6PPD and 6PPD-quinone from 2004 to 2024
+10.1016/j.envres.2024.118201	Q129655858	6PPD-Q	38220074		no full text		Association between 6PPD-quinone exposure and BMI, influenza, and diarrhea in children
+10.1016/j.foodchem.2022.133640	Q114178391	6PPD	35839723		no full text		Exploration of emerging environmental pollutants 6PPD and 6PPDQ in honey and fish samples
+10.1016/j.scib.2023.12.045	Q142110061	6PPD-Q	38185590		no full text		Neurological impairment is crucial for tire rubber-derived contaminant 6PPDQ-induced acute toxicity to rainbow trout
+10.1016/j.scitotenv.2022.154675	Q113865220	6PPD	35314241		no full text		The joint effects of salt and 6PPD contamination on a freshwater herbivore
+10.1016/j.scitotenv.2024.175057	Q142109964	6PPD-Q	39067606		no full text		Potential human health risk of the emerging environmental contaminant 6-PPD quinone
+10.1016/j.watres.2022.118122	Q142109858	6PPD;6PPD-Q	35101694		no full text		Abiotic oxidative transformation of 6-PPD and 6-PPD quinone from tires and occurrence of their products in snow from urban roads and in municipal wastewater
+10.1021/acs.est.3c01040	Q142116704	6PPD-Q	37467138	PMC10399305	exists	PMC10399305.xml	Tire-Derived Transformation Product 6PPD-Quinone Induces Mortality and Transcriptionally Disrupts Vascular Permeability Pathways in Developing Coho Salmon
+10.1021/acs.est.3c05026	Q142110050	6PPD;6PPD-Q	37642336	PMC11648498	not open access		Urine Excretion, Organ Distribution, and Placental Transfer of 6PPD and 6PPD-Quinone in Mice and Potential Developmental Toxicity through Nuclear Receptor Pathways
+10.1021/acs.est.3c06891	Q142116757	6PPD-Q	38048442		no full text		Interspecies Differences in 6PPD-Quinone Toxicity Across Seven Fish Species: Metabolite Identification and Semiquantification
+10.1021/acs.est.5c02072			40627503	PMC12288073	exists	PMC12288073.xml	Biotransformation of Tire-Derived 6PPD and 6PPD-Q in Soil Nematode <i>Caenorhabditis elegans</i>: Unraveling Novel Phosphorylation Products and Distinct Kinetic Profiles.
+10.1021/acs.est.6c07136			42899653	PMC13689822	exists	PMC13689822.xml	Analysis of Multiple Tire Rubber-Derived Chemicals in Fish Bile and Plasma: Analytical Method and Field Assessment in Puget Sound, WA, USA.
+10.1021/acs.estlett.2c00050	Q142116734	6PPD;6PPD-Q			not in Europe PMC		Acute Toxicity of the Tire Rubber-Derived Chemical 6PPD-quinone to Four Fishes of Commercial, Cultural, and Ecological Importance
+10.1021/acs.estlett.2c00431	Q114653432	6PPD;6PPD-Q			not in Europe PMC		Exposure to the Tire Rubber-Derived Contaminant 6PPD-Quinone Causes Mitochondrial Dysfunction In Vitro
+10.1021/acs.estlett.3c00196	Q142116725	6PPD-Q			not in Europe PMC		Establishing an In Vitro Model to Assess the Toxicity of 6PPD-Quinone and Other Tire Wear Transformation Products
+10.1021/acs.estlett.3c00446	Q123420338	6PPD			not in Europe PMC		Occurrence of Polymer Additives 1,3-Diphenylguanidine (DPG), N -(1,3-Dimethylbutyl)- N ′-phenyl-1,4-benzenediamine (6PPD), and Chlorinated Byproducts in Drinking Water: Contribution from Plumbing Polymer Materials
+10.1021/acsenvironau.3c00023	Q140765105	6PPD-Q	38028740	PMC10655589	exists	PMC10655589.xml	Investigation of 6PPD-Quinone in Rubberized Asphalt Concrete Mixtures
+10.1021/acsenvironau.3c00077	Q140765331	6PPD-Q	38525019	PMC10958650	exists	PMC10958650.xml	"Correction to ""Investigation of 6PPD-Quinone in Rubberized Asphalt Concrete Mixtures"""
+10.1021/acsestwater.3c00589	Q142116718	6PPD-Q			not in Europe PMC		Assessment of Tire-Additive Transformation Product 6PPD-Quinone in Urban-Impacted Watersheds
+10.1021/acssusresmgt.4c00307	Q136360032	6PPD			not in Europe PMC		Computation-Guided Removal of 6PPD from End-of-Life Waste Tires
+10.1093/toxsci/kfaf008	Q133847092	6PPD;6PPD-Q	39842856	PMC12290522	not open access		Bioactivity of the ubiquitous tire preservative 6PPD and degradant, 6PPD-quinone in fish- and mammalian-based assays
+10.1126/science.abd6951	Q104063640	6PPD;6PPD-Q	33273063		no full text		A ubiquitous tire rubber-derived chemical induces acute mortality in coho salmon
+10.2324/gomu.92.3	Q128028376	6PPD			not in Europe PMC		Influence of Surface Migration of 6PPD as an Amine Type Antioxidant on Ozone Resistance of Vulcanized Rubber
+10.3390/toxics13121076			41441297	PMC12737381	exists	PMC12737381.xml	Advances in Analytical Determination Methods and Toxicity and Health Risk Assessment of 6PPD and Its Transformation Products in Food.

@@ -70,7 +70,8 @@ index: index.html
 # It has two tabs: the articles and the pathways (one for every GPML file).
 # The About column lists the resources of resources.tsv, with the ELIXIR logo
 # when there is a file images/elixir-logo.svg (or .png, .jpg, .webp).
-index.html: $(HTML) $(GPML) make_index.py resources.tsv $(wildcard $(LITERATURE)/seeds.tsv $(PATHWAY) $(SVG) $(SBML) images/elixir-logo.*)
+# An article in hidden_articles.tsv keeps its page but is not listed.
+index.html: $(HTML) $(GPML) make_index.py resources.tsv hidden_articles.tsv $(wildcard $(LITERATURE)/seeds.tsv $(PATHWAY) $(SVG) $(SBML) images/elixir-logo.*)
 	$(PYTHON) make_index.py $(HTML) --gpml $(GPML) --seeds $(LITERATURE)/seeds.tsv --out $@
 
 # Labels of all ontology terms on ExpoPortal, and the ChEBI structures.

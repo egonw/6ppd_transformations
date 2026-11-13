@@ -98,10 +98,11 @@ def find_seed_articles(compounds):
     """Return {DOI: article dict} for articles with a compound as main subject."""
     values = " ".join(f"wd:{qid}" for qid in compounds)
     query = f"""
-        SELECT DISTINCT ?article ?doi ?compound WHERE {{
+        SELECT DISTINCT ?article ?doi ?compound ?title (LANG(?title) AS ?lang) WHERE {{
           VALUES ?compound {{ {values} }}
           ?article wdt:P921 ?compound ;
                    wdt:P356 ?doi .
+          OPTIONAL {{ ?article rdfs:label ?title }}
         }}"""
     articles = {}
     for row in sparql(WDQS_SCHOLARLY, query):
@@ -110,7 +111,14 @@ def find_seed_articles(compounds):
             "doi": doi,
             "wikidata": row["article"]["value"].rsplit("/", 1)[-1],
             "subjects": set(),
+            "title": "", "title_lang": None,
         })
+        # the label of the item is the title: English first, then "mul", then any
+        if "title" in row:
+            lang = row.get("lang", {}).get("value", "")
+            rank = {"en": 0, "mul": 1}.get(lang, 2)
+            if article["title_lang"] is None or rank < article["title_lang"]:
+                article["title"], article["title_lang"] = row["title"]["value"], rank
         article["subjects"].add(
             compounds[row["compound"]["value"].rsplit("/", 1)[-1]])
     return articles
@@ -178,7 +186,7 @@ def main():
         added = 0
         for doi in read_extra_dois(args.extra):
             if doi not in articles:
-                articles[doi] = {"doi": doi, "wikidata": "", "subjects": set()}
+                articles[doi] = {"doi": doi, "wikidata": "", "subjects": set(), "title": ""}
                 added += 1
         print(f"Added {added} articles from {args.extra}")
 
@@ -188,8 +196,11 @@ def main():
     for doi in sorted(articles):
         article = articles[doi]
         pmid = pmcid = filename = ""
+        title = article.get("title", "")
         try:
             record = europepmc_lookup(doi)
+            if record and not title:
+                title = record.get("title", "")
             if record is None:
                 status = "not in Europe PMC"
             else:
@@ -217,13 +228,13 @@ def main():
         print(f"  {doi}: {status}{' ' + filename if filename else ''}")
         rows.append([doi, article["wikidata"],
                      ";".join(sorted(article["subjects"])),
-                     pmid, pmcid, status, filename])
+                     pmid, pmcid, status, filename, " ".join(title.split())])
         time.sleep(args.delay)
 
-    with open(args.outdir / "seeds.tsv", "w", newline="") as handle:
+    with open(args.outdir / "seeds.tsv", "w", newline="", encoding="utf-8") as handle:
         writer = csv.writer(handle, delimiter="\t", lineterminator="\n")
         writer.writerow(["doi", "wikidata", "main_subjects", "pmid", "pmcid",
-                         "status", "file"])
+                         "status", "file", "title"])
         writer.writerows(rows)
 
     print("Summary: " + ", ".join(f"{n} {s}" for s, n in counts.items() if n))

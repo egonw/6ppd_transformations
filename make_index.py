@@ -5,6 +5,9 @@ Literature  for every annotated page (made by annotate_jats.py): title,
             authors, journal, year, DOI and the number of highlighted terms.
             These are read from the page itself. The main subjects (6PPD,
             6PPD-Q) come from literature/seeds.tsv when that file is there.
+            An article in hidden_articles.tsv keeps its page but is not
+            listed. Below the list: the seed articles of seeds.tsv that have
+            no page, because Europe PMC has no (open access) full text.
 Pathways    for every GPML file: its name and a short summary (metabolites,
             enzymes, conversions, species, supporting sentences, references),
             read from the GPML. Links to the pathway page (made by
@@ -76,6 +79,13 @@ li h2 a:hover,li h2 a:focus{text-decoration:underline}
 .tag.ev{background:var(--ev)}
 .tag.subject,.tag.species{border:1px solid var(--line);border-radius:10px;padding:0 8px}
 .tag.species{font-style:italic}
+.notin{margin-top:32px;padding-top:16px;border-top:2px solid var(--line)}
+.notin h2{font-size:17px;margin:0 0 4px}
+.notin h3{font-size:14px;margin:14px 0 4px}
+.notin .n{font-weight:400;color:var(--muted);font-size:13px}
+ul.missing{list-style:none;margin:0;padding:0}
+ul.missing li{padding:5px 0;border:0;font-size:14px;color:var(--muted);line-height:1.45;overflow-wrap:anywhere}
+ul.missing .t{color:var(--fg)}
 .thumb{display:block;margin:8px 0 0;width:100%;height:auto;border:1px solid var(--line);border-radius:8px;background:#fff}
 """
 
@@ -131,13 +141,51 @@ def read_page(path):
     }
 
 
-def read_subjects(path):
-    """DOI (lower case) -> list of main subjects, from seeds.tsv."""
-    if not path.exists():
-        return {}
+def read_tsv(path):
+    """The lines of a TSV file as dicts; lines that start with # are comments."""
+    if not path or not path.exists():
+        return []
     with open(path, encoding="utf-8", newline="") as handle:
-        return {row["doi"].lower(): [s for s in row["main_subjects"].split(";") if s]
-                for row in csv.DictReader(handle, delimiter="\t")}
+        lines = [line for line in handle if line.strip() and not line.startswith("#")]
+    return list(csv.DictReader(lines, delimiter="\t", quoting=csv.QUOTE_NONE))
+
+
+# status in seeds.tsv -> why the article has no page
+NO_FULL_TEXT = {
+    "no full text": "In Europe PMC, but without full text",
+    "not open access": "Full text in Europe PMC, but not open access",
+    "not in Europe PMC": "Not in Europe PMC",
+}
+
+
+def missing_panel(seeds):
+    """The seed articles that have no page, grouped by the reason."""
+    parts, total = [], 0
+    for status, reason in NO_FULL_TEXT.items():
+        rows = sorted((r for r in seeds if r["status"] == status),
+                      key=lambda r: (r.get("title") or r["doi"]).lower())
+        if not rows:
+            continue
+        total += len(rows)
+        items = []
+        for r in rows:
+            title = esc(r.get("title") or r["doi"])
+            links = [f'<a href="https://doi.org/{esc(r["doi"])}" rel="noopener">doi:{esc(r["doi"])}</a>']
+            if r.get("pmid"):
+                links.append(f'<a href="https://europepmc.org/article/MED/{esc(r["pmid"])}" rel="noopener">Europe PMC</a>')
+            if r.get("wikidata"):
+                links.append(f'<a href="https://www.wikidata.org/wiki/{esc(r["wikidata"])}" rel="noopener">Wikidata</a>')
+            tags = " ".join(f'<span class="tag subject">{esc(s)}</span>'
+                            for s in r["main_subjects"].split(";") if s)
+            items.append(f'<li><span class="t">{title}</span> {tags}<br>{" · ".join(links)}</li>')
+        parts.append(f'<h3>{esc(reason)} <span class="n">{len(rows)}</span></h3>'
+                     f'<ul class="missing">{"".join(items)}</ul>')
+    if not parts:
+        return ""
+    return (f'<section class="notin"><h2>Seed articles without a page <span class="n">{total}</span></h2>'
+            '<p class="intro">These articles are in the seeds, but are not annotated here because '
+            'Europe PMC does not offer their full text as open access XML.</p>'
+            + "".join(parts) + "</section>")
 
 
 def read_gpml(path):
@@ -165,7 +213,7 @@ def read_gpml(path):
     }
 
 
-def literature_panel(articles, subjects, href):
+def literature_panel(articles, subjects, href, missing=""):
     rows = []
     for a in articles:
         tags = [f'<span class="tag subject">{esc(s)}</span>' for s in subjects.get(a["doi"].lower(), [])]
@@ -187,8 +235,8 @@ def literature_panel(articles, subjects, href):
              '<span class="tag ont">other ontology terms on ExpoPortal</span> and the '
              '<span class="tag ev">sentences that support a pathway</span> are highlighted.</p>')
     if not rows:
-        return intro + "<p>No annotated articles yet: run <code>make annotate</code>.</p>"
-    return intro + "<ol>\n" + "\n".join(rows) + "\n</ol>"
+        return intro + "<p>No annotated articles yet: run <code>make annotate</code>.</p>" + missing
+    return intro + "<ol>\n" + "\n".join(rows) + "\n</ol>" + missing
 
 
 def pathways_panel(pathways, href):
@@ -256,6 +304,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("pages", nargs="*", type=Path, help="annotated HTML pages")
     parser.add_argument("--gpml", nargs="*", default=[], type=Path, help="GPML files of the pathways")
+    parser.add_argument("--hidden", type=Path, default=Path("hidden_articles.tsv"),
+                        help="TSV file with the articles (pmcid) that are not listed")
     parser.add_argument("--resources", type=Path, default=Path("resources.tsv"),
                         help="TSV file with the resources for the About column")
     parser.add_argument("--logo", type=Path,
@@ -277,7 +327,11 @@ def main():
         logo = found[0] if found else None
     elif not logo.exists():
         sys.exit(f"{logo} not found")
-    articles = sorted((read_page(p) for p in args.pages), key=lambda a: a["title"].lower())
+    hidden = {row["pmcid"] for row in read_tsv(args.hidden)}
+    seeds = read_tsv(args.seeds)
+    subjects = {row["doi"].lower(): [s for s in row["main_subjects"].split(";") if s] for row in seeds}
+    articles = sorted((read_page(p) for p in args.pages if p.stem not in hidden),
+                      key=lambda a: a["title"].lower())
     # one pathway for every GPML file
     pathways = sorted((read_gpml(p) for p in {p.resolve(): p for p in args.gpml}.values()),
                       key=lambda p: p["name"].lower())
@@ -300,7 +354,7 @@ def main():
 </header>
 <main>
 <section role="tabpanel" id="literature" aria-labelledby="tab-literature">
-{literature_panel(articles, read_subjects(args.seeds), href)}
+{literature_panel(articles, subjects, href, missing_panel(seeds))}
 </section>
 <section role="tabpanel" id="pathways" aria-labelledby="tab-pathways" hidden>
 {pathways_panel(pathways, href)}
@@ -315,6 +369,8 @@ def main():
 </html>
 """
     args.out.write_text(page, encoding="utf-8")
+    if hidden:
+        print(f"not listed: {', '.join(sorted(hidden))}", file=sys.stderr)
     print(f"{plural(len(articles), 'article')} and {plural(len(pathways), 'pathway')} "
           f"listed in {args.out}", file=sys.stderr)
 

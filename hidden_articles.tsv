@@ -1,0 +1,4 @@
+# Articles that have a page in literature/ but are not listed on the index page.
+# Columns (tab-separated): pmcid, reason.
+pmcid	reason
+PMC10958650	correction to PMC10655589, not an article of its own
