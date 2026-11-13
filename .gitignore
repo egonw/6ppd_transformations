@@ -1,0 +1,5 @@
+cache/
+__pycache__/
+background/
+derby.log
+pathvisio-3.3.0-official.jar
