@@ -368,8 +368,9 @@ def main():
 </head>
 <body data-depict="{esc(DEPICT)}">
 <header><h1>{esc(title)}</h1>
+<span><a href="{esc(args.index)}#pathways">All pathways</a></span>
 <span>{n_conversions} conversions, supported by {n_sentences} sentences in the
-<a href="{esc(args.index)}">annotated articles</a>.
+<a href="{esc(args.index)}#literature">annotated articles</a>.
 Hover or focus a node or a line to see its structure, species and supporting sentences; click to keep the popup open.</span></header>
 <div id="scroll">
 <div id="map" style="width:{width:g}px;height:{height:g}px">

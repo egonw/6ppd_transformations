@@ -7,7 +7,8 @@
 #                     ChEBI (green) highlighted. Runs one article per job:
 #                     make -j4 annotate
 #                     Terms in local_terms.tsv are added to those of ExpoPortal.
-#                     Also writes index.html, the list of these pages.
+#                     Also writes index.html, with the list of these pages and
+#                     the list of pathways.
 #   make index        only write index.html again
 #   make sbml         convert every GPML file in the root folder to SBML with
 #                     the MINERVA conversion service (sends the file there)
@@ -66,8 +67,9 @@ annotate: $(HTML) index.html
 index: index.html
 
 # The list of annotated pages, in the root folder.
-index.html: $(HTML) make_index.py $(wildcard $(LITERATURE)/seeds.tsv)
-	$(PYTHON) make_index.py $(HTML) --seeds $(LITERATURE)/seeds.tsv --pathways $(PATHWAY) --out $@
+# It has two tabs: the articles and the pathways (one for every GPML file).
+index.html: $(HTML) $(GPML) make_index.py $(wildcard $(LITERATURE)/seeds.tsv $(PATHWAY) $(SVG) $(SBML))
+	$(PYTHON) make_index.py $(HTML) --gpml $(GPML) --seeds $(LITERATURE)/seeds.tsv --out $@
 
 # Labels of all ontology terms on ExpoPortal, and the ChEBI structures.
 cache:
@@ -100,7 +102,9 @@ svg: $(SVG)
 	curl --fail --silent --show-error -H "Content-Type: application/octet-stream" \
 		-X POST --data-binary @$< $(MINERVA)/image/SBML:svg > $@
 
+# The index links to the pathway page, so it is written again afterwards.
 pathway: $(PATHWAY)
+	@$(MAKE) --no-print-directory index.html
 
 # The pathway page: the SVG with a popup for every node and interaction. The
 # articles are order-only: their pages only have to be there for the links.
