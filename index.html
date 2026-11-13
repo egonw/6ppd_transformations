@@ -8,8 +8,19 @@
 :root{--bg:#fff;--fg:#1c1c1a;--muted:#6b6b66;--line:#dcdcd4;--accent:#1d5fa8;--ont:#e2e4e8;--chem:#c4ecca;--ev:rgba(255,214,0,.42)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}
-header,main{max-width:892px;margin:0 auto;padding:16px}
-header{padding-bottom:0}
+.layout{max-width:1240px;margin:0 auto;padding:16px;display:grid;grid-template-columns:minmax(0,1fr) 290px;gap:0 40px}
+header{grid-column:1/-1}
+main{min-width:0;padding-top:16px}
+aside{padding-top:16px;font-size:14px}
+aside h2{font-size:17px;margin:0 0 8px}
+aside h3{font-size:13px;margin:16px 0 4px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+aside ul{list-style:none;margin:0;padding:0}
+aside ul li{padding:3px 0;border:0;color:var(--muted);line-height:1.4}
+aside ul li a{font-weight:600}
+aside .logo{display:block;margin:0 0 6px}
+aside .logo img{display:block;max-width:150px;max-height:90px;height:auto}
+aside .project{margin:0 0 4px;color:var(--muted)}
+@media (max-width:900px){.layout{grid-template-columns:minmax(0,1fr)}aside{border-top:1px solid var(--line);margin-top:24px}}
 h1{font-size:24px;line-height:1.3;margin:0 0 12px}
 [role=tablist]{display:flex;gap:4px;border-bottom:1px solid var(--line)}
 [role=tab]{font:inherit;color:var(--muted);background:none;border:0;border-bottom:3px solid transparent;
@@ -39,6 +50,7 @@ li h2 a:hover,li h2 a:focus{text-decoration:underline}
 </style>
 </head>
 <body>
+<div class="layout">
 <header>
 <h1>6PPD and 6PPD-quinone: literature and pathways</h1>
 <div role="tablist" aria-label="Content">
@@ -64,6 +76,14 @@ li h2 a:hover,li h2 a:focus{text-decoration:underline}
 </ol>
 </section>
 </main>
+<aside aria-label="About">
+<h2>About</h2>
+<p class="project">Made in <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md">ELIXIR BioHackathon Europe 2026, project 19</a>.</p>
+<h3>Data sources</h3><ul><li><a href="https://www.wikidata.org/">Wikidata</a>: seed articles with 6PPD or 6PPD-quinone as main subject, identifiers and SMILES of compounds</li><li><a href="https://europepmc.org/">Europe PMC</a>: full text of the open access articles</li><li><a href="https://expoportal.biohackeu.bigcat-bioinformatics.org">ExpoPortal</a>: labels and synonyms of the terms of its ontologies</li><li><a href="https://www.ebi.ac.uk/chebi/">ChEBI</a>: chemical structures, as loaded on ExpoPortal</li></ul>
+<h3>Software and services</h3><ul><li><a href="https://github.com/BlueObelisk/oscar4">OSCAR4</a>: finding chemical names in the text</li><li><a href="https://opsin.ch.cam.ac.uk/">OPSIN</a>: turning chemical names into structures</li><li><a href="https://cdk.github.io/">Chemistry Development Kit</a>: reading SMILES and CXSMILES, InChIKeys</li><li><a href="https://github.com/egonw/bacting">Bacting</a>: running OSCAR4, OPSIN and the CDK from Groovy</li><li><a href="https://cdkdepict.toolforge.org/">CDK Depict</a>: drawing the structures in the popups</li><li><a href="https://pathvisio.org/">PathVisio</a>: drawing and editing the pathway</li><li><a href="https://minerva.pages.uni.lu/doc/">MINERVA</a>: converting GPML to SBML and SBML to SVG</li><li><a href="https://www.anthropic.com/claude">Claude</a>: writing the scripts, and finding the conversions and supporting sentences in the articles</li></ul>
+<h3>Data standards</h3><ul><li><a href="https://jats.nlm.nih.gov/">JATS</a>: the articles</li><li><a href="https://github.com/PathVisio/GPML">GPML</a>: the pathways</li><li><a href="https://sbml.org/">SBML</a>: the pathways, as made by MINERVA</li></ul>
+</aside>
+</div>
 <script>
 const tabs = [...document.querySelectorAll('[role=tab]')];
 function select(tab, focus){

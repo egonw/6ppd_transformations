@@ -11,6 +11,11 @@ Pathways    for every GPML file: its name and a short summary (metabolites,
             make_pathway_html.py) and to the SBML and SVG files next to the
             GPML, when they are there.
 
+About       a column on the right with the resources that were used
+            (resources.tsv) and the ELIXIR logo, which links to the
+            BioHackathon project. The logo is the first file images/elixir-logo.*
+            that is there (svg, png, jpg or webp); without one, the link is text.
+
 Usage: python3 make_index.py literature/PMC*.html --gpml *.gpml --out index.html
 """
 
@@ -26,12 +31,26 @@ from pathlib import Path
 GPML = "{http://pathvisio.org/GPML/2013a}"
 BP = "{http://www.biopax.org/release/biopax-level3.owl#}"
 
+PROJECT_URL = "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md"
+PROJECT_NAME = "ELIXIR BioHackathon Europe 2026, project 19"
+
 PAGE_CSS = """
 :root{--bg:#fff;--fg:#1c1c1a;--muted:#6b6b66;--line:#dcdcd4;--accent:#1d5fa8;--ont:#e2e4e8;--chem:#c4ecca;--ev:rgba(255,214,0,.42)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}
-header,main{max-width:892px;margin:0 auto;padding:16px}
-header{padding-bottom:0}
+.layout{max-width:1240px;margin:0 auto;padding:16px;display:grid;grid-template-columns:minmax(0,1fr) 290px;gap:0 40px}
+header{grid-column:1/-1}
+main{min-width:0;padding-top:16px}
+aside{padding-top:16px;font-size:14px}
+aside h2{font-size:17px;margin:0 0 8px}
+aside h3{font-size:13px;margin:16px 0 4px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+aside ul{list-style:none;margin:0;padding:0}
+aside ul li{padding:3px 0;border:0;color:var(--muted);line-height:1.4}
+aside ul li a{font-weight:600}
+aside .logo{display:block;margin:0 0 6px}
+aside .logo img{display:block;max-width:150px;max-height:90px;height:auto}
+aside .project{margin:0 0 4px;color:var(--muted)}
+@media (max-width:900px){.layout{grid-template-columns:minmax(0,1fr)}aside{border-top:1px solid var(--line);margin-top:24px}}
 h1{font-size:24px;line-height:1.3;margin:0 0 12px}
 [role=tablist]{display:flex;gap:4px;border-bottom:1px solid var(--line)}
 [role=tab]{font:inherit;color:var(--muted);background:none;border:0;border-bottom:3px solid transparent;
@@ -207,10 +226,40 @@ def pathways_panel(pathways, href):
     return intro + "<ol>\n" + "\n".join(rows) + "\n</ol>"
 
 
+def about_panel(resources, logo, href):
+    """The column on the right: the project, its logo and the resources."""
+    if logo:
+        project = (f'<a class="logo" href="{PROJECT_URL}"><img src="{esc(href(logo))}" alt="ELIXIR"></a>'
+                   f'<p class="project">Made in <a href="{PROJECT_URL}">{PROJECT_NAME}</a>.</p>')
+    else:
+        project = f'<p class="project">Made in <a href="{PROJECT_URL}">{PROJECT_NAME}</a>.</p>'
+    groups = {}
+    for row in resources:
+        groups.setdefault(row["group"], []).append(row)
+    parts = ["<h2>About</h2>", project]
+    for group, rows in groups.items():
+        items = "".join(f'<li><a href="{esc(r["url"])}">{esc(r["name"])}</a>: {esc(r["used_for"])}</li>'
+                        for r in rows)
+        parts.append(f"<h3>{esc(group)}</h3><ul>{items}</ul>")
+    return "\n".join(parts)
+
+
+def read_resources(path):
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8", newline="") as handle:
+        lines = [line for line in handle if line.strip() and not line.startswith("#")]
+    return list(csv.DictReader(lines, delimiter="\t", quoting=csv.QUOTE_NONE))
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("pages", nargs="*", type=Path, help="annotated HTML pages")
     parser.add_argument("--gpml", nargs="*", default=[], type=Path, help="GPML files of the pathways")
+    parser.add_argument("--resources", type=Path, default=Path("resources.tsv"),
+                        help="TSV file with the resources for the About column")
+    parser.add_argument("--logo", type=Path,
+                        help="ELIXIR logo (default: the first images/elixir-logo.* that is there)")
     parser.add_argument("--out", type=Path, default=Path("index.html"))
     parser.add_argument("--seeds", type=Path, default=Path("literature/seeds.tsv"),
                         help="overview written by fetch_seed_articles.py")
@@ -221,6 +270,13 @@ def main():
     def href(path):
         return Path(os.path.relpath(path.resolve(), out_dir)).as_posix()
 
+    logo = args.logo
+    if logo is None:
+        found = [p for ext in ("svg", "png", "jpg", "webp")
+                 for p in [out_dir / "images" / f"elixir-logo.{ext}"] if p.exists()]
+        logo = found[0] if found else None
+    elif not logo.exists():
+        sys.exit(f"{logo} not found")
     articles = sorted((read_page(p) for p in args.pages), key=lambda a: a["title"].lower())
     # one pathway for every GPML file
     pathways = sorted((read_gpml(p) for p in {p.resolve(): p for p in args.gpml}.values()),
@@ -234,6 +290,7 @@ def main():
 <style>{PAGE_CSS}</style>
 </head>
 <body>
+<div class="layout">
 <header>
 <h1>6PPD and 6PPD-quinone: literature and pathways</h1>
 <div role="tablist" aria-label="Content">
@@ -249,6 +306,10 @@ def main():
 {pathways_panel(pathways, href)}
 </section>
 </main>
+<aside aria-label="About">
+{about_panel(read_resources(args.resources), logo, href)}
+</aside>
+</div>
 <script>{PAGE_JS}</script>
 </body>
 </html>

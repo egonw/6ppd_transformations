@@ -1,0 +1,18 @@
+# Resources that were used to make these pages; shown in the "About" column of index.html.
+# Columns (tab-separated): group, name, url, used_for. The groups are shown in the order of this file.
+group	name	url	used_for
+Data sources	Wikidata	https://www.wikidata.org/	seed articles with 6PPD or 6PPD-quinone as main subject, identifiers and SMILES of compounds
+Data sources	Europe PMC	https://europepmc.org/	full text of the open access articles
+Data sources	ExpoPortal	https://expoportal.biohackeu.bigcat-bioinformatics.org	labels and synonyms of the terms of its ontologies
+Data sources	ChEBI	https://www.ebi.ac.uk/chebi/	chemical structures, as loaded on ExpoPortal
+Software and services	OSCAR4	https://github.com/BlueObelisk/oscar4	finding chemical names in the text
+Software and services	OPSIN	https://opsin.ch.cam.ac.uk/	turning chemical names into structures
+Software and services	Chemistry Development Kit	https://cdk.github.io/	reading SMILES and CXSMILES, InChIKeys
+Software and services	Bacting	https://github.com/egonw/bacting	running OSCAR4, OPSIN and the CDK from Groovy
+Software and services	CDK Depict	https://cdkdepict.toolforge.org/	drawing the structures in the popups
+Software and services	PathVisio	https://pathvisio.org/	drawing and editing the pathway
+Software and services	MINERVA	https://minerva.pages.uni.lu/doc/	converting GPML to SBML and SBML to SVG
+Software and services	Claude	https://www.anthropic.com/claude	writing the scripts, and finding the conversions and supporting sentences in the articles
+Data standards	JATS	https://jats.nlm.nih.gov/	the articles
+Data standards	GPML	https://github.com/PathVisio/GPML	the pathways
+Data standards	SBML	https://sbml.org/	the pathways, as made by MINERVA
