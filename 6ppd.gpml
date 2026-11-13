@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="6PPD transformations" Version="20261112" Organism="Homo sapiens">
-  <Graphics BoardWidth="513.0" BoardHeight="445.5" />
+  <Graphics BoardWidth="1275.0" BoardHeight="792.5" />
   <DataNode TextLabel="6PPD-quinone" GraphId="d076d" Type="Metabolite">
     <Graphics CenterX="172.0" CenterY="337.0" Width="120.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="Wikidata" ID="Q122709782" />
@@ -32,6 +32,146 @@
     <Graphics CenterX="290.0" CenterY="302.0" Width="50.0" Height="25.0" ZOrder="32774" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="Wikidata" ID="Q171877" />
   </DataNode>
+  <DataNode TextLabel="6QDI" GraphId="n6qdi" Type="Metabolite">
+    <Comment Source="SMILES">CC(C)CC(C)N=C1C=CC(=Nc2ccccc2)C=C1</Comment>
+    <Comment>N-(1,3-dimethylbutyl)-N'-phenyl-p-quinonediimine, C18H22N2.</Comment>
+    <Graphics CenterX="560.0" CenterY="20.0" Width="150.0" Height="25.0" ZOrder="32801" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q126611071" />
+  </DataNode>
+  <DataNode TextLabel="cysteinyl-6PPD" GraphId="ncys" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)Nc1ccc(Nc2ccccc2)cc1.*SCC(N)C(=O)O |m:20:8.9.13.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6DTP388, C21H29N3O2S): cysteine bound by its sulfur; the position is not known: any aromatic C-H.</Comment>
+    <Graphics CenterX="560.0" CenterY="110.0" Width="150.0" Height="25.0" ZOrder="32802" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="6PPD N-glucoside" GraphId="nglc" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)Nc1ccc(Nc2ccccc2)cc1.*C1OC(CO)C(O)C(O)C1O |m:20:6.11|</Comment>
+    <Comment>Markush structure (6DTP431, C24H34N2O5): glucose on either of the two nitrogen atoms.</Comment>
+    <Graphics CenterX="560.0" CenterY="200.0" Width="150.0" Height="25.0" ZOrder="32803" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="6PPD N-glucoside-6-phosphate" GraphId="nglcp" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)Nc1ccc(Nc2ccccc2)cc1.*C1OC(COP(=O)(O)O)C(O)C(O)C1O |m:20:6.11|</Comment>
+    <Comment>Markush structure (6DTP511, two isomers, C24H35N2O8P): glucose 6-phosphate on either of the two nitrogen atoms.</Comment>
+    <Graphics CenterX="860.0" CenterY="200.0" Width="200.0" Height="25.0" ZOrder="32804" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="4-HDPA" GraphId="n4hdpa" Type="Metabolite">
+    <Comment Source="SMILES">Oc1ccc(Nc2ccccc2)cc1</Comment>
+    <Comment>4-hydroxydiphenylamine (6DTP186, C12H11NO).</Comment>
+    <Graphics CenterX="560.0" CenterY="285.0" Width="150.0" Height="25.0" ZOrder="32805" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="Wikidata" ID="Q27274191" />
+  </DataNode>
+  <DataNode TextLabel="4-HDPA N-glucoside" GraphId="nhglc" Type="Metabolite">
+    <Comment Source="SMILES">Oc1ccc(N(c2ccccc2)C2OC(CO)C(O)C(O)C2O)cc1</Comment>
+    <Comment>6DTP348 (two isomers, C18H21NO6).</Comment>
+    <Graphics CenterX="840.0" CenterY="285.0" Width="160.0" Height="25.0" ZOrder="32806" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="4-HDPA N-glucoside-6-phosphate" GraphId="nhglcp" Type="Metabolite">
+    <Comment Source="SMILES">Oc1ccc(N(c2ccccc2)C2OC(COP(=O)(O)O)C(O)C(O)C2O)cc1</Comment>
+    <Comment>6DTP428 (two isomers, C18H22NO9P).</Comment>
+    <Graphics CenterX="1130.0" CenterY="285.0" Width="210.0" Height="25.0" ZOrder="32807" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="2-hydroxy-5-phenylamino-1,4-quinone" GraphId="nhpq" Type="Metabolite">
+    <Comment Source="SMILES">O=C1C=C(Nc2ccccc2)C(=O)C=C1O</Comment>
+    <Comment>6QTP218. The SMILES follows the name in the article (C12H9NO3). The mass in the article (217.0739, C12H11NO3) fits the reduced form, Oc1cc(O)c(Nc2ccccc2)cc1O; the article describes hydrolysis and reduction of the quinone carbonyl, possibly by a quinone reductase.</Comment>
+    <Graphics CenterX="520.0" CenterY="370.0" Width="240.0" Height="25.0" ZOrder="32808" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="monohydroxy 6PPD-Q" GraphId="nqoh" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP315, three isomers, C18H22N2O3): one hydroxyl group; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="172.0" CenterY="450.0" Width="160.0" Height="25.0" ZOrder="32809" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="methoxy 6PPD-Q" GraphId="nqome" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*OC |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP329, two isomers, C19H24N2O3): one methoxy group; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="90.0" CenterY="600.0" Width="150.0" Height="25.0" ZOrder="32810" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="hydroxy 6PPD-Q O-glucuronide" GraphId="nqglcu" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*OC1OC(C(=O)O)C(O)C(O)C1O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure ("6PPD-Q + O + glucuronic acid", C24H30N2O9): glucuronide of monohydroxy 6PPD-Q; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="330.0" CenterY="600.0" Width="200.0" Height="25.0" ZOrder="32811" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="dihydroxy 6PPD-Q" GraphId="nqoh2" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*O.*O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19,m:24:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP331, two isomers, C18H22N2O4): two hydroxyl groups; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="570.0" CenterY="600.0" Width="150.0" Height="25.0" ZOrder="32812" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="6PPD-Q O-glucoside" GraphId="nqglc" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*OC1OC(CO)C(O)C(O)C1O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP477, two isomers): the mass in the article (476.2159, C24H32N2O8) is that of a glucoside of monohydroxy 6PPD-Q; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="810.0" CenterY="600.0" Width="150.0" Height="25.0" ZOrder="32813" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="6PPD-Q phosphoryl" GraphId="nqp" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*OP(=O)(O)O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP395, two isomers, C18H23N2O6P): the formula is that of a phosphate ester of monohydroxy 6PPD-Q; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="1050.0" CenterY="600.0" Width="150.0" Height="25.0" ZOrder="32814" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="monohydroxy 6PPD-Q O-glucoside" GraphId="nqohglc" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*O.*OC1OC(CO)C(O)C(O)C1O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19,m:24:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP493, C24H32N2O9): glucoside of dihydroxy 6PPD-Q; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="440.0" CenterY="740.0" Width="220.0" Height="25.0" ZOrder="32815" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="monohydroxy 6PPD-Q phosphoryl" GraphId="nqohp" Type="Metabolite">
+    <Comment Source="CXSMILES">CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O.*O.*OP(=O)(O)O |m:22:0.1.2.3.4.5.8.14.15.16.17.18.19,m:24:0.1.2.3.4.5.8.14.15.16.17.18.19|</Comment>
+    <Comment>Markush structure (6QTP411, C18H23N2O7P): phosphate ester of dihydroxy 6PPD-Q; the position is not known: any C-H of the alkyl chain, the quinone ring or the phenyl ring.</Comment>
+    <Graphics CenterX="700.0" CenterY="740.0" Width="220.0" Height="25.0" ZOrder="32816" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GST" GraphId="e39903" Type="GeneProduct">
+    <Graphics CenterX="404.0" CenterY="131.0" Width="50.0" Height="20.0" ZOrder="32817" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GGT" GraphId="e2243c" Type="GeneProduct">
+    <Graphics CenterX="401.0" CenterY="92.0" Width="50.0" Height="20.0" ZOrder="32818" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="UGT" GraphId="ee5851" Type="GeneProduct">
+    <Graphics CenterX="411.0" CenterY="188.0" Width="50.0" Height="20.0" ZOrder="32819" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="HK" GraphId="e5298c" Type="GeneProduct">
+    <Graphics CenterX="747.0" CenterY="229.0" Width="50.0" Height="20.0" ZOrder="32820" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="UGT" GraphId="ea2301" Type="GeneProduct">
+    <Graphics CenterX="747.0" CenterY="314.0" Width="50.0" Height="20.0" ZOrder="32821" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="HK" GraphId="edab2b" Type="GeneProduct">
+    <Graphics CenterX="1018.0" CenterY="314.0" Width="50.0" Height="20.0" ZOrder="32822" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="CYP" GraphId="e7e840" Type="GeneProduct">
+    <Graphics CenterX="210.0" CenterY="411.0" Width="50.0" Height="20.0" ZOrder="32823" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="OMT" GraphId="e12935" Type="GeneProduct">
+    <Graphics CenterX="153.0" CenterY="550.0" Width="50.0" Height="20.0" ZOrder="32824" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="CYP" GraphId="eb1d9d" Type="GeneProduct">
+    <Graphics CenterX="464.0" CenterY="586.0" Width="50.0" Height="20.0" ZOrder="32825" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="UGT" GraphId="e21af6" Type="GeneProduct">
+    <Graphics CenterX="586.0" CenterY="569.0" Width="50.0" Height="20.0" ZOrder="32826" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="UGT" GraphId="edb5b6" Type="GeneProduct">
+    <Graphics CenterX="516.0" CenterY="700.0" Width="50.0" Height="20.0" ZOrder="32827" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <Interaction GraphId="id1a2b">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="172.0" Y="127.5" GraphRef="fe84a" RelX="0.0" RelY="1.0" />
@@ -41,6 +181,7 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="id3c4d">
+    <BiopaxRef>e0e</BiopaxRef>
     <Graphics ZOrder="12289" LineThickness="1.0">
       <Point X="172.0" Y="238.5" GraphRef="b3c51" RelX="0.0" RelY="1.0" />
       <Point X="172.0" Y="324.5" GraphRef="d076d" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
@@ -76,6 +217,296 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="i5395e">
+    <Comment>Oxidation with loss of two hydrogens (for example by persulfate); proposed as part of the route to the quinone. Also found in analytical standards of 6PPD.</Comment>
+    <BiopaxRef>e9d</BiopaxRef>
+    <BiopaxRef>bc6</BiopaxRef>
+    <Graphics ZOrder="12301" LineThickness="1.0">
+      <Point X="172.0" Y="102.5" GraphRef="fe84a" RelX="0.0" RelY="-1.0" />
+      <Point X="560.0" Y="32.5" GraphRef="n6qdi" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i6bedd">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment>Via a glutathione conjugate that is broken down to the cysteine conjugate.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12302" LineThickness="1.0">
+      <Point X="232.0" Y="115.0" GraphRef="fe84a" RelX="1.0" RelY="0.0" />
+      <Point X="485.0" Y="110.0" GraphRef="ncys" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.55" Shape="None" GraphId="a39903" />
+      <Anchor Position="0.8" Shape="None" GraphId="a2243c" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i9f6e8">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12303" LineThickness="1.0">
+      <Point X="172.0" Y="127.5" GraphRef="fe84a" RelX="0.0" RelY="1.0" />
+      <Point X="560.0" Y="187.5" GraphRef="nglc" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="ae5851" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="iade98">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12304" LineThickness="1.0">
+      <Point X="635.0" Y="200.0" GraphRef="nglc" RelX="1.0" RelY="0.0" />
+      <Point X="760.0" Y="200.0" GraphRef="nglcp" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="a5298c" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ib8b48">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment Source="Species">Danio rerio</Comment>
+    <Comment>Hydrolysis; also abiotic in water.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <BiopaxRef>e9d</BiopaxRef>
+    <Graphics ZOrder="12305" LineThickness="1.0">
+      <Point X="172.0" Y="127.5" GraphRef="fe84a" RelX="0.0" RelY="1.0" />
+      <Point X="560.0" Y="272.5" GraphRef="n4hdpa" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ife916">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12306" LineThickness="1.0">
+      <Point X="635.0" Y="285.0" GraphRef="n4hdpa" RelX="1.0" RelY="0.0" />
+      <Point X="760.0" Y="285.0" GraphRef="nhglc" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="aa2301" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i03fd1">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12307" LineThickness="1.0">
+      <Point X="920.0" Y="285.0" GraphRef="nhglc" RelX="1.0" RelY="0.0" />
+      <Point X="1025.0" Y="285.0" GraphRef="nhglcp" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="adab2b" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i1921c">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment Source="Species">Homo sapiens</Comment>
+    <Comment Source="Species">Rattus norvegicus</Comment>
+    <Comment Source="Species">Oncorhynchus mykiss</Comment>
+    <Comment Source="Species">Cyprinus carpio</Comment>
+    <Comment>In Homo sapiens, Rattus norvegicus, Oncorhynchus mykiss and Cyprinus carpio: in liver microsome incubations.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12308" LineThickness="1.0">
+      <Point X="232.0" Y="337.0" GraphRef="d076d" RelX="1.0" RelY="0.0" />
+      <Point X="520.0" Y="357.5" GraphRef="nhpq" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i1097d">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment Source="Species">Mus musculus</Comment>
+    <Comment Source="Species">Oncorhynchus mykiss</Comment>
+    <Comment Source="Species">Oncorhynchus kisutch</Comment>
+    <Comment>In Oncorhynchus mykiss: in liver cells (RTL-W1). In Oncorhynchus kisutch: suspected metabolite.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <BiopaxRef>eac</BiopaxRef>
+    <Graphics ZOrder="12309" LineThickness="1.0">
+      <Point X="172.0" Y="349.5" GraphRef="d076d" RelX="0.0" RelY="1.0" />
+      <Point X="172.0" Y="437.5" GraphRef="nqoh" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="a7e840" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i13d11">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment Source="Species">Oryza sativa</Comment>
+    <Comment Source="Species">Homo sapiens</Comment>
+    <Comment>In Homo sapiens: in vitro.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12310" LineThickness="1.0">
+      <Point X="172.0" Y="462.5" GraphRef="nqoh" RelX="0.0" RelY="1.0" />
+      <Point X="90.0" Y="587.5" GraphRef="nqome" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="a12935" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="iedcd3">
+    <Comment Source="Species">Danio rerio</Comment>
+    <Comment>In embryos; more than 80% of the transformation products.</Comment>
+    <BiopaxRef>e9d</BiopaxRef>
+    <Graphics ZOrder="12311" LineThickness="1.0">
+      <Point X="172.0" Y="462.5" GraphRef="nqoh" RelX="0.0" RelY="1.0" />
+      <Point X="330.0" Y="587.5" GraphRef="nqglcu" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd029">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12312" LineThickness="1.0">
+      <Point X="172.0" Y="462.5" GraphRef="nqoh" RelX="0.0" RelY="1.0" />
+      <Point X="570.0" Y="587.5" GraphRef="nqoh2" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="ab1d9d" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i50355">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12313" LineThickness="1.0">
+      <Point X="172.0" Y="462.5" GraphRef="nqoh" RelX="0.0" RelY="1.0" />
+      <Point X="810.0" Y="587.5" GraphRef="nqglc" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="a21af6" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i84446">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment>Described in the article as phosphorylation of 6PPD-Q.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12314" LineThickness="1.0">
+      <Point X="172.0" Y="462.5" GraphRef="nqoh" RelX="0.0" RelY="1.0" />
+      <Point X="1050.0" Y="587.5" GraphRef="nqp" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ic2e43">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12315" LineThickness="1.0">
+      <Point X="570.0" Y="612.5" GraphRef="nqoh2" RelX="0.0" RelY="1.0" />
+      <Point X="440.0" Y="727.5" GraphRef="nqohglc" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.7" Shape="None" GraphId="adb5b6" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="i2ecdf">
+    <Comment Source="Species">Caenorhabditis elegans</Comment>
+    <Comment>Described in the article as phosphorylation of monohydroxy 6PPD-Q.</Comment>
+    <BiopaxRef>fb4</BiopaxRef>
+    <Graphics ZOrder="12316" LineThickness="1.0">
+      <Point X="570.0" Y="612.5" GraphRef="nqoh2" RelX="0.0" RelY="1.0" />
+      <Point X="700.0" Y="727.5" GraphRef="nqohp" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c39903">
+    <Graphics ZOrder="12317" LineThickness="1.0">
+      <Point X="404.0" Y="121.0" GraphRef="e39903" RelX="0.0" RelY="-1.0" />
+      <Point X="371.1" Y="112.2" GraphRef="a39903" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c2243c">
+    <Graphics ZOrder="12318" LineThickness="1.0">
+      <Point X="401.0" Y="102.0" GraphRef="e2243c" RelX="0.0" RelY="1.0" />
+      <Point X="434.4" Y="111.0" GraphRef="a2243c" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ce5851">
+    <Graphics ZOrder="12319" LineThickness="1.0">
+      <Point X="411.0" Y="178.0" GraphRef="ee5851" RelX="0.0" RelY="-1.0" />
+      <Point X="443.6" Y="169.5" GraphRef="ae5851" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c5298c">
+    <Graphics ZOrder="12320" LineThickness="1.0">
+      <Point X="747.0" Y="219.0" GraphRef="e5298c" RelX="0.0" RelY="-1.0" />
+      <Point X="722.5" Y="200.0" GraphRef="a5298c" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ca2301">
+    <Graphics ZOrder="12321" LineThickness="1.0">
+      <Point X="747.0" Y="304.0" GraphRef="ea2301" RelX="0.0" RelY="-1.0" />
+      <Point X="722.5" Y="285.0" GraphRef="aa2301" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="cdab2b">
+    <Graphics ZOrder="12322" LineThickness="1.0">
+      <Point X="1018.0" Y="304.0" GraphRef="edab2b" RelX="0.0" RelY="-1.0" />
+      <Point X="993.5" Y="285.0" GraphRef="adab2b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c7e840">
+    <Graphics ZOrder="12323" LineThickness="1.0">
+      <Point X="185.0" Y="411.0" GraphRef="e7e840" RelX="-1.0" RelY="0.0" />
+      <Point X="172.0" Y="411.1" GraphRef="a7e840" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c12935">
+    <Graphics ZOrder="12324" LineThickness="1.0">
+      <Point X="128.0" Y="550.0" GraphRef="e12935" RelX="-1.0" RelY="0.0" />
+      <Point X="114.6" Y="550.0" GraphRef="a12935" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="cb1d9d">
+    <Graphics ZOrder="12325" LineThickness="1.0">
+      <Point X="464.0" Y="576.0" GraphRef="eb1d9d" RelX="0.0" RelY="-1.0" />
+      <Point X="450.6" Y="550.0" GraphRef="ab1d9d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c21af6">
+    <Graphics ZOrder="12326" LineThickness="1.0">
+      <Point X="586.0" Y="559.0" GraphRef="e21af6" RelX="0.0" RelY="-1.0" />
+      <Point X="618.6" Y="550.0" GraphRef="a21af6" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="cdb5b6">
+    <Graphics ZOrder="12327" LineThickness="1.0">
+      <Point X="491.0" Y="700.0" GraphRef="edb5b6" RelX="-1.0" RelY="0.0" />
+      <Point X="479.0" Y="693.0" GraphRef="adb5b6" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <InfoBox CenterX="0.0" CenterY="0.0" />
-  <Biopax />
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e0e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1126/science.abd6951</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e9d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.3390/toxics13121076</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bc6">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1021/acs.est.6c07136</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fb4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1021/acs.est.5c02072</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="eac">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1021/acs.est.3c01040</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+  </Biopax>
 </Pathway>
+
